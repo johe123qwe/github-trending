@@ -4,6 +4,8 @@
 
 ## All language
 
+* 【2023-04-15】[leetcode-mafia / cheetah](https://github.com/leetcode-mafia/cheetah) - Whisper & GPT-based app for passing remote SWE interviews
+* 【2023-04-15】[lightaime / camel](https://github.com/lightaime/camel) - CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 * 【2023-04-15】[JetBrains / compose-multiplatform-ios-android-template](https://github.com/JetBrains/compose-multiplatform-ios-android-template) - Compose Multiplatform iOS+Android Application project template
 * 【2023-04-15】[lllyasviel / ControlNet-v1-1-nightly](https://github.com/lllyasviel/ControlNet-v1-1-nightly) - Nightly release of ControlNet 1.1
 * 【2023-04-15】[johannakarras / DreamPose](https://github.com/johannakarras/DreamPose) - Official implementation of "DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion"
