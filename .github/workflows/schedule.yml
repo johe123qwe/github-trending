@@ -3,10 +3,10 @@
 name: Daily Github Trending
 
 on:
-  # schedule:
-  #   - cron: "42 13 * * *"
-  push: 
-    branches: [ "main" ]
+  schedule:
+    - cron: "47 */1 * * *"
+  # push: 
+  #   branches: [ "main" ]
 
 jobs:
   build:
