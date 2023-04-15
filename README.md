@@ -4,6 +4,16 @@
 
 ## All language
 
+* 【2023-04-15】[openai / consistency_models](https://github.com/openai/consistency_models) - Official repo for consistency models.
+* 【2023-04-15】[Significant-Gravitas / Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+* 【2023-04-15】[alexrozanski / LlamaChat](https://github.com/alexrozanski/LlamaChat) - Chat with your favourite LLaMA models in a native macOS app
+* 【2023-04-15】[NVIDIAGameWorks / rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Combined repo for the RTX-Remix runtime
+* 【2023-04-15】[daveshap / REMO_Framework](https://github.com/daveshap/REMO_Framework) - Rolling Episodic Memory Organizer (REMO) for autonomous AI systems
+* 【2023-04-15】[ConnectAI-E / Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验🚀语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出🚀
+* 【2023-04-15】[NVIDIAGameWorks / dxvk-remix](https://github.com/NVIDIAGameWorks/dxvk-remix) - 
+* 【2023-04-15】[DataTalksClub / mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
+* 【2023-04-15】[diego3g / rsxp-2023](https://github.com/diego3g/rsxp-2023) - Repositório contendo o código do app do RS/XP 2023
+* 【2023-04-15】[hudiemon / cloud189](https://github.com/hudiemon/cloud189) - 🌱天翼云盘
 * 【2023-04-14】[eumemic / ai-legion](https://github.com/eumemic/ai-legion) - An LLM-powered autonomous agent platform
 * 【2023-04-14】[continue-revolution / sd-webui-segment-anything](https://github.com/continue-revolution/sd-webui-segment-anything) - Segment Anything for Stable Diffusion Webui
 * 【2023-04-14】[agiresearch / OpenAGI](https://github.com/agiresearch/OpenAGI) - OpenAGI: When LLM Meets Domain Experts
@@ -100,6 +110,11 @@
 
 ## Python
 
+* 【2023-04-15】[promptslab / Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
+* 【2023-04-15】[everythingishacked / Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
+* 【2023-04-15】[seanpixel / Teenage-AGI](https://github.com/seanpixel/Teenage-AGI) - 
+* 【2023-04-15】[yeagerai / yeagerai-agent](https://github.com/yeagerai/yeagerai-agent) - 
+* 【2023-04-15】[EleutherAI / lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of autoregressive language models.
 * 【2023-04-14】[7eu7d7 / HCP-Diffusion](https://github.com/7eu7d7/HCP-Diffusion) - A universal Stable-Diffusion toolbox
 * 【2023-04-14】[ttengwang / Caption-Anything](https://github.com/ttengwang/Caption-Anything) - Caption-Anything is a versatile tool combining image segmentation, visual captioning, and ChatGPT, generating tailored captions with diverse controls for user preferences.
 * 【2023-04-14】[tuneflow / tuneflow-py](https://github.com/tuneflow/tuneflow-py) - 🧠+🎧Build your music algorithms and AI models with the next-gen DAW🔥
