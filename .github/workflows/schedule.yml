@@ -35,7 +35,7 @@ jobs:
     - name: Push to origin master
       run: |
         echo start push
-        echo `data`
+        echo `date`
         git config --global user.name "renshenglu"
         git config --global user.email "renshenglu1010@gmail.com"
         
