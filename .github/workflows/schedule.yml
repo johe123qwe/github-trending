@@ -3,10 +3,10 @@
 name: Daily Github Trending
 
 on:
-  schedule:
-    - cron: "0 2 * * *"
-#   push:
-#     branches: [ "main" ]
+#   schedule:
+#     - cron: "0 2 * * *"
+  push:
+    branches: [ "main" ]
 
 jobs:
   build:
@@ -15,12 +15,12 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v2
+    - name: Set up Python 11
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.8
+        python-version: 11
     
     - name: Install dependencies
       run: |
