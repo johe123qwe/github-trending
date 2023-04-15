@@ -4,7 +4,7 @@ name: Daily Github Trending
 
 on:
   schedule:
-    - cron: "47 */1 * * *"
+    - cron: "47 */6 * * *"
   # push: 
   #   branches: [ "main" ]
 
