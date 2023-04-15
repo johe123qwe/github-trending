@@ -4,6 +4,7 @@
 
 ## All language
 
+* 【2023-04-15】[Significant-Gravitas / Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 * 【2023-04-15】[openai / consistency_models](https://github.com/openai/consistency_models) - Official repo for consistency models.
 * 【2023-04-15】[alexrozanski / LlamaChat](https://github.com/alexrozanski/LlamaChat) - Chat with your favourite LLaMA models in a native macOS app
 * 【2023-04-15】[NVIDIAGameWorks / rtx-remix](https://github.com/NVIDIAGameWorks/rtx-remix) - Combined repo for the RTX-Remix runtime
