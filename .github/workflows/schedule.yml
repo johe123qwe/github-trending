@@ -4,7 +4,7 @@ name: Daily Github Trending
 
 on:
   schedule:
-    - cron: "47 */6 * * *"
+    - cron: "10 * * * *"
   # push: 
   #   branches: [ "main" ]
 
@@ -32,7 +32,7 @@ jobs:
         python scraper.py
 
     # Runs a set of commands using the runners shell
-    - name: Push to origin master
+    - name: Push to origin main
       run: |
         echo start push
         git config --global user.name "renshenglu"
@@ -40,5 +40,5 @@ jobs:
         
         git add -A
         git commit -m $(date '+%Y-%m-%d')
-        git push
+        git push origin main
         
