@@ -76,6 +76,7 @@ def convert_file_contenet(content, lang, results, archived_contents):
     lang_title = convert_lang_title(lang)
     if lang_title not in content:
         content = content + lang_title + '\n\n'
+        print(content, 79)
     
     return content.replace(lang_title + '\n\n', lang_title + '\n\n' + convert_result_content(distinct_results))
 
