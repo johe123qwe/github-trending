@@ -126,8 +126,6 @@
 
 ## Python
 
-* 【2023-04-17】[xtekky / openai-gpt4](https://github.com/xtekky/openai-gpt4) - Free gpt4 / gpt3.5 access through several reverse engineered api's (nat.dev, poe.com, t3nsor.com etc...)
-* 【2023-04-17】[prabhupant / python-ds](https://github.com/prabhupant/python-ds) - No non-sense and no BS repo for how data structure code should be in Python - simple and elegant.
 * 【2023-04-15】[efenatuyo / ugc-sniper](https://github.com/efenatuyo/ugc-sniper) - the best one out there (yet again)
 * 【2023-04-15】[EwingYangs / awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 * 【2023-04-15】[promptslab / Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) - This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc
