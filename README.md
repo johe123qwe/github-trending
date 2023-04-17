@@ -135,6 +135,7 @@
 
 ## Python
 
+* 【2023-04-17】[Significant-Gravitas / Auto-GPT-Plugin-Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) - A starting point for developing your own plug-in for Auto-GPT
 * 【2023-04-17】[google / autobound](https://github.com/google/autobound) - AutoBound automatically computes upper and lower bounds on functions.
 * 【2023-04-17】[eimenhmdt / autoresearcher](https://github.com/eimenhmdt/autoresearcher) - ⚡Automating scientific workflows with AI⚡
 * 【2023-04-17】[Torantulino / Auto-GPT-Plugin-Template](https://github.com/Torantulino/Auto-GPT-Plugin-Template) - A starting point for developing your own plug-in for Auto-GPT
