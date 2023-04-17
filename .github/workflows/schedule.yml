@@ -38,11 +38,13 @@ jobs:
     # Runs a set of commands using the runners shell
     - name: Push to origin main
       run: |
-        echo start push
-        git config --global user.name "carter"
-        git config --global user.email "cartersaxon123@gmail.com"
-        
-        git add -A
-        git commit -m $(date '+%Y-%m-%d')
-        git push
+        if ! git diff --quiet; then
+          echo start push
+          git config --global user.name "carter"
+          git config --global user.email "cartersaxon123@gmail.com"
+          
+          git add -A
+          git commit -m $(date '+%Y-%m-%d')
+          git push
+        fi
         
