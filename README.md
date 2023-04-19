@@ -4,6 +4,7 @@
 
 ## All language
 
+* 【2023-04-19】[voicepaw / so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 * 【2023-04-19】[PineappleExpress808 / auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator) - 
 * 【2023-04-19】[muellerberndt / micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.
 * 【2023-04-19】[hax / heshijun_v_360](https://github.com/hax/heshijun_v_360) - 贺师俊与360的劳动争议诉讼
