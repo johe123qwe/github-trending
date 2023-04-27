@@ -204,6 +204,7 @@
 
 ## Python
 
+* 【2023-04-27】[OpenTalker / SadTalker](https://github.com/OpenTalker/SadTalker) - （CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
 * 【2023-04-26】[openai / plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
 * 【2023-04-26】[open-mmlab / mmagic](https://github.com/open-mmlab/mmagic) - OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox
 * 【2023-04-26】[ow / samsung-frame-art](https://github.com/ow/samsung-frame-art) - A small script that makes it easy to fling a folder of images onto the Samsung Frame TV
