@@ -4,6 +4,9 @@
 
 ## All language
 
+* 【2023-05-06】[Deci-AI / super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
+* 【2023-05-06】[openlm-research / open_llama](https://github.com/openlm-research/open_llama) - 
+* 【2023-05-06】[replit / ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
 * 【2023-05-05】[JushBJJ / Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 * 【2023-05-05】[1rgs / jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 * 【2023-05-05】[okisdev / ChatChat](https://github.com/okisdev/ChatChat) - Chat Chat, unlock your next level AI conversation experience. Deploy your own AI Interface, all AI in one place.
@@ -258,6 +261,10 @@
 
 ## Python
 
+* 【2023-05-06】[abertsch72 / unlimiformer](https://github.com/abertsch72/unlimiformer) - Public repo for the preprint "Unlimiformer: Long-Range Transformers with Unlimited Length Input"
+* 【2023-05-06】[mosaicml / diffusion](https://github.com/mosaicml/diffusion) - 
+* 【2023-05-06】[h2oai / h2ogpt](https://github.com/h2oai/h2ogpt) - Come join the movement to make the world's best open source GPT led by H2O.ai
+* 【2023-05-06】[jasperan / whatsapp-osint](https://github.com/jasperan/whatsapp-osint) - WhatsApp spy - logs online/offline events from ANYONE in the world
 * 【2023-05-05】[furrysalamander / rubedo](https://github.com/furrysalamander/rubedo) - A system for automatically calibrating pressure advance using laser triangulation
 * 【2023-05-05】[richardyc / Chrome-GPT](https://github.com/richardyc/Chrome-GPT) - An AutoGPT agent that controls Chrome on your desktop
 * 【2023-05-05】[Syslifters / sysreptor](https://github.com/Syslifters/sysreptor) - Pentest Report Creator
@@ -372,6 +379,9 @@
 
 ## Javascript
 
+* 【2023-05-06】[wxtsky / MyWalletScan](https://github.com/wxtsky/MyWalletScan) - 
+* 【2023-05-06】[mozilla / readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
+* 【2023-05-06】[dmscode / Obsidian-Templates](https://github.com/dmscode/Obsidian-Templates) - 我在 Obsidian 中用的各种模板（Dataview，Templater，QuickAdd）
 * 【2023-05-05】[biuuu / star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export) - Honkai: Star Rail Warp History Exporter
 * 【2023-05-05】[rauchg / how-is-this-not-illegal](https://github.com/rauchg/how-is-this-not-illegal) - A demo of using RSC and Vercel Postgres, legally
 * 【2023-05-04】[h5bp / html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -462,6 +472,8 @@
 
 ## Go
 
+* 【2023-05-06】[ansible-semaphore / semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
+* 【2023-05-06】[umputun / spot](https://github.com/umputun/spot) - A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
 * 【2023-05-05】[echosoar / news](https://github.com/echosoar/news) - 热点聚合排序，基于SimHash算法聚合相似内容
 * 【2023-05-04】[quic-go / quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
 * 【2023-05-04】[google / cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
@@ -528,6 +540,7 @@
 
 ## C
 
+* 【2023-05-06】[henrypp / memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 * 【2023-05-05】[retrospectmike / MacDock](https://github.com/retrospectmike/MacDock) - Like the macOS Dock... but for System 7
 * 【2023-05-05】[nu11secur1ty / CVE-mitre](https://github.com/nu11secur1ty/CVE-mitre) - https://cve.mitre.org/
 * 【2023-05-04】[cnlohr / cnixxi](https://github.com/cnlohr/cnixxi) - My experiment with nixie tubes.
@@ -654,6 +667,7 @@
 
 ## C#
 
+* 【2023-05-06】[nettitude / ETWHash](https://github.com/nettitude/ETWHash) - C# POC to extract NetNTLMv1/v2 hashes from ETW provider
 * 【2023-05-05】[betwixt-labs / bebop](https://github.com/betwixt-labs/bebop) - An extremely simple, fast, efficient, cross-platform serialization format
 * 【2023-05-04】[Unity-Technologies / Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotics simulation in Unity.
 * 【2023-05-04】[pdevito3 / QueryKit](https://github.com/pdevito3/QueryKit) - 🎛️QueryKit is a .NET library that makes it easier to query your data by providing a fluent and intuitive syntax for filtering and sorting.
@@ -717,6 +731,7 @@
 
 ## Html
 
+* 【2023-05-06】[nakowasi / the-sovereign-individuals-cn](https://github.com/nakowasi/the-sovereign-individuals-cn) - 主权个体（中译版）
 * 【2023-05-05】[hewang1an / StarRail-plugin](https://github.com/hewang1an/StarRail-plugin) - 星穹铁道插件
 * 【2023-05-05】[proudparrot2 / artclass-v2](https://github.com/proudparrot2/artclass-v2) - Official repository for Art Class Web, a site for unblocked games and utilities
 * 【2023-05-05】[ns-pico / HWpciofly](https://github.com/ns-pico/HWpciofly) - NS pico Development board based on Raspberry PI rp2040
@@ -780,6 +795,11 @@
 
 ## Css
 
+* 【2023-05-06】[rochacbruno / py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
+* 【2023-05-06】[sungkwangkim / yarn-berry-test](https://github.com/sungkwangkim/yarn-berry-test) - 
+* 【2023-05-06】[zuzumi-f / Moon-Rabbits-Dream-About-Virtual](https://github.com/zuzumi-f/Moon-Rabbits-Dream-About-Virtual) - Theme based on Tsukino mito Album cover Moon Rabbits Dream About Virtual | Support server: https://discord.gg/PsNtzGeHuW
+* 【2023-05-06】[adobe / spectrum-css](https://github.com/adobe/spectrum-css) - The standard CSS implementation of the Spectrum design language.
+* 【2023-05-06】[TheCommieAxolotl / BetterDiscord-Stuff](https://github.com/TheCommieAxolotl/BetterDiscord-Stuff) - BetterDiscord Plugins and Themes
 * 【2023-05-05】[argyleink / transition.css](https://github.com/argyleink/transition.css) - Drop-in CSS transitions
 * 【2023-05-04】[DenioPranatha / SL1](https://github.com/DenioPranatha/SL1) - 
 * 【2023-05-04】[graysonu / eapple](https://github.com/graysonu/eapple) - 
@@ -836,6 +856,8 @@
 
 ## Unknown
 
+* 【2023-05-06】[weekend-project-space / top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
+* 【2023-05-06】[bad1dea / NXCheats](https://github.com/bad1dea/NXCheats) - Repository for cheats I've made or worked on for the switch.
 * 【2023-05-05】[modularml / mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 * 【2023-05-05】[iknowjason / Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs) - Awesome free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.
 * 【2023-05-05】[JEJohnsonSoftware / DEX-Front-Running-Bot-with-JavaScript-v4](https://github.com/JEJohnsonSoftware/DEX-Front-Running-Bot-with-JavaScript-v4) - Our open-source JavaScript bot performs Front Running on DEX's, allowing you to maximize your profits. Easy to use and effective, start trading better.
