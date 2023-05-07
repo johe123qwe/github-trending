@@ -4,6 +4,9 @@
 
 ## All language
 
+* 【2023-05-07】[qdrant / qdrant](https://github.com/qdrant/qdrant) - Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud https://cloud.qdrant.io/
+* 【2023-05-07】[paradigmxyz / artemis](https://github.com/paradigmxyz/artemis) - A simple, modular, and fast framework for writing MEV bots in Rust.
+* 【2023-05-07】[AprilNEA / ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) - 带有用户管理和后台管理系统的 ChatGPT WebUI
 * 【2023-05-06】[Deci-AI / super-gradients](https://github.com/Deci-AI/super-gradients) - Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
 * 【2023-05-06】[openlm-research / open_llama](https://github.com/openlm-research/open_llama) - 
 * 【2023-05-06】[replit / ReplitLM](https://github.com/replit/ReplitLM) - Inference code and configs for the ReplitLM model family
@@ -211,6 +214,7 @@
 
 ## Java
 
+* 【2023-05-07】[qiniu / java-sdk](https://github.com/qiniu/java-sdk) - Qiniu Resource (Cloud) Storage SDK for Java
 * 【2023-05-05】[innoveit / react-native-ble-manager](https://github.com/innoveit/react-native-ble-manager) - React Native BLE communication module
 * 【2023-05-04】[fabienrenaud / java-json-benchmark](https://github.com/fabienrenaud/java-json-benchmark) - Performance testing of serialization and deserialization of Java JSON libraries
 * 【2023-05-04】[DEVOPS-WITH-WEB-DEV / springboot-k8s](https://github.com/DEVOPS-WITH-WEB-DEV/springboot-k8s) - 
@@ -261,6 +265,8 @@
 
 ## Python
 
+* 【2023-05-07】[mpoon / gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
+* 【2023-05-07】[dandelionsllm / pandallm](https://github.com/dandelionsllm/pandallm) - Panda: 海外中文开源大语言模型，基于 Llama-7B, -13B, -33B, -65B 进行中文领域上的持续预训练。
 * 【2023-05-06】[abertsch72 / unlimiformer](https://github.com/abertsch72/unlimiformer) - Public repo for the preprint "Unlimiformer: Long-Range Transformers with Unlimited Length Input"
 * 【2023-05-06】[mosaicml / diffusion](https://github.com/mosaicml/diffusion) - 
 * 【2023-05-06】[h2oai / h2ogpt](https://github.com/h2oai/h2ogpt) - Come join the movement to make the world's best open source GPT led by H2O.ai
@@ -379,6 +385,7 @@
 
 ## Javascript
 
+* 【2023-05-07】[supertestnet / breaker-of-jpegs](https://github.com/supertestnet/breaker-of-jpegs) - A tool for increasing the off-by-one bug in ordinal explorers
 * 【2023-05-06】[wxtsky / MyWalletScan](https://github.com/wxtsky/MyWalletScan) - 
 * 【2023-05-06】[mozilla / readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 * 【2023-05-06】[dmscode / Obsidian-Templates](https://github.com/dmscode/Obsidian-Templates) - 我在 Obsidian 中用的各种模板（Dataview，Templater，QuickAdd）
@@ -472,6 +479,7 @@
 
 ## Go
 
+* 【2023-05-07】[unisat-wallet / libbrc20-indexer](https://github.com/unisat-wallet/libbrc20-indexer) - UniSat Indexer (brc-20) library
 * 【2023-05-06】[ansible-semaphore / semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 * 【2023-05-06】[umputun / spot](https://github.com/umputun/spot) - A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
 * 【2023-05-05】[echosoar / news](https://github.com/echosoar/news) - 热点聚合排序，基于SimHash算法聚合相似内容
@@ -540,6 +548,7 @@
 
 ## C
 
+* 【2023-05-07】[shchmue / Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM) - Nintendo Switch encryption key derivation bare metal RCM payload
 * 【2023-05-06】[henrypp / memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
 * 【2023-05-05】[retrospectmike / MacDock](https://github.com/retrospectmike/MacDock) - Like the macOS Dock... but for System 7
 * 【2023-05-05】[nu11secur1ty / CVE-mitre](https://github.com/nu11secur1ty/CVE-mitre) - https://cve.mitre.org/
@@ -731,6 +740,7 @@
 
 ## Html
 
+* 【2023-05-07】[adams549659584 / go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - BingAI 代理服务，演示站点为甲骨文小鸡仔，轻虐。
 * 【2023-05-06】[nakowasi / the-sovereign-individuals-cn](https://github.com/nakowasi/the-sovereign-individuals-cn) - 主权个体（中译版）
 * 【2023-05-05】[hewang1an / StarRail-plugin](https://github.com/hewang1an/StarRail-plugin) - 星穹铁道插件
 * 【2023-05-05】[proudparrot2 / artclass-v2](https://github.com/proudparrot2/artclass-v2) - Official repository for Art Class Web, a site for unblocked games and utilities
@@ -795,6 +805,9 @@
 
 ## Css
 
+* 【2023-05-07】[Nevysha / Cozy-Nest](https://github.com/Nevysha/Cozy-Nest) - A collection of tweak to improve Auto1111 UI//UX
+* 【2023-05-07】[codesandbox / codesandbox-template-vite-react](https://github.com/codesandbox/codesandbox-template-vite-react) - An empty boilerplate template to start a fresh project
+* 【2023-05-07】[1Marc / modern-todomvc-vanillajs](https://github.com/1Marc/modern-todomvc-vanillajs) - TodoMVC with Modern (ES6+), Vanilla JavaScript
 * 【2023-05-06】[rochacbruno / py2rs](https://github.com/rochacbruno/py2rs) - A quick reference guide for the Pythonista in the process of becoming a Rustacean
 * 【2023-05-06】[sungkwangkim / yarn-berry-test](https://github.com/sungkwangkim/yarn-berry-test) - 
 * 【2023-05-06】[zuzumi-f / Moon-Rabbits-Dream-About-Virtual](https://github.com/zuzumi-f/Moon-Rabbits-Dream-About-Virtual) - Theme based on Tsukino mito Album cover Moon Rabbits Dream About Virtual | Support server: https://discord.gg/PsNtzGeHuW
@@ -856,6 +869,9 @@
 
 ## Unknown
 
+* 【2023-05-07】[melodysdreamj / WizardVicunaLM](https://github.com/melodysdreamj/WizardVicunaLM) - LLM that combines the principles of wizardLM and vicunaLM
+* 【2023-05-07】[thailand-geography-data / thailand-geography-json](https://github.com/thailand-geography-data/thailand-geography-json) - JSON files for Thailand's geography data, including provinces, districts, subdistricts, and postal codes, adhering to best practices for optimal performance, ease of maintenance, and comprehensibility.
+* 【2023-05-07】[holbertonschool / 0x13.c](https://github.com/holbertonschool/0x13.c) - 
 * 【2023-05-06】[weekend-project-space / top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
 * 【2023-05-06】[bad1dea / NXCheats](https://github.com/bad1dea/NXCheats) - Repository for cheats I've made or worked on for the switch.
 * 【2023-05-05】[modularml / mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
