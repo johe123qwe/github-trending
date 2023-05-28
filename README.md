@@ -4,6 +4,11 @@
 
 ## All language
 
+* 【2023-05-28】[SamurAIGPT / privateGPT](https://github.com/SamurAIGPT/privateGPT) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
+* 【2023-05-28】[vue-vine / vue-vine](https://github.com/vue-vine/vue-vine) - Another style of writing Vue components.
+* 【2023-05-28】[Neo-Desktop / WindowsXPKg](https://github.com/Neo-Desktop/WindowsXPKg) - Keygen for Windows XP
+* 【2023-05-28】[CodinGame / SpringChallenge2023](https://github.com/CodinGame/SpringChallenge2023) - https://www.codingame.com/contests/spring-challenge-2023
+* 【2023-05-28】[ZeroMemoryEx / Blackout](https://github.com/ZeroMemoryEx/Blackout) - kill anti-malware protected processes (BYOVD)
 * 【2023-05-27】[gptlink / gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能
 * 【2023-05-27】[ThePrimeagen / ts-rust-zig-deez](https://github.com/ThePrimeagen/ts-rust-zig-deez) - 
 * 【2023-05-27】[microsoft / devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices
@@ -154,6 +159,12 @@
 
 ## Python
 
+* 【2023-05-28】[JingyunLiang / SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository)
+* 【2023-05-28】[MineDojo / Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
+* 【2023-05-28】[Occamsec / CVE-2023-2825](https://github.com/Occamsec/CVE-2023-2825) - GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.
+* 【2023-05-28】[SHI-Labs / Prompt-Free-Diffusion](https://github.com/SHI-Labs/Prompt-Free-Diffusion) - Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models
+* 【2023-05-28】[ShihaoZhaoZSH / Uni-ControlNet](https://github.com/ShihaoZhaoZSH/Uni-ControlNet) - 
+* 【2023-05-28】[PanQiWei / AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 * 【2023-05-27】[ShishirPatil / gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 * 【2023-05-27】[Liuhong99 / Sophia](https://github.com/Liuhong99/Sophia) - The official implementation of “Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training”
 * 【2023-05-27】[kyegomez / Sophia](https://github.com/kyegomez/Sophia) - Effortless plugin and play Optimizer to cut model training costs by 50%. New optimizer that is 2x faster than Adam on LLMs.
@@ -258,6 +269,8 @@
 
 ## Javascript
 
+* 【2023-05-28】[github-20k / awesome-opensource](https://github.com/github-20k/awesome-opensource) - Best open-source GitHub libraries voted by members🎤
+* 【2023-05-28】[raunofreiberg / interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface.
 * 【2023-05-27】[carbon-app / carbon](https://github.com/carbon-app/carbon) - 🖤Create and share beautiful images of your source code
 * 【2023-05-26】[amelia-coding / coding](https://github.com/amelia-coding/coding) - 📒【前端】算法Leetcode 常见算法 CSS HTML JavaScript 框架的一些代码实现✏️，欢迎点赞和学习🌆~·
 * 【2023-05-26】[Rocketseat / frontend-challenge](https://github.com/Rocketseat/frontend-challenge) - 
@@ -333,6 +346,8 @@
 
 ## Go
 
+* 【2023-05-28】[JekaMas / crand](https://github.com/JekaMas/crand) - A human-friendly way to use crypto/rand
+* 【2023-05-28】[apache / rocketmq-client-go](https://github.com/apache/rocketmq-client-go) - Apache RocketMQ go client
 * 【2023-05-27】[cosmos / ibc-go](https://github.com/cosmos/ibc-go) - Interblockchain Communication Protocol (IBC) implementation in Golang.
 * 【2023-05-25】[Workiva / go-datastructures](https://github.com/Workiva/go-datastructures) - A collection of useful, performant, and threadsafe Go datastructures.
 * 【2023-05-24】[sjlleo / nexttrace](https://github.com/sjlleo/nexttrace) - An open source visual route tracking CLI tool
@@ -386,6 +401,7 @@
 
 ## C
 
+* 【2023-05-28】[aers / FFXIVClientStructs](https://github.com/aers/FFXIVClientStructs) - Resources for reverse-engineering the FFXIV client's native classes.
 * 【2023-05-27】[WKL-Sec / HiddenDesktop](https://github.com/WKL-Sec/HiddenDesktop) - HVNC for Cobalt Strike
 * 【2023-05-27】[lh3 / seqtk](https://github.com/lh3/seqtk) - Toolkit for processing sequences in FASTA/Q formats
 * 【2023-05-26】[polpo / picogus](https://github.com/polpo/picogus) - Emulation of ISA sound cards on Raspberry Pi Pico (GUS, Adlib, MPU-401, Tandy, CMS)
@@ -439,6 +455,8 @@
 
 ## C++
 
+* 【2023-05-28】[ITotalJustice / sys-patch](https://github.com/ITotalJustice/sys-patch) - A script-like system module that patches fs, es, ldr and nifm on boot
+* 【2023-05-28】[k4zmu2a / SpaceCadetPinball](https://github.com/k4zmu2a/SpaceCadetPinball) - Decompilation of 3D Pinball for Windows – Space Cadet
 * 【2023-05-26】[apache / incubator-kvrocks](https://github.com/apache/incubator-kvrocks) - Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 * 【2023-05-26】[34736384 / genshin-fps-unlock](https://github.com/34736384/genshin-fps-unlock) - unlocks the 60 fps cap
 * 【2023-05-25】[NootInc / NootedRed](https://github.com/NootInc/NootedRed) - Lilu plugin for AMD Vega iGPUs
@@ -482,6 +500,7 @@
 
 ## C#
 
+* 【2023-05-28】[KillzXGaming / Switch-Toolbox](https://github.com/KillzXGaming/Switch-Toolbox) - A tool to edit many video game file formats
 * 【2023-05-27】[EdiWang / Moonglade](https://github.com/EdiWang/Moonglade) - The .NET 7 blog system of https://edi.wang, runs on Microsoft Azure
 * 【2023-05-27】[microsoft / devhomegithubextension](https://github.com/microsoft/devhomegithubextension) - 
 * 【2023-05-27】[amakvana / EzYuzu](https://github.com/amakvana/EzYuzu) - EzYuzu - A Portable Yuzu Updater for Standalone versions of Yuzu
@@ -532,6 +551,9 @@
 
 ## Html
 
+* 【2023-05-28】[yusufyilmazfr / tasarim-desenleri-turkce-kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) - Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımının yanı sıra C#, Java, Go, Python, Kotlin ve TypeScript gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir.
+* 【2023-05-28】[wg-easy / wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+* 【2023-05-28】[xbzstudio / BingAI-Client](https://github.com/xbzstudio/BingAI-Client) - 可以直连、唤醒Sydney、突破20消息限制的New Bing客户端/服务端。
 * 【2023-05-27】[mostafizurhimself / admintoolkit-html](https://github.com/mostafizurhimself/admintoolkit-html) - Admin template based on TailwindCSS and Vanilla JavaScript
 * 【2023-05-27】[adoptium / aqa-tests](https://github.com/adoptium/aqa-tests) - Home of test infrastructure for Adoptium builds
 * 【2023-05-26】[threatlabz / ransomware_notes](https://github.com/threatlabz/ransomware_notes) - An archive of ransomware notes past and present
@@ -602,6 +624,8 @@
 
 ## Css
 
+* 【2023-05-28】[40Cakes / pokebot-bizhawk](https://github.com/40Cakes/pokebot-bizhawk) - 
+* 【2023-05-28】[BootstrapDash / skydash-free-bootstrap-admin-template](https://github.com/BootstrapDash/skydash-free-bootstrap-admin-template) - free bootstrap admin template
 * 【2023-05-27】[argyleink / morphull](https://github.com/argyleink/morphull) - Astro starter powered by MPA view transitions
 * 【2023-05-26】[Bookingjini-Labs / bookingjini-icons](https://github.com/Bookingjini-Labs/bookingjini-icons) - Find hospitality related icons, curated by creators from Bookingjini
 * 【2023-05-26】[m2kar / m2kar.github.io](https://github.com/m2kar/m2kar.github.io) - M2kar的个人主页
@@ -660,6 +684,7 @@
 
 ## Unknown
 
+* 【2023-05-28】[elliot-bia / nessus](https://github.com/elliot-bia/nessus) - nessus crack for docker
 * 【2023-05-27】[zhoubolei / bolei_awesome_posters](https://github.com/zhoubolei/bolei_awesome_posters) - CVPR and NeurIPS poster examples and templates. May we have in-person poster session soon!
 * 【2023-05-27】[sivaprasadreddy / tomato-architecture](https://github.com/sivaprasadreddy/tomato-architecture) - Tomato Architecture - A common sense driven approach to software architecture
 * 【2023-05-27】[ilmoi / teachyourselfCS-RU](https://github.com/ilmoi/teachyourselfCS-RU) - Russian translation of https://teachyourselfcs.com/
