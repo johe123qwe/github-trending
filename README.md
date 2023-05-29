@@ -4,6 +4,8 @@
 
 ## All language
 
+* 【2023-05-29】[lucidrains / soundstorm-pytorch](https://github.com/lucidrains/soundstorm-pytorch) - Implementation of SoundStorm, Efficient Parallel Audio Generation from Google Deepmind, in Pytorch
+* 【2023-05-29】[Akegarasu / lora-scripts](https://github.com/Akegarasu/lora-scripts) - LoRA training scripts use kohya-ss's trainer, for diffusion model.
 * 【2023-05-28】[SamurAIGPT / privateGPT](https://github.com/SamurAIGPT/privateGPT) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks
 * 【2023-05-28】[vue-vine / vue-vine](https://github.com/vue-vine/vue-vine) - Another style of writing Vue components.
 * 【2023-05-28】[Neo-Desktop / WindowsXPKg](https://github.com/Neo-Desktop/WindowsXPKg) - Keygen for Windows XP
@@ -120,6 +122,9 @@
 
 ## Java
 
+* 【2023-05-29】[zongzibinbin / MallChat](https://github.com/zongzibinbin/MallChat) - mallchat的后端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing。。（点个star，不迷路）
+* 【2023-05-29】[amnesica / KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
+* 【2023-05-29】[square / javapoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 * 【2023-05-27】[apache / skywalking-java](https://github.com/apache/skywalking-java) - The Java agent for Apache SkyWalking
 * 【2023-05-27】[kby-ai / FaceRecognition-Android](https://github.com/kby-ai/FaceRecognition-Android) - This is a demonstration of face recognition and 3D passive liveness detection. The system functions similarly to a time-attendance system.
 * 【2023-05-26】[bezkoder / spring-boot-spring-security-jwt-authentication](https://github.com/bezkoder/spring-boot-spring-security-jwt-authentication) - Spring Boot + Security: Token Based Authentication example with JWT, Authorization, Spring Data & MySQL
@@ -159,6 +164,7 @@
 
 ## Python
 
+* 【2023-05-29】[Birch-san / mpt-play](https://github.com/Birch-san/mpt-play) - Command-line script for inferencing from models such as MPT-7B-Chat
 * 【2023-05-28】[JingyunLiang / SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository)
 * 【2023-05-28】[MineDojo / Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 * 【2023-05-28】[Occamsec / CVE-2023-2825](https://github.com/Occamsec/CVE-2023-2825) - GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.
@@ -269,6 +275,9 @@
 
 ## Javascript
 
+* 【2023-05-29】[personoids / personoids-lite](https://github.com/personoids/personoids-lite) - "The Power of Autonomy in Every Chat." - Transform ChatGPT into a powerful autonomous agent that can independently accomplish complex tasks.
+* 【2023-05-29】[blue-pen5805 / sdweb-easy-prompt-selector](https://github.com/blue-pen5805/sdweb-easy-prompt-selector) - 
+* 【2023-05-29】[badlogic / heissepreise](https://github.com/badlogic/heissepreise) - Jo eh.
 * 【2023-05-28】[github-20k / awesome-opensource](https://github.com/github-20k/awesome-opensource) - Best open-source GitHub libraries voted by members🎤
 * 【2023-05-28】[raunofreiberg / interfaces](https://github.com/raunofreiberg/interfaces) - A non-exhaustive list of details that make a good web interface.
 * 【2023-05-27】[carbon-app / carbon](https://github.com/carbon-app/carbon) - 🖤Create and share beautiful images of your source code
@@ -346,6 +355,7 @@
 
 ## Go
 
+* 【2023-05-29】[ChineseSubFinder / ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 * 【2023-05-28】[JekaMas / crand](https://github.com/JekaMas/crand) - A human-friendly way to use crypto/rand
 * 【2023-05-28】[apache / rocketmq-client-go](https://github.com/apache/rocketmq-client-go) - Apache RocketMQ go client
 * 【2023-05-27】[cosmos / ibc-go](https://github.com/cosmos/ibc-go) - Interblockchain Communication Protocol (IBC) implementation in Golang.
@@ -684,6 +694,10 @@
 
 ## Unknown
 
+* 【2023-05-29】[xalgord / Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes](https://github.com/xalgord/Massive-Web-Application-Penetration-Testing-Bug-Bounty-Notes) - 
+* 【2023-05-29】[thu-ml / prolificdreamer](https://github.com/thu-ml/prolificdreamer) - ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation
+* 【2023-05-29】[CorrieOnly / google-dorks](https://github.com/CorrieOnly/google-dorks) - 
+* 【2023-05-29】[OpenGVLab / GITM](https://github.com/OpenGVLab/GITM) - 
 * 【2023-05-28】[elliot-bia / nessus](https://github.com/elliot-bia/nessus) - nessus crack for docker
 * 【2023-05-27】[zhoubolei / bolei_awesome_posters](https://github.com/zhoubolei/bolei_awesome_posters) - CVPR and NeurIPS poster examples and templates. May we have in-person poster session soon!
 * 【2023-05-27】[sivaprasadreddy / tomato-architecture](https://github.com/sivaprasadreddy/tomato-architecture) - Tomato Architecture - A common sense driven approach to software architecture
