@@ -867,6 +867,7 @@
 
 ## Css
 
+* 【2023-06-11】[ParisNeo / lollms-webui](https://github.com/ParisNeo/lollms-webui) - gpt4all chatbot ui
 * 【2023-06-10】[Q16G / npsmodify](https://github.com/Q16G/npsmodify) - 这是nps的魔改，进行了流量特征的魔改，并且进行了漏洞的修复
 * 【2023-06-10】[kyobero / poster-shop](https://github.com/kyobero/poster-shop) - poster-shop
 * 【2023-06-10】[codepath / site-week1-project1-flixster-starter](https://github.com/codepath/site-week1-project1-flixster-starter) - CURRENT - 2023 SITE Starter code for Flixster assignment
