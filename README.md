@@ -4,6 +4,11 @@
 
 ## All language
 
+* 【2023-06-14】[camenduru / MusicGen-colab](https://github.com/camenduru/MusicGen-colab) - 
+* 【2023-06-14】[KenneyNL / Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
+* 【2023-06-14】[100xDevs-hkirat / Week-1-assignment](https://github.com/100xDevs-hkirat/Week-1-assignment) - 
+* 【2023-06-14】[ianstormtaylor / slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
+* 【2023-06-14】[ag-grid / ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 * 【2023-06-13】[AntonOsika / gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 * 【2023-06-13】[openobserve / openobserve](https://github.com/openobserve/openobserve) - 🚀10x easier,🚀140x lower storage cost,🚀high performance,🚀petabyte scale - Elasticsearch/Splunk/Datadog alternative for🚀(logs, metrics, traces).
 * 【2023-06-13】[gopherchina / conference](https://github.com/gopherchina/conference) - 
@@ -277,6 +282,13 @@
 
 ## Python
 
+* 【2023-06-14】[AndrewZhe / lawyer-llama](https://github.com/AndrewZhe/lawyer-llama) - 中文法律LLaMA
+* 【2023-06-14】[plastic-labs / tutor-gpt](https://github.com/plastic-labs/tutor-gpt) - LangChain LLM application. Dynamic few-shot metaprompting for theory-of-mind-powered tutoring.
+* 【2023-06-14】[horizon3ai / CVE-2023-34362](https://github.com/horizon3ai/CVE-2023-34362) - MOVEit CVE-2023-34362
+* 【2023-06-14】[confluentinc / confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client
+* 【2023-06-14】[wilsonfreitas / awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+* 【2023-06-14】[turboderp / exllama](https://github.com/turboderp/exllama) - A more memory-efficient rewrite of the HF transformers implementation of Llama for use with quantized weights.
+* 【2023-06-14】[ohyicong / decrypt-chrome-passwords](https://github.com/ohyicong/decrypt-chrome-passwords) - 
 * 【2023-06-13】[xinyu1205 / recognize-anything](https://github.com/xinyu1205/recognize-anything) - Code for the Recognize Anything Model (RAM) and Tag2Text Model
 * 【2023-06-13】[StevenBlack / hosts](https://github.com/StevenBlack/hosts) - 🔒Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 * 【2023-06-13】[yvann-hub / Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot) - AI chatbot🤖for chat with CSV, PDF, TXT files📄and YTB videos🎥| using Langchain🦜| OpenAI | Streamlit⚡
@@ -441,6 +453,8 @@
 
 ## Javascript
 
+* 【2023-06-14】[mysqljs / mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
+* 【2023-06-14】[Moli-X / Resources](https://github.com/Moli-X/Resources) - 基于QuantumultX，Loon，Surge的配置重写，脚本，插件
 * 【2023-06-13】[advplyr / audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 * 【2023-06-13】[basir / mern-amazona](https://github.com/basir/mern-amazona) - Build Ecommerce Like Amazon By MERN Stack
 * 【2023-06-13】[mohamedsamara / mern-ecommerce](https://github.com/mohamedsamara/mern-ecommerce) - 🎈Fullstack MERN Ecommerce Application
@@ -553,6 +567,8 @@
 
 ## Go
 
+* 【2023-06-14】[MatthewJamesBoyle / golang-interview-prep](https://github.com/MatthewJamesBoyle/golang-interview-prep) - 
+* 【2023-06-14】[ABCDELabs / Understanding-Ethereum-Go-version](https://github.com/ABCDELabs/Understanding-Ethereum-Go-version) - Understanding Ethereum: Go-Ethereum Code Analysis｜理解以太坊: Go-Ethereum 源码剖析
 * 【2023-06-13】[STRRL / cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller) - 
 * 【2023-06-13】[diggerhq / digger](https://github.com/diggerhq/digger) - Digger is an open source GitOps tool for Terraform. Digger allows you to run Terraform plan/apply in your CI⚡️
 * 【2023-06-12】[getzep / zep](https://github.com/getzep/zep) - Zep: A long-term memory store for LLM / Chatbot applications
@@ -628,6 +644,7 @@
 
 ## C
 
+* 【2023-06-14】[snesrev / smw](https://github.com/snesrev/smw) - Smw
 * 【2023-06-13】[yuandaimaahao / AndroidFrameworkTutorial](https://github.com/yuandaimaahao/AndroidFrameworkTutorial) - 写给应用开发的 Android Framework 教程
 * 【2023-06-13】[SiliconLabs / gecko_sdk](https://github.com/SiliconLabs/gecko_sdk) - The Gecko SDK (GSDK) combines all Silicon Labs 32-bit IoT product software development kits (SDKs) based on Gecko Platform into a single, integrated SDK.
 * 【2023-06-13】[mnurzia / rv](https://github.com/mnurzia/rv) - RV32IMC in ~600 lines of C89
@@ -761,6 +778,8 @@
 
 ## C#
 
+* 【2023-06-14】[Unity-Technologies / MegacityMultiplayer](https://github.com/Unity-Technologies/MegacityMultiplayer) - Megacity Multiplayer is an action-packed, shooter game based on the original Megacity sample. It leverages the power of Netcode for Entities for an immersive, multiplayer experience that can support 64+ players simultaneously.
+* 【2023-06-14】[Unity-Technologies / com.unity.netcode.gameobjects](https://github.com/Unity-Technologies/com.unity.netcode.gameobjects) - Netcode for GameObjects is a high-level netcode SDK that provides networking capabilities to GameObject/MonoBehaviour workflows within Unity and sits on top of underlying transport layer.
 * 【2023-06-13】[cyanfish / naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 * 【2023-06-13】[mertdas / SharpTerminator](https://github.com/mertdas/SharpTerminator) - Terminate AV/EDR Processes using kernel driver
 * 【2023-06-13】[tmoonlight / NSmartProxy](https://github.com/tmoonlight/NSmartProxy) - NSmartProxy是一款开源的内网穿透工具。采用.NET CORE的全异步模式打造。(NSmartProxy is an open source reverse proxy tool that creates a secure tunnel from a public endpoint to a locally service.)
@@ -845,6 +864,8 @@
 
 ## Html
 
+* 【2023-06-14】[rvaidun / befake](https://github.com/rvaidun/befake) - view bereals without posting your own :)
+* 【2023-06-14】[alura-es-cursos / 1868-java-servlet-1](https://github.com/alura-es-cursos/1868-java-servlet-1) - Repositorio del curso Servlets 1 de Alura Latam
 * 【2023-06-13】[tikimcfee / LookAtThat](https://github.com/tikimcfee/LookAtThat) - Render Swift source code in AR/VR for macOS and iOS.
 * 【2023-06-12】[Chr1skyy / Egzamin-Zawodowy-E14-EE09-INF03](https://github.com/Chr1skyy/Egzamin-Zawodowy-E14-EE09-INF03) - 
 * 【2023-06-12】[tech2etc / Build-and-Deploy-Ecommerce-Website](https://github.com/tech2etc/Build-and-Deploy-Ecommerce-Website) - Learn How To Make Full Responsive Ecommerce Website Using HTML CSS & JavaScript. This is a free HTML CSS JavaScript Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step.
@@ -940,6 +961,9 @@
 
 ## Css
 
+* 【2023-06-14】[pulumi / pulumi-hugo](https://github.com/pulumi/pulumi-hugo) - A Hugo module containing content and layouts used on pulumi.com, including hand-authored docs, the Pulumi blog, and Learn Pulumi.
+* 【2023-06-14】[codepath / site-week2-lab2-twitter-starter](https://github.com/codepath/site-week2-lab2-twitter-starter) - CURRENT - 2023 SITE Starter code for Twitter Clone Lab
+* 【2023-06-14】[PrimeAcademy / jquery-fungus-fighter](https://github.com/PrimeAcademy/jquery-fungus-fighter) - 
 * 【2023-06-13】[Bali10050 / FirefoxCSS](https://github.com/Bali10050/FirefoxCSS) - Custom firefox interface
 * 【2023-06-13】[subframe7536 / maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体，中英文宽度完美2:1
 * 【2023-06-13】[comehope / front-end-daily-challenges](https://github.com/comehope/front-end-daily-challenges) - As of August 2021, 170+ works have been accomplished, challenge yourself each day!
@@ -1026,6 +1050,9 @@
 
 ## Unknown
 
+* 【2023-06-14】[RishikeshOps / DevOps-Learning-Resources](https://github.com/RishikeshOps/DevOps-Learning-Resources) - 
+* 【2023-06-14】[grealyve / MDISec-Web-Security-and-Hacking-Notes](https://github.com/grealyve/MDISec-Web-Security-and-Hacking-Notes) - 
+* 【2023-06-14】[SeedV / generative-ai-roadmap](https://github.com/SeedV/generative-ai-roadmap) - 生成式AI的应用路线图 The roadmap of generative AI: use cases and applications
 * 【2023-06-13】[alan2207 / awesome-codebases](https://github.com/alan2207/awesome-codebases) - A collection of awesome open-source codebases worth exploring.
 * 【2023-06-13】[youssefHosni / Awesome-AI-Data-GitHub-Repos](https://github.com/youssefHosni/Awesome-AI-Data-GitHub-Repos) - A collection of the most important Github repos for ML, AI & Data science practitioners
 * 【2023-06-13】[damo-vilab / videocomposer](https://github.com/damo-vilab/videocomposer) - 
