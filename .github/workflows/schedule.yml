@@ -4,9 +4,9 @@ name: Daily Github Trending
 
 on:
   schedule:
-    - cron: "1 */12 * * *"
-  # push:
-  #   branches: [ "main" ]
+#     - cron: "1 */12 * * *"
+  push:
+    branches: [ "main" ]
 
 jobs:
   build:
