@@ -2,6 +2,8 @@
 
 项目来自 [bonfy/github-trending](https://github.com/aneasystone/github-trending)。
 
+- [python](#python)
+
 ## All language
 
 * 【2023-06-16】[krzysztofzablocki / Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros
