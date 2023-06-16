@@ -2,7 +2,7 @@
 
 项目来自 [bonfy/github-trending](https://github.com/aneasystone/github-trending)。
 
-- [python](#python)
+- [Python](#python)
 - [Java](#Java)
 - [Go](#Go)
 - [other](#Unknown)
