@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2023-06-26】[binpash / try](https://github.com/binpash/try) - "Do, or do not. There is no try." We're setting out to change that: `try cmd` and commit---or not.
+* 【2023-06-26】[sb-ocr / diy-spacemouse](https://github.com/sb-ocr/diy-spacemouse) - A DIY navigation device for Fusion360
+* 【2023-06-26】[adrianhajdin / project_nextjs13_flexibble](https://github.com/adrianhajdin/project_nextjs13_flexibble) - 
 * 【2023-06-25】[sadmann7 / skateshop](https://github.com/sadmann7/skateshop) - An open source e-commerce skateshop build with everything new in Next.js 13.
 * 【2023-06-25】[zksync / credo](https://github.com/zksync/credo) - 
 * 【2023-06-25】[embedchain / embedchain](https://github.com/embedchain/embedchain) - Framework to easily create LLM powered bots over any dataset.
@@ -288,6 +291,8 @@
 
 ## Javascript
 
+* 【2023-06-26】[zotero / zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
+* 【2023-06-26】[ArtVentureX / sd-webui-agent-scheduler](https://github.com/ArtVentureX/sd-webui-agent-scheduler) - 
 * 【2023-06-24】[htmlstreamofficial / preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 * 【2023-06-23】[SharpAI / DeepCamera](https://github.com/SharpAI/DeepCamera) - Open-Source AI Camera. Empower any camera/CCTV with state-of-the-art AI, including facial recognition, person recognition(RE-ID) car detection, fall detection and more
 * 【2023-06-23】[Nextjs-kr / Nextjs.kr](https://github.com/Nextjs-kr/Nextjs.kr) - Next.js Docs 한글화 작업
@@ -345,6 +350,9 @@
 
 ## Go
 
+* 【2023-06-26】[google / google-ctf](https://github.com/google/google-ctf) - Google CTF
+* 【2023-06-26】[BishopFox / jsluice](https://github.com/BishopFox/jsluice) - 
+* 【2023-06-26】[youshandefeiyang / LiveRedirect](https://github.com/youshandefeiyang/LiveRedirect) - LiveRedirect
 * 【2023-06-24】[openmeterio / openmeter](https://github.com/openmeterio/openmeter) - Real-Time and Scalable Usage Metering
 * 【2023-06-23】[Snowflake-Labs / terraform-provider-snowflake](https://github.com/Snowflake-Labs/terraform-provider-snowflake) - Terraform provider for managing Snowflake accounts
 * 【2023-06-21】[devfullcycle / imersao13](https://github.com/devfullcycle/imersao13) - 
@@ -378,6 +386,7 @@
 
 ## C
 
+* 【2023-06-26】[zmap / zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
 * 【2023-06-25】[xemu-project / xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 * 【2023-06-23】[jjshoots / RemoteIDSpoofer](https://github.com/jjshoots/RemoteIDSpoofer) - NodeMCU RemoteID Spoofer
 * 【2023-06-23】[linux-can / can-utils](https://github.com/linux-can/can-utils) - Linux-CAN / SocketCAN user space applications
@@ -505,6 +514,7 @@
 
 ## Html
 
+* 【2023-06-26】[praveensirvi1212 / DevOps_MasterPiece-CI-with-Jenkins](https://github.com/praveensirvi1212/DevOps_MasterPiece-CI-with-Jenkins) - DevOps-MasterPiece Project using Git, GitHub, Jenkins, Maven, JUnit, SonarQube, Jfrog Artifactory, Docker, Trivy, AWS S3, Docker Hub, GitHub CLI, EKS, ArgoCD, Prometheus, Grafana, Slack and Hashicorp Vault
 * 【2023-06-25】[oobabooga / oobabooga.github.io](https://github.com/oobabooga/oobabooga.github.io) - 
 * 【2023-06-25】[Bionus / imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) - Very customizable imageboard/booru downloader with powerful filenaming features.
 * 【2023-06-25】[thedev-id / thedev.id](https://github.com/thedev-id/thedev.id) - Identity for developers on the web.
@@ -548,6 +558,7 @@
 
 ## Css
 
+* 【2023-06-26】[Colt / CSSGridTutorial](https://github.com/Colt/CSSGridTutorial) - 
 * 【2023-06-25】[JoeanAmier / TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) - 抖音视频/图集/音频/直播下载工具
 * 【2023-06-24】[Eby-Tom / Tech-Utsav-ChristUniversity](https://github.com/Eby-Tom/Tech-Utsav-ChristUniversity) - Christ University Tech-Utsav Website
 * 【2023-06-24】[Eby-Tom / Project](https://github.com/Eby-Tom/Project) - 
