@@ -9,6 +9,12 @@
 
 ## All language
 
+* 【2023-06-30】[slarkvan / Block-Pornographic-Replies](https://github.com/slarkvan/Block-Pornographic-Replies) - 屏蔽推特回复下的黄推。Block pornographic replies below the tweet.
+* 【2023-06-30】[WeMakeDevs / open-source-course](https://github.com/WeMakeDevs/open-source-course) - 
+* 【2023-06-30】[mengjian-github / copilot-analysis](https://github.com/mengjian-github/copilot-analysis) - 
+* 【2023-06-30】[phodal / aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
+* 【2023-06-30】[imgly / background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
+* 【2023-06-30】[buqiyuan / vue3-antd-admin](https://github.com/buqiyuan/vue3-antd-admin) - 基于vue-cli5.x/vite2.x + vue3.x + ant-design-vue3.x + typescript hooks 的基础后台管理系统模板 RBAC的权限系统, JSON Schema动态表单,动态表格,漂亮锁屏界面
 * 【2023-06-29】[ChaoningZhang / MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the offiicial code for Faster Segment Anything (MobileSAM) project that makes SAM lightweight
 * 【2023-06-29】[sohamkamani / javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - An ultra-simplified explanation of design patterns implemented in javascript
 * 【2023-06-29】[fuqiuluo / unidbg-fetch-qsign](https://github.com/fuqiuluo/unidbg-fetch-qsign) - 获取QQSign通过Unidbg
@@ -205,6 +211,13 @@
 
 ## Python
 
+* 【2023-06-30】[databricks / databricks-sdk-py](https://github.com/databricks/databricks-sdk-py) - Databricks SDK for Python (Beta)
+* 【2023-06-30】[Uminosachi / sd-webui-inpaint-anything](https://github.com/Uminosachi/sd-webui-inpaint-anything) - Inpaint Anything extension performs stable diffusion inpainting on a browser UI using masks from Segment Anything.
+* 【2023-06-30】[WKL-Sec / WMIExec](https://github.com/WKL-Sec/WMIExec) - Set of python scripts which perform different ways of command execution via WMI protocol.
+* 【2023-06-30】[salesforce / xgen](https://github.com/salesforce/xgen) - Salesforce open-source LLMs with 8k sequence length.
+* 【2023-06-30】[JorisdeJong123 / 7-Days-of-LangChain](https://github.com/JorisdeJong123/7-Days-of-LangChain) - Code repo for 7 Days of LangChain
+* 【2023-06-30】[AIrjen / OneButtonPrompt](https://github.com/AIrjen/OneButtonPrompt) - One Button Prompt
+* 【2023-06-30】[vietanhdev / anylabeling](https://github.com/vietanhdev/anylabeling) - Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything, MobileSAM!!
 * 【2023-06-29】[aolofsson / awesome-opensource-hardware](https://github.com/aolofsson/awesome-opensource-hardware) - List of awesome open source hardware tools, generators, and reusable designs
 * 【2023-06-29】[abacaj / mpt-30B-inference](https://github.com/abacaj/mpt-30B-inference) - Run inference on MPT-30B using CPU
 * 【2023-06-29】[GitHubSecurityLab / actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions) - GitHub token permissions Monitor and Advisor actions
@@ -310,6 +323,11 @@
 
 ## Javascript
 
+* 【2023-06-30】[painebenjamin / app.enfugue.ai](https://github.com/painebenjamin/app.enfugue.ai) - ENFUGUE is a feature-rich self-hosted Stable Diffusion webapp
+* 【2023-06-30】[alexcasalboni / aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced.
+* 【2023-06-30】[adamyi / wechrome](https://github.com/adamyi/wechrome) - Chrome extension to unblock web wechat
+* 【2023-06-30】[chalk / chalk](https://github.com/chalk/chalk) - 🖍Terminal string styling done right
+* 【2023-06-30】[easychen / deepgpt-dist](https://github.com/easychen/deepgpt-dist) - DeepGPT，类agentGPT/AutoGPT 工具，支持 api2d / 和自定义 openai key。此为静态网页独立部署版，部署方便
 * 【2023-06-29】[100xDevs-hkirat / all-assignments](https://github.com/100xDevs-hkirat/all-assignments) - 
 * 【2023-06-29】[cytoscape / cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (network) library for visualisation and analysis
 * 【2023-06-28】[Lunakepio / death-star-trench-run](https://github.com/Lunakepio/death-star-trench-run) - 
@@ -375,6 +393,9 @@
 
 ## Go
 
+* 【2023-06-30】[getsops / sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
+* 【2023-06-30】[prebid / prebid-server](https://github.com/prebid/prebid-server) - Server side component to offload prebid processing to the cloud
+* 【2023-06-30】[gotenberg / gotenberg](https://github.com/gotenberg/gotenberg) - A Docker-powered stateless API for PDF files.
 * 【2023-06-29】[KubeDev / idc-ms-chatgpt](https://github.com/KubeDev/idc-ms-chatgpt) - 
 * 【2023-06-27】[rosedblabs / rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
 * 【2023-06-26】[google / google-ctf](https://github.com/google/google-ctf) - Google CTF
@@ -413,6 +434,8 @@
 
 ## C
 
+* 【2023-06-30】[galbraithmedia1 / Mini-Tv-ESP32](https://github.com/galbraithmedia1/Mini-Tv-ESP32) - Project Files for ESP32 Mini TV
+* 【2023-06-30】[libvips / libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 * 【2023-06-29】[flowdriveai / flowpilot](https://github.com/flowdriveai/flowpilot) - flow-pilot is an openpilot based driver assistance system that runs on linux, windows and android powered machines.
 * 【2023-06-29】[lwip-tcpip / lwip](https://github.com/lwip-tcpip/lwip) - lwIP mirror from http://git.savannah.gnu.org/cgit/lwip.git
 * 【2023-06-29】[antirez / kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
@@ -465,6 +488,8 @@
 
 ## C++
 
+* 【2023-06-30】[apache / kvrocks](https://github.com/apache/kvrocks) - Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
+* 【2023-06-30】[chichengcn / gici-open](https://github.com/chichengcn/gici-open) - GNSS/INS/Camera Integrated Navigation Library
 * 【2023-06-28】[colind0pe / AV-Bypass-Learning](https://github.com/colind0pe/AV-Bypass-Learning) - 免杀学习笔记
 * 【2023-06-27】[Puellaquae / Desktop-Snake](https://github.com/Puellaquae/Desktop-Snake) - A Snake Game Play With Desktop Icons
 * 【2023-06-25】[sddm / sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
@@ -502,6 +527,9 @@
 
 ## C#
 
+* 【2023-06-30】[werdhaihai / AtlasReaper](https://github.com/werdhaihai/AtlasReaper) - A command-line tool for reconnaissance and targeted write operations on Confluence and Jira instances.
+* 【2023-06-30】[geel9 / SteamAuth](https://github.com/geel9/SteamAuth) - A C# library that provides vital Steam Mobile Authenticator functionality
+* 【2023-06-30】[AliBharwani / Drecon](https://github.com/AliBharwani/Drecon) - Drecon implementation
 * 【2023-06-29】[AbkarinoMHM / PS4SysconTools](https://github.com/AbkarinoMHM/PS4SysconTools) - PS4 Syscon Tools is a free solution that allow you to manipulate original PlayStation 4 Syscon chip (Renesas RL78/G13).
 * 【2023-06-29】[oqtane / oqtane.framework](https://github.com/oqtane/oqtane.framework) - CMS & Application Framework for Blazor & .NET MAUI
 * 【2023-06-29】[MessagePack-CSharp / MessagePack-CSharp](https://github.com/MessagePack-CSharp/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
@@ -558,6 +586,7 @@
 
 ## Html
 
+* 【2023-06-30】[cdfmlr / muvtuber](https://github.com/cdfmlr/muvtuber) - Makes your AI vtuber
 * 【2023-06-29】[rigtorp / awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
 * 【2023-06-28】[cure53 / HTTPLeaks](https://github.com/cure53/HTTPLeaks) - HTTPLeaks - All possible ways, a website can leak HTTP requests
 * 【2023-06-28】[duckduckgo / iOS](https://github.com/duckduckgo/iOS) - DuckDuckGo iOS Application
@@ -606,6 +635,8 @@
 
 ## Css
 
+* 【2023-06-30】[AsmrProg-YT / Dashboard-Designs](https://github.com/AsmrProg-YT/Dashboard-Designs) - AsmrProg Youtube Channel Dashboard Designs Code Collection
+* 【2023-06-30】[poole / poole](https://github.com/poole/poole) - The Jekyll Butler. A no frills responsive Jekyll blog theme.
 * 【2023-06-29】[yandinovriandi / WMH](https://github.com/yandinovriandi/WMH) - Wifi Monitoring Hotspot
 * 【2023-06-29】[lcrowther-snyk / mongoose](https://github.com/lcrowther-snyk/mongoose) - 
 * 【2023-06-29】[chartchai / 331-Lab01-Intro-to-vue](https://github.com/chartchai/331-Lab01-Intro-to-vue) - Inital code for Introdcution to vue
@@ -677,6 +708,9 @@
 
 ## Unknown
 
+* 【2023-06-30】[ahmetbersoz / chatgpt-prompts-for-academic-writing](https://github.com/ahmetbersoz/chatgpt-prompts-for-academic-writing) - This list of writing prompts covers a range of topics and tasks, including brainstorming research ideas, improving language and style, conducting literature reviews, and developing research plans.
+* 【2023-06-30】[davidlinsley / DragonBasic](https://github.com/davidlinsley/DragonBasic) - This repository contains the source code for the Dragon 64 versions of the Microsoft 16K BASIC Interpreter for the Motorola 6809 (aka BASIC-69 and Extended Color BASIC).
+* 【2023-06-30】[Citi / citi-ospo](https://github.com/Citi/citi-ospo) - A collection of guidelines and resources from Citi's Open Source Program Office
 * 【2023-06-29】[nomi-sec / PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) - 📡PoC auto collect from GitHub.⚠️Be careful Malware.
 * 【2023-06-29】[chinaBerg / awesome-canvas](https://github.com/chinaBerg/awesome-canvas) - Canvas资源库大全中文版。An awesome Canvas packages and resources.
 * 【2023-06-28】[OpenMotionLab / MotionGPT](https://github.com/OpenMotionLab/MotionGPT) - MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs
