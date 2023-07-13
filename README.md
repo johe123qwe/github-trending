@@ -78,6 +78,7 @@
 
 ## Python
 
+* 【2023-07-13】[pynecone-io / reflex](https://github.com/pynecone-io/reflex) - 🕸Web apps in pure Python🐍
 * 【2023-07-12】[Yujun-Shi / DragDiffusion](https://github.com/Yujun-Shi/DragDiffusion) - Official code for DragDiffusion
 * 【2023-07-12】[baichuan-inc / Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B) - A large-scale 7B pretraining language model developed by BaiChuan-Inc.
 * 【2023-07-12】[hiyouga / FastEdit](https://github.com/hiyouga/FastEdit) - 🩹Editing large language models within 10 seconds⚡
