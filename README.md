@@ -90,6 +90,7 @@
 
 ## Python
 
+* 【2023-07-15】[reflex-dev / reflex](https://github.com/reflex-dev/reflex) - (Previously Pynecone)🕸Web apps in pure Python🐍
 * 【2023-07-14】[huawei-noah / VanillaNet](https://github.com/huawei-noah/VanillaNet) - 
 * 【2023-07-14】[UX-Decoder / Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - 
 * 【2023-07-14】[pengzhile / pandora-cloud-serverless](https://github.com/pengzhile/pandora-cloud-serverless) - 一个简单的仓库，用于Serverless部署Pandora-Cloud。
