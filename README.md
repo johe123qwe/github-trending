@@ -9,6 +9,14 @@
 
 ## All language
 
+* 【2023-07-21】[SamsungLabs / NeuralHaircut](https://github.com/SamsungLabs/NeuralHaircut) - 
+* 【2023-07-21】[twentyhq / twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce.🌟You can star to support our work!
+* 【2023-07-21】[Swordfish90 / cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
+* 【2023-07-21】[Melelery / c-binance-future-quant](https://github.com/Melelery/c-binance-future-quant) - 低成本，高效率，简单实现的币安合约量化系统架构
+* 【2023-07-21】[ymcui / Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文LLaMA-2 & Alpaca-2大语言模型 (Chinese LLaMA-2 & Alpaca-2 LLMs)
+* 【2023-07-21】[michael-wzhu / Chinese-LlaMA2](https://github.com/michael-wzhu/Chinese-LlaMA2) - Repo for adapting Meta LlaMA2 in Chinese! META最新发布的LlaMA2的汉化版！ （完全开源可商用）
+* 【2023-07-21】[RupertBenWiser / Web-Environment-Integrity](https://github.com/RupertBenWiser/Web-Environment-Integrity) - 
+* 【2023-07-21】[AntonioErdeljac / next13-ai-saas](https://github.com/AntonioErdeljac/next13-ai-saas) - 
 * 【2023-07-20】[facebookresearch / llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
 * 【2023-07-20】[hiteshchoudhary / apihub](https://github.com/hiteshchoudhary/apihub) - Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.
 * 【2023-07-20】[a16z-infra / llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot) - LLaMA v2 Chatbot
@@ -126,6 +134,10 @@
 
 ## Python
 
+* 【2023-07-21】[a16z-infra / cog-llama-template](https://github.com/a16z-infra/cog-llama-template) - LLaMA Cog template
+* 【2023-07-21】[SergeyPirogov / webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
+* 【2023-07-21】[yangjianxin1 / Firefly](https://github.com/yangjianxin1/Firefly) - Firefly(流萤): 中文对话式大语言模型(全量微调+QLoRA)
+* 【2023-07-21】[ThioJoe / Full-Stack-AI-Meme-Generator](https://github.com/ThioJoe/Full-Stack-AI-Meme-Generator) - Uses Various AI Service APIs to generate memes with text and images
 * 【2023-07-20】[Forethought-Technologies / AutoChain](https://github.com/Forethought-Technologies/AutoChain) - AutoChain: Build lightweight, extensible, and testable LLM Agents
 * 【2023-07-20】[dabeaz-course / python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
 * 【2023-07-20】[rany2 / edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
@@ -202,6 +214,7 @@
 
 ## Javascript
 
+* 【2023-07-21】[GoogleChromeLabs / chrome-for-testing](https://github.com/GoogleChromeLabs/chrome-for-testing) - 
 * 【2023-07-20】[anshuopinion / React-10-Projects](https://github.com/anshuopinion/React-10-Projects) - 
 * 【2023-07-20】[ErickWendel / processing-large-reports-in-the-browser](https://github.com/ErickWendel/processing-large-reports-in-the-browser) - Examples from my video about processing large reports in the browser without any backend
 * 【2023-07-20】[yokoffing / Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
@@ -272,6 +285,9 @@
 
 ## C
 
+* 【2023-07-21】[Flipper-XFW / Xtreme-Firmware](https://github.com/Flipper-XFW/Xtreme-Firmware) - The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!
+* 【2023-07-21】[mandiant / msi-search](https://github.com/mandiant/msi-search) - 
+* 【2023-07-21】[ventoy / PXE](https://github.com/ventoy/PXE) - The open source part of iVentoy.
 * 【2023-07-20】[fenwii / OpenHarmony](https://github.com/fenwii/OpenHarmony) - 华为开源鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。
 * 【2023-07-20】[HeroWO-js / Workbench](https://github.com/HeroWO-js/Workbench) - Workspace for running HeroWO game client and generating databanks and maps
 * 【2023-07-18】[cilium / pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
@@ -308,6 +324,9 @@
 
 ## C++
 
+* 【2023-07-21】[nu11secur1ty / Windows11Exploits](https://github.com/nu11secur1ty/Windows11Exploits) - 
+* 【2023-07-21】[risc0 / risc0](https://github.com/risc0/risc0) - RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.
+* 【2023-07-21】[yuzu-emu / yuzu-android](https://github.com/yuzu-emu/yuzu-android) - 
 * 【2023-07-20】[outobugi / Terrain3D](https://github.com/outobugi/Terrain3D) - An editable terrain system for Godot 4, written in C++
 * 【2023-07-20】[ZikangYuan / sr_lio](https://github.com/ZikangYuan/sr_lio) - A LiDAR-inertial odometry (LIO) package that can adjust the execution frequency beyond the sweep frequency
 * 【2023-07-20】[vitoplantamura / OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Running Stable Diffusion on a RPI Zero 2 (or in 260MB of RAM)
@@ -345,6 +364,8 @@
 
 ## C#
 
+* 【2023-07-21】[ViewFaceCore / ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) - C# 超简单的离线人脸识别库。( 基于 SeetaFace6 )
+* 【2023-07-21】[danielpalme / ReportGenerator](https://github.com/danielpalme/ReportGenerator) - ReportGenerator converts coverage reports generated by coverlet, OpenCover, dotCover, Visual Studio, NCover, Cobertura, JaCoCo, Clover, gcov or lcov into human readable reports in various formats.
 * 【2023-07-20】[NoBugCn / ActionEditor](https://github.com/NoBugCn/ActionEditor) - unity技能编辑器，Buff编辑器，场景编辑器
 * 【2023-07-18】[ComponentFactory / Krypton](https://github.com/ComponentFactory/Krypton) - Krypton WinForms components for .NET
 * 【2023-07-16】[misprit7 / WireHead](https://github.com/misprit7/WireHead) - A Terrarria mod that reimplements the wiring system more efficiently
@@ -378,6 +399,8 @@
 
 ## Html
 
+* 【2023-07-21】[pa3gsb / Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
+* 【2023-07-21】[skills / code-with-codespaces](https://github.com/skills/code-with-codespaces) - Develop code using GitHub Codespaces and Visual Studio Code!
 * 【2023-07-20】[JPCERTCC / MemoryForensic-on-Cloud](https://github.com/JPCERTCC/MemoryForensic-on-Cloud) - Memory Forensic System on Cloud
 * 【2023-07-20】[hackforla / website](https://github.com/hackforla/website) - Hack for LA's website
 * 【2023-07-20】[hassanzhd / FAST-Resources](https://github.com/hassanzhd/FAST-Resources) - Resources of FAST-NUCES 2018-2022
@@ -418,6 +441,9 @@
 
 ## Css
 
+* 【2023-07-21】[bcaal87 / sitioadidas](https://github.com/bcaal87/sitioadidas) - Sitio Test Git
+* 【2023-07-21】[Mephiles-the-Dark / Better_Discord](https://github.com/Mephiles-the-Dark/Better_Discord) - Add-ons to the Discord patch, Better Discord.
+* 【2023-07-21】[obsidianmd / obsidian-help](https://github.com/obsidianmd/obsidian-help) - Help documentation for Obsidian.
 * 【2023-07-20】[InoveAlumnos / css_responsive_web](https://github.com/InoveAlumnos/css_responsive_web) - Introducción a CSS Responsivo
 * 【2023-07-20】[firtman / coffeemasters-vanilla](https://github.com/firtman/coffeemasters-vanilla) - 
 * 【2023-07-20】[fintechees / FiSDK](https://github.com/fintechees/FiSDK) - FiSDK is an API toolkit developed by Fintechee for managing and controlling the backend of the Fintechee trading platform.
@@ -455,6 +481,10 @@
 
 ## Unknown
 
+* 【2023-07-21】[matteocourthoud / awesome-causal-inference](https://github.com/matteocourthoud/awesome-causal-inference) - A curated list of causal inference libraries, resources, and applications.
+* 【2023-07-21】[D3Ext / aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - An awesome collection of aesthetic wallpapers
+* 【2023-07-21】[hello-earth / cloudflare-better-ip](https://github.com/hello-earth/cloudflare-better-ip) - 
+* 【2023-07-21】[RaymondWang987 / NVDS](https://github.com/RaymondWang987/NVDS) - The official repository of the ICCV2023 paper "Neural Video Depth Stabilizer" (NVDS).
 * 【2023-07-20】[cxli233 / Online_R_learning](https://github.com/cxli233/Online_R_learning) - Online R learning for applied statistics
 * 【2023-07-20】[mkosir / typescript-react-style-guide](https://github.com/mkosir/typescript-react-style-guide) - ⚙️TypeScript & React Style Guide. Concise set of conventions and best practices used to create consistent, maintainable code.
 * 【2023-07-20】[ProgrammingHero1 / B8A2-Gamer-Zone](https://github.com/ProgrammingHero1/B8A2-Gamer-Zone) - 
