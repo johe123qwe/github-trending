@@ -533,6 +533,7 @@
 
 ## Css
 
+* 【2023-07-26】[app-generator / free-site-builder](https://github.com/app-generator/free-site-builder) - Free Site Builder - Open-Source Tool | Simpllo
 * 【2023-07-25】[schoolofdevops / sysfoo](https://github.com/schoolofdevops/sysfoo) - Sample java webapp with maven which prints system info
 * 【2023-07-25】[YiNNx / typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis) - 🖊️A clean and fresh Typora theme in blue tones
 * 【2023-07-25】[fl0zone / template-react](https://github.com/fl0zone/template-react) - A simple React app for getting started on FL0
