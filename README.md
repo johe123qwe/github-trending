@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2023-07-27】[Project-Sloth / ps-housing](https://github.com/Project-Sloth/ps-housing) - Advanced housing system for QBCore.
+* 【2023-07-27】[kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
 * 【2023-07-25】[karpathy / llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 * 【2023-07-25】[liltom-eth / llama2-webui](https://github.com/liltom-eth/llama2-webui) - Run Llama 2 locally with gradio UI on GPU or CPU from anywhere (Linux/Windows/Mac). Supporting Llama-2-7B/13B/70B with 8-bit, 4-bit. Supporting GPU inference (6 GB VRAM) and CPU inference.
 * 【2023-07-25】[camenduru / text-generation-webui-colab](https://github.com/camenduru/text-generation-webui-colab) - A colab gradio web UI for running Large Language Models
@@ -129,6 +131,7 @@
 
 ## Java
 
+* 【2023-07-27】[AutohomeCorp / frostmourne](https://github.com/AutohomeCorp/frostmourne) - Frostmourne（霜之哀伤监控平台）是基于Elasticsearch, Prometheus, SkyWalking, InfluxDB，Mysql/TiDB，ClickHouse, SqlServer, IoTDB数据的分布式监控报警系统. Monitor & alert & alarm for Elasticsearch，Prometheus data。主要使用springboot2 + vue-element-admin
 * 【2023-07-25】[linyimin0812 / spring-startup-analyzer](https://github.com/linyimin0812/spring-startup-analyzer) - Spring Startup Analyzer generates an interactive Spring application startup report that lets you understand what contributes to the application startup time and helps to optimize it.🚀
 * 【2023-07-25】[Mirror0oo0 / im](https://github.com/Mirror0oo0/im) - 
 * 【2023-07-25】[spotbugs / spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
@@ -170,6 +173,10 @@
 
 ## Python
 
+* 【2023-07-27】[dvruette / sd-webui-fabric](https://github.com/dvruette/sd-webui-fabric) - 
+* 【2023-07-27】[WKL-Sec / dcomhijack](https://github.com/WKL-Sec/dcomhijack) - Lateral Movement Using DCOM and DLL Hijacking
+* 【2023-07-27】[CodeAlchemyAI / ViLT-GPT](https://github.com/CodeAlchemyAI/ViLT-GPT) - 
+* 【2023-07-27】[facebookresearch / Mask2Former](https://github.com/facebookresearch/Mask2Former) - Code release for "Masked-attention Mask Transformer for Universal Image Segmentation"
 * 【2023-07-25】[langchain-ai / langchain](https://github.com/langchain-ai/langchain) - ⚡Building applications with LLMs through composability⚡
 * 【2023-07-25】[unode / firefox_decrypt](https://github.com/unode/firefox_decrypt) - Firefox Decrypt is a tool to extract passwords from Mozilla (Firefox™, Waterfox™, Thunderbird®, SeaMonkey®) profiles
 * 【2023-07-24】[salesforce / DialogStudio](https://github.com/salesforce/DialogStudio) - DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection and Instruction-Aware Models for Conversational AI
@@ -307,6 +314,7 @@
 
 ## Go
 
+* 【2023-07-27】[TangSengDaoDao / TangSengDaoDaoServer](https://github.com/TangSengDaoDao/TangSengDaoDaoServer) - IM即时通讯,聊天
 * 【2023-07-24】[Edouard127 / reddit-placebot-2023](https://github.com/Edouard127/reddit-placebot-2023) - A bot for r/place that doesn't use the api
 * 【2023-07-24】[rystaf / mlmym](https://github.com/rystaf/mlmym) - a familiar desktop experience for lemmy
 * 【2023-07-24】[go-nerds / cli-algorithms-visualizer](https://github.com/go-nerds/cli-algorithms-visualizer) - Simple CLI-based Algorithms Visualizer
@@ -349,6 +357,7 @@
 
 ## C
 
+* 【2023-07-27】[steineggerlab / foldseek](https://github.com/steineggerlab/foldseek) - Foldseek enables fast and sensitive comparisons of large structure sets.
 * 【2023-07-25】[plv8 / pljs](https://github.com/plv8/pljs) - PLJS - Javascript Language Plugin for PostreSQL
 * 【2023-07-25】[snowcra5h / CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408) - CVE-2023-38408 Remote Code Execution in OpenSSH's forwarded ssh-agent
 * 【2023-07-24】[othermod / PSPi-Version-6](https://github.com/othermod/PSPi-Version-6) - 
@@ -443,6 +452,7 @@
 
 ## C#
 
+* 【2023-07-27】[T0biasCZe / AdbFileManager](https://github.com/T0biasCZe/AdbFileManager) - Fast Android <-> Windows file manager using ADB protocol
 * 【2023-07-25】[microsoft / chat-copilot](https://github.com/microsoft/chat-copilot) - 
 * 【2023-07-24】[TASEmulators / BizHawk](https://github.com/TASEmulators/BizHawk) - BizHawk is a multi-system emulator written in C#. BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.
 * 【2023-07-23】[Viralmaniar / BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon) - BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
@@ -481,6 +491,7 @@
 
 ## Html
 
+* 【2023-07-27】[digitalinnovationone / santander-dev-week-angular-home](https://github.com/digitalinnovationone/santander-dev-week-angular-home) - Repo base para live de Angular da Dev week
 * 【2023-07-25】[restincode / restincode](https://github.com/restincode/restincode) - A memorial site for Hackers and Infosec people who have passed
 * 【2023-07-25】[jsmsj / sa-drive](https://github.com/jsmsj/sa-drive) - An alternative of Shared drive/teamdrives. Utilises the 15gb storage of each service account. The more service accounts you have, the more storage you will get. With 100 service accounts you can get about 1.46TiB of storage.
 * 【2023-07-24】[xyhelper / xyhelper-arkose](https://github.com/xyhelper/xyhelper-arkose) - 
@@ -533,6 +544,8 @@
 
 ## Css
 
+* 【2023-07-27】[cgisky1980 / ai00_rwkv_server](https://github.com/cgisky1980/ai00_rwkv_server) - A localized open-source AI server that is better than ChatGPT.
+* 【2023-07-27】[squee666 / Discord-Themes](https://github.com/squee666/Discord-Themes) - Themes for Discord
 * 【2023-07-26】[app-generator / free-site-builder](https://github.com/app-generator/free-site-builder) - Free Site Builder - Open-Source Tool | Simpllo
 * 【2023-07-25】[schoolofdevops / sysfoo](https://github.com/schoolofdevops/sysfoo) - Sample java webapp with maven which prints system info
 * 【2023-07-25】[YiNNx / typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis) - 🖊️A clean and fresh Typora theme in blue tones
@@ -578,6 +591,7 @@
 
 ## Unknown
 
+* 【2023-07-27】[spurin / KCNA-Study-Group](https://github.com/spurin/KCNA-Study-Group) - Kubernetes and Cloud Native Associate - Study Group
 * 【2023-07-25】[0xperator / hookbot_source](https://github.com/0xperator/hookbot_source) - This repository contains a few leaked files of HookBot.
 * 【2023-07-25】[damo-vilab / AnyDoor](https://github.com/damo-vilab/AnyDoor) - 
 * 【2023-07-25】[Philsie / ARRS-documentation](https://github.com/Philsie/ARRS-documentation) - ARRS documentation
