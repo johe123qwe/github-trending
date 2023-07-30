@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2023-07-30】[Vectorized / solady](https://github.com/Vectorized/solady) - Optimized Solidity snippets.
+* 【2023-07-30】[HariSekhon / DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 * 【2023-07-29】[bloomberg / blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system
 * 【2023-07-28】[biobootloader / mentat](https://github.com/biobootloader/mentat) - Mentat - The AI Coding Assistant
 * 【2023-07-28】[DUOMO / TransGPT](https://github.com/DUOMO/TransGPT) - 
@@ -142,6 +144,9 @@
 
 ## Java
 
+* 【2023-07-30】[linkedin / ambry](https://github.com/linkedin/ambry) - Distributed object store
+* 【2023-07-30】[raphaelLacerda / java-treino-programacao](https://github.com/raphaelLacerda/java-treino-programacao) - 
+* 【2023-07-30】[langchain4j / langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
 * 【2023-07-29】[androidx / media](https://github.com/androidx/media) - Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
 * 【2023-07-29】[geektcp / everwar](https://github.com/geektcp/everwar) - wow game server
 * 【2023-07-28】[mikeroyal / AWS-Guide](https://github.com/mikeroyal/AWS-Guide) - Amazon Web Services (AWS) Guide. Learn all about Amazon Web Services Tools, Services, and Certifications.
@@ -290,6 +295,8 @@
 
 ## Javascript
 
+* 【2023-07-30】[dev-lu / osint_toolkit](https://github.com/dev-lu/osint_toolkit) - A full stack web application that combines many tools and services for security analysts into a single tool.
+* 【2023-07-30】[saiteja-madha / discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) - 🤖Multipurpose discord bot built using discord.js v14 with moderation, music, ticketing, translation, and much more
 * 【2023-07-29】[gaboolic / nodejs-proxy](https://github.com/gaboolic/nodejs-proxy) - nodejs实现vless fork的同时帮我点点star
 * 【2023-07-29】[namastedev / namaste-react](https://github.com/namastedev/namaste-react) - 
 * 【2023-07-28】[srobbin01 / daisyui-admin-dashboard-template](https://github.com/srobbin01/daisyui-admin-dashboard-template) - Free admin dashboard template using Daisy UI, React js and Tailwind CSS
@@ -341,6 +348,8 @@
 
 ## Go
 
+* 【2023-07-30】[hay-kot / homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User
+* 【2023-07-30】[haqq-network / haqq](https://github.com/haqq-network/haqq) - Shariah-compliant web3 platform
 * 【2023-07-29】[PeerDB-io / peerdb](https://github.com/PeerDB-io/peerdb) - Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀
 * 【2023-07-29】[dstotijn / hetty](https://github.com/dstotijn/hetty) - An HTTP toolkit for security research.
 * 【2023-07-28】[artie-labs / transfer](https://github.com/artie-labs/transfer) - Real-time data replication from OLTP to OLAP dbs
@@ -387,6 +396,7 @@
 
 ## C
 
+* 【2023-07-30】[RfidResearchGroup / ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) - The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.
 * 【2023-07-29】[reveng007 / DarkWidow](https://github.com/reveng007/DarkWidow) - Indirect Dynamic Syscall, SSN + Syscall address sorting via Modified TartarusGate approach + Remote Process Injection via APC Early Bird + Spawns a sacrificial Process as target process + (ACG+BlockDll) mitigation policy on spawned process + PPID spoofing (Emotet method) + Api resolving from TIB + API hashing
 * 【2023-07-29】[BenjaminHornbeck6 / KFD-Offsets](https://github.com/BenjaminHornbeck6/KFD-Offsets) - Should be every offset for the KFD exploit on all A12+ devices. No M1
 * 【2023-07-29】[tomojitakasu / PocketSDR](https://github.com/tomojitakasu/PocketSDR) - 
@@ -440,6 +450,7 @@
 
 ## C++
 
+* 【2023-07-30】[bsnes-emu / bsnes](https://github.com/bsnes-emu/bsnes) - bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
 * 【2023-07-29】[S12cybersecurity / WinDefenderKiller](https://github.com/S12cybersecurity/WinDefenderKiller) - Windows Defender Killer | C++ Code Disabling Permanently Windows Defender using Registry Keys
 * 【2023-07-29】[LordNoteworthy / windows-exploitation](https://github.com/LordNoteworthy/windows-exploitation) - My notes while studying Windows exploitation
 * 【2023-07-28】[hasherezade / exe_to_dll](https://github.com/hasherezade/exe_to_dll) - Converts a EXE into DLL
@@ -491,6 +502,7 @@
 
 ## C#
 
+* 【2023-07-30】[Rectify11 / Installer](https://github.com/Rectify11/Installer) - A Windows 11 modification to make Windows more consistent.
 * 【2023-07-29】[slemire / WSPCoerce](https://github.com/slemire/WSPCoerce) - PoC to coerce authentication from Windows hosts using MS-WSP
 * 【2023-07-29】[wh0amitz / KRBUACBypass](https://github.com/wh0amitz/KRBUACBypass) - UAC Bypass By Abusing Kerberos Tickets
 * 【2023-07-29】[sdcb / Sdcb.Arithmetic](https://github.com/sdcb/Sdcb.Arithmetic) - A modern .NET library that can PInvoke to gmp and mpfr, that enable both high performance and best .NET convenience.
@@ -536,6 +548,7 @@
 
 ## Html
 
+* 【2023-07-30】[Devalphaspace / beautiful-portfolio-website](https://github.com/Devalphaspace/beautiful-portfolio-website) - 
 * 【2023-07-29】[val-lang / val-lang.github.io](https://github.com/val-lang/val-lang.github.io) - Landing page for Val
 * 【2023-07-28】[rootsongjc / awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials. - https://jimmysong.io/awesome-cloud-native/
 * 【2023-07-28】[geeeeeeeek / videoproject](https://github.com/geeeeeeeek/videoproject) - 基于python的视频点播网站，视频点播系统，python+Django开发的视频管理系统
@@ -594,6 +607,7 @@
 
 ## Css
 
+* 【2023-07-30】[noriaku / firefox-monolite](https://github.com/noriaku/firefox-monolite) - Minimal theme & startpage for geek people. Monochromatic & pastel colors. Keyboard centered.
 * 【2023-07-29】[xpanel-cp / XPanel-SSH-User-Management](https://github.com/xpanel-cp/XPanel-SSH-User-Management) - 
 * 【2023-07-29】[Viglino / font-gis](https://github.com/Viglino/font-gis) - Icon font and SVG for use with GIS and spatial analysis tools
 * 【2023-07-28】[yong-s / alms](https://github.com/yong-s/alms) - 7X24小时在线要饭🍚系统，欢迎👏各位老板打赏，打赏一分也是爱
@@ -646,6 +660,11 @@
 
 ## Unknown
 
+* 【2023-07-30】[domfarolino / observable](https://github.com/domfarolino/observable) - Observable API proposal
+* 【2023-07-30】[GaryYufei / AlignLLMHumanSurvey](https://github.com/GaryYufei/AlignLLMHumanSurvey) - Aligning Large Language Models with Human: A Survey
+* 【2023-07-30】[Taotaotao666 / SGK_Sites_and_Bots](https://github.com/Taotaotao666/SGK_Sites_and_Bots) - 社工库分享。免费好用的 社工库网站 和 Telegram社工库机器人，查询帐号、密码、邮箱、手机号、身份证及各种隐私数据是否泄露。
+* 【2023-07-30】[ashishpatel26 / Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) - Tools to Design or Visualize Architecture of Neural Network
+* 【2023-07-30】[Azure / migration](https://github.com/Azure/migration) - 
 * 【2023-07-29】[pushsecurity / saas-attacks](https://github.com/pushsecurity/saas-attacks) - Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
 * 【2023-07-29】[awaisrauf / Awesome-CV-Foundational-Models](https://github.com/awaisrauf/Awesome-CV-Foundational-Models) - 
 * 【2023-07-29】[Audio-AGI / WavJourney](https://github.com/Audio-AGI/WavJourney) - WavJourney: Compositional Audio Creation with LLMs
