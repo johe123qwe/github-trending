@@ -696,6 +696,7 @@
 
 ## Unknown
 
+* 【2023-08-02】[SimplifyJobs / Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships) - Collection of Summer 2023 & Summer 2024 tech internships!
 * 【2023-08-02】[tshemsedinov / NodeJS-Interview-Questions](https://github.com/tshemsedinov/NodeJS-Interview-Questions) - NodeJS✨🐢🚀✨вопросы для собеседований
 * 【2023-08-02】[youngyangyang04 / kamacoder-solutions](https://github.com/youngyangyang04/kamacoder-solutions) - 卡码网题解全集
 * 【2023-08-02】[malvuln / RansomLord](https://github.com/malvuln/RansomLord) - RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption.
