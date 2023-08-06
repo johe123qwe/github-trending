@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2023-08-06】[ReVanced / revanced-manager](https://github.com/ReVanced/revanced-manager) - 💊Application to use ReVanced on Android
+* 【2023-08-06】[adrianhajdin / threads](https://github.com/adrianhajdin/threads) - Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!
+* 【2023-08-06】[musabgultekin / functionary](https://github.com/musabgultekin/functionary) - Chat language model that can interpret and execute functions/plugins
 * 【2023-08-05】[QwenLM / Qwen-7B](https://github.com/QwenLM/Qwen-7B) - The official repo of Qwen-7B (通义千问-7B) chat & pretrained large language model proposed by Alibaba Cloud.
 * 【2023-08-05】[kuafuai / DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. convert natural language requirements into working software.
 * 【2023-08-05】[liyupi / sql-mother](https://github.com/liyupi/sql-mother) - 免费的闯关式 SQL 自学教程网站，从 0 到 1 带大家掌握常用 SQL 语法，纯前端实现，简单易学~
@@ -226,6 +229,9 @@
 
 ## Python
 
+* 【2023-08-06】[ModelSurge / sd-webui-comfyui](https://github.com/ModelSurge/sd-webui-comfyui) - An extension to integrate ComfyUI workflows into the Webui's pipeline
+* 【2023-08-06】[hwchase17 / chat-your-data](https://github.com/hwchase17/chat-your-data) - 
+* 【2023-08-06】[Gallopsled / pwntools](https://github.com/Gallopsled/pwntools) - CTF framework and exploit development library
 * 【2023-08-04】[jupyterlab / jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 * 【2023-08-04】[xorbitsai / inference](https://github.com/xorbitsai/inference) - Xorbits Inference (Xinference) is a powerful and versatile library designed to serve LLMs, speech recognition models, and multimodal models, even on your laptop. It supports a variety of models compatible with GGML, such as llama, chatglm, baichuan, whisper, vicuna, orac, and many others.
 * 【2023-08-04】[chatchat-space / langchain-ChatGLM](https://github.com/chatchat-space/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
@@ -344,6 +350,9 @@
 
 ## Javascript
 
+* 【2023-08-06】[thisjam / sd-webui-oldsix-prompt](https://github.com/thisjam/sd-webui-oldsix-prompt) - 
+* 【2023-08-06】[r0ysue / MobileCTF](https://github.com/r0ysue/MobileCTF) - 体系化、实战化、step by step、目标清晰且具体的一个打怪升级、成长路径规划图
+* 【2023-08-06】[Miracles666 / Frida-Beautify-Output](https://github.com/Miracles666/Frida-Beautify-Output) - 基于Vue，快速进行Android Frida Hook并将结果美化打印到web端，方便逆向分析
 * 【2023-08-05】[ValveSoftware / counter-strike](https://github.com/ValveSoftware/counter-strike) - CS:GO
 * 【2023-08-05】[xiaolin / react-image-gallery](https://github.com/xiaolin/react-image-gallery) - React carousel image gallery component with thumbnail support🖼
 * 【2023-08-04】[effectiveaccelerationism / text-to-banger](https://github.com/effectiveaccelerationism/text-to-banger) - A simple API converting a user's proposed tweet into a veritable banger.
@@ -526,6 +535,8 @@
 
 ## C++
 
+* 【2023-08-06】[SoftFever / OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
+* 【2023-08-06】[google / cpu_features](https://github.com/google/cpu_features) - A cross platform C99 library to get cpu features at runtime.
 * 【2023-08-03】[triton-inference-server / python_backend](https://github.com/triton-inference-server/python_backend) - Triton backend that enables pre-process, post-processing and other logic to be implemented in Python.
 * 【2023-08-03】[cms-sw / cmssw](https://github.com/cms-sw/cmssw) - CMS Offline Software
 * 【2023-07-31】[zealdocs / zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -581,6 +592,8 @@
 
 ## C#
 
+* 【2023-08-06】[Norbyte / lslib](https://github.com/Norbyte/lslib) - Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files
+* 【2023-08-06】[Tyrrrz / LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting gamma based on the current time
 * 【2023-08-05】[Belphemur / SoundSwitch](https://github.com/Belphemur/SoundSwitch) - C# application to switch default playing device. Download: https://soundswitch.aaflalo.me/
 * 【2023-08-04】[SimonCropp / WinDebloat](https://github.com/SimonCropp/WinDebloat) - A dotnet tool that removes the bloat in Windows 11
 * 【2023-08-04】[IgorMundstein / WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to clear memory areas. Sometimes, programs do not release the allocated memory, making the computer slow. That is when you use Windows Memory Cleaner to optimize the memory, so you can keep working without wasting time restarting your system.
@@ -637,6 +650,8 @@
 
 ## Html
 
+* 【2023-08-06】[Architeuthis-Flux / Jumperless](https://github.com/Architeuthis-Flux/Jumperless) - A jumperless breadboard
+* 【2023-08-06】[kwmorris / DnD](https://github.com/kwmorris/DnD) - Kyle's DnD stuff
 * 【2023-08-05】[fkasler / cuddlephish](https://github.com/fkasler/cuddlephish) - Weaponized Browser-in-the-Middle (BitM) for Penetration Testers
 * 【2023-08-05】[srcrs / rss-reader](https://github.com/srcrs/rss-reader) - 一个极简的RSS在线浏览工具
 * 【2023-08-04】[woodchen-ink / openai-billing-query](https://github.com/woodchen-ink/openai-billing-query) - 单页面项目，批量可视化查询openai(chatgpt)余额，支持显示总量，已使用，剩余量，已用比例，到期时间，GPT-4，是否绑卡。This is a single-page project that enables batch visualization query for openai (chatgpt) balance. It supports displaying total amount, used amount, remaining amount, usage ratio, expiration time, GPT-4, and whether it is bound with a card.
@@ -711,6 +726,8 @@
 
 ## Css
 
+* 【2023-08-06】[stevekinney / name-badges](https://github.com/stevekinney/name-badges) - 
+* 【2023-08-06】[brunasilvaraujo / Login-Form](https://github.com/brunasilvaraujo/Login-Form) - Animated Glassmorphism Login Form using Html & CSS
 * 【2023-08-05】[chrultrabook / docs](https://github.com/chrultrabook/docs) - Centralized project documentation - WIP
 * 【2023-08-05】[Martin2877 / btab](https://github.com/Martin2877/btab) - Blue team analyisis box is a tool for blue team security analyisis.
 * 【2023-08-04】[AllStarCodeOrg / week3.day1.userInput](https://github.com/AllStarCodeOrg/week3.day1.userInput) - 
@@ -774,6 +791,8 @@
 
 ## Unknown
 
+* 【2023-08-06】[techiescamp / devops-tools](https://github.com/techiescamp/devops-tools) - Curated List of Best DevOps Tools
+* 【2023-08-06】[abbodi1406 / vcredist](https://github.com/abbodi1406/vcredist) - AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
 * 【2023-08-05】[The-Code-Dose / html-css-challenges](https://github.com/The-Code-Dose/html-css-challenges) - A collection of beginner friendly practice exercises on HTML & CSS topics.
 * 【2023-08-05】[BlueArchiveCN / Anti-Harmony](https://github.com/BlueArchiveCN/Anti-Harmony) - This is a blue archive China server anti-harmony warehouse
 * 【2023-08-04】[CodingAIDatasets / DEX-Triangular-Arbitrage-Bot-V5-Bot](https://github.com/CodingAIDatasets/DEX-Triangular-Arbitrage-Bot-V5-Bot) - Our open-source JavaScript bot performs Triangular Arbitrage on DEX's, allowing you to maximize your profits. Easy to use and effective, start trading better.
