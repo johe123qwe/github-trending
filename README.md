@@ -235,6 +235,7 @@
 
 ## Python
 
+* 【2023-08-08】[MeetKai / functionary](https://github.com/MeetKai/functionary) - Chat language model that can interpret and execute functions/plugins
 * 【2023-08-07】[BishopFox / CVE-2023-3519](https://github.com/BishopFox/CVE-2023-3519) - RCE exploit for CVE-2023-3519
 * 【2023-08-07】[YiVal / YiVal](https://github.com/YiVal/YiVal) - AI evaluation tool for streamlined and comprehensive comparison of prompts, models, and parameters across various modalities
 * 【2023-08-07】[daprofiler / DaProfiler](https://github.com/daprofiler/DaProfiler) - DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net. DaProfiler is indeed able to recover: Addresses, Social media accounts, e-mail addresses, mobile / landline number, jobs. On a specified subject in a limited time. DaProfiler is desi…
