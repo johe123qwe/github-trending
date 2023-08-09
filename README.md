@@ -371,6 +371,7 @@
 
 ## Javascript
 
+* 【2023-08-09】[MuiseDestiny / style-for-zotero](https://github.com/MuiseDestiny/style-for-zotero) - A Zotero plugin for creating a personal Zotero Style.
 * 【2023-08-08】[paradite / frontend-encyclopedia](https://github.com/paradite/frontend-encyclopedia) - Frontend Encyclopedia
 * 【2023-08-08】[MuiseDestiny / ethereal](https://github.com/MuiseDestiny/ethereal) - A Zotero plugin for creating a personal Zotero Style.
 * 【2023-08-07】[layer5io / layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
