@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2023-08-19】[qiuyu96 / CoDeF](https://github.com/qiuyu96/CoDeF) - Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
+* 【2023-08-19】[digininja / DVWA](https://github.com/digininja/DVWA) - Damn Vulnerable Web Application (DVWA)
 * 【2023-08-18】[getumbrel / llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.
 * 【2023-08-18】[apple / ml-fastvit](https://github.com/apple/ml-fastvit) - This repository contains the official implementation of the research paper, "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization"
 * 【2023-08-18】[systeminit / si](https://github.com/systeminit/si) - The System Initiative software
@@ -92,6 +94,7 @@
 
 ## Java
 
+* 【2023-08-19】[jwtk / jjwt](https://github.com/jwtk/jjwt) - Java JWT: JSON Web Token for Java and Android
 * 【2023-08-18】[snowflakedb / snowflake-jdbc](https://github.com/snowflakedb/snowflake-jdbc) - Snowflake JDBC Driver
 * 【2023-08-18】[microsoft / mssql-jdbc](https://github.com/microsoft/mssql-jdbc) - The Microsoft JDBC Driver for SQL Server is a Type 4 JDBC driver that provides database connectivity with SQL Server through the standard JDBC application program interfaces (APIs).
 * 【2023-08-14】[apache / storm](https://github.com/apache/storm) - Apache Storm
@@ -109,6 +112,8 @@
 
 ## Python
 
+* 【2023-08-19】[arielnlee / Platypus](https://github.com/arielnlee/Platypus) - Code for fine-tuning Platypus fam LLMs using LoRA
+* 【2023-08-19】[silvanmelchior / IncognitoPilot](https://github.com/silvanmelchior/IncognitoPilot) - An AI code interpreter for sensitive data, powered by GPT-4 or Llama 2.
 * 【2023-08-18】[RobustNLP / CipherChat](https://github.com/RobustNLP/CipherChat) - A framework to evaluate the generalization capability of safety alignment for LLMs
 * 【2023-08-18】[google / visualblocks](https://github.com/google/visualblocks) - Visual Blocks for ML is a Google visual programming framework that lets you create ML pipelines in a no-code graph editor. You – and your users – can quickly prototype workflows by connecting drag-and-drop ML components, including models, user inputs, processors, and visualizations.
 * 【2023-08-18】[eliben / pycparser](https://github.com/eliben/pycparser) - 🐍 Complete C99 parser in pure Python
@@ -164,6 +169,8 @@
 
 ## Javascript
 
+* 【2023-08-19】[yonggekkk / Cloudflare-workers-pages-vless](https://github.com/yonggekkk/Cloudflare-workers-pages-vless) - cf-worker-pages-vless脚本、CF-CDN优选域名、优选反代IP多平台一键脚本。懒人小白必备的vless代理神器
+* 【2023-08-19】[mistymntncop / CVE-2023-3079](https://github.com/mistymntncop/CVE-2023-3079) - 
 * 【2023-08-18】[robinkarlberg / transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web) - Transfer files securely between browsers using WebRTC peer2peer
 * 【2023-08-18】[auth0-samples / auth0-react-samples](https://github.com/auth0-samples/auth0-react-samples) - Auth0 Integration Samples for React Applications
 * 【2023-08-18】[openstyles / stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
@@ -206,6 +213,7 @@
 
 ## Go
 
+* 【2023-08-19】[tailwarden / komiser](https://github.com/tailwarden/komiser) - Build your cloud asset inventory and break down your cost at the resource level💰
 * 【2023-08-18】[ankitpokhrel / jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥Feature-rich interactive Jira command line.
 * 【2023-08-18】[wasmerio / wasmer-go](https://github.com/wasmerio/wasmer-go) - 🐹🕸️WebAssembly runtime for Go
 * 【2023-08-17】[Jinnrry / PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
@@ -230,6 +238,7 @@
 
 ## C
 
+* 【2023-08-19】[ipxe / ipxe](https://github.com/ipxe/ipxe) - iPXE network bootloader
 * 【2023-08-18】[InJeCTrL / ClickRun](https://github.com/InJeCTrL/ClickRun) - ClickRun鼠标连点器
 * 【2023-08-18】[nxp-imx / linux-imx](https://github.com/nxp-imx/linux-imx) - i.MX Linux kernel
 * 【2023-08-17】[immortalwrt-collections / lean-lede](https://github.com/immortalwrt-collections/lean-lede) - Mirror of Lean's OpenWrt Source
@@ -269,6 +278,7 @@
 
 ## C++
 
+* 【2023-08-19】[S12cybersecurity / RDPCredentialStealer](https://github.com/S12cybersecurity/RDPCredentialStealer) - RDPCredentialStealer it's a malware that steal credentials provided by users in RDP using API Hooking with Detours in C++
 * 【2023-08-18】[OpenImageIO / oiio](https://github.com/OpenImageIO/oiio) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
 * 【2023-08-17】[ShorSec / DllNotificationInjection](https://github.com/ShorSec/DllNotificationInjection) - A POC of a new “threadless” process injection technique that works by utilizing the concept of DLL Notification Callbacks in local and remote processes.
 * 【2023-08-16】[chaitin / safeline](https://github.com/chaitin/safeline) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
@@ -292,6 +302,8 @@
 
 ## C#
 
+* 【2023-08-19】[bunszr / Mesh-Peeling](https://github.com/bunszr/Mesh-Peeling) - 
+* 【2023-08-19】[PlagueVRC / AntiRip](https://github.com/PlagueVRC/AntiRip) - AntiRip (Kanna Protecc) - Free and insanely strong VRChat Anti Rip. Let us rid of rippers, together.
 * 【2023-08-18】[scrtwpns / mixbox](https://github.com/scrtwpns/mixbox) - Mixbox is a library for natural color mixing based on real pigments.
 * 【2023-08-18】[microsoft / Oryx](https://github.com/microsoft/Oryx) - Build your repo automatically.
 * 【2023-08-17】[microsoft / semantic-memory](https://github.com/microsoft/semantic-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations.
@@ -359,6 +371,11 @@
 
 ## Css
 
+* 【2023-08-19】[apna-college / Delta-Projects](https://github.com/apna-college/Delta-Projects) - All Delta students can create a PR to this repo to merge their projects.
+* 【2023-08-19】[cleitonmendonca / instagram](https://github.com/cleitonmendonca/instagram) - Tela de login do instragram
+* 【2023-08-19】[shashikanth-t / digital](https://github.com/shashikanth-t/digital) - digital marketing website
+* 【2023-08-19】[hasan-py / MERN_Stack_Project_Ecommerce_Hayroo](https://github.com/hasan-py/MERN_Stack_Project_Ecommerce_Hayroo) - E-commerce Website | Reactjs | Nodejs | Mongodb | Expressjs | JWT | Tailwind Css
+* 【2023-08-19】[shashikanth-t / knights](https://github.com/shashikanth-t/knights) - knights website
 * 【2023-08-18】[vendorsec / mvsp](https://github.com/vendorsec/mvsp) - Minimum Viable Secure Product mvsp.dev
 * 【2023-08-18】[Gentleman-Programming / React_Desde_0_Avanzado](https://github.com/Gentleman-Programming/React_Desde_0_Avanzado) - 
 * 【2023-08-18】[tejusmdn / Cafe_Coming_Soon](https://github.com/tejusmdn/Cafe_Coming_Soon) - 
@@ -404,6 +421,8 @@
 
 ## Unknown
 
+* 【2023-08-19】[readyplayerme / animation-library](https://github.com/readyplayerme/animation-library) - Ready Player Me Animation Library
+* 【2023-08-19】[bnb-chain / whitepaper](https://github.com/bnb-chain/whitepaper) - BNB Smart Chain
 * 【2023-08-18】[EuropeanRemote / european-remote-software-companies](https://github.com/EuropeanRemote/european-remote-software-companies) - List of the remote software companies hiring in Europe
 * 【2023-08-18】[thunder439 / QNASMINI](https://github.com/thunder439/QNASMINI) - QNAS MINI是6盘位2.5寸NAS
 * 【2023-08-18】[djytmdj / Network-security-study-notes](https://github.com/djytmdj/Network-security-study-notes) - 主要记录网络安全学习笔记，包含WEB基础、提权、APP渗透、内网横向移动、工具学习等
