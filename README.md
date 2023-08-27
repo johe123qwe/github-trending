@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2023-08-27】[mehdihadeli / go-ecommerce-microservices](https://github.com/mehdihadeli/go-ecommerce-microservices) - 🧺 A practical e-commerce microservices, built with golang, domain-driven design, cqrs, event sourcing, vertical slice architecture, event-driven architecture, and the latest technologies.
+* 【2023-08-27】[microsoft / lida](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models
+* 【2023-08-27】[paritytech / polkadot-sdk](https://github.com/paritytech/polkadot-sdk) - The Parity Polkadot Blockchain SDK
 * 【2023-08-26】[facebookresearch / codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 * 【2023-08-26】[QwenLM / Qwen-VL](https://github.com/QwenLM/Qwen-VL) - The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.
 * 【2023-08-26】[acheong08 / rev-obsidian-sync](https://github.com/acheong08/rev-obsidian-sync) - Reverse engineering of Obsidian sync server
@@ -122,6 +125,7 @@
 
 ## Java
 
+* 【2023-08-27】[Julow / Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 * 【2023-08-26】[OWASP / wrongsecrets](https://github.com/OWASP/wrongsecrets) - Vulnerable app with examples showing how to not use secrets
 * 【2023-08-26】[zfdang / Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
 * 【2023-08-26】[graphql-java / graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
@@ -155,6 +159,7 @@
 
 ## Python
 
+* 【2023-08-27】[fastapi-users / fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
 * 【2023-08-26】[Plachtaa / VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
 * 【2023-08-26】[stephansturges / WALDO](https://github.com/stephansturges/WALDO) - Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA in FOSS AI for drones!
 * 【2023-08-26】[mechsihao / FaissSearcher](https://github.com/mechsihao/FaissSearcher) - a common faiss searcher
@@ -238,6 +243,8 @@
 
 ## Javascript
 
+* 【2023-08-27】[szimek / sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+* 【2023-08-27】[EddieHubCommunity / BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 * 【2023-08-26】[LiteLoaderQQNT / LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) - QQNT的插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源
 * 【2023-08-26】[jasmine / jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
 * 【2023-08-25】[ahsan-chy / React-JS-Advance-Folder-Structure](https://github.com/ahsan-chy/React-JS-Advance-Folder-Structure) - React JS Advanced Folder Structure - Boilerplate
@@ -331,6 +338,7 @@
 
 ## C
 
+* 【2023-08-27】[json-c / json-c](https://github.com/json-c/json-c) - https://github.com/json-c/json-c is the official code repository for json-c. See the wiki for release tarballs for download. API docs at http://json-c.github.io/json-c/
 * 【2023-08-26】[paxo-phone / paxos_8](https://github.com/paxo-phone/paxos_8) - 
 * 【2023-08-25】[0x90 / wifi-arsenal](https://github.com/0x90/wifi-arsenal) - WiFi arsenal
 * 【2023-08-25】[pgaudit / pgaudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension
@@ -380,6 +388,8 @@
 
 ## C++
 
+* 【2023-08-27】[Octoberfest7 / CVE-2023-36874_BOF](https://github.com/Octoberfest7/CVE-2023-36874_BOF) - Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE
+* 【2023-08-27】[shuai132 / rpc_core](https://github.com/shuai132/rpc_core) - a tiny c++11 rpc library, support all platform even microchips(Arduino、STM32、ESP32/ESP8266 ...)
 * 【2023-08-26】[chaitin / SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
 * 【2023-08-26】[goldendict / goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.
 * 【2023-08-25】[Wh04m1001 / CVE-2023-36874](https://github.com/Wh04m1001/CVE-2023-36874) - 
@@ -459,6 +469,7 @@
 
 ## Html
 
+* 【2023-08-27】[brunoborges / rinha-app](https://github.com/brunoborges/rinha-app) - 
 * 【2023-08-26】[WordPress / twentytwentyfour](https://github.com/WordPress/twentytwentyfour) - 
 * 【2023-08-26】[05Konz / Blooket-Cheats](https://github.com/05Konz/Blooket-Cheats) - An upload of Minesraft2's Blooket Cheats due to the cease and desist
 * 【2023-08-25】[OCA / stock-logistics-workflow](https://github.com/OCA/stock-logistics-workflow) - Odoo Stock, Workflow and Organization
@@ -568,6 +579,11 @@
 
 ## Unknown
 
+* 【2023-08-27】[yaelwrites / Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
+* 【2023-08-27】[opentffoundation / roadmap](https://github.com/opentffoundation/roadmap) - 
+* 【2023-08-27】[xjorma / EarthMeshHoudini](https://github.com/xjorma/EarthMeshHoudini) - Generate real world meshes in Houdini using the Google API.
+* 【2023-08-27】[Nitin96Bisht / System-Design](https://github.com/Nitin96Bisht/System-Design) - System Design and Design Pattern Books
+* 【2023-08-27】[Paitesanshi / LLM-Agent-Survey](https://github.com/Paitesanshi/LLM-Agent-Survey) - 
 * 【2023-08-26】[eddlez / litiaotiao_package_backup](https://github.com/eddlez/litiaotiao_package_backup) - 李跳跳APK包备份
 * 【2023-08-26】[avito-tech / backend-trainee-assignment-2023](https://github.com/avito-tech/backend-trainee-assignment-2023) - 
 * 【2023-08-25】[LearningKijo / SecurityResearcher-Note](https://github.com/LearningKijo/SecurityResearcher-Note) - Cover various security approaches to attack techniques and also provides new discoveries about security breaches.
