@@ -9,6 +9,13 @@
 
 ## All language
 
+* 【2023-08-31】[facebookresearch / nougat](https://github.com/facebookresearch/nougat) - Implementation of Nougat Neural Optical Understanding for Academic Documents
+* 【2023-08-31】[Roblox / creator-docs](https://github.com/Roblox/creator-docs) - Open Source Creator Documentation
+* 【2023-08-31】[langfuse / langfuse](https://github.com/langfuse/langfuse) - Open source observability and analytics for LLM applications
+* 【2023-08-31】[webstudio-is / webstudio](https://github.com/webstudio-is/webstudio) - 🖌 Webstudio Visual Builder
+* 【2023-08-31】[guidance-ai / guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
+* 【2023-08-31】[stanfordnlp / dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming with foundation models
+* 【2023-08-31】[gradle / gradle](https://github.com/gradle/gradle) - Adaptable, fast automation for all
 * 【2023-08-30】[BEPb / BEPb](https://github.com/BEPb/BEPb) - Config files for my GitHub profile.
 * 【2023-08-30】[withfig / autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 * 【2023-08-30】[edarchimbaud / awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
@@ -130,6 +137,7 @@
 
 ## Java
 
+* 【2023-08-31】[redplanetlabs / twitter-scale-mastodon](https://github.com/redplanetlabs/twitter-scale-mastodon) - Twitter-scale Mastodon implementation in only 10k lines of code
 * 【2023-08-30】[steve-community / steve](https://github.com/steve-community/steve) - SteVe - OCPP server implementation in Java
 * 【2023-08-28】[kiegroup / kie-tools](https://github.com/kiegroup/kie-tools) - Tools for KIE
 * 【2023-08-27】[Julow / Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
@@ -166,6 +174,7 @@
 
 ## Python
 
+* 【2023-08-31】[W01fh4cker / VcenterKit](https://github.com/W01fh4cker/VcenterKit) - Vcenter综合渗透利用工具包 | Vcenter Comprehensive Penetration and Exploitation Toolkit
 * 【2023-08-30】[openvinotoolkit / anomalib](https://github.com/openvinotoolkit/anomalib) - An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.
 * 【2023-08-30】[miloyip / game-programmer](https://github.com/miloyip/game-programmer) - A Study Path for Game Programmer
 * 【2023-08-30】[ignis-sec / CVE-2023-38831-RaRCE](https://github.com/ignis-sec/CVE-2023-38831-RaRCE) - An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23
@@ -258,6 +267,7 @@
 
 ## Javascript
 
+* 【2023-08-31】[94xy / miniprogram-privacy](https://github.com/94xy/miniprogram-privacy) - 小程序用户隐私保护授权弹窗组件
 * 【2023-08-30】[i18next / react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 * 【2023-08-30】[palxiao / poster-design](https://github.com/palxiao/poster-design) - 一款漂亮且功能强大的在线图片设计器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等，让设计更简单！A beautiful online image designer, suitable for various scenarios like generate posters, making design easier.
 * 【2023-08-29】[levinunnink / html-form-to-google-sheet](https://github.com/levinunnink/html-form-to-google-sheet) - How to submit HTML forms to Google Sheets. (Updated for 2023 Script Editor)
@@ -321,6 +331,7 @@
 
 ## Go
 
+* 【2023-08-31】[antlabs / quickws](https://github.com/antlabs/quickws) - 高性能websocket库, Callback写法
 * 【2023-08-30】[hybridgroup / gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
 * 【2023-08-28】[osteele / gojekyll](https://github.com/osteele/gojekyll) - A fast Go implementation of the Jekyll blogging engine
 * 【2023-08-26】[Databingo / aih](https://github.com/Databingo/aih) - Talk to AI models in terminal. (Bard | ChatGPT | Claude 2 | Llama 2 | API | Golang | CLI | Google | HuggingChat | Command line | Together | At Same Time | Simultaneously | Concurrently | Thought2Source)
@@ -360,6 +371,9 @@
 
 ## C
 
+* 【2023-08-31】[lastpass / lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
+* 【2023-08-31】[gabriellandau / EDRSandblast-GodFault](https://github.com/gabriellandau/EDRSandblast-GodFault) - EDRSandblast-GodFault
+* 【2023-08-31】[Azure / azure-c-shared-utility](https://github.com/Azure/azure-c-shared-utility) - Azure C SDKs common code
 * 【2023-08-29】[liam-ilan / crumb](https://github.com/liam-ilan/crumb) - The Crumb Programming Language
 * 【2023-08-28】[tsoding / musializer](https://github.com/tsoding/musializer) - Music Visualizer
 * 【2023-08-28】[rswier / c4](https://github.com/rswier/c4) - C in four functions
@@ -413,6 +427,7 @@
 
 ## C++
 
+* 【2023-08-31】[Alwaysssssss / nndeploy](https://github.com/Alwaysssssss/nndeploy) - nndeploy是一款最新上线的支持多平台、简单易用、高性能的机器学习部署框架，一套实现可在多端(云、边、端)完成模型的高性能部署。
 * 【2023-08-30】[hanickadot / compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) - Compile Time Regular Expression in C++
 * 【2023-08-29】[florylsk / NtRemoteLoad](https://github.com/florylsk/NtRemoteLoad) - Remote Shellcode Injector
 * 【2023-08-27】[Octoberfest7 / CVE-2023-36874_BOF](https://github.com/Octoberfest7/CVE-2023-36874_BOF) - Weaponized CobaltStrike BOF for CVE-2023-36874 Windows Error Reporting LPE
@@ -498,6 +513,7 @@
 
 ## Html
 
+* 【2023-08-31】[kananinirav / AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes) - AWS Certified Cloud Practitioner Short Notes And Practice Exams
 * 【2023-08-30】[mthcht / ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) - Awesome list of keywords for Threat Hunting sessions
 * 【2023-08-29】[wangzhe3224 / awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 * 【2023-08-27】[brunoborges / rinha-app](https://github.com/brunoborges/rinha-app) - 
@@ -547,6 +563,9 @@
 
 ## Css
 
+* 【2023-08-31】[truong-van-an / totinhcrush](https://github.com/truong-van-an/totinhcrush) - 
+* 【2023-08-31】[WebStackAcademy2023 / WSA-Internship](https://github.com/WebStackAcademy2023/WSA-Internship) - 
+* 【2023-08-31】[interactive-structures / pui-materials](https://github.com/interactive-structures/pui-materials) - 
 * 【2023-08-30】[kevinsullivan / cs2120f23](https://github.com/kevinsullivan/cs2120f23) - UVa Discrete Mathematics CS2120 Fall 2023
 * 【2023-08-30】[joy-of-react / project-wordle](https://github.com/joy-of-react/project-wordle) - 
 * 【2023-08-30】[SamPandey001 / Secktor-Qr-Md](https://github.com/SamPandey001/Secktor-Qr-Md) - Secktor userbot's session generator
@@ -616,6 +635,9 @@
 
 ## Unknown
 
+* 【2023-08-31】[CoderRonX / JavaScript-Triangular-Arbitrage-Bot-V5-for-DEXs](https://github.com/CoderRonX/JavaScript-Triangular-Arbitrage-Bot-V5-for-DEXs) - Get ahead of the game with our 100% JavaScript bot that performs Triangular Arbitrage on DEX's. Open-source and reliable, start earning more today!
+* 【2023-08-31】[magic-research / magic-avatar](https://github.com/magic-research/magic-avatar) - MagicAvatar: Multimodal Avatar Generation and Animation
+* 【2023-08-31】[knight0x07 / WinRAR-Code-Execution-Vulnerability-CVE-2023-38831](https://github.com/knight0x07/WinRAR-Code-Execution-Vulnerability-CVE-2023-38831) - Understanding WinRAR Code Execution Vulnerability (CVE-2023-38831)
 * 【2023-08-30】[aman0046 / LastMinuteRevision-OOP](https://github.com/aman0046/LastMinuteRevision-OOP) - Here is the last minute revision notes of Object Oriented Programming
 * 【2023-08-30】[magic-research / magic-edit](https://github.com/magic-research/magic-edit) - MagicEdit: High-Fidelity Temporally Coherent Video Editing
 * 【2023-08-29】[rodolfomarianocy / OSCP-Tricks-2023](https://github.com/rodolfomarianocy/OSCP-Tricks-2023) - OSCP 2023 Preparation Guide | Courses, Tricks, Tutorials, Exercises, Machines
