@@ -9,6 +9,11 @@
 
 ## All language
 
+* 【2023-09-08】[baichuan-inc / Baichuan2](https://github.com/baichuan-inc/Baichuan2) - A series of large language models developed by Baichuan Intelligent Technology
+* 【2023-09-08】[aripiprazole / rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
+* 【2023-09-08】[leandromoreira / linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
+* 【2023-09-08】[ptahdao / lmr-partners](https://github.com/ptahdao/lmr-partners) - 
+* 【2023-09-08】[mshumer / gpt-author](https://github.com/mshumer/gpt-author) - 
 * 【2023-09-07】[opentffoundation / opentf](https://github.com/opentffoundation/opentf) - OpenTF lets you declaratively manage your cloud infrastructure.
 * 【2023-09-07】[run-llama / sec-insights](https://github.com/run-llama/sec-insights) - A real world full-stack application using LlamaIndex
 * 【2023-09-07】[EmNudge / watlings](https://github.com/EmNudge/watlings) - Learn WebAssembly by writing small programs!
@@ -161,6 +166,8 @@
 
 ## Java
 
+* 【2023-09-08】[eclipse / jetty.project](https://github.com/eclipse/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
+* 【2023-09-08】[microsoft / ApplicationInsights-Java](https://github.com/microsoft/ApplicationInsights-Java) - Application Insights for Java
 * 【2023-09-07】[mas-elkhanza / SIMRS-Khanza](https://github.com/mas-elkhanza/SIMRS-Khanza) - Software untuk rumah sakit, klinik, puskesmas, dokter pribadi yang sudah digunakan di lebih dari 1000 rumah sakit di sluruh indonesia
 * 【2023-09-07】[fuhao0536 / box-im-master](https://github.com/fuhao0536/box-im-master) - 
 * 【2023-09-07】[jaygajera17 / E-commerce-project-springBoot](https://github.com/jaygajera17/E-commerce-project-springBoot) - This a web application Java Based Beginner level project To developing the e-commerce website to Buy/sell the Food Item. We use the Spring Boot to build the back-end part
@@ -206,6 +213,11 @@
 
 ## Python
 
+* 【2023-09-08】[Azure / azure-cli-extensions](https://github.com/Azure/azure-cli-extensions) - Public Repository for Extensions of Azure CLI.
+* 【2023-09-08】[modelscope / modelscope-agent](https://github.com/modelscope/modelscope-agent) - ModelScope-Agent: An agent framework connecting models in ModelScope with the world
+* 【2023-09-08】[weaviate / Verba](https://github.com/weaviate/Verba) - Retrieval Augmented Generation (RAG) chatbot powered by Weaviate
+* 【2023-09-08】[ECTO-1A / AppleJuice](https://github.com/ECTO-1A/AppleJuice) - Apple BLE proximity pairing message spoofing
+* 【2023-09-08】[BerriAI / litellm](https://github.com/BerriAI/litellm) - lightweight package to simplify LLM API calls - Azure, OpenAI, Cohere, Anthropic, Replicate. Manages input/output translation
 * 【2023-09-07】[XPixelGroup / DiffBIR](https://github.com/XPixelGroup/DiffBIR) - 
 * 【2023-09-07】[databricks / databricks-ml-examples](https://github.com/databricks/databricks-ml-examples) - 
 * 【2023-09-07】[smallcloudai / refact](https://github.com/smallcloudai/refact) - 🤖 Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more!
@@ -317,6 +329,9 @@
 
 ## Javascript
 
+* 【2023-09-08】[hotwired / turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
+* 【2023-09-08】[developer-job-simulation / javascript-login-form](https://github.com/developer-job-simulation/javascript-login-form) - 
+* 【2023-09-08】[hiteshchoudhary / chai-aur-react](https://github.com/hiteshchoudhary/chai-aur-react) - chai aur react series on youtube
 * 【2023-09-07】[akshaymarch7 / netflix-gpt](https://github.com/akshaymarch7/netflix-gpt) - 
 * 【2023-09-07】[mwilliamson / mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
 * 【2023-09-05】[Maplemx / Agently](https://github.com/Maplemx/Agently) - 🚀 A fast way to build LLM Agent based Application 🤵 A light weight framework helps developers to create amazing LLM based applications. 🎭 You can use it to create an LLM based agent instance with role set and memory easily. ⚙️ You can use Agently agent instance just like an async function and put it anywhere in your code.
@@ -448,6 +463,7 @@
 
 ## C
 
+* 【2023-09-08】[ddosify / alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring
 * 【2023-09-07】[zevv / bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
 * 【2023-09-07】[Y3A / CVE-2023-28229](https://github.com/Y3A/CVE-2023-28229) - 
 * 【2023-09-07】[adrianseeley / FastMJPG](https://github.com/adrianseeley/FastMJPG) - FastMJPG is a command line tool for capturing, sending, receiving, rendering, piping, and recording MJPG video with extremely low latency. It is optimized for running on constrained hardware and battery powered devices.
@@ -515,6 +531,7 @@
 
 ## C++
 
+* 【2023-09-08】[google-deepmind / mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
 * 【2023-09-07】[aras-p / UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting) - Toy Gaussian Splatting visualization in Unity
 * 【2023-09-07】[rasta-mouse / SCMUACBypass](https://github.com/rasta-mouse/SCMUACBypass) - 
 * 【2023-09-05】[pbek / QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
@@ -563,6 +580,7 @@
 
 ## C#
 
+* 【2023-09-08】[bitfoundation / bitplatform](https://github.com/bitfoundation/bitplatform) - Build everything for everywhere using what you already know and love ❤️
 * 【2023-09-07】[xuetaolu / URP_ASE_Tutorial](https://github.com/xuetaolu/URP_ASE_Tutorial) - Amplify Shader Editor Tutorial with Universal Render Pipeline
 * 【2023-09-07】[ascpixi / smolsharp](https://github.com/ascpixi/smolsharp) - 🐜 Extremely small standalone C# executables using NativeAOT
 * 【2023-09-07】[googleads / googleads-mobile-unity](https://github.com/googleads/googleads-mobile-unity) - Official Unity Plugin for the Google Mobile Ads SDK
@@ -616,6 +634,7 @@
 
 ## Html
 
+* 【2023-09-08】[platzi / curso-react-intro](https://github.com/platzi/curso-react-intro) - 
 * 【2023-09-07】[hammadojh / Web-Dev-Course](https://github.com/hammadojh/Web-Dev-Course) - Contains the course files and exercises
 * 【2023-09-07】[lonnyzhang423 / weibo-hot-hub](https://github.com/lonnyzhang423/weibo-hot-hub) - 记录微博热搜、热门话题，每小时更新，按天归档。
 * 【2023-09-05】[ballerina-platform / ballerina-dev-website](https://github.com/ballerina-platform/ballerina-dev-website) - Dev version of the ballerina.io website
@@ -677,6 +696,12 @@
 
 ## Css
 
+* 【2023-09-08】[supabase / gotrue-js](https://github.com/supabase/gotrue-js) - An isomorphic Javascript library for GoTrue.
+* 【2023-09-08】[sure-trust / G14_FSD](https://github.com/sure-trust/G14_FSD) - 
+* 【2023-09-08】[intel / appframework](https://github.com/intel/appframework) - The definitive HTML5 mobile javascript framework
+* 【2023-09-08】[developer-job-simulation / javascript-landing-page](https://github.com/developer-job-simulation/javascript-landing-page) - 
+* 【2023-09-08】[javaee / tutorial](https://github.com/javaee/tutorial) - The Java EE Tutorial
+* 【2023-09-08】[minamarkham / sassy-starter](https://github.com/minamarkham/sassy-starter) - 🎉 Sassy starter - HTML / SCSS (SMACSS)
 * 【2023-09-07】[codedlabs / UC-web-cw-6](https://github.com/codedlabs/UC-web-cw-6) - 
 * 【2023-09-07】[CartWebApp / cart-profile](https://github.com/CartWebApp/cart-profile) - Cart Profile Example Code
 * 【2023-09-07】[ue12-p23 / intro](https://github.com/ue12-p23/intro) - 
@@ -760,6 +785,9 @@
 
 ## Unknown
 
+* 【2023-09-08】[protosphinx / in](https://github.com/protosphinx/in) - 
+* 【2023-09-08】[mitre / caldera-ot](https://github.com/mitre/caldera-ot) - Caldera OT Plugin & Capabilities
+* 【2023-09-08】[madebygps / projects](https://github.com/madebygps/projects) - 
 * 【2023-09-07】[farhanashrafdev / 90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity) - This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md
 * 【2023-09-07】[runningcheese / MirrorSite](https://github.com/runningcheese/MirrorSite) - 镜像网站合集
 * 【2023-09-07】[LetsDefend / awesome-soc-analyst](https://github.com/LetsDefend/awesome-soc-analyst) - Useful resources for SOC Analyst and SOC Analyst candidates.
