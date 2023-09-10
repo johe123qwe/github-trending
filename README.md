@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2023-09-10】[Ironclad / rivet](https://github.com/Ironclad/rivet) - AI agent and prompt chaining IDE and library
 * 【2023-09-09】[bradtraversy / traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges) - Challenges & docs from JS Algorithms & Data Structures course
 * 【2023-09-09】[eth-infinitism / account-abstraction](https://github.com/eth-infinitism/account-abstraction) - 
 * 【2023-09-09】[vant-ui / vant-demo](https://github.com/vant-ui/vant-demo) - Collection of vant demos.
@@ -219,6 +220,13 @@
 
 ## Python
 
+* 【2023-09-10】[sensity-ai / dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
+* 【2023-09-10】[camel-ai / camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+* 【2023-09-10】[hkchengrex / Tracking-Anything-with-DEVA](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) - [ICCV 2023] Tracking Anything with Decoupled Video Segmentation
+* 【2023-09-10】[persimmon-ai-labs / adept-inference](https://github.com/persimmon-ai-labs/adept-inference) - Inference code for Persimmon-8B
+* 【2023-09-10】[yaronzz / Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
+* 【2023-09-10】[liwenxi / SWIFT-AI](https://github.com/liwenxi/SWIFT-AI) - A fast gigapixel processing system
+* 【2023-09-10】[cyrus-and / gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 * 【2023-09-09】[aws-powertools / powertools-lambda-python](https://github.com/aws-powertools/powertools-lambda-python) - A developer toolkit to implement Serverless best practices and increase developer velocity.
 * 【2023-09-09】[OpenGVLab / LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
 * 【2023-09-09】[Limitly / Free-Copilot](https://github.com/Limitly/Free-Copilot) - Get Github Copilot for free
@@ -421,6 +429,10 @@
 
 ## Go
 
+* 【2023-09-10】[keybase / client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+* 【2023-09-10】[deepfence / PacketStreamer](https://github.com/deepfence/PacketStreamer) - ⭐ ⭐ Distributed tcpdump for cloud native environments ⭐ ⭐
+* 【2023-09-10】[deepfence / YaraHunter](https://github.com/deepfence/YaraHunter) - 🔍🔍 Malware scanner for cloud-native, as part of CI/CD and at Runtime 🔍🔍
+* 【2023-09-10】[deepfence / SecretScanner](https://github.com/deepfence/SecretScanner) - 🔓 🔓 Find secrets and passwords in container images and file systems 🔓 🔓
 * 【2023-09-09】[sqlc-dev / sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 * 【2023-09-07】[rigdev / rig](https://github.com/rigdev/rig) - Rig.dev is a developer-centric application platform for Kubernetes.
 * 【2023-09-07】[oklog / ulid](https://github.com/oklog/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID) in Go
@@ -546,6 +558,7 @@
 
 ## C++
 
+* 【2023-09-10】[ModOrganizer2 / modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved
 * 【2023-09-09】[ChefKissInc / NootedRed](https://github.com/ChefKissInc/NootedRed) - Lilu plugin for AMD Vega iGPUs. No commercial use.
 * 【2023-09-09】[lammps / lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
 * 【2023-09-08】[google-deepmind / mujoco](https://github.com/google-deepmind/mujoco) - Multi-Joint dynamics with Contact. A general purpose physics simulator.
@@ -597,6 +610,7 @@
 
 ## C#
 
+* 【2023-09-10】[AnnulusGames / MagicTween](https://github.com/AnnulusGames/MagicTween) - Extremely fast tween library implemented in Unity ECS
 * 【2023-09-09】[MixedRealityToolkit / MixedRealityToolkit-Unity](https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity) - This repository holds the third generation of the Mixed Reality Toolkit for Unity. The latest version of the MRTK can be found here.
 * 【2023-09-08】[bitfoundation / bitplatform](https://github.com/bitfoundation/bitplatform) - Build everything for everywhere using what you already know and love ❤️
 * 【2023-09-07】[xuetaolu / URP_ASE_Tutorial](https://github.com/xuetaolu/URP_ASE_Tutorial) - Amplify Shader Editor Tutorial with Universal Render Pipeline
@@ -715,6 +729,7 @@
 
 ## Css
 
+* 【2023-09-10】[NYPL / digital-collections](https://github.com/NYPL/digital-collections) - repo for the "DC Facelift" project
 * 【2023-09-09】[professica / box-model-common-props](https://github.com/professica/box-model-common-props) - Starter files for the CSS box model and common properties activity in GIT215
 * 【2023-09-09】[devopsbyraham / jenkins-java-project](https://github.com/devopsbyraham/jenkins-java-project) - 
 * 【2023-09-08】[supabase / gotrue-js](https://github.com/supabase/gotrue-js) - An isomorphic Javascript library for GoTrue.
@@ -806,6 +821,8 @@
 
 ## Unknown
 
+* 【2023-09-10】[luban-agi / Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。
+* 【2023-09-10】[liuyuan-pal / SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer) - 
 * 【2023-09-09】[2TimesMeta / Javdb-Top250](https://github.com/2TimesMeta/Javdb-Top250) - Javdb.com top 250 movies collection
 * 【2023-09-09】[okcar-os / android](https://github.com/okcar-os/android) - 
 * 【2023-09-09】[alaskasquirrel / Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) - 播客 🎧 科讯、编程、设计、Vlog、音乐、访谈、博客...
