@@ -171,6 +171,9 @@
 
 ## Java
 
+* 【2023-09-11】[openremote / openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data
+* 【2023-09-11】[Card-Forge / forge](https://github.com/Card-Forge/forge) - An unofficial rules engine for the world's greatest card game.
+* 【2023-09-11】[Gedsh / InviZible](https://github.com/Gedsh/InviZible) - Android application for Internet privacy and security
 * 【2023-09-09】[apache / incubator-kie-optaplanner](https://github.com/apache/incubator-kie-optaplanner) - AI constraint solver in Java to optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling, conference scheduling and other planning problems.
 * 【2023-09-09】[linkedin / coral](https://github.com/linkedin/coral) - Coral is a translation, analysis, and query rewrite engine for SQL and other relational languages.
 * 【2023-09-08】[eclipse / jetty.project](https://github.com/eclipse/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
@@ -220,6 +223,7 @@
 
 ## Python
 
+* 【2023-09-11】[Textualize / textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
 * 【2023-09-10】[sensity-ai / dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
 * 【2023-09-10】[camel-ai / camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 * 【2023-09-10】[hkchengrex / Tracking-Anything-with-DEVA](https://github.com/hkchengrex/Tracking-Anything-with-DEVA) - [ICCV 2023] Tracking Anything with Decoupled Video Segmentation
@@ -346,6 +350,8 @@
 
 ## Javascript
 
+* 【2023-09-11】[wangrongding / github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
+* 【2023-09-11】[The-CodingSloth / haha-funny-leetcode-extension](https://github.com/The-CodingSloth/haha-funny-leetcode-extension) - 
 * 【2023-09-09】[ckolderup / postmarks](https://github.com/ckolderup/postmarks) - a single-user bookmarking website designed to live on the Fediverse
 * 【2023-09-09】[leeoniya / uDSV](https://github.com/leeoniya/uDSV) - A faster CSV parser in 5KB (min)
 * 【2023-09-09】[AllJavi / tartarus-startpage](https://github.com/AllJavi/tartarus-startpage) - Clean and functional startpage for firefox and chrome with material gruvbox style
@@ -429,6 +435,7 @@
 
 ## Go
 
+* 【2023-09-11】[Shpota / goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
 * 【2023-09-10】[keybase / client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 * 【2023-09-10】[deepfence / PacketStreamer](https://github.com/deepfence/PacketStreamer) - ⭐ ⭐ Distributed tcpdump for cloud native environments ⭐ ⭐
 * 【2023-09-10】[deepfence / YaraHunter](https://github.com/deepfence/YaraHunter) - 🔍🔍 Malware scanner for cloud-native, as part of CI/CD and at Runtime 🔍🔍
@@ -489,6 +496,7 @@
 
 ## C
 
+* 【2023-09-11】[nginx / unit](https://github.com/nginx/unit) - NGINX Unit – universal web app server – a lightweight and versatile open source server project that works as a reverse proxy, serves static assets, and runs applications in multiple languages.
 * 【2023-09-09】[ByteOverlord / Watch_Quake2](https://github.com/ByteOverlord/Watch_Quake2) - Quake 2 port for Apple Watch
 * 【2023-09-08】[ddosify / alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring
 * 【2023-09-07】[zevv / bucklespring](https://github.com/zevv/bucklespring) - Nostalgia bucklespring keyboard sound
@@ -610,6 +618,8 @@
 
 ## C#
 
+* 【2023-09-11】[SteamDesktopAuthenticatorrr / SteamDesktopAuthenticator](https://github.com/SteamDesktopAuthenticatorrr/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
+* 【2023-09-11】[LuemmelSec / PMP-Decrypter](https://github.com/LuemmelSec/PMP-Decrypter) - 
 * 【2023-09-10】[AnnulusGames / MagicTween](https://github.com/AnnulusGames/MagicTween) - Extremely fast tween library implemented in Unity ECS
 * 【2023-09-09】[MixedRealityToolkit / MixedRealityToolkit-Unity](https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity) - This repository holds the third generation of the Mixed Reality Toolkit for Unity. The latest version of the MRTK can be found here.
 * 【2023-09-08】[bitfoundation / bitplatform](https://github.com/bitfoundation/bitplatform) - Build everything for everywhere using what you already know and love ❤️
@@ -729,6 +739,7 @@
 
 ## Css
 
+* 【2023-09-11】[ning0818 / hexo-theme-ning](https://github.com/ning0818/hexo-theme-ning) - 一款简洁的Hexo主题
 * 【2023-09-10】[NYPL / digital-collections](https://github.com/NYPL/digital-collections) - repo for the "DC Facelift" project
 * 【2023-09-09】[professica / box-model-common-props](https://github.com/professica/box-model-common-props) - Starter files for the CSS box model and common properties activity in GIT215
 * 【2023-09-09】[devopsbyraham / jenkins-java-project](https://github.com/devopsbyraham/jenkins-java-project) - 
@@ -821,6 +832,10 @@
 
 ## Unknown
 
+* 【2023-09-11】[Kyuu-Ji / Awesome-Azure-Pentest](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest) - A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.
+* 【2023-09-11】[rf-peixoto / phishing_pot](https://github.com/rf-peixoto/phishing_pot) - A collection of phishing samples for researchers and detection developers.
+* 【2023-09-11】[dotnet / runtimelab](https://github.com/dotnet/runtimelab) - This repo is for experimentation and exploring new ideas that may or may not make it into the main dotnet/runtime repo.
+* 【2023-09-11】[fancy88 / iBook](https://github.com/fancy88/iBook) - 收藏一些电子书
 * 【2023-09-10】[luban-agi / Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。
 * 【2023-09-10】[liuyuan-pal / SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer) - 
 * 【2023-09-09】[2TimesMeta / Javdb-Top250](https://github.com/2TimesMeta/Javdb-Top250) - Javdb.com top 250 movies collection
