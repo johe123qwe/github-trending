@@ -9,6 +9,10 @@
 
 ## All language
 
+* 【2023-09-12】[eduard-permyakov / peredvizhnikov-engine](https://github.com/eduard-permyakov/peredvizhnikov-engine) - A fully lock-free game engine written in C++20
+* 【2023-09-12】[honojs / hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
+* 【2023-09-12】[openai-translator / openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+* 【2023-09-12】[DataTalksClub / machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - The code from the Machine Learning Bookcamp book and a free course based on the book
 * 【2023-09-10】[Ironclad / rivet](https://github.com/Ironclad/rivet) - AI agent and prompt chaining IDE and library
 * 【2023-09-09】[bradtraversy / traversy-js-challenges](https://github.com/bradtraversy/traversy-js-challenges) - Challenges & docs from JS Algorithms & Data Structures course
 * 【2023-09-09】[eth-infinitism / account-abstraction](https://github.com/eth-infinitism/account-abstraction) - 
@@ -223,6 +227,9 @@
 
 ## Python
 
+* 【2023-09-12】[codefuse-ai / MFTCoder](https://github.com/codefuse-ai/MFTCoder) - 
+* 【2023-09-12】[intelligent-machine-learning / dlrover](https://github.com/intelligent-machine-learning/dlrover) - DLRover: An Automatic Distributed Deep Learning System
+* 【2023-09-12】[jiayuzhang128 / FourStepPhaseShifting](https://github.com/jiayuzhang128/FourStepPhaseShifting) - Monocular Structured-Light 3D Reconstruction，⭐ if you like.
 * 【2023-09-11】[Textualize / textual-web](https://github.com/Textualize/textual-web) - Run TUIs and terminals in your browser
 * 【2023-09-10】[sensity-ai / dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
 * 【2023-09-10】[camel-ai / camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
@@ -350,6 +357,8 @@
 
 ## Javascript
 
+* 【2023-09-12】[processing / p5.js-web-editor](https://github.com/processing/p5.js-web-editor) - p5.js Web Editor, officially launched!
+* 【2023-09-12】[google / closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
 * 【2023-09-11】[wangrongding / github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 * 【2023-09-11】[The-CodingSloth / haha-funny-leetcode-extension](https://github.com/The-CodingSloth/haha-funny-leetcode-extension) - 
 * 【2023-09-09】[ckolderup / postmarks](https://github.com/ckolderup/postmarks) - a single-user bookmarking website designed to live on the Fediverse
@@ -496,6 +505,8 @@
 
 ## C
 
+* 【2023-09-12】[joshr120 / open-deck](https://github.com/joshr120/open-deck) - 
+* 【2023-09-12】[marcoslucianops / DeepStream-Yolo-Pose](https://github.com/marcoslucianops/DeepStream-Yolo-Pose) - NVIDIA DeepStream SDK 6.3 / 6.2 / 6.1.1 / 6.1 / 6.0.1 / 6.0 application for YOLO-Pose models
 * 【2023-09-11】[nginx / unit](https://github.com/nginx/unit) - NGINX Unit – universal web app server – a lightweight and versatile open source server project that works as a reverse proxy, serves static assets, and runs applications in multiple languages.
 * 【2023-09-09】[ByteOverlord / Watch_Quake2](https://github.com/ByteOverlord/Watch_Quake2) - Quake 2 port for Apple Watch
 * 【2023-09-08】[ddosify / alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring
@@ -566,6 +577,7 @@
 
 ## C++
 
+* 【2023-09-12】[OpenXRay / xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)
 * 【2023-09-10】[ModOrganizer2 / modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved
 * 【2023-09-09】[ChefKissInc / NootedRed](https://github.com/ChefKissInc/NootedRed) - Lilu plugin for AMD Vega iGPUs. No commercial use.
 * 【2023-09-09】[lammps / lammps](https://github.com/lammps/lammps) - Public development project of the LAMMPS MD software package
@@ -618,6 +630,7 @@
 
 ## C#
 
+* 【2023-09-12】[paolosalvatori / ServiceBusExplorer](https://github.com/paolosalvatori/ServiceBusExplorer) - The Service Bus Explorer allows users to connect to a Service Bus namespace and administer messaging entities in an easy manner. The tool provides advanced features like import/export functionality or the ability to test topic, queues, subscriptions, relay services, notification hubs and events hubs.
 * 【2023-09-11】[SteamDesktopAuthenticatorrr / SteamDesktopAuthenticator](https://github.com/SteamDesktopAuthenticatorrr/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app
 * 【2023-09-11】[LuemmelSec / PMP-Decrypter](https://github.com/LuemmelSec/PMP-Decrypter) - 
 * 【2023-09-10】[AnnulusGames / MagicTween](https://github.com/AnnulusGames/MagicTween) - Extremely fast tween library implemented in Unity ECS
@@ -676,6 +689,8 @@
 
 ## Html
 
+* 【2023-09-12】[mavroudisv / plain-academic](https://github.com/mavroudisv/plain-academic) - A truly simple website template for academics
+* 【2023-09-12】[HuXn-WebDev / React-With-10-Projects](https://github.com/HuXn-WebDev/React-With-10-Projects) - Master ReactJS By Building 10 Amazing Projects 💙
 * 【2023-09-09】[kagisearch / smallweb](https://github.com/kagisearch/smallweb) - Kagi Small Web
 * 【2023-09-08】[platzi / curso-react-intro](https://github.com/platzi/curso-react-intro) - 
 * 【2023-09-07】[hammadojh / Web-Dev-Course](https://github.com/hammadojh/Web-Dev-Course) - Contains the course files and exercises
@@ -739,6 +754,12 @@
 
 ## Css
 
+* 【2023-09-12】[intro-llm / intro-llm.github.io](https://github.com/intro-llm/intro-llm.github.io) - website
+* 【2023-09-12】[fvucemilo / beth-stack](https://github.com/fvucemilo/beth-stack) - A opinionated hypermedia-driven architecture balancing developer experience and performance.
+* 【2023-09-12】[jerrywu2013 / Web-Application](https://github.com/jerrywu2013/Web-Application) - HTML、CSS
+* 【2023-09-12】[ZainRk / RealEstate-web-starterpack](https://github.com/ZainRk/RealEstate-web-starterpack) - 
+* 【2023-09-12】[EducursosAp / html-css-ill-matterello](https://github.com/EducursosAp/html-css-ill-matterello) - Codigo realizado para el curso practico de repaso de Html y CSS en Educursos
+* 【2023-09-12】[imyelo / imyelo.github.com](https://github.com/imyelo/imyelo.github.com) - 
 * 【2023-09-11】[ning0818 / hexo-theme-ning](https://github.com/ning0818/hexo-theme-ning) - 一款简洁的Hexo主题
 * 【2023-09-10】[NYPL / digital-collections](https://github.com/NYPL/digital-collections) - repo for the "DC Facelift" project
 * 【2023-09-09】[professica / box-model-common-props](https://github.com/professica/box-model-common-props) - Starter files for the CSS box model and common properties activity in GIT215
@@ -832,6 +853,7 @@
 
 ## Unknown
 
+* 【2023-09-12】[oven-sh / awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 * 【2023-09-11】[Kyuu-Ji / Awesome-Azure-Pentest](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest) - A collection of resources, tools and more for penetration testing and securing Microsofts cloud platform Azure.
 * 【2023-09-11】[rf-peixoto / phishing_pot](https://github.com/rf-peixoto/phishing_pot) - A collection of phishing samples for researchers and detection developers.
 * 【2023-09-11】[dotnet / runtimelab](https://github.com/dotnet/runtimelab) - This repo is for experimentation and exploring new ideas that may or may not make it into the main dotnet/runtime repo.
