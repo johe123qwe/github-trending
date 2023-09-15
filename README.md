@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2023-09-15】[yoheinakajima / instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
+* 【2023-09-15】[godotengine / godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
+* 【2023-09-15】[nicolas-hbt / pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips
 * 【2023-09-14】[rocketseat-education / nlw-ai-mastery](https://github.com/rocketseat-education/nlw-ai-mastery) - 
 * 【2023-09-14】[FL33TW00D / whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Whisper on the web - turbocharged by your GPU 🏎️
 * 【2023-09-14】[dataelement / bisheng](https://github.com/dataelement/bisheng) - Bisheng is an open LLM devops platform for next generation AI applications.
@@ -241,6 +244,11 @@
 
 ## Python
 
+* 【2023-09-15】[ansible-collections / amazon.aws](https://github.com/ansible-collections/amazon.aws) - Ansible Collection for Amazon AWS
+* 【2023-09-15】[zhile-io / pandora](https://github.com/zhile-io/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT client that lets you breathe freely.
+* 【2023-09-15】[Stardust-minus / Bert-VITS2](https://github.com/Stardust-minus/Bert-VITS2) - vits2 backbone with bert
+* 【2023-09-15】[sczhou / ProPainter](https://github.com/sczhou/ProPainter) - [ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting
+* 【2023-09-15】[D-dot-AT / Stock-Prediction-Neural-Network-and-Machine-Learning-Examples](https://github.com/D-dot-AT/Stock-Prediction-Neural-Network-and-Machine-Learning-Examples) - Examples of python neural net and ML stock prediction methods with sample stock data.
 * 【2023-09-14】[n0a / telegram-get-remote-ip](https://github.com/n0a/telegram-get-remote-ip) - Get IP address on other side audio call in Telegram.
 * 【2023-09-14】[ZiwenZhuang / parkour](https://github.com/ZiwenZhuang/parkour) - [CoRL 2023] Robot Parkour Learning
 * 【2023-09-14】[mos9527 / pyncm](https://github.com/mos9527/pyncm) - 网易云音乐 Python API / 下载工具
@@ -376,6 +384,7 @@
 
 ## Javascript
 
+* 【2023-09-15】[daymade / Twitter-Block-Porn](https://github.com/daymade/Twitter-Block-Porn) - 共享黑名单, 一键拉黑所有黄推诈骗犯. Block scammers who sending fake porn comments, and help you improve your experience using Twitter.
 * 【2023-09-14】[devias-io / material-kit-react](https://github.com/devias-io/material-kit-react) - React Dashboard made with Material UI’s components. Our pro template contains features like TypeScript version, authentication system with Firebase and Auth0 plus many other
 * 【2023-09-14】[antimatter15 / splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
 * 【2023-09-13】[Szymou / NNBS](https://github.com/Szymou/NNBS) - 1.大麦：回流票监测(app通知、wx通知)、各类脚本、抢票消息、JJ20扫文识字搜答案；2.当前可用脚本：自动抢、多长次回流检测、单场次回流检测等
@@ -466,6 +475,7 @@
 
 ## Go
 
+* 【2023-09-15】[FynnFbc / TunnelProxyPool](https://github.com/FynnFbc/TunnelProxyPool) - http代理池 隧道代理 动态代理IP
 * 【2023-09-13】[letsencrypt / boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
 * 【2023-09-11】[Shpota / goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
 * 【2023-09-10】[keybase / client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
@@ -528,6 +538,8 @@
 
 ## C
 
+* 【2023-09-15】[codazoda / hub-ctrl.c](https://github.com/codazoda/hub-ctrl.c) - Control USB power on a port by port basis on some USB hubs.
+* 【2023-09-15】[PokerFacowaty / isfri](https://github.com/PokerFacowaty/isfri) - A Linux kernel module that spawns a char device which tells the user whether it's Friday
 * 【2023-09-14】[CrealityOfficial / K1_Series_Klipper](https://github.com/CrealityOfficial/K1_Series_Klipper) - clone from https://github.com/Klipper3d/klipper/
 * 【2023-09-13】[redcanaryco / atomic-red-team](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests based on MITRE's ATT&CK.
 * 【2023-09-12】[joshr120 / open-deck](https://github.com/joshr120/open-deck) - 
@@ -602,6 +614,7 @@
 
 ## C++
 
+* 【2023-09-15】[ConfettiFX / The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
 * 【2023-09-12】[OpenXRay / xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)
 * 【2023-09-10】[ModOrganizer2 / modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved
 * 【2023-09-09】[ChefKissInc / NootedRed](https://github.com/ChefKissInc/NootedRed) - Lilu plugin for AMD Vega iGPUs. No commercial use.
@@ -655,6 +668,8 @@
 
 ## C#
 
+* 【2023-09-15】[Anthogonyst / UnityToGodot](https://github.com/Anthogonyst/UnityToGodot) - An open source initiative to fully convert Unity projects into Godot projects
+* 【2023-09-15】[Zylann / unity_to_godot_converter](https://github.com/Zylann/unity_to_godot_converter) - An experimental converter from Unity to Godot game engines
 * 【2023-09-14】[isadorasophia / murder](https://github.com/isadorasophia/murder) - Murder is a pixel art ECS game engine.
 * 【2023-09-14】[oxyplot / oxyplot](https://github.com/oxyplot/oxyplot) - A cross-platform plotting library for .NET
 * 【2023-09-14】[nxrighthere / UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET 6 integration
@@ -720,6 +735,9 @@
 
 ## Html
 
+* 【2023-09-15】[dwarvesf / df-frontend-2023](https://github.com/dwarvesf/df-frontend-2023) - 
+* 【2023-09-15】[Tacogamerman / ByeBlocker](https://github.com/Tacogamerman/ByeBlocker) - The only TRULY UNBLOCKABLE proxy that works on Netlify, codepen, playcode, as a bookmarklet, never shows up in your history, and MORE! (The ONLY unblocker that works on static hosts)
+* 【2023-09-15】[aleff-github / my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and open source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
 * 【2023-09-14】[SarangKumar / IO-LearnHub](https://github.com/SarangKumar/IO-LearnHub) - Your 12-day web development journey starts here. Master HTML, CSS, JS, Tailwind, MongoDB, GSAP, React, and Next.js. Daily lessons, hands-on assignments, solutions, and challenges. Engage with a community, showcase projects, and contribute resources. Fork, learn, and code with us!
 * 【2023-09-14】[w3c / sustyweb](https://github.com/w3c/sustyweb) - Sustainable Web Design Community Group
 * 【2023-09-14】[OutRed / outredgames](https://github.com/OutRed/outredgames) - One of the most professional and best game websites there is out there.
@@ -790,6 +808,8 @@
 
 ## Css
 
+* 【2023-09-15】[lowcoding / lowcode-vscode](https://github.com/lowcoding/lowcode-vscode) - lowcode tool, support ChatGPT
+* 【2023-09-15】[shuhongfan / sl-express](https://github.com/shuhongfan/sl-express) - 神领物流 黑马 物流项目 神领物流系统类似顺丰速运，是向C端用户提供快递服务的系统。竞品有：顺丰、中通、圆通、京东快递等。 项目产品主要有4端产品： - 用户端：基于微信小程序开发，外部客户使用，可以寄件、查询物流信息等。 - 快递员端：基于安卓开发的手机APP，公司内部的快递员使用，可以接收取派件任务等。 - 司机端：基于安卓开发的手机APP，公司内部的司机使用，可以接收运输任务、上报位置信息等。 - 后台系统管理：基于vue开发，PC端使用，公司内部管理员用户使用，可以进行基础数据维护、订单管理、运单管理等。
 * 【2023-09-13】[zhile-io / ChatGPTAuthHelper](https://github.com/zhile-io/ChatGPTAuthHelper) - 一个简单的Chrome插件，用来帮助你登录ChatGPT。
 * 【2023-09-13】[devicons / devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 * 【2023-09-13】[KillianLucas / open-interpreter-website](https://github.com/KillianLucas/open-interpreter-website) - Website for the Open Interpreter project.
@@ -894,6 +914,9 @@
 
 ## Unknown
 
+* 【2023-09-15】[TodePond / WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite](https://github.com/TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite) - perfect programming language
+* 【2023-09-15】[JaredC01 / Galileo2](https://github.com/JaredC01/Galileo2) - 
+* 【2023-09-15】[gnobitab / InstaFlow](https://github.com/gnobitab/InstaFlow) - ⚡ InstaFlow! One-Step Stable Diffusion with Rectified Flow
 * 【2023-09-14】[carlcastanas / IT-curriculum-guide](https://github.com/carlcastanas/IT-curriculum-guide) - 
 * 【2023-09-14】[godotengine / awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 * 【2023-09-13】[transmissions11 / solcurity](https://github.com/transmissions11/solcurity) - Opinionated security and code quality standard for Solidity smart contracts.
