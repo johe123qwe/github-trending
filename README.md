@@ -9,6 +9,10 @@
 
 ## All language
 
+* 【2023-09-17】[aiwaves-cn / agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
+* 【2023-09-17】[nuejs / nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with 10x less code. Alternative to React, Vue, and Svelte
+* 【2023-09-17】[sxyazi / yazi](https://github.com/sxyazi/yazi) - ⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.
+* 【2023-09-17】[JetBrains / compose-multiplatform](https://github.com/JetBrains/compose-multiplatform) - Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 * 【2023-09-16】[ray-project / llm-applications](https://github.com/ray-project/llm-applications) - A comprehensive guide to building RAG-based LLM applications for production.
 * 【2023-09-16】[stevearc / conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 * 【2023-09-15】[yoheinakajima / instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
@@ -194,6 +198,7 @@
 
 ## Java
 
+* 【2023-09-17】[ch4mpy / spring-addons](https://github.com/ch4mpy/spring-addons) - Ease spring OAuth2 resource-servers configuration and testing
 * 【2023-09-11】[openremote / openremote](https://github.com/openremote/openremote) - 100% open-source IoT Platform - Integrate your devices, create rules, and analyse and visualise your data
 * 【2023-09-11】[Card-Forge / forge](https://github.com/Card-Forge/forge) - An unofficial rules engine for the world's greatest card game.
 * 【2023-09-11】[Gedsh / InviZible](https://github.com/Gedsh/InviZible) - Android application for Internet privacy and security
@@ -246,6 +251,11 @@
 
 ## Python
 
+* 【2023-09-17】[sagemath / sage](https://github.com/sagemath/sage) - Main repository of SageMath. Now open for Issues and Pull Requests.
+* 【2023-09-17】[KasperskyLab / TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In orde…
+* 【2023-09-17】[LoganCome / ROS-Chain](https://github.com/LoganCome/ROS-Chain) - 
+* 【2023-09-17】[NVIDIA-AI-IOT / nanosam](https://github.com/NVIDIA-AI-IOT/nanosam) - A distilled Segment Anything (SAM) model capable of running real-time with NVIDIA TensorRT
+* 【2023-09-17】[fishaudio / Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with bert
 * 【2023-09-16】[facebookresearch / belebele](https://github.com/facebookresearch/belebele) - Repo for the Belebele dataset, a massively multilingual reading comprehension dataset.
 * 【2023-09-16】[microsoft / evodiff](https://github.com/microsoft/evodiff) - Generation of protein sequences and evolutionary alignments via discrete diffusion models
 * 【2023-09-16】[laiyer-ai / llm-guard](https://github.com/laiyer-ai/llm-guard) - The Security Toolkit for LLM Interactions
@@ -389,6 +399,7 @@
 
 ## Javascript
 
+* 【2023-09-17】[WebSheets / websheets](https://github.com/WebSheets/websheets) - A ready-to-use component for spreadsheets in the browser
 * 【2023-09-16】[qk44077907 / simple-wxmp-vueify](https://github.com/qk44077907/simple-wxmp-vueify) - a simple lib to let you code js in wechat miniprogram like vue
 * 【2023-09-15】[daymade / Twitter-Block-Porn](https://github.com/daymade/Twitter-Block-Porn) - 共享黑名单, 一键拉黑所有黄推诈骗犯. Block scammers who sending fake porn comments, and help you improve your experience using Twitter.
 * 【2023-09-14】[devias-io / material-kit-react](https://github.com/devias-io/material-kit-react) - React Dashboard made with Material UI’s components. Our pro template contains features like TypeScript version, authentication system with Firebase and Auth0 plus many other
@@ -481,6 +492,10 @@
 
 ## Go
 
+* 【2023-09-17】[runabol / tork](https://github.com/runabol/tork) - A distributed workflow engine
+* 【2023-09-17】[mmcgrana / gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
+* 【2023-09-17】[42wim / matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
+* 【2023-09-17】[smallstep / cli](https://github.com/smallstep/cli) - 🧰 A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
 * 【2023-09-16】[cloudflare / terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider
 * 【2023-09-15】[FynnFbc / TunnelProxyPool](https://github.com/FynnFbc/TunnelProxyPool) - http代理池 隧道代理 动态代理IP
 * 【2023-09-13】[letsencrypt / boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.
@@ -545,6 +560,9 @@
 
 ## C
 
+* 【2023-09-17】[UnknownShadow200 / ClassiCube](https://github.com/UnknownShadow200/ClassiCube) - Custom Minecraft Classic / ClassiCube client written in C from scratch (formerly ClassicalSharp in C#)
+* 【2023-09-17】[tsoding / nobuild](https://github.com/tsoding/nobuild) - Header only library for writing build recipes in C.
+* 【2023-09-17】[premake / premake-core](https://github.com/premake/premake-core) - Premake
 * 【2023-09-16】[grafana / beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of HTTP and HTTPS services
 * 【2023-09-16】[samtools / htslib](https://github.com/samtools/htslib) - C library for high-throughput sequencing data formats
 * 【2023-09-16】[S3cur3Th1sSh1t / Caro-Kann](https://github.com/S3cur3Th1sSh1t/Caro-Kann) - Encrypted shellcode Injection to avoid Kernel triggered memory scans
@@ -624,6 +642,8 @@
 
 ## C++
 
+* 【2023-09-17】[TokisanGames / Terrain3D](https://github.com/TokisanGames/Terrain3D) - An editable terrain system for Godot 4, written in C++
+* 【2023-09-17】[godot-jolt / godot-jolt](https://github.com/godot-jolt/godot-jolt) - Godot Jolt – Godot extension that integrates the Jolt physics engine
 * 【2023-09-15】[ConfettiFX / The-Forge](https://github.com/ConfettiFX/The-Forge) - The Forge Cross-Platform Rendering Framework PC Windows, Linux, Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2
 * 【2023-09-12】[OpenXRay / xray-16](https://github.com/OpenXRay/xray-16) - Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World. Join OpenXRay! ;)
 * 【2023-09-10】[ModOrganizer2 / modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved
@@ -678,6 +698,7 @@
 
 ## C#
 
+* 【2023-09-17】[lars-berger / GlazeWM](https://github.com/lars-berger/GlazeWM) - A tiling window manager for Windows inspired by i3 and Polybar.
 * 【2023-09-16】[gabe-k / themebleed](https://github.com/gabe-k/themebleed) - Proof-of-Concept for CVE-2023-38146 ("ThemeBleed")
 * 【2023-09-16】[YOLOP0wn / EchoDrv](https://github.com/YOLOP0wn/EchoDrv) - Exploitation of echo_driver.sys
 * 【2023-09-16】[godotengine / godot-csharp-visualstudio](https://github.com/godotengine/godot-csharp-visualstudio) - Godot C# extension for Visual Studio
@@ -749,6 +770,9 @@
 
 ## Html
 
+* 【2023-09-17】[polarsys / b612](https://github.com/polarsys/b612) - Eclipse B612
+* 【2023-09-17】[nuejs / www](https://github.com/nuejs/www) - Content for nuejs.org
+* 【2023-09-17】[SpecterOps / TierZeroTable](https://github.com/SpecterOps/TierZeroTable) - About Table of AD and Azure assets and whether they belong to Tier Zero
 * 【2023-09-16】[iaghapour / freehope](https://github.com/iaghapour/freehope) - نقشه راه دسترسی به اینترنت آزاد
 * 【2023-09-16】[salaboy / platforms-on-k8s](https://github.com/salaboy/platforms-on-k8s) - Platform Engineering on Kubernetes :: Book Examples
 * 【2023-09-16】[hniksic / emacs-htmlize](https://github.com/hniksic/emacs-htmlize) - Convert buffer text and decorations to HTML.
@@ -826,6 +850,7 @@
 
 ## Css
 
+* 【2023-09-17】[CodeWithHarry / email-validator](https://github.com/CodeWithHarry/email-validator) - This project can be used to validate emails using the emailvalidation api
 * 【2023-09-16】[dmystical-coder / circle-35-assignment-02](https://github.com/dmystical-coder/circle-35-assignment-02) - Leveraging AltSchool circles, we are to build a very basic calculator with Javascript.
 * 【2023-09-16】[yaoyao-liu / minimal-light](https://github.com/yaoyao-liu/minimal-light) - A simple and elegant Jekyll theme for an academic personal homepage
 * 【2023-09-16】[tachyons-css / tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
@@ -935,6 +960,9 @@
 
 ## Unknown
 
+* 【2023-09-17】[ReactNativeNews / React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps. Curation curtesy of
+* 【2023-09-17】[KenneyNL / Godot-SplashScreens](https://github.com/KenneyNL/Godot-SplashScreens) - Over 30 splash screens to use in Godot
+* 【2023-09-17】[CloudHustlers / Google_Cloud_Computing_Foundations](https://github.com/CloudHustlers/Google_Cloud_Computing_Foundations) - 
 * 【2023-09-16】[Il-Libro-Open-Source / book](https://github.com/Il-Libro-Open-Source/book) - An open-source book created by the community for the community.
 * 【2023-09-16】[waylau / harmonyos-tutorial](https://github.com/waylau/harmonyos-tutorial) - HarmonyOS Tutorial. 《跟老卫学HarmonyOS开发》
 * 【2023-09-15】[TodePond / WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite](https://github.com/TodePond/WhenWillProgrammersStopMakingDecisionsForOurSocietyAndJustLeaveUsAloneAlsoHackerNewsIsAVileWebsite) - perfect programming language
