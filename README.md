@@ -698,6 +698,7 @@
 
 ## C#
 
+* 【2023-09-18】[glazerdesktop / GlazeWM](https://github.com/glazerdesktop/GlazeWM) - A tiling window manager for Windows inspired by i3 and Polybar.
 * 【2023-09-17】[lars-berger / GlazeWM](https://github.com/lars-berger/GlazeWM) - A tiling window manager for Windows inspired by i3 and Polybar.
 * 【2023-09-16】[gabe-k / themebleed](https://github.com/gabe-k/themebleed) - Proof-of-Concept for CVE-2023-38146 ("ThemeBleed")
 * 【2023-09-16】[YOLOP0wn / EchoDrv](https://github.com/YOLOP0wn/EchoDrv) - Exploitation of echo_driver.sys
