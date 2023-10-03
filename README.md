@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2023-10-03】[phitronio / Batch-4-Introduction-to-C-Programming](https://github.com/phitronio/Batch-4-Introduction-to-C-Programming) - 
+* 【2023-10-03】[wasp-lang / wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 * 【2023-10-02】[Mazars-Tech / AD_Miner](https://github.com/Mazars-Tech/AD_Miner) - AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses
 * 【2023-10-02】[jetporch / jetporch](https://github.com/jetporch/jetporch) - Next generation IT orchestration
 * 【2023-10-01】[a13xp0p0v / kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker) - A tool for checking the security hardening options of the Linux kernel
@@ -248,6 +250,10 @@
 
 ## Java
 
+* 【2023-10-03】[sanyarnd / java-course-2023](https://github.com/sanyarnd/java-course-2023) - 
+* 【2023-10-03】[NextAlone / Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
+* 【2023-10-03】[paulgries / LoginCleanArchitecture](https://github.com/paulgries/LoginCleanArchitecture) - 
+* 【2023-10-03】[tsaol / Web3-serverless-analytics-on-aws](https://github.com/tsaol/Web3-serverless-analytics-on-aws) - 
 * 【2023-10-02】[alura-es-cursos / Spring-Boot-3](https://github.com/alura-es-cursos/Spring-Boot-3) - Documente, teste y prepare una API para deploy
 * 【2023-10-02】[acmerobotics / road-runner-quickstart](https://github.com/acmerobotics/road-runner-quickstart) - FTC quickstart for https://github.com/acmerobotics/road-runner
 * 【2023-10-02】[janishar / mit-deep-learning-book-pdf](https://github.com/janishar/mit-deep-learning-book-pdf) - MIT Deep Learning Book in PDF format (complete and parts) by Ian Goodfellow, Yoshua Bengio and Aaron Courville
@@ -318,6 +324,8 @@
 
 ## Python
 
+* 【2023-10-03】[Pennyw0rth / NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
+* 【2023-10-03】[SociallyIneptWeeb / AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
 * 【2023-10-02】[codespell-project / codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 * 【2023-10-02】[GUNDAM-Labet / GUNDAM](https://github.com/GUNDAM-Labet/GUNDAM) - GUNDAM is a data management system that prioritizes data using language models.
 * 【2023-10-02】[litestar-org / litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
@@ -501,6 +509,10 @@
 
 ## Javascript
 
+* 【2023-10-03】[novuhq / hacksquad-website](https://github.com/novuhq/hacksquad-website) - Contribute code, meet community members, participate in workshops, and win more SWAG 🚀
+* 【2023-10-03】[SyedImtiyaz-1 / PreciousServices](https://github.com/SyedImtiyaz-1/PreciousServices) - Make your first Pull Request on this Repo. Don't forget to spread love and give us a ⭐️
+* 【2023-10-03】[jondot / awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
+* 【2023-10-03】[KudoAI / chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 * 【2023-10-02】[ArchGPT / insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focus and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of https://github.com/Kong/insomnia
 * 【2023-09-30】[usebruno / bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 * 【2023-09-30】[localtunnel / localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
@@ -694,6 +706,9 @@
 
 ## C
 
+* 【2023-10-03】[bucanero / pkgi-psp](https://github.com/bucanero/pkgi-psp) - A PlayStation Portable (PSP) package download tool
+* 【2023-10-03】[heysaiyad / Hacktoberfest2023-DSA](https://github.com/heysaiyad/Hacktoberfest2023-DSA) - Make your first Pull Request on Hacktoberfest 2023.You know the implementation of any DSA related topic/problem then you can contribute it in this repo. Raise Genuine PRs only. Your PRs will be accepted, keep patience. Star this Repo ⭐️
+* 【2023-10-03】[P-H-C / phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
 * 【2023-10-02】[raspiduino / arv32-opt](https://github.com/raspiduino/arv32-opt) - [Tested successfully] Linux on Arduino UNO / atmega328p port of mini-rv32ima. Let's run Linux on the world's worst Linux PC (and beat Dmitry Grinberg)
 * 【2023-10-01】[jsecurity101 / JonMon](https://github.com/jsecurity101/JonMon) - 
 * 【2023-09-30】[alx-se / Resources](https://github.com/alx-se/Resources) - 
@@ -799,6 +814,8 @@
 
 ## C++
 
+* 【2023-10-03】[ShahjalalShohag / code-library](https://github.com/ShahjalalShohag/code-library) - Templates, algorithms and data structures implemented and collected for programming contests.
+* 【2023-10-03】[Saikat2407 / DSA_Hacktoberfest2023](https://github.com/Saikat2407/DSA_Hacktoberfest2023) - This Repo will Accept all the quality Hacktoberfest 2023 Contribution ⚡️✅🎉
 * 【2023-10-02】[Norbyte / bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
 * 【2023-10-02】[OfficialCodeNoodles / 2D-Minecraft](https://github.com/OfficialCodeNoodles/2D-Minecraft) - 
 * 【2023-10-01】[thedmd / imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using Dear ImGui
@@ -874,6 +891,8 @@
 
 ## C#
 
+* 【2023-10-03】[reactiveui / ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
+* 【2023-10-03】[Sergio0694 / ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 * 【2023-10-02】[wolfgarbe / PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) - PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete
 * 【2023-10-02】[ai-tradingbot / AI-Trading-Bot](https://github.com/ai-tradingbot/AI-Trading-Bot) - Revolutionize your investment strategy with our state-of-the-art AI trading bot. Enjoy automated trading with AI precision, intelligent algorithms, and advanced risk management. Trade smarter, not harder with our AI Trading Bot
 * 【2023-10-02】[Kir-Antipov / HotAvalonia](https://github.com/Kir-Antipov/HotAvalonia) - 🔥 Supercharge your Avalonia development experience with hot reload capabilities
@@ -967,6 +986,11 @@
 
 ## Html
 
+* 【2023-10-03】[laviii123 / Btecky](https://github.com/laviii123/Btecky) - Hacktoberfest 2023
+* 【2023-10-03】[jimmy-byte / -HactoberFest2023-For_All_Beginers-](https://github.com/jimmy-byte/-HactoberFest2023-For_All_Beginers-) - Raise Genuine PRs, Your PRs will be accepted, Star This Repo, You aren't allowed to Update README.md
+* 【2023-10-03】[Karamraj / hacktoberfest2023](https://github.com/Karamraj/hacktoberfest2023) - Hacktoberfest 2023 PR Tutorial
+* 【2023-10-03】[ayushsarode / CardConnect-HacktoberfestEdition23](https://github.com/ayushsarode/CardConnect-HacktoberfestEdition23) - "Join us for Hacktoberfest 2023! Beginner-friendly Repository, Start your Open-Source Journey!"
+* 【2023-10-03】[Nikhil-2002 / development_Hactoberfest23](https://github.com/Nikhil-2002/development_Hactoberfest23) - 
 * 【2023-10-02】[aileftech / spring-boot-database-admin](https://github.com/aileftech/spring-boot-database-admin) - A plug-and-play, auto-generated CRUD database admin panel for Spring Boot apps
 * 【2023-10-02】[Ananyasingh2002 / Hacktoberfest2023](https://github.com/Ananyasingh2002/Hacktoberfest2023) - Join Hacktoberfest 2023: Contribute to open source, learn, and earn rewards. Beginner-friendly. Explore issues, fork, code, and make a global impact. Let's collaborate!
 * 【2023-10-02】[Jayesh-JainX / Hacktoberfest-23](https://github.com/Jayesh-JainX/Hacktoberfest-23) - HacktoberFest 2023 - Make your first Pull Request and earn a free digital reward kit courtesy of DigitalOcean and our sponsors and partners! hacktoberfest.com/
@@ -1071,6 +1095,7 @@
 
 ## Css
 
+* 【2023-10-03】[parag477 / Amazing-Webdev-Components](https://github.com/parag477/Amazing-Webdev-Components) - Make your first Pull Request on Hacktoberfest 2023. Don't forget to spread love and if you like don't forget to give us a star⭐️
 * 【2023-10-01】[tgulegacy / web-technologies-2023-1](https://github.com/tgulegacy/web-technologies-2023-1) - 
 * 【2023-09-30】[ghuntley / noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
 * 【2023-09-29】[space-wizards / docs](https://github.com/space-wizards/docs) - Documentation side for Space Station 14 and RobustToolbox
@@ -1207,6 +1232,11 @@
 
 ## Unknown
 
+* 【2023-10-03】[systemdesignfightclub / SDFC](https://github.com/systemdesignfightclub/SDFC) - 
+* 【2023-10-03】[OtacilioN / awesome-hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest) - A curated list of awesome Hacktoberfest 2023 repositories, guides and resources
+* 【2023-10-03】[free-educa / free-livros](https://github.com/free-educa/free-livros) - Educação é um direito de todos
+* 【2023-10-03】[0xsyr0 / vx-underground-wordlist](https://github.com/0xsyr0/vx-underground-wordlist) - Wordlist to crack .zip-file password
+* 【2023-10-03】[Ftindy / IPTV-URL](https://github.com/Ftindy/IPTV-URL) - 
 * 【2023-10-02】[incidrthreat / iceriver_oc](https://github.com/incidrthreat/iceriver_oc) - 
 * 【2023-10-02】[kdeldycke / awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 * 【2023-10-01】[Furkan-Gulsen / AWS-Certified-Cloud-Practitioner-Certification-My-Notes](https://github.com/Furkan-Gulsen/AWS-Certified-Cloud-Practitioner-Certification-My-Notes) - In the process of obtaining the AWS Certified Cloud Practitioner certificate, I took notes of the topics I encountered from more than 10 sources and more than 2000+ questions and I share them in this repo.
