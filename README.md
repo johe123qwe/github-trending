@@ -9,6 +9,10 @@
 
 ## All language
 
+* 【2023-10-04】[mit-han-lab / streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks
+* 【2023-10-04】[KenneyNL / Starter-Kit-FPS](https://github.com/KenneyNL/Starter-Kit-FPS) - 
+* 【2023-10-04】[danielgross / localpilot](https://github.com/danielgross/localpilot) - 
+* 【2023-10-04】[Mayandev / where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
 * 【2023-10-03】[phitronio / Batch-4-Introduction-to-C-Programming](https://github.com/phitronio/Batch-4-Introduction-to-C-Programming) - 
 * 【2023-10-03】[wasp-lang / wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 * 【2023-10-02】[Mazars-Tech / AD_Miner](https://github.com/Mazars-Tech/AD_Miner) - AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses
@@ -250,6 +254,11 @@
 
 ## Java
 
+* 【2023-10-04】[alura-es-cursos / 1952-spring-boot-3-rest-api](https://github.com/alura-es-cursos/1952-spring-boot-3-rest-api) - Spring Boot 3 : Rest API - Alura
+* 【2023-10-04】[react-native-google-signin / google-signin](https://github.com/react-native-google-signin/google-signin) - Google Sign-in for your React Native applications
+* 【2023-10-04】[jbellis / jvector](https://github.com/jbellis/jvector) - JVector: the most advanced embedded vector search engine
+* 【2023-10-04】[backendGeral / ESP-conversor-moneda](https://github.com/backendGeral/ESP-conversor-moneda) - 
+* 【2023-10-04】[Alquimistas-AluraLatam / ESP-hotel-alura](https://github.com/Alquimistas-AluraLatam/ESP-hotel-alura) - 
 * 【2023-10-03】[sanyarnd / java-course-2023](https://github.com/sanyarnd/java-course-2023) - 
 * 【2023-10-03】[NextAlone / Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
 * 【2023-10-03】[paulgries / LoginCleanArchitecture](https://github.com/paulgries/LoginCleanArchitecture) - 
@@ -324,6 +333,8 @@
 
 ## Python
 
+* 【2023-10-04】[ray-project / ray-llm](https://github.com/ray-project/ray-llm) - RayLLM - LLMs on Ray
+* 【2023-10-04】[win3zz / CVE-2023-43261](https://github.com/win3zz/CVE-2023-43261) - CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption
 * 【2023-10-03】[Pennyw0rth / NetExec](https://github.com/Pennyw0rth/NetExec) - The Network Execution Tool
 * 【2023-10-03】[SociallyIneptWeeb / AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
 * 【2023-10-02】[codespell-project / codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
@@ -509,6 +520,8 @@
 
 ## Javascript
 
+* 【2023-10-04】[tejado / telegram-nearby-map](https://github.com/tejado/telegram-nearby-map) - Discover the location of nearby Telegram users 📡🌍
+* 【2023-10-04】[meshery / meshery.io](https://github.com/meshery/meshery.io) - Site for Meshery, the cloud native manager
 * 【2023-10-03】[novuhq / hacksquad-website](https://github.com/novuhq/hacksquad-website) - Contribute code, meet community members, participate in workshops, and win more SWAG 🚀
 * 【2023-10-03】[SyedImtiyaz-1 / PreciousServices](https://github.com/SyedImtiyaz-1/PreciousServices) - Make your first Pull Request on this Repo. Don't forget to spread love and give us a ⭐️
 * 【2023-10-03】[jondot / awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
@@ -706,6 +719,9 @@
 
 ## C
 
+* 【2023-10-04】[he4rt / he4rtoberfest-2023](https://github.com/he4rt/he4rtoberfest-2023) - Repo oficial do He4rtoberfest da He4rt Developers 2023
+* 【2023-10-04】[skynettx / dosraptor](https://github.com/skynettx/dosraptor) - Original Raptor Call Of The Shadows version 1.2 DOS source code
+* 【2023-10-04】[xperiments-in / xtouch](https://github.com/xperiments-in/xtouch) - 
 * 【2023-10-03】[bucanero / pkgi-psp](https://github.com/bucanero/pkgi-psp) - A PlayStation Portable (PSP) package download tool
 * 【2023-10-03】[heysaiyad / Hacktoberfest2023-DSA](https://github.com/heysaiyad/Hacktoberfest2023-DSA) - Make your first Pull Request on Hacktoberfest 2023.You know the implementation of any DSA related topic/problem then you can contribute it in this repo. Raise Genuine PRs only. Your PRs will be accepted, keep patience. Star this Repo ⭐️
 * 【2023-10-03】[P-H-C / phc-winner-argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC
@@ -814,6 +830,9 @@
 
 ## C++
 
+* 【2023-10-04】[DavidGQK / mython_interpreter](https://github.com/DavidGQK/mython_interpreter) - 
+* 【2023-10-04】[iamdestinychild / 30-Days-DSA-Challenge](https://github.com/iamdestinychild/30-Days-DSA-Challenge) - A 30 days challange for you to learn data structure and algorithm
+* 【2023-10-04】[Prashant0664 / hacktoberfest](https://github.com/Prashant0664/hacktoberfest) - You can upload programming ques and projects here for Hacktoberfest 2023
 * 【2023-10-03】[ShahjalalShohag / code-library](https://github.com/ShahjalalShohag/code-library) - Templates, algorithms and data structures implemented and collected for programming contests.
 * 【2023-10-03】[Saikat2407 / DSA_Hacktoberfest2023](https://github.com/Saikat2407/DSA_Hacktoberfest2023) - This Repo will Accept all the quality Hacktoberfest 2023 Contribution ⚡️✅🎉
 * 【2023-10-02】[Norbyte / bg3se](https://github.com/Norbyte/bg3se) - Baldur's Gate 3 Script Extender
@@ -891,6 +910,9 @@
 
 ## C#
 
+* 【2023-10-04】[ChuchoCoder / chuchobot](https://github.com/ChuchoCoder/chuchobot) - 
+* 【2023-10-04】[LuemmelSec / CVE-2023-29357](https://github.com/LuemmelSec/CVE-2023-29357) - 
+* 【2023-10-04】[win-acme / win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
 * 【2023-10-03】[reactiveui / ReactiveUI](https://github.com/reactiveui/ReactiveUI) - An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
 * 【2023-10-03】[Sergio0694 / ComputeSharp](https://github.com/Sergio0694/ComputeSharp) - A .NET library to run C# code in parallel on the GPU through DX12, D2D1, and dynamically generated HLSL compute and pixel shaders, with the goal of making GPU computing easy to use for all .NET developers! 🚀
 * 【2023-10-02】[wolfgarbe / PruningRadixTrie](https://github.com/wolfgarbe/PruningRadixTrie) - PruningRadixTrie - 1000x faster Radix trie for prefix search & auto-complete
@@ -986,6 +1008,9 @@
 
 ## Html
 
+* 【2023-10-04】[thecyberbuzz / anycode](https://github.com/thecyberbuzz/anycode) - Only Valid Contribution will be Accepted
+* 【2023-10-04】[WTMBamenda / wtm-bamenda-website-frontend](https://github.com/WTMBamenda/wtm-bamenda-website-frontend) - Frontend UI of website
+* 【2023-10-04】[appwrite / templates](https://github.com/appwrite/templates) - Templates for Appwrite Functions ⚡️🌩️
 * 【2023-10-03】[laviii123 / Btecky](https://github.com/laviii123/Btecky) - Hacktoberfest 2023
 * 【2023-10-03】[jimmy-byte / -HactoberFest2023-For_All_Beginers-](https://github.com/jimmy-byte/-HactoberFest2023-For_All_Beginers-) - Raise Genuine PRs, Your PRs will be accepted, Star This Repo, You aren't allowed to Update README.md
 * 【2023-10-03】[Karamraj / hacktoberfest2023](https://github.com/Karamraj/hacktoberfest2023) - Hacktoberfest 2023 PR Tutorial
@@ -1095,6 +1120,10 @@
 
 ## Css
 
+* 【2023-10-04】[debrajrout / Dev.HFest](https://github.com/debrajrout/Dev.HFest) - This repository has been created as part of the Hacktoberfest event, where open-source enthusiasts come together to contribute to various projects and learn from each other.
+* 【2023-10-04】[TryGhost / Source](https://github.com/TryGhost/Source) - The default theme for Ghost
+* 【2023-10-04】[Alitindrawan24 / Binary-Calculator](https://github.com/Alitindrawan24/Binary-Calculator) - Binary Calculator
+* 【2023-10-04】[Cybernix-Phoenix-NSEC / HF-AnimalShelter](https://github.com/Cybernix-Phoenix-NSEC/HF-AnimalShelter) - 
 * 【2023-10-03】[parag477 / Amazing-Webdev-Components](https://github.com/parag477/Amazing-Webdev-Components) - Make your first Pull Request on Hacktoberfest 2023. Don't forget to spread love and if you like don't forget to give us a star⭐️
 * 【2023-10-01】[tgulegacy / web-technologies-2023-1](https://github.com/tgulegacy/web-technologies-2023-1) - 
 * 【2023-09-30】[ghuntley / noyaml](https://github.com/ghuntley/noyaml) - A silly emotional rant about the state of devops tooling/the infrastructure sector in 2018. #noyaml.com
@@ -1232,6 +1261,8 @@
 
 ## Unknown
 
+* 【2023-10-04】[Universidade-Livre / Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Aprenda Elixir em 4 Pull Requests!
+* 【2023-10-04】[nasa / spaceapps](https://github.com/nasa/spaceapps) - 
 * 【2023-10-03】[systemdesignfightclub / SDFC](https://github.com/systemdesignfightclub/SDFC) - 
 * 【2023-10-03】[OtacilioN / awesome-hacktoberfest](https://github.com/OtacilioN/awesome-hacktoberfest) - A curated list of awesome Hacktoberfest 2023 repositories, guides and resources
 * 【2023-10-03】[free-educa / free-livros](https://github.com/free-educa/free-livros) - Educação é um direito de todos
