@@ -1144,6 +1144,7 @@
 
 ## Css
 
+* 【2023-10-06】[naveen3011 / WebD_project](https://github.com/naveen3011/WebD_project) - Contribute in this repository by raising genuine PR. Get verified, merged and earn the free swags from Hacktoberfest 2023
 * 【2023-10-05】[Prajwal0225 / My-Favorite-SuperHero](https://github.com/Prajwal0225/My-Favorite-SuperHero) - 🦸‍♂️ My Fav Superhero: Discover superhero images in a click! Search your heroes or get random image.
 * 【2023-10-05】[bwang-kf / silver-foobar](https://github.com/bwang-kf/silver-foobar) - 
 * 【2023-10-05】[naveen3011 / WebD_project_hacktober2023](https://github.com/naveen3011/WebD_project_hacktober2023) - Contribute in this repository by raising genuine PR. Get verified, merged and earn the free swags from Hacktoberfest 2023
