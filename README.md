@@ -266,6 +266,7 @@
 
 ## Java
 
+* 【2023-10-08】[xuchengsheng / spring-reading](https://github.com/xuchengsheng/spring-reading) - Spring源码分析
 * 【2023-10-06】[SourceFusionHub / program](https://github.com/SourceFusionHub/program) - By CloudHustlers
 * 【2023-10-05】[OpenTracksApp / OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - OpenTracks is a sport tracking application that completely respects your privacy.
 * 【2023-10-05】[LangStream / langstream](https://github.com/LangStream/langstream) - LangStream, build and run event-driven Gen AI applications
@@ -545,6 +546,8 @@
 
 ## Javascript
 
+* 【2023-10-08】[code-423n4 / 2023-10-ens](https://github.com/code-423n4/2023-10-ens) - 
+* 【2023-10-08】[CircuitVerse / CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) - CircuitVerse Primary Code Base
 * 【2023-10-07】[christina-de-martinez / babel-plugin-glowup-vibes](https://github.com/christina-de-martinez/babel-plugin-glowup-vibes) - the most goated babel plugin
 * 【2023-10-07】[thinkswell / javascript-mini-projects](https://github.com/thinkswell/javascript-mini-projects) - Awesome Collection of amazing javascript mini-projects.
 * 【2023-10-07】[AbhishekSuresh2 / ABHISHEK-SER](https://github.com/AbhishekSuresh2/ABHISHEK-SER) - ABHISHEK-SER Is A WhatsApp Bot With 300+ Cool Features🎯
@@ -671,6 +674,7 @@
 
 ## Go
 
+* 【2023-10-08】[openimsdk / open-im-server](https://github.com/openimsdk/open-im-server) - IM SDK chat
 * 【2023-10-07】[openpubkey / openpubkey](https://github.com/openpubkey/openpubkey) - Reference implementation of OpenPubkey
 * 【2023-10-06】[edoardottt / cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 * 【2023-10-05】[ThangLeQuoc / vietnamese-provinces-database](https://github.com/ThangLeQuoc/vietnamese-provinces-database) - A complete SQL dataset of Vietnamese administrative units, includes Vietnamese provinces, districts and wards
@@ -756,6 +760,7 @@
 
 ## C
 
+* 【2023-10-08】[OpenMathLib / OpenBLAS](https://github.com/OpenMathLib/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 * 【2023-10-07】[Actyx / Actyx](https://github.com/Actyx/Actyx) - Local-First Cooperation based on Event Sourcing
 * 【2023-10-06】[pinauten / Fugu15_Rootful](https://github.com/pinauten/Fugu15_Rootful) - Rootful version of Fugu15 with full tweak support (including arm64 tweaks), for arm64e devices on iOS 15.0 - 15.4.1
 * 【2023-10-06】[RickdeJager / CVE-2023-4911](https://github.com/RickdeJager/CVE-2023-4911) - CVE-2023-4911 proof of concept
@@ -872,6 +877,8 @@
 
 ## C++
 
+* 【2023-10-08】[WopsS / RED4ext](https://github.com/WopsS/RED4ext) - A script extender for REDengine 4 (Cyberpunk 2077).
+* 【2023-10-08】[Neumi / ethersweep](https://github.com/Neumi/ethersweep) - Open Source, easy to use Ethernet connected stepper motor controller. Built in FreeCAD, KiCAD and Arduino.
 * 【2023-10-06】[luigifreda / slamplay](https://github.com/luigifreda/slamplay) - slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
 * 【2023-10-06】[RapierXbox / ESP32-Sour-Apple](https://github.com/RapierXbox/ESP32-Sour-Apple) - Uses a Exploit found by @Willy-JL and @ECTO-1A to crash IOS17 devices over bluetooth.
 * 【2023-10-06】[jinyus / related_post_gen](https://github.com/jinyus/related_post_gen) - Data Processing benchmark featuring Rust, Go, Swift, Zig etc.
@@ -961,6 +968,7 @@
 
 ## C#
 
+* 【2023-10-08】[aniketrajnish / Unity-Collider-Optimizer](https://github.com/aniketrajnish/Unity-Collider-Optimizer) - Optimizes mesh and polygon colliders in Unity
 * 【2023-10-07】[abatsakidis / PDFDeSecure](https://github.com/abatsakidis/PDFDeSecure) - An easy-to-use PDF Unlocker. Remove copy-protection from PDF files.
 * 【2023-10-07】[microsoft / OpenAPI.NET](https://github.com/microsoft/OpenAPI.NET) - The OpenAPI.NET SDK contains a useful object model for OpenAPI documents in .NET along with common serializers to extract raw OpenAPI JSON and YAML documents from the model.
 * 【2023-10-07】[attickdoor / XIVComboPlugin](https://github.com/attickdoor/XIVComboPlugin) - Plugin version of the icon replacement features in dalamud
@@ -1062,6 +1070,7 @@
 
 ## Html
 
+* 【2023-10-08】[chuva-inc / exercicios-2023](https://github.com/chuva-inc/exercicios-2023) - 
 * 【2023-10-07】[pdf2htmlEX / pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
 * 【2023-10-06】[gnat / css-scope-inline](https://github.com/gnat/css-scope-inline) - 🌘 Scope your inline style tags in pure vanilla CSS! Only 16 lines. No build. No dependencies.
 * 【2023-10-06】[anisul-Islam / javascript-documentation](https://github.com/anisul-Islam/javascript-documentation) - 
@@ -1185,6 +1194,8 @@
 
 ## Css
 
+* 【2023-10-08】[lhndo / LH-Stinger](https://github.com/lhndo/LH-Stinger) - Fast, Precise, Cartesian, FDM 3D Printer
+* 【2023-10-08】[Umamaheswari-MS / CVIP-_WebDevelopment](https://github.com/Umamaheswari-MS/CVIP-_WebDevelopment) - 
 * 【2023-10-07】[FelipeSantos92Dev / react-tds-2023-alunos](https://github.com/FelipeSantos92Dev/react-tds-2023-alunos) - Repositório para os alunos do segundo semestre do curso técnico em desenvolvimento de sistemas - SENAI
 * 【2023-10-07】[thomasjbradley / groundhogdayroundup.ca](https://github.com/thomasjbradley/groundhogdayroundup.ca) - Groundhog Day is the best day of the year! This website celebrates my love.
 * 【2023-10-07】[UMLCloudComputing / UniPath.io](https://github.com/UMLCloudComputing/UniPath.io) - UniPath.io is a full-stack web application that allows users to create, plan, and share their class schedules for their entire degree program.
@@ -1345,6 +1356,9 @@
 
 ## Unknown
 
+* 【2023-10-08】[brcyrr / OSCP](https://github.com/brcyrr/OSCP) - #cheat sheet for OSCP
+* 【2023-10-08】[xxxxxxxx666 / WeChatDevTools](https://github.com/xxxxxxxx666/WeChatDevTools) - 只需放置一个dll 简单方便的hook微信强制打开小程序 devtool
+* 【2023-10-08】[andyzoujm / representation-engineering](https://github.com/andyzoujm/representation-engineering) - Representation Engineering: A Top-Down Approach to AI Transparency
 * 【2023-10-07】[arpit20adlakha / Data-Structure-Algorithms-LLD-HLD](https://github.com/arpit20adlakha/Data-Structure-Algorithms-LLD-HLD) - A Data Structure Algorithms Low Level Design and High Level Design collection of resources.
 * 【2023-10-07】[mouredev / mouredev](https://github.com/mouredev/mouredev) - Hola 👋 Soy Brais Moure 💻 Freelance full-stack dev 📲 iOS & Android engineer♥️Swift & Kotlin 📖 YouTube, Twitch, Discord & Elgato partner 👥 Microsoft MVP & GDG 👾 Geek & Friki
 * 【2023-10-06】[kavaan / clean-architecture-solution-template](https://github.com/kavaan/clean-architecture-solution-template) - You don't always need to start over; consider utilizing the existing infrastructure!
