@@ -1217,6 +1217,7 @@
 
 ## Css
 
+* 【2023-10-11】[omicreativedev / ThemeSwitcher](https://github.com/omicreativedev/ThemeSwitcher) - ⭐ 200 Star Goal 👆🏽 My first time maintaining a repo for #hacktoberfest (YAY!) — Website with Theme Switcher. You can see the deployment below.
 * 【2023-10-10】[RajMalik23 / Hacktoberfest](https://github.com/RajMalik23/Hacktoberfest) - 
 * 【2023-10-10】[samipak458 / Simple-Library-Managment](https://github.com/samipak458/Simple-Library-Managment) - A simple library management project that is easy to use and helps learners understand the basic concept of JS.
 * 【2023-10-10】[Hackerspace2023 / HackerSpace](https://github.com/Hackerspace2023/HackerSpace) - Hackerspace: Our Coding Community Website. 🚀
