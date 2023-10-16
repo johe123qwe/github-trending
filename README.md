@@ -9,6 +9,13 @@
 
 ## All language
 
+* 【2023-10-16】[huggingface / text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
+* 【2023-10-16】[formbricks / formbricks](https://github.com/formbricks/formbricks) - Open Source Surveys & Experience Management Solution
+* 【2023-10-16】[iamcryptoki / snowden-archive](https://github.com/iamcryptoki/snowden-archive) - 💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden.
+* 【2023-10-16】[hkirat / docker-roadmap](https://github.com/hkirat/docker-roadmap) - 
+* 【2023-10-16】[hustvl / 4DGaussians](https://github.com/hustvl/4DGaussians) - 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering
+* 【2023-10-16】[qarmin / czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+* 【2023-10-16】[AccumulateMore / Python](https://github.com/AccumulateMore/Python) - ✔（已完结）最全面的 Python 笔记【马士兵教育】
 * 【2023-10-16】[adrianhajdin / travel_ui_ux](https://github.com/adrianhajdin/travel_ui_ux) - Build and Deploy a Fully Responsive Modern UI/UX Website, React.js, Next.js 13, Tailwind CSS
 * 【2023-10-15】[PWhiddy / PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
 * 【2023-10-15】[ton-community / tact-challenge](https://github.com/ton-community/tact-challenge) - 
@@ -283,6 +290,7 @@
 
 ## Java
 
+* 【2023-10-16】[AlexModGuy / Ice_and_Fire](https://github.com/AlexModGuy/Ice_and_Fire) - Minecraft mystical mod
 * 【2023-10-16】[yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 * 【2023-10-15】[jMonkeyEngine / jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) - A complete 3-D game development suite written in Java.
 * 【2023-10-15】[mollyim / mollyim-android](https://github.com/mollyim/mollyim-android) - A fork of Signal for Android with passphrase lock
@@ -374,6 +382,9 @@
 
 ## Python
 
+* 【2023-10-16】[cpacker / MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
+* 【2023-10-16】[AI-Citizen / SolidGPT](https://github.com/AI-Citizen/SolidGPT) - Chat with your code repository to get Generate Product Requirement Document and Code Plan base on private project. 🧱 🧱
+* 【2023-10-16】[OpenTalker / video-retalking](https://github.com/OpenTalker/video-retalking) - [SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
 * 【2023-10-15】[RedisVentures / ArXivChatGuru](https://github.com/RedisVentures/ArXivChatGuru) - Use ArXiv ChatGuru to talk to research papers. This app uses LangChain, OpenAI, Streamlit, and Redis as a vector database/semantic cache.
 * 【2023-10-15】[Link-AGI / AutoAgents](https://github.com/Link-AGI/AutoAgents) - Generate different roles for GPTs to form a collaborative entity for complex tasks.
 * 【2023-10-15】[Stability-AI / stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Generative models for conditional audio generation
@@ -587,6 +598,8 @@
 
 ## Javascript
 
+* 【2023-10-16】[porsager / postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
+* 【2023-10-16】[inrl-official / inrl-bot-md](https://github.com/inrl-official/inrl-bot-md) - Simple Whatsapp Bot
 * 【2023-10-15】[AkankshaAI / Hacktoberfest2023-Beginners-New](https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New) - This repository accepts PRs for Hacktoberfest2023
 * 【2023-10-14】[skofkyo / AutoPager](https://github.com/skofkyo/AutoPager) - 
 * 【2023-10-14】[OpenIntroStat / ims](https://github.com/OpenIntroStat/ims) - 📚 Introduction to Modern Statistics - A college-level open-source textbook with a modern approach highlighting multivariable relationships and simulation-based inference. For v1, see https://openintro-ims.netlify.app.
@@ -941,6 +954,9 @@
 
 ## C++
 
+* 【2023-10-16】[mbucchia / VirtualDesktop-OpenXR](https://github.com/mbucchia/VirtualDesktop-OpenXR) - An implementation of the OpenXR standard for Virtual Desktop
+* 【2023-10-16】[kokkos / kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction
+* 【2023-10-16】[random957654 / Hactober-2023-1](https://github.com/random957654/Hactober-2023-1) - hacktoberfest, hacktoberfest-accepted, hacktoberfest2023
 * 【2023-10-14】[pard0p / Cordyceps](https://github.com/pard0p/Cordyceps) - C++ self-Injecting dropper based on various EDR evasion techniques.
 * 【2023-10-13】[AcademySoftwareFoundation / OpenImageIO](https://github.com/AcademySoftwareFoundation/OpenImageIO) - Reading, writing, and processing images in a wide variety of file formats, using a format-agnostic API, aimed at VFX applications.
 * 【2023-10-13】[hamed-deriv / flutter_tearable_cloth](https://github.com/hamed-deriv/flutter_tearable_cloth) - Implementation of tearable cloth in Flutter.
@@ -1037,6 +1053,7 @@
 
 ## C#
 
+* 【2023-10-16】[GameTechExplained / Chess-Challenge](https://github.com/GameTechExplained/Chess-Challenge) - 
 * 【2023-10-15】[cjm00n / EvilSln](https://github.com/cjm00n/EvilSln) - A New Exploitation Technique for Visual Studio Projects
 * 【2023-10-15】[danhpaiva / EncryptAesNet-console-app-csharp](https://github.com/danhpaiva/EncryptAesNet-console-app-csharp) - 🛡️ ~ Academic example of AES encryption
 * 【2023-10-14】[Linwenxuan05 / Lagrange.Core](https://github.com/Linwenxuan05/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
@@ -1286,6 +1303,8 @@
 
 ## Css
 
+* 【2023-10-16】[FPGA-Systems / drawio-hdl-builder](https://github.com/FPGA-Systems/drawio-hdl-builder) - Drawio => VHDL and Verilog
+* 【2023-10-16】[Kritika30032002 / To-Do-List-Application](https://github.com/Kritika30032002/To-Do-List-Application) - This is a To Do List Application
 * 【2023-10-15】[AsmrProg-YT / Personal-Portfolios](https://github.com/AsmrProg-YT/Personal-Portfolios) - AsmrProg Youtube Channel Personal Portfolio Designs Code Collection.
 * 【2023-10-15】[baekusboo / music-website](https://github.com/baekusboo/music-website) - A webpage with full of music suggestions!
 * 【2023-10-14】[straight-tamago / misaka](https://github.com/straight-tamago/misaka) - 
@@ -1468,6 +1487,11 @@
 
 ## Unknown
 
+* 【2023-10-16】[xPaw / CS2](https://github.com/xPaw/CS2) - 🏃‍♂️ Counter-Strike 2 stuff
+* 【2023-10-16】[cloudogu / gitops-patterns](https://github.com/cloudogu/gitops-patterns) - Collection of patterns, examples and resources for GitOps process design, GitOps repository structures, etc
+* 【2023-10-16】[digitalinnovationone / dio-lab-open-source](https://github.com/digitalinnovationone/dio-lab-open-source) - ⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.
+* 【2023-10-16】[ms2ag16 / Books](https://github.com/ms2ag16/Books) - 
+* 【2023-10-16】[fenwii / huaweimind](https://github.com/fenwii/huaweimind) - 华为视角看世界，任总思维看问题，华为任正非思想之路，Huawei Renzhengfei speech,email& article,整理自1994年开始的讲话稿，涉及财经、人力资源、战略、内控与公共关系，从交换机、通讯设备、移动终端到人工智能、物联网，从2G、3G到4G、5G，从物理学、化学、数学到心理学、哲学，是创业，学习的标杆素材。
 * 【2023-10-15】[octagony / vscode_vim](https://github.com/octagony/vscode_vim) - Vim configuration for Vscode
 * 【2023-10-15】[rong862 / bear](https://github.com/rong862/bear) - 逗音小能手
 * 【2023-10-14】[nsacyber / ELITEWOLF](https://github.com/nsacyber/ELITEWOLF) - OT security monitoring #nsacyber
