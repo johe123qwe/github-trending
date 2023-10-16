@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2023-10-16】[adrianhajdin / travel_ui_ux](https://github.com/adrianhajdin/travel_ui_ux) - Build and Deploy a Fully Responsive Modern UI/UX Website, React.js, Next.js 13, Tailwind CSS
 * 【2023-10-15】[PWhiddy / PokemonRedExperiments](https://github.com/PWhiddy/PokemonRedExperiments) - Playing Pokemon Red with Reinforcement Learning
 * 【2023-10-15】[ton-community / tact-challenge](https://github.com/ton-community/tact-challenge) - 
 * 【2023-10-15】[iam-veeramalla / python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you.
@@ -282,6 +283,7 @@
 
 ## Java
 
+* 【2023-10-16】[yuliskov / SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS
 * 【2023-10-15】[jMonkeyEngine / jmonkeyengine](https://github.com/jMonkeyEngine/jmonkeyengine) - A complete 3-D game development suite written in Java.
 * 【2023-10-15】[mollyim / mollyim-android](https://github.com/mollyim/mollyim-android) - A fork of Signal for Android with passphrase lock
 * 【2023-10-15】[NotFound403 / wecom-sdk](https://github.com/NotFound403/wecom-sdk) - 
