@@ -9,6 +9,10 @@
 
 ## All language
 
+* 【2023-10-18】[ByteByteGoHq / system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+* 【2023-10-18】[yanfengwu-syser / syserdebugger](https://github.com/yanfengwu-syser/syserdebugger) - 
+* 【2023-10-18】[barnamenevisi / free-resources](https://github.com/barnamenevisi/free-resources) - ، تمام منابع آموزشی معرفی شده رایگان هستن برای اینکه هیچکس به خاطر نداشتن پول از آموزش عقب نمونه
+* 【2023-10-18】[TeamPiped / Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 * 【2023-10-17】[Orange-Cyberdefense / GOAD](https://github.com/Orange-Cyberdefense/GOAD) - game of active directory
 * 【2023-10-17】[nokyan / resources](https://github.com/nokyan/resources) - Monitor your system resources and processes
 * 【2023-10-17】[itrewub / jh-notes](https://github.com/itrewub/jh-notes) - 
@@ -387,6 +391,8 @@
 
 ## Python
 
+* 【2023-10-18】[RealKai42 / liu-yao-divining](https://github.com/RealKai42/liu-yao-divining) - 六爻游戏 + GPT 解读 / liu yao divining + interpreted by GPT
+* 【2023-10-18】[zhiwehu / 100_plus_Python_Projects_Challenge](https://github.com/zhiwehu/100_plus_Python_Projects_Challenge) - 100+ Python Projects Challenge
 * 【2023-10-17】[jtesta / ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 * 【2023-10-16】[cpacker / MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙
 * 【2023-10-16】[AI-Citizen / SolidGPT](https://github.com/AI-Citizen/SolidGPT) - Chat with your code repository to get Generate Product Requirement Document and Code Plan base on private project. 🧱 🧱
@@ -604,6 +610,8 @@
 
 ## Javascript
 
+* 【2023-10-18】[wangwc18 / mygoFlaskProject](https://github.com/wangwc18/mygoFlaskProject) - 第一次提交版本
+* 【2023-10-18】[Yuheng0101 / X](https://github.com/Yuheng0101/X) - QuantumultX Scripts
 * 【2023-10-17】[0x48piraj / fadblock](https://github.com/0x48piraj/fadblock) - Friendly Adblock for YouTube: A fast, lightweight, and undetectable YouTube Ads Blocker for Chrome, Opera and Firefox.
 * 【2023-10-17】[po6ix / POC-for-CVE-2023-41993](https://github.com/po6ix/POC-for-CVE-2023-41993) - 
 * 【2023-10-16】[porsager / postgres](https://github.com/porsager/postgres) - Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare
@@ -745,6 +753,8 @@
 
 ## Go
 
+* 【2023-10-18】[devfullcycle / imersao15](https://github.com/devfullcycle/imersao15) - 
+* 【2023-10-18】[sustainable-computing-io / kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics
 * 【2023-10-15】[circled-me / server](https://github.com/circled-me/server) - Photo backup and sharing server
 * 【2023-10-13】[HACKERALERT / Picocrypt](https://github.com/HACKERALERT/Picocrypt) - A very small, very simple, yet very secure encryption tool.
 * 【2023-10-11】[wux1an / wxapkg](https://github.com/wux1an/wxapkg) - 微信小程序 .wxapkg 文件扫描 + 解密 + 解包工具
@@ -964,6 +974,7 @@
 
 ## C++
 
+* 【2023-10-18】[BenMakesEverything / cyberdeck](https://github.com/BenMakesEverything/cyberdeck) - 
 * 【2023-10-17】[zeux / pugixml](https://github.com/zeux/pugixml) - Light-weight, simple and fast XML parser for C++ with XPath support
 * 【2023-10-16】[mbucchia / VirtualDesktop-OpenXR](https://github.com/mbucchia/VirtualDesktop-OpenXR) - An implementation of the OpenXR standard for Virtual Desktop
 * 【2023-10-16】[kokkos / kokkos](https://github.com/kokkos/kokkos) - Kokkos C++ Performance Portability Programming EcoSystem: The Programming Model - Parallel Execution and Memory Abstraction
@@ -1064,6 +1075,7 @@
 
 ## C#
 
+* 【2023-10-18】[sdcb / OpenVINO.NET](https://github.com/sdcb/OpenVINO.NET) - High quality .NET wrapper for OpenVINO™ toolkit.
 * 【2023-10-17】[keijiro / SplatVFX](https://github.com/keijiro/SplatVFX) - 3D Gaussian Splatting with Unity VFX Graph
 * 【2023-10-17】[gus33000 / UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator) - An utility to create Windows Media files (.ISO, .WIM, .VHD) from Unified Update Platform files
 * 【2023-10-16】[GameTechExplained / Chess-Challenge](https://github.com/GameTechExplained/Chess-Challenge) - 
@@ -1180,6 +1192,9 @@
 
 ## Html
 
+* 【2023-10-18】[c4coderandcreator / Flavour-Fusion](https://github.com/c4coderandcreator/Flavour-Fusion) - "Flavour Fusion : Real World Project". It has all the necessary features required for a Food website.
+* 【2023-10-18】[bradtraversy / saas-landing-page](https://github.com/bradtraversy/saas-landing-page) - Simple landing page for a SaaS
+* 【2023-10-18】[orcas-lab / hope-you-never-need-it](https://github.com/orcas-lab/hope-you-never-need-it) - An emergency booklet, I hope you will never use it
 * 【2023-10-17】[CHAYA41182 / support-israel-banner](https://github.com/CHAYA41182/support-israel-banner) - Simply setup banner for websites to show support for Israelis.
 * 【2023-10-17】[tecky708 / app](https://github.com/tecky708/app) - 
 * 【2023-10-15】[hackbysarthak03 / Hacktoberfest2023](https://github.com/hackbysarthak03/Hacktoberfest2023) - A Webpage for your valuable contribution to Hacktoberfest 2023!
@@ -1318,6 +1333,9 @@
 
 ## Css
 
+* 【2023-10-18】[piyushkdas0611 / Profile-Card-Generator](https://github.com/piyushkdas0611/Profile-Card-Generator) - A Profile Card Generator for generating profile cards to display on websites.
+* 【2023-10-18】[Komroncube / BulkyBooksMVC-project](https://github.com/Komroncube/BulkyBooksMVC-project) - 11_07_2023
+* 【2023-10-18】[Aj7Ay / TERRAFORM-JENKINS-CICD](https://github.com/Aj7Ay/TERRAFORM-JENKINS-CICD) - 
 * 【2023-10-17】[AsmrProg-YT / Modern-Login](https://github.com/AsmrProg-YT/Modern-Login) - AsmrProg Youtube Channel Modern Login Design Source Code
 * 【2023-10-17】[KubeDev / imersao-devops-cloud-02](https://github.com/KubeDev/imersao-devops-cloud-02) - 
 * 【2023-10-17】[Novus-Neurons / talebuddy](https://github.com/Novus-Neurons/talebuddy) - 
@@ -1506,6 +1524,9 @@
 
 ## Unknown
 
+* 【2023-10-18】[MrNeRF / awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) - Curated list of papers and resources focused on 3D Gaussian Splatting, intended to keep pace with the anticipated surge of research in the coming months.
+* 【2023-10-18】[IDEA-Research / UniPose](https://github.com/IDEA-Research/UniPose) - Official implementation of the paper "UniPose : Detecting Any Keypoints"
+* 【2023-10-18】[julianazanelatto / power_bi_analyst](https://github.com/julianazanelatto/power_bi_analyst) - 
 * 【2023-10-17】[joeycastillo / The-Open-Book](https://github.com/joeycastillo/The-Open-Book) - 
 * 【2023-10-17】[dymensionxyz / rollapp-registry](https://github.com/dymensionxyz/rollapp-registry) - A registry for RollApps
 * 【2023-10-16】[xPaw / CS2](https://github.com/xPaw/CS2) - 🏃‍♂️ Counter-Strike 2 stuff
