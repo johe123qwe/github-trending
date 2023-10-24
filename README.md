@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2023-10-24】[eureka-research / Eureka](https://github.com/eureka-research/Eureka) - Official Repository for "Eureka: Human-Level Reward Design via Coding Large Language Models"
+* 【2023-10-24】[ZachGoldberg / Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 * 【2023-10-23】[rupeshs / fastsdcpu](https://github.com/rupeshs/fastsdcpu) - Fast stable diffusion on CPU
 * 【2023-10-23】[lichess-org / lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 * 【2023-10-22】[alex-xu-system / bytebytego](https://github.com/alex-xu-system/bytebytego) - 
@@ -812,6 +814,7 @@
 
 ## Go
 
+* 【2023-10-24】[aperturerobotics / bifrost](https://github.com/aperturerobotics/bifrost) - Modular networking daemon and library.
 * 【2023-10-22】[D00Movenok / BounceBack](https://github.com/D00Movenok/BounceBack) - ↕️🤫 Stealth redirector for your red team operation security
 * 【2023-10-22】[stealthrocket / coroutine](https://github.com/stealthrocket/coroutine) - Durable coroutines for Go
 * 【2023-10-22】[ProudMuBai / GoFilm](https://github.com/ProudMuBai/GoFilm) - 多播放源自动采集在线影视网站 golang vue
@@ -1154,6 +1157,8 @@
 
 ## C#
 
+* 【2023-10-24】[0xDrMoe / TownofHost-Enhanced](https://github.com/0xDrMoe/TownofHost-Enhanced) - 
+* 【2023-10-24】[pnp / powershell](https://github.com/pnp/powershell) - PnP PowerShell
 * 【2023-10-23】[XDSEC / MoeCTF_2023](https://github.com/XDSEC/MoeCTF_2023) - 
 * 【2023-10-22】[helix-toolkit / helix-toolkit](https://github.com/helix-toolkit/helix-toolkit) - Helix Toolkit is a collection of 3D components for .NET.
 * 【2023-10-21】[microsoft / kernel-memory](https://github.com/microsoft/kernel-memory) - Index and query any data using LLM and natural language, tracking sources and showing citations.
@@ -1277,6 +1282,7 @@
 
 ## Html
 
+* 【2023-10-24】[surajsharma14 / Web-Dev-Project-for-Hacktoberfest2023](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023) - 
 * 【2023-10-22】[susam / cfr](https://github.com/susam/cfr) - An extremely minimal drawing language consisting of only 5 simple commands: C, F, R, [, and ].
 * 【2023-10-22】[RuanAragao / calculator](https://github.com/RuanAragao/calculator) - Create your own calculator
 * 【2023-10-21】[zachleat / table-saw](https://github.com/zachleat/table-saw) - A small web component for responsive <table> elements.
@@ -1425,6 +1431,10 @@
 
 ## Css
 
+* 【2023-10-24】[Azure-Samples / azure-sql-db-session-recommender](https://github.com/Azure-Samples/azure-sql-db-session-recommender) - Build a recommender using OpenAI, Azure Functions, Azure Static Web Apps, Azure SQL DB, Data API builder and Text Embeddings
+* 【2023-10-24】[MilanBhanuka / Sample_Codes](https://github.com/MilanBhanuka/Sample_Codes) - 
+* 【2023-10-24】[tictail / bounce.js](https://github.com/tictail/bounce.js) - Create beautiful CSS3 powered animations in no time.
+* 【2023-10-24】[neeraji2it / paperlesspipeline](https://github.com/neeraji2it/paperlesspipeline) - paperlesspipeline
 * 【2023-10-23】[p3nguin-kun / penguinFox](https://github.com/p3nguin-kun/penguinFox) - 🦊 Firefox with better UI, better privacy and security.
 * 【2023-10-23】[champkeh / wereadx](https://github.com/champkeh/wereadx) - 微信读书辅助工具，可用于书籍下载及自动阅读、自动兑换体验卡等
 * 【2023-10-23】[perkx999 / IntellifyAI](https://github.com/perkx999/IntellifyAI) - 
@@ -1627,6 +1637,8 @@
 
 ## Unknown
 
+* 【2023-10-24】[daveshap / SparsePrimingRepresentations](https://github.com/daveshap/SparsePrimingRepresentations) - Public repo to document some SPR stuff
+* 【2023-10-24】[Chuny1 / 3DGPT](https://github.com/Chuny1/3DGPT) - 
 * 【2023-10-23】[PanXProject / awesome-certificates](https://github.com/PanXProject/awesome-certificates) - List of IT, computer science and business courses with free certificates & badges.
 * 【2023-10-23】[louis-xiv-drainer / web3drain](https://github.com/louis-xiv-drainer/web3drain) - 
 * 【2023-10-23】[mojicians / awesome-mojo](https://github.com/mojicians/awesome-mojo) - A curated list of awesome Mojo 🔥 frameworks, libraries, software and resources
