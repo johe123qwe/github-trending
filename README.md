@@ -9,6 +9,10 @@
 
 ## All language
 
+* 【2023-10-27】[eylonmiz / react-agent](https://github.com/eylonmiz/react-agent) - The open-source React.js Autonomous LLM Agent
+* 【2023-10-27】[AndrewWalsh / openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Effortlessly discover API behaviour with a Chrome extension that automatically generates OpenAPI specifications in real time for any app or website
+* 【2023-10-27】[microsoft / fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+* 【2023-10-27】[ashishps1 / awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - This repository contains LeetCode articles which are very useful during the interview preparation.
 * 【2023-10-26】[Vendicated / Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 * 【2023-10-26】[SUDO-AI-3D / zero123plus](https://github.com/SUDO-AI-3D/zero123plus) - Code repository for Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model.
 * 【2023-10-26】[premAI-io / state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai) - Clarity in the current fast-paced mess of Open Source innovation
@@ -330,6 +334,7 @@
 
 ## Java
 
+* 【2023-10-27】[whitechi73 / OpenShamrock](https://github.com/whitechi73/OpenShamrock) - 一个OneBot11标准的机器人框架
 * 【2023-10-26】[ZCShou / GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 * 【2023-10-25】[jar-analyzer / jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer Project
 * 【2023-10-23】[digitalinnovationone / lab-padroes-projeto-spring](https://github.com/digitalinnovationone/lab-padroes-projeto-spring) - Exemplos de Padrões de Projeto com Spring
@@ -435,6 +440,9 @@
 
 ## Python
 
+* 【2023-10-27】[codefuse-ai / Test-Agent](https://github.com/codefuse-ai/Test-Agent) - 国内首个测试行业大模型工具，体验AIGC为测试领域带来的变革！
+* 【2023-10-27】[AlbusSec / Penetration-List](https://github.com/AlbusSec/Penetration-List) - Penetration-List: A comprehensive resource for testers, covering all types of vulnerabilities and materials used in Penetration Testing. Includes payloads, dorks, fuzzing materials, and offers in-depth theory sections. Visit our Medium profile for more information.
+* 【2023-10-27】[nazavod777 / memeland_auto_reger](https://github.com/nazavod777/memeland_auto_reger) - 
 * 【2023-10-26】[N1k0la-T / CVE-2023-36745](https://github.com/N1k0la-T/CVE-2023-36745) - 
 * 【2023-10-26】[horizon3ai / CVE-2023-34051](https://github.com/horizon3ai/CVE-2023-34051) - VMware Aria Operations for Logs CVE-2023-34051
 * 【2023-10-26】[kyleskom / NBA-Machine-Learning-Sports-Betting](https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting) - NBA sports betting using machine learning
@@ -681,6 +689,7 @@
 
 ## Javascript
 
+* 【2023-10-27】[LinaYorda / OSINTko](https://github.com/LinaYorda/OSINTko) - OSINTk.o is a customized Kali Linux-based ISO image with pre-installed packages and scripts
 * 【2023-10-26】[RahulSChand / gpu_poor](https://github.com/RahulSChand/gpu_poor) - Calculate GPU memory requirement & breakdown for training/inference of LLM models. Supports ggml/bnb quantization
 * 【2023-10-26】[roberto-butti / some-drops-of-javascript](https://github.com/roberto-butti/some-drops-of-javascript) - This book collects some useful, unknown, underrated JavaScript functions discovered and learned while using JavaScript daily.
 * 【2023-10-26】[inkle / inky](https://github.com/inkle/inky) - An editor for ink: inkle's narrative scripting language
@@ -940,6 +949,7 @@
 
 ## C
 
+* 【2023-10-27】[ttttupup / wxhelper](https://github.com/ttttupup/wxhelper) - Hook WeChat / 微信逆向
 * 【2023-10-25】[stas00 / the-art-of-debugging](https://github.com/stas00/the-art-of-debugging) - The Art of Debugging
 * 【2023-10-25】[kleiton0x00 / Proxy-DLL-Loads](https://github.com/kleiton0x00/Proxy-DLL-Loads) - A proof of concept demonstrating the DLL-load proxying using undocumented Syscalls.
 * 【2023-10-25】[0Nera / BMOSP](https://github.com/0Nera/BMOSP) - БМПОС - Базовая Модульная Платформа Операционных Систем для платформы x86_64
@@ -1081,6 +1091,7 @@
 
 ## C++
 
+* 【2023-10-27】[DRCL-USC / Hector_Simulation](https://github.com/DRCL-USC/Hector_Simulation) - Simulation Software for HECTOR Humanoid Robot (ROS/MATLAB)
 * 【2023-10-26】[Dr-TSNG / ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 * 【2023-10-26】[Sergeanur / MGSResolutionPatch](https://github.com/Sergeanur/MGSResolutionPatch) - 
 * 【2023-10-26】[google / nsjail](https://github.com/google/nsjail) - A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.
@@ -1323,6 +1334,8 @@
 
 ## Html
 
+* 【2023-10-27】[DualSubs / YouTube](https://github.com/DualSubs/YouTube) - YouTube字幕增强及双语模块
+* 【2023-10-27】[Hyraze / ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) - Explore a curated selection of AI tools and resources
 * 【2023-10-25】[NIPAOPENSW / OpenSW](https://github.com/NIPAOPENSW/OpenSW) - 
 * 【2023-10-25】[3kh0 / website-v4](https://github.com/3kh0/website-v4) - 3kh0, the better unblocked games website. If you fork this repo please give me a star to support me.
 * 【2023-10-24】[surajsharma14 / Web-Dev-Project-for-Hacktoberfest2023](https://github.com/surajsharma14/Web-Dev-Project-for-Hacktoberfest2023) - 
@@ -1683,6 +1696,10 @@
 
 ## Unknown
 
+* 【2023-10-27】[ashishps1 / awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - This repository contains System Design articles which are useful during the interview preparation and while learning Distributed Systems
+* 【2023-10-27】[charonlight / NacosExploitGUI](https://github.com/charonlight/NacosExploitGUI) - Nacos综合漏洞利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用
+* 【2023-10-27】[qingsongedu / Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) - A professional list on Large (Language) Models and Foundation Models (LLM, LM, FM) for Time Series, Spatiotemporal, and Event Data.
+* 【2023-10-27】[deepseek-ai / DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) - Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior
 * 【2023-10-26】[aluismoya / EbookFoundation-free-programming-books](https://github.com/aluismoya/EbookFoundation-free-programming-books) - 
 * 【2023-10-26】[OneCodeMonkey / music-sources](https://github.com/OneCodeMonkey/music-sources) - 音乐播放可用源
 * 【2023-10-25】[GoogleChrome / ip-protection](https://github.com/GoogleChrome/ip-protection) - 
