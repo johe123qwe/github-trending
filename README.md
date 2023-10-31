@@ -1242,6 +1242,7 @@
 
 ## C#
 
+* 【2023-10-31】[Babyhamsta / Aimmy](https://github.com/Babyhamsta/Aimmy) - Universal Second Eye for Gamers with Impairments (Universal AI Aim Aligner - YOLOv8)
 * 【2023-10-30】[MCCTeam / Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts
 * 【2023-10-29】[MarsQQ / Aimmy](https://github.com/MarsQQ/Aimmy) - Universal Second Eye for Gamers with Impairments
 * 【2023-10-29】[fudiwei / DotNetCore.SKIT.FlurlHttpClient.ByteDance](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.ByteDance) - 可能是全网唯一的 C# 版字节跳动 SDK，封装全部已知的字节跳动 API，包含字节小程序开放平台、抖音开放平台、抖店开放平台、巨量引擎开放平台、TikTok Developer、TikTok Shop Open Platform 等模块，可跨平台，持续随官方更新。欢迎 Star / Fork。QQ 交流群 875580418【满】、930461548。
