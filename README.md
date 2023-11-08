@@ -1234,6 +1234,7 @@
 
 ## C++
 
+* 【2023-11-08】[HITSZ-OpenAuto / HITSZ-OpenAuto](https://github.com/HITSZ-OpenAuto/HITSZ-OpenAuto) - 哈工大（深圳）自动化本科开源计划
 * 【2023-11-07】[archercreat / titan](https://github.com/archercreat/titan) - Titan is a VMProtect devirtualizer
 * 【2023-11-05】[nefarius / ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
 * 【2023-11-05】[pxmkv / Balance-Tech](https://github.com/pxmkv/Balance-Tech) - Self Balancing Bicycle using LQR controller
