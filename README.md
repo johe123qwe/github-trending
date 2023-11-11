@@ -9,6 +9,11 @@
 
 ## All language
 
+* 【2023-11-11】[ishan0102 / vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
+* 【2023-11-11】[jbranchaud / til](https://github.com/jbranchaud/til) - 📝 Today I Learned
+* 【2023-11-11】[githubnext / monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
+* 【2023-11-11】[lapce / floem](https://github.com/lapce/floem) - A native Rust UI library with fine-grained reactivity
+* 【2023-11-11】[chatwoot / chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 * 【2023-11-10】[daveshap / OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - Early experiment to create fully autonomous agent swarms
 * 【2023-11-10】[SawyerHood / draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 * 【2023-11-10】[roboflow / awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI Vision API 🔥
@@ -388,6 +393,9 @@
 
 ## Java
 
+* 【2023-11-11】[simplelocalize / simplelocalize-cli](https://github.com/simplelocalize/simplelocalize-cli) - Command-line tool for SimpleLocalize
+* 【2023-11-11】[woowacourse-precourse / java-christmas-6](https://github.com/woowacourse-precourse/java-christmas-6) - 
+* 【2023-11-11】[Charles7c / continew-admin](https://github.com/Charles7c/continew-admin) - ContiNew Admin 中后台管理框架/脚手架，Continue New Admin，持续以最新流行技术栈构建，拥抱变化，迭代优化。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、Sa-Token、MyBatis Plus、Redisson、Liquibase、JustAuth、Easy Excel、Hutool、TypeScript、Vite4 等。
 * 【2023-11-08】[WadhahEssam / react-native-theme-switch-animation](https://github.com/WadhahEssam/react-native-theme-switch-animation) - A Plug & Play Animations for Switching (Dark/Light) Themes. 🌖
 * 【2023-11-08】[nashtech-garage / yas](https://github.com/nashtech-garage/yas) - YAS: Yet Another Shop, a sample microservices project in Java
 * 【2023-11-07】[Hakky54 / certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 🔐 A CLI tool to extract server certificates
@@ -506,6 +514,8 @@
 
 ## Python
 
+* 【2023-11-11】[edmund-code / muse-eeg](https://github.com/edmund-code/muse-eeg) - 
+* 【2023-11-11】[SWHL / AI-Competition-Collections](https://github.com/SWHL/AI-Competition-Collections) - AI比赛经验帖子 & 训练和测试技巧帖子 集锦（收集整理各种人工智能比赛经验帖）
 * 【2023-11-10】[JayZeeDesign / openai-experiments](https://github.com/JayZeeDesign/openai-experiments) - 
 * 【2023-11-10】[AIFSH / MyHeyGen](https://github.com/AIFSH/MyHeyGen) - 
 * 【2023-11-09】[chtmp223 / topicGPT](https://github.com/chtmp223/topicGPT) - Code & Prompts for TopicGPT paper (Pham et al. 2023)
@@ -796,6 +806,7 @@
 
 ## Javascript
 
+* 【2023-11-11】[projectdiscovery / nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension) - Nuclei AI - Browser Extension for Rapid Nuclei Template Generation
 * 【2023-11-10】[safak / nextadmin](https://github.com/safak/nextadmin) - 
 * 【2023-11-10】[lmsqueezy / nextjs-billing](https://github.com/lmsqueezy/nextjs-billing) - A Next.js billing app with Lemon Squeezy
 * 【2023-11-10】[playcanvas / engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
@@ -982,6 +993,7 @@
 
 ## Go
 
+* 【2023-11-11】[Melkeydev / go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 * 【2023-11-09】[uber-go / automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 * 【2023-11-08】[krya-kryak / y-y-devops-trainings-cloud-1](https://github.com/krya-kryak/y-y-devops-trainings-cloud-1) - Домашнее задание для DevOps-тренировок в Яндексе, лекция "Облако. Кто виноват и что делать."
 * 【2023-11-08】[csyezheng / a2fa](https://github.com/csyezheng/a2fa) - a2fa is a command line tool for generating and validating one-time password. Its purpose is to get rid of phones and be able to authenticate easily.
@@ -1103,6 +1115,9 @@
 
 ## C
 
+* 【2023-11-11】[54zorb / Zorb-Framework](https://github.com/54zorb/Zorb-Framework) - 一个轻量级嵌入式框架
+* 【2023-11-11】[glennrp / libpng](https://github.com/glennrp/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
+* 【2023-11-11】[DragonQuestHero / Medusa](https://github.com/DragonQuestHero/Medusa) - Radical Windows ARK
 * 【2023-11-09】[FeijiangHan / dead_code_analyzer](https://github.com/FeijiangHan/dead_code_analyzer) - Using DynamoRIO and XED to find redundant executions (Dead code)
 * 【2023-11-09】[fortra / No-Consolation](https://github.com/fortra/No-Consolation) - A BOF that runs unmanaged PEs inline
 * 【2023-11-09】[Battelle / movfuscator](https://github.com/Battelle/movfuscator) - The single instruction C compiler
@@ -1270,6 +1285,7 @@
 
 ## C++
 
+* 【2023-11-11】[efchatz / pandora](https://github.com/efchatz/pandora) - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
 * 【2023-11-10】[Abhishek-Saini / educational](https://github.com/Abhishek-Saini/educational) - Educational Codes
 * 【2023-11-10】[p-ranav / argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
 * 【2023-11-09】[KanatnikovMax / znanie-drevnix](https://github.com/KanatnikovMax/znanie-drevnix) - 
@@ -1402,6 +1418,10 @@
 
 ## C#
 
+* 【2023-11-11】[ping11700 / LOLKit](https://github.com/ping11700/LOLKit) - One gift for all LOL gamers， League of Legends工具
+* 【2023-11-11】[shibbo / Fushigi](https://github.com/shibbo/Fushigi) - An editor for Super Mario Bros. Wonder.
+* 【2023-11-11】[nickvangilder / most-average-c2-ever](https://github.com/nickvangilder/most-average-c2-ever) - The most average C2 ever (MACE)
+* 【2023-11-11】[microsoft / Microsoft.IO.RecyclableMemoryStream](https://github.com/microsoft/Microsoft.IO.RecyclableMemoryStream) - A library to provide pooling for .NET MemoryStream objects to improve application performance.
 * 【2023-11-09】[S3cur3Th1sSh1t / SharpVeeamDecryptor](https://github.com/S3cur3Th1sSh1t/SharpVeeamDecryptor) - Decrypt Veeam database passwords
 * 【2023-11-07】[kontur-courses / challenge-tdd](https://github.com/kontur-courses/challenge-tdd) - 
 * 【2023-11-05】[dorisoy / Dorisoy.Pan](https://github.com/dorisoy/Dorisoy.Pan) - Dorisoy.Pan 是基于.net core5的跨平台文档管理系统，实现了百度网盘的90% 功能，数据库运行在MS SQL 2012 / MySql8.0（或更高版本），您可以在Windows、Linux 或Mac上运行它,项目中的所有方法都是异步的,支持基于令牌身份验证,项目体系结构遵循标准的软件模式和最佳安全实践。源代码也是完全可定制和热插拔，清晰的体系结构使开发定制功能遵循任何业务需求。系统使用最新的Microsoft技术，高性能，稳定和安全
@@ -1545,6 +1565,7 @@
 
 ## Html
 
+* 【2023-11-11】[ruiduobao / gaode_MAP_CUN](https://github.com/ruiduobao/gaode_MAP_CUN) - 1
 * 【2023-11-10】[deep-learning-mit / staging](https://github.com/deep-learning-mit/staging) - 
 * 【2023-11-10】[genius-space / genius-lesson-project](https://github.com/genius-space/genius-lesson-project) - 
 * 【2023-11-07】[sussygamedeveloper / FNAF2](https://github.com/sussygamedeveloper/FNAF2) - FNAF 2 HTML5 PORT! (With Hacks)
@@ -1718,6 +1739,7 @@
 
 ## Css
 
+* 【2023-11-11】[web-dev-open / pizza](https://github.com/web-dev-open/pizza) - 
 * 【2023-11-10】[wendywarren / customizing-bootstrap](https://github.com/wendywarren/customizing-bootstrap) - 
 * 【2023-11-10】[antipachita / HTML-builder](https://github.com/antipachita/HTML-builder) - 
 * 【2023-11-10】[learning-software-engineering / learning-software-engineering.github.io](https://github.com/learning-software-engineering/learning-software-engineering.github.io) - 
@@ -1950,6 +1972,7 @@
 
 ## Unknown
 
+* 【2023-11-11】[Cyfrin / security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - 
 * 【2023-11-10】[creapunk / CLN17](https://github.com/creapunk/CLN17) - Compact closed-loop stepper motor driver designed for NEMA17 motors
 * 【2023-11-10】[mbzuai-oryx / groundingLMM](https://github.com/mbzuai-oryx/groundingLMM) - Grounding Large Multimodal Model (GLaMM), the first-of-its-kind model capable of generating natural language responses that are seamlessly integrated with object segmentation masks.
 * 【2023-11-10】[damo-vilab / i2vgen-xl](https://github.com/damo-vilab/i2vgen-xl) - Official repo for I2VGen-XL: High-Quality Image-to-Video Synthesis Via Cascaded Diffusion Models
