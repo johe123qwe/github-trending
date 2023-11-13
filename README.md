@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2023-11-13】[fr0gger / Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
+* 【2023-11-13】[taranjeet / awesome-gpts](https://github.com/taranjeet/awesome-gpts) - Collection of all the GPTs created by the community
 * 【2023-11-12】[netease-youdao / EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
 * 【2023-11-11】[ishan0102 / vimGPT](https://github.com/ishan0102/vimGPT) - Browse the web with GPT-4V and Vimium
 * 【2023-11-11】[jbranchaud / til](https://github.com/jbranchaud/til) - 📝 Today I Learned
@@ -394,6 +396,7 @@
 
 ## Java
 
+* 【2023-11-13】[CodeCraftersCN / JDevKit](https://github.com/CodeCraftersCN/JDevKit) - JDevKit is a Java Dev Kit offering essential tools for streamlined development. It includes common components, WebCal (RFC5545) support, GUID generation, and JWT features. Designed to enhance efficiency across projects of all sizes.
 * 【2023-11-11】[simplelocalize / simplelocalize-cli](https://github.com/simplelocalize/simplelocalize-cli) - Command-line tool for SimpleLocalize
 * 【2023-11-11】[woowacourse-precourse / java-christmas-6](https://github.com/woowacourse-precourse/java-christmas-6) - 
 * 【2023-11-11】[Charles7c / continew-admin](https://github.com/Charles7c/continew-admin) - ContiNew Admin 中后台管理框架/脚手架，Continue New Admin，持续以最新流行技术栈构建，拥抱变化，迭代优化。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、Sa-Token、MyBatis Plus、Redisson、Liquibase、JustAuth、Easy Excel、Hutool、TypeScript、Vite4 等。
@@ -515,6 +518,8 @@
 
 ## Python
 
+* 【2023-11-13】[cocktailpeanut / mirror](https://github.com/cocktailpeanut/mirror) - 
+* 【2023-11-13】[LLaVA-VL / LLaVA-Plus-Codebase](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase) - LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills
 * 【2023-11-12】[shiqiangw / iclr2024-scores](https://github.com/shiqiangw/iclr2024-scores) - 
 * 【2023-11-12】[YORG-AI / Open-Assistant](https://github.com/YORG-AI/Open-Assistant) - YORG Open Source Version
 * 【2023-11-11】[edmund-code / muse-eeg](https://github.com/edmund-code/muse-eeg) - 
@@ -809,6 +814,7 @@
 
 ## Javascript
 
+* 【2023-11-13】[judygab / nextjs-portfolio](https://github.com/judygab/nextjs-portfolio) - portfolio website in nextjs 13
 * 【2023-11-12】[adrianhajdin / 3D_portfolio](https://github.com/adrianhajdin/3D_portfolio) - Let's build a cool 3D website together! You'll learn how to make a portfolio with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off your skills and get a job!
 * 【2023-11-12】[AnchoringAI / anchoring-ai](https://github.com/AnchoringAI/anchoring-ai) - An open-source no-code tool for teams to collaborate on building, evaluating, and hosting applications leveraging GPT and other large language models. You could easily build and share LLM-powered apps, manage your budget and run batch jobs.
 * 【2023-11-12】[thiagokroger / battlesquare](https://github.com/thiagokroger/battlesquare) - Vanilla Javascript, mobile-friendly, turn-based strategy game
@@ -1001,6 +1007,7 @@
 
 ## Go
 
+* 【2023-11-13】[philippta / flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go
 * 【2023-11-12】[nlpodyssey / waveny](https://github.com/nlpodyssey/waveny) - Emulate guitar amps and pedals with deep learning, in Go.
 * 【2023-11-12】[maliceio / malice](https://github.com/maliceio/malice) - VirusTotal Wanna Be - Now with 100% more Hipster
 * 【2023-11-12】[Enelg52 / OffensiveGo](https://github.com/Enelg52/OffensiveGo) - Golang weaponization for red teamers.
@@ -1129,6 +1136,7 @@
 
 ## C
 
+* 【2023-11-13】[hanwckf / immortalwrt-mt798x](https://github.com/hanwckf/immortalwrt-mt798x) - 
 * 【2023-11-12】[TeraTermProject / teraterm](https://github.com/TeraTermProject/teraterm) - 
 * 【2023-11-11】[54zorb / Zorb-Framework](https://github.com/54zorb/Zorb-Framework) - 一个轻量级嵌入式框架
 * 【2023-11-11】[glennrp / libpng](https://github.com/glennrp/libpng) - LIBPNG: Portable Network Graphics support, official libpng repository
@@ -1435,6 +1443,9 @@
 
 ## C#
 
+* 【2023-11-13】[reversedrooms / FurinaImpact](https://github.com/reversedrooms/FurinaImpact) - Server backend reimplementation for some anime game
+* 【2023-11-13】[ricardojoserf / WhoamiAlternatives](https://github.com/ricardojoserf/WhoamiAlternatives) - Different methods to get current username without using whoami
+* 【2023-11-13】[slyh / Cities2-Various-Mods](https://github.com/slyh/Cities2-Various-Mods) - Collection of mods for Cities: Skylines II
 * 【2023-11-12】[krzys-h / UndertaleModTool](https://github.com/krzys-h/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other Game Maker: Studio games!)
 * 【2023-11-12】[TomGrobbe / vMenu](https://github.com/TomGrobbe/vMenu) - vMenu is a custom server sided trainer/menu, built using a custom version of NativeUI. It has full permissions support, so the server owner can decide who's allowed to do what.
 * 【2023-11-11】[ping11700 / LOLKit](https://github.com/ping11700/LOLKit) - One gift for all LOL gamers， League of Legends工具
@@ -1993,6 +2004,8 @@
 
 ## Unknown
 
+* 【2023-11-13】[cyb3rmik3 / MDE-DFIR-Resources](https://github.com/cyb3rmik3/MDE-DFIR-Resources) - A curated list of resources for DFIR through Microsoft Defender for Endpoint leveraging kusto queries, powershell scripts, tools such as KAPE and THOR Cloud and more.
+* 【2023-11-13】[githubvpn007 / ProxyTool](https://github.com/githubvpn007/ProxyTool) - ShadowsocksR、 Shadowsocks、ClashR、vmess 、vpn、V2ray、Clash、V2ray 、V2rayN、Qv2ray、V2rayW、V2RayS、Mellow、V2rayX、V2rayU、ClashX、Kitsunebi、BifrostV、i2Ray 、Quantumult、Surge 4、winXray、Qv2ray、Kitsunebi、Trojan-Qt5、翻墙代理上网工具下载大全
 * 【2023-11-12】[Mr-Un1k0d3r / .NetConfigLoader](https://github.com/Mr-Un1k0d3r/.NetConfigLoader) - .net config loader
 * 【2023-11-12】[Anil-matcha / Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - A collection of major GPTS available in public
 * 【2023-11-12】[robbie-uiliams / youtube-view-bot](https://github.com/robbie-uiliams/youtube-view-bot) - YouTube Booster is a view bot software for almost free automatic increasing of views, likes, retention rate, subs, etc. for YouTube videos.
