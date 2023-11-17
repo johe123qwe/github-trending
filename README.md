@@ -9,6 +9,10 @@
 
 ## All language
 
+* 【2023-11-17】[cbh123 / narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
+* 【2023-11-17】[abi / screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
+* 【2023-11-17】[kilimchoi / engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
+* 【2023-11-17】[onetable-io / onetable](https://github.com/onetable-io/onetable) - OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.
 * 【2023-11-16】[loro-dev / loro](https://github.com/loro-dev/loro) - Reimagine state management with CRDTs. Make your app collaborative effortlessly.
 * 【2023-11-16】[dotnet / eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
 * 【2023-11-16】[BuilderIO / gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
@@ -532,6 +536,8 @@
 
 ## Python
 
+* 【2023-11-17】[generatebio / chroma](https://github.com/generatebio/chroma) - A generative model for programmable protein design
+* 【2023-11-17】[run-llama / llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 * 【2023-11-16】[cubiq / ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) - 
 * 【2023-11-16】[martinvigo / email2phonenumber](https://github.com/martinvigo/email2phonenumber) - A OSINT tool to obtain a target's phone number just by having his email address
 * 【2023-11-16】[S-LoRA / S-LoRA](https://github.com/S-LoRA/S-LoRA) - S-LoRA: Serving Thousands of Concurrent LoRA Adapters
@@ -838,6 +844,7 @@
 
 ## Javascript
 
+* 【2023-11-17】[jsdoc / jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 * 【2023-11-16】[bypassiwastaken / skiovox-helper](https://github.com/bypassiwastaken/skiovox-helper) - An extension to make the browsing experience in the Skiovox exploit smoother.
 * 【2023-11-15】[dejwid / food-ordering](https://github.com/dejwid/food-ordering) - 
 * 【2023-11-15】[johnfactotum / foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
@@ -1036,6 +1043,7 @@
 
 ## Go
 
+* 【2023-11-17】[canonical / microcloud](https://github.com/canonical/microcloud) - Automated private cloud based on LXD, Ceph and OVN
 * 【2023-11-14】[casbin / casdoor](https://github.com/casbin/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
 * 【2023-11-14】[rhysd / actionlint](https://github.com/rhysd/actionlint) - Static checker for GitHub Actions workflow files
 * 【2023-11-14】[uber-go / mock](https://github.com/uber-go/mock) - GoMock is a mocking framework for the Go programming language.
@@ -1168,6 +1176,7 @@
 
 ## C
 
+* 【2023-11-17】[zetaloop / ExplorerPatcher](https://github.com/zetaloop/ExplorerPatcher) - ExplorerPatcher Chinese Localization - 在 Windows 11 上恢复高效的工作环境
 * 【2023-11-16】[eunomia-bpf / bpftime](https://github.com/eunomia-bpf/bpftime) - Userspace eBPF runtime for fast Uprobe & Syscall hook & Plugins
 * 【2023-11-14】[umlaeute / v4l2loopback](https://github.com/umlaeute/v4l2loopback) - v4l2-loopback device
 * 【2023-11-14】[dkfans / keeperfx](https://github.com/dkfans/keeperfx) - Open source remake and Fan Expansion of Dungeon Keeper.
@@ -1343,6 +1352,7 @@
 
 ## C++
 
+* 【2023-11-17】[tandasat / CVE-2023-36427](https://github.com/tandasat/CVE-2023-36427) - Report and exploit of CVE-2023-36427
 * 【2023-11-16】[Brendan-Kirtlan / Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode) - Encodes a file into a video format to store on a cloud video hosting service
 * 【2023-11-15】[nuggslet / MGSM2Fix](https://github.com/nuggslet/MGSM2Fix) - A fix that adds pixel perfect scaling, scanlines and a script debugger to the original Metal Gear Solid within the Master Collection.
 * 【2023-11-15】[wangyu- / udp2raw](https://github.com/wangyu-/udp2raw) - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
@@ -1481,6 +1491,7 @@
 
 ## C#
 
+* 【2023-11-17】[qwqdanchun / Pillager](https://github.com/qwqdanchun/Pillager) - Pillager是一个适用于后渗透期间的信息收集工具
 * 【2023-11-13】[reversedrooms / FurinaImpact](https://github.com/reversedrooms/FurinaImpact) - Server backend reimplementation for some anime game
 * 【2023-11-13】[ricardojoserf / WhoamiAlternatives](https://github.com/ricardojoserf/WhoamiAlternatives) - Different methods to get current username without using whoami
 * 【2023-11-13】[slyh / Cities2-Various-Mods](https://github.com/slyh/Cities2-Various-Mods) - Collection of mods for Cities: Skylines II
@@ -1633,6 +1644,7 @@
 
 ## Html
 
+* 【2023-11-17】[ysx88 / openwrt-packages](https://github.com/ysx88/openwrt-packages) - OpenWrt 常用插件(含科学上网插件及依赖)
 * 【2023-11-16】[harisahmad59 / Hypefolio](https://github.com/harisahmad59/Hypefolio) - Hypefolio is a feature-rich portfolio website designed to showcase your projects and skills in a captivating way. Built with a tech stack of HTML, CSS, and JavaScript, this responsive portfolio ensures a seamless experience across devices.
 * 【2023-11-15】[bikashdev01 / Section-code](https://github.com/bikashdev01/Section-code) - 
 * 【2023-11-15】[goproxy / goproxy.cn](https://github.com/goproxy/goproxy.cn) - The most trusted Go module proxy in China.
@@ -1810,6 +1822,7 @@
 
 ## Css
 
+* 【2023-11-17】[pusher-community / html5-realtime-push-notifications](https://github.com/pusher-community/html5-realtime-push-notifications) - HTML5 Realtime Push Notifications
 * 【2023-11-16】[wozulong / ChatGPTAuthHelper](https://github.com/wozulong/ChatGPTAuthHelper) - 一个简单的Chrome插件，用来帮助你登录ChatGPT。
 * 【2023-11-16】[fork-commit-merge / fork-commit-merge](https://github.com/fork-commit-merge/fork-commit-merge) - Fork, Commit, Merge. A project designed to help you familiarize yourself with the open source contribution workflow on GitHub!
 * 【2023-11-16】[congchu / web-porfolio](https://github.com/congchu/web-porfolio) - 개발자를 위한 쉽고 빠른 웹 포트폴리오 만들기
@@ -2052,6 +2065,12 @@
 
 ## Unknown
 
+* 【2023-11-17】[microsoft / hack-together-dotnet](https://github.com/microsoft/hack-together-dotnet) - HackTogether: The Microsoft .NET 8 Global Hack | Register, Hack, Win
+* 【2023-11-17】[lxfater / Awesome-GPTs](https://github.com/lxfater/Awesome-GPTs) - 1000+ GPTs and 10 categories. 80+ Leaked Prompt，Awesome，chatgpt，Ai，prompt
+* 【2023-11-17】[sujayadkesar / cybersecurity-resources](https://github.com/sujayadkesar/cybersecurity-resources) - Cybersecurity Resources
+* 【2023-11-17】[SUDO-AI-3D / One2345plus](https://github.com/SUDO-AI-3D/One2345plus) - 
+* 【2023-11-17】[sudheerj / vuejs-interview-questions](https://github.com/sudheerj/vuejs-interview-questions) - List of 300 VueJS Interview Questions And Answers
+* 【2023-11-17】[QwenLM / Qwen-Audio](https://github.com/QwenLM/Qwen-Audio) - The official repo of Qwen-Audio (通义千问-Audio) chat & pretrained large audio language model proposed by Alibaba Cloud.
 * 【2023-11-16】[linexjlin / GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 * 【2023-11-16】[LucasPDiniz / 403-Bypass](https://github.com/LucasPDiniz/403-Bypass) - Bypass 403 pages
 * 【2023-11-16】[twf-nikhila / Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) - 🟢 2023 Deals Live - Black Friday & Cyber Monday, Christmas & Holidays Deals for Developers, Techies, & Entrepreneurs,
