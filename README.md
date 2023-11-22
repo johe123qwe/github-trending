@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2023-11-22】[flowtyone / flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.
+* 【2023-11-22】[joschan21 / digitalhippo](https://github.com/joschan21/digitalhippo) - A Modern Fullstack E-Commerce Marketplace for Digital Products
+* 【2023-11-22】[Xacone / BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) - Little AV/EDR bypassing lab for training & learning purposes
 * 【2023-11-21】[zoonk / uneebee](https://github.com/zoonk/uneebee) - Platform for creating interactive courses.
 * 【2023-11-21】[cxli233 / FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don't let friends make certain types of data visualization - What are they and why are they bad.
 * 【2023-11-21】[yl4579 / StyleTTS2](https://github.com/yl4579/StyleTTS2) - StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
@@ -552,6 +555,10 @@
 
 ## Python
 
+* 【2023-11-22】[PKU-YuanGroup / Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) - Video-LLaVA: Learning United Visual Representation by Alignment Before Projection
+* 【2023-11-22】[OpenBMB / ProAgent](https://github.com/OpenBMB/ProAgent) - An LLM-based Agent for the New Automation Paradigm - Agentic Process Automation
+* 【2023-11-22】[Clouditera / secgpt](https://github.com/Clouditera/secgpt) - secgpt网络安全大模型
+* 【2023-11-22】[doronz88 / pymobiledevice3](https://github.com/doronz88/pymobiledevice3) - Pure python3 implementation for working with iDevices (iPhone, etc...).
 * 【2023-11-21】[KoljaB / RealtimeTTS](https://github.com/KoljaB/RealtimeTTS) - 👄⚡ Converts text to speech in realtime by identifying sentence fragments for immediate auditory feedback. Ideal for applications requiring instant audio responses.
 * 【2023-11-21】[nathan31337 / Splunk-RCE-poc](https://github.com/nathan31337/Splunk-RCE-poc) - 
 * 【2023-11-21】[JoshuaKasa / van-gonography](https://github.com/JoshuaKasa/van-gonography) - Hide 🕵️‍♂️ your files of any type inside a image of your choice using steganography
@@ -1071,6 +1078,7 @@
 
 ## Go
 
+* 【2023-11-22】[riverqueue / river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 * 【2023-11-18】[uber-go / nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
 * 【2023-11-17】[canonical / microcloud](https://github.com/canonical/microcloud) - Automated private cloud based on LXD, Ceph and OVN
 * 【2023-11-14】[casbin / casdoor](https://github.com/casbin/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
@@ -1205,6 +1213,7 @@
 
 ## C
 
+* 【2023-11-22】[RalfHacker / Kerbeus-BOF](https://github.com/RalfHacker/Kerbeus-BOF) - BOF for Kerberos abuse (an implementation of some important features of the Rubeus).
 * 【2023-11-21】[ysanatomic / io_uring_LPE-CVE-2023-2598](https://github.com/ysanatomic/io_uring_LPE-CVE-2023-2598) - LPE PoC of a vulnerability in the io_uring subsystem of the Linux Kernel.
 * 【2023-11-19】[ruby / prism](https://github.com/ruby/prism) - Prism Ruby parser
 * 【2023-11-17】[zetaloop / ExplorerPatcher](https://github.com/zetaloop/ExplorerPatcher) - ExplorerPatcher Chinese Localization - 在 Windows 11 上恢复高效的工作环境
@@ -1383,6 +1392,7 @@
 
 ## C++
 
+* 【2023-11-22】[official-pikafish / Pikafish](https://github.com/official-pikafish/Pikafish) - UCI xiangqi engine
 * 【2023-11-19】[CuarzoSoftware / Louvre](https://github.com/CuarzoSoftware/Louvre) - C++ library for building Wayland compositors.
 * 【2023-11-19】[f4exb / sdrangel](https://github.com/f4exb/sdrangel) - SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay RSP1 and FunCube
 * 【2023-11-18】[Tencent / tgfx](https://github.com/Tencent/tgfx) - A lightweight 2D graphics library for rendering texts, geometries, and images with high-performance APIs that work across various platforms.
@@ -1684,6 +1694,9 @@
 
 ## Html
 
+* 【2023-11-22】[JoshMerfeld / applied-microeconometrics](https://github.com/JoshMerfeld/applied-microeconometrics) - Course website for Ph.D. Applied Microeconometrics at the KDI School.
+* 【2023-11-22】[LC044 / WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成word文档永久保存，对聊天记录进行分析生成年度聊天报告
+* 【2023-11-22】[eminsaygi / Firat-Universitesi-Ders](https://github.com/eminsaygi/Firat-Universitesi-Ders) - Bu repo Fırat Üniversitesi Yazılım Mühendisliği dersleri için notlar ve çıkmış sorular vb. verileri barındırmaktadır.
 * 【2023-11-21】[xcanwin / CVE-2023-4357-Chrome-XXE](https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE) - 全球首款单文件利用 CVE-2023-4357 Chrome XXE 漏洞 EXP, 实现对访客者本地文件窃取. Chrome XXE vulnerability EXP, allowing attackers to obtain local files of visitors.
 * 【2023-11-21】[geerlingguy / raspberry-pi-pcie-devices](https://github.com/geerlingguy/raspberry-pi-pcie-devices) - Raspberry Pi PCI Express device compatibility database
 * 【2023-11-19】[HugoBlox / hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder) - 😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS
@@ -1867,6 +1880,7 @@
 
 ## Css
 
+* 【2023-11-22】[minghsun / simpleResponsiveSlide](https://github.com/minghsun/simpleResponsiveSlide) - 
 * 【2023-11-21】[adaptiOficial / ps-adapti-2023](https://github.com/adaptiOficial/ps-adapti-2023) - 
 * 【2023-11-21】[Volmarg / personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. <personal.management.system.pms@gmail.com>
 * 【2023-11-18】[yudhiesh / devops-cc-week-2](https://github.com/yudhiesh/devops-cc-week-2) - 
@@ -2113,6 +2127,7 @@
 
 ## Unknown
 
+* 【2023-11-22】[pingcap / awesome-database-learning](https://github.com/pingcap/awesome-database-learning) - A list of learning materials to understand databases internals
 * 【2023-11-21】[DataEngineer-io / data-engineer-handbook](https://github.com/DataEngineer-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 * 【2023-11-21】[arcataroger / awesome-engineering-games](https://github.com/arcataroger/awesome-engineering-games) - A curated list of engineering-related video games rated Very Positive or higher on Steam
 * 【2023-11-21】[codefuse-ai / Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) - 
