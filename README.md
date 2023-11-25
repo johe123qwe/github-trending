@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2023-11-25】[bgstaal / multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+* 【2023-11-25】[wesbos / hot-tips](https://github.com/wesbos/hot-tips) - The code behind my hot tips
 * 【2023-11-24】[keiko233 / clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - Clash Nyanpasu!
 * 【2023-11-24】[teslamotors / roadster](https://github.com/teslamotors/roadster) - 2008-2012 Roadster Development and Diagnostic Software files
 * 【2023-11-23】[run-llama / rags](https://github.com/run-llama/rags) - 
@@ -434,6 +436,8 @@
 
 ## Java
 
+* 【2023-11-25】[spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
+* 【2023-11-25】[hei-school / poja-even](https://github.com/hei-school/poja-even) - 
 * 【2023-11-24】[WuKongOpenSource / Wukong_HRM](https://github.com/WuKongOpenSource/Wukong_HRM) - 悟空HRM人力资源管理系统-提供入职管理、招聘管理、绩效考核管理等一站式人力管理流程
 * 【2023-11-24】[WuKongOpenSource / WukongCRM-11.0-JAVA](https://github.com/WuKongOpenSource/WukongCRM-11.0-JAVA) - 悟空CRM-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离CRM系统
 * 【2023-11-24】[shenzepeng / middleground](https://github.com/shenzepeng/middleground) - 中台
@@ -561,6 +565,12 @@
 
 ## Python
 
+* 【2023-11-25】[sh-lee-prml / HierSpeechpp](https://github.com/sh-lee-prml/HierSpeechpp) - The official implementation of HierSpeech++
+* 【2023-11-25】[hylarucoder / svd-webui](https://github.com/hylarucoder/svd-webui) - 
+* 【2023-11-25】[passivestar / quickmenu](https://github.com/passivestar/quickmenu) - Blender addon that simplifies access to useful operators and adds missing functionality
+* 【2023-11-25】[mail-in-a-box / mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+* 【2023-11-25】[teslamotors / light-show](https://github.com/teslamotors/light-show) - Tesla Light Show
+* 【2023-11-25】[jianchang512 / clone-voice](https://github.com/jianchang512/clone-voice) - 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 * 【2023-11-24】[InternLM / InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer) - 
 * 【2023-11-24】[hao-ai-lab / LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding) - 
 * 【2023-11-24】[SkalskiP / awesome-foundation-and-multimodal-models](https://github.com/SkalskiP/awesome-foundation-and-multimodal-models) - 👁️ + 💬 + 🎧 = 🤖 Curated list of top foundation and multimodal models! [Paper + Code]
@@ -890,6 +900,8 @@
 
 ## Javascript
 
+* 【2023-11-25】[friuns2 / BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
+* 【2023-11-25】[di4b0lical / No-ADS-YouTube](https://github.com/di4b0lical/No-ADS-YouTube) - Skips all YouTube ads | undetectable | skips ads instantly - [ Unpatched Ad-Blocker ]
 * 【2023-11-24】[radian-software / riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
 * 【2023-11-24】[XPandora / PhysGaussian](https://github.com/XPandora/PhysGaussian) - 
 * 【2023-11-24】[conanak99 / sample-gpt-local](https://github.com/conanak99/sample-gpt-local) - 
@@ -1097,6 +1109,7 @@
 
 ## Go
 
+* 【2023-11-25】[teslamotors / vehicle-command](https://github.com/teslamotors/vehicle-command) - 
 * 【2023-11-24】[kubernetes-sigs / karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 * 【2023-11-22】[riverqueue / river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
 * 【2023-11-18】[uber-go / nilaway](https://github.com/uber-go/nilaway) - Static Analysis tool to detect potential Nil panics in Go code
@@ -1416,6 +1429,7 @@
 
 ## C++
 
+* 【2023-11-25】[cisco / openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
 * 【2023-11-24】[spotify / voyager](https://github.com/spotify/voyager) - 🛰️ Voyager is an approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.
 * 【2023-11-23】[Bill-Haku / kawaii-gcc](https://github.com/Bill-Haku/kawaii-gcc) - GCCコンパイラーを可愛くしましょう！Make your GCC compiler kawaii.
 * 【2023-11-23】[Green-bms / SmartBMS](https://github.com/Green-bms/SmartBMS) - Open source Smart Battery Management System
@@ -1564,6 +1578,7 @@
 
 ## C#
 
+* 【2023-11-25】[GTA-ASM / SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
 * 【2023-11-24】[microsoft / vstest](https://github.com/microsoft/vstest) - Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.
 * 【2023-11-24】[babalae / better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 🍨BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动派遣 | 一键强化 | 支持云原神
 * 【2023-11-21】[Archeb / opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience.
@@ -1723,6 +1738,8 @@
 
 ## Html
 
+* 【2023-11-25】[KG-Coding-with-Prashant-Sir / JavaScript_Complete_YouTube](https://github.com/KG-Coding-with-Prashant-Sir/JavaScript_Complete_YouTube) - 
+* 【2023-11-25】[Adamant-im / AIPs](https://github.com/Adamant-im/AIPs) - ADAMANT Improvement Proposal repository
 * 【2023-11-23】[wang987742 / fanmingming](https://github.com/wang987742/fanmingming) - 
 * 【2023-11-22】[JoshMerfeld / applied-microeconometrics](https://github.com/JoshMerfeld/applied-microeconometrics) - Course website for Ph.D. Applied Microeconometrics at the KDI School.
 * 【2023-11-22】[LC044 / WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成word文档永久保存，对聊天记录进行分析生成年度聊天报告
@@ -1910,6 +1927,12 @@
 
 ## Css
 
+* 【2023-11-25】[mustbebuilt / javascript-objects-json-lab](https://github.com/mustbebuilt/javascript-objects-json-lab) - 
+* 【2023-11-25】[jeycaarce / message](https://github.com/jeycaarce/message) - 
+* 【2023-11-25】[EvaMarco / Bridging-the-Design-Dev-Gap-workshop](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop) - "Code your Penpot designs seamlessly in our workshop. Step-by-step exercises to reveal the pontential of the integration of design and development. Elevate your collaboration skills with Penpot."
+* 【2023-11-25】[Tab-SE / demobuilderportals](https://github.com/Tab-SE/demobuilderportals) - Portals built with the No-Code Embedded Demo Builder (emb-demo-builder.herokuapp.com)
+* 【2023-11-25】[ippen / studydrive_downloader](https://github.com/ippen/studydrive_downloader) - Generate PDF links to download documents from Studydrive without paying Premium.
+* 【2023-11-25】[vnyoon / web-magic](https://github.com/vnyoon/web-magic) - 这个repo通过实际案例来演示如何运用HTML、CSS和JavaScript创建各种互动性、独特性、动感酷炫和视觉效果。
 * 【2023-11-23】[BitWalls-Sec / WhatsAppHacking](https://github.com/BitWalls-Sec/WhatsAppHacking) - A Script to Crash WhatsApp With Just a Single Text And Inject a Payload In App Format to Hack and Extract All WhatsApp Media Files.
 * 【2023-11-22】[minghsun / simpleResponsiveSlide](https://github.com/minghsun/simpleResponsiveSlide) - 
 * 【2023-11-21】[adaptiOficial / ps-adapti-2023](https://github.com/adaptiOficial/ps-adapti-2023) - 
@@ -2158,6 +2181,11 @@
 
 ## Unknown
 
+* 【2023-11-25】[awslabs / aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
+* 【2023-11-25】[cap-so / cap](https://github.com/cap-so/cap) - Beautiful, shareable screen recordings. Open-source and privacy-friendly.
+* 【2023-11-25】[Boese0601 / MagicDance](https://github.com/Boese0601/MagicDance) - MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer
+* 【2023-11-25】[kongkongyo / m3u8](https://github.com/kongkongyo/m3u8) - CCTV m3u8 流畅稳定直播源
+* 【2023-11-25】[youshandefeiyang / testvideo](https://github.com/youshandefeiyang/testvideo) - 肥羊的4K/8K超高清IPTV直播源&&直播代码仓库
 * 【2023-11-24】[DirtyHarryLYL / LLM-in-Vision](https://github.com/DirtyHarryLYL/LLM-in-Vision) - Recent LLM-based CV and related works. Welcome to comment/contribute!
 * 【2023-11-24】[NexovaDev / UpdateHub](https://github.com/NexovaDev/UpdateHub) - UpdateHub is an app that simplifies updating software on your computer. A user-friendly interface allows you to quickly check for and install available updates for your operating system and applications. Keep your device running smoothly and securely with UpdateHub.
 * 【2023-11-23】[Morakito / Real-Time-Rendering-4th-CN](https://github.com/Morakito/Real-Time-Rendering-4th-CN) - 《Real-Time Rendering 4th》 (RTR4) 中文翻译
