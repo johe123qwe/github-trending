@@ -9,6 +9,13 @@
 
 ## All language
 
+* 【2023-11-28】[jordan-cutler / path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond
+* 【2023-11-28】[BurntSushi / ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+* 【2023-11-28】[yairm210 / Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
+* 【2023-11-28】[ShinoKana / multipleWindow3dScene](https://github.com/ShinoKana/multipleWindow3dScene) - based on bgstaal/multipleWindow3dScene
+* 【2023-11-28】[goniszewski / grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
+* 【2023-11-28】[zennomi / Seg-Mirror](https://github.com/zennomi/Seg-Mirror) - Kính chiếu yêuuuu quỷ seg hiện raaa
+* 【2023-11-28】[googleapis / google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
 * 【2023-11-25】[bgstaal / multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene) - A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
 * 【2023-11-25】[wesbos / hot-tips](https://github.com/wesbos/hot-tips) - The code behind my hot tips
 * 【2023-11-24】[keiko233 / clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - Clash Nyanpasu!
@@ -436,6 +443,8 @@
 
 ## Java
 
+* 【2023-11-28】[shenzepeng / suyoushop](https://github.com/shenzepeng/suyoushop) - 
+* 【2023-11-28】[qos-ch / logback](https://github.com/qos-ch/logback) - The reliable, generic, fast and flexible logging framework for Java.
 * 【2023-11-25】[spring-projects / spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
 * 【2023-11-25】[hei-school / poja-even](https://github.com/hei-school/poja-even) - 
 * 【2023-11-24】[WuKongOpenSource / Wukong_HRM](https://github.com/WuKongOpenSource/Wukong_HRM) - 悟空HRM人力资源管理系统-提供入职管理、招聘管理、绩效考核管理等一站式人力管理流程
@@ -565,6 +574,14 @@
 
 ## Python
 
+* 【2023-11-28】[adidas / lakehouse-engine](https://github.com/adidas/lakehouse-engine) - The Lakehouse Engine is a configuration driven Spark framework, written in Python, serving as a scalable and distributed engine for several lakehouse algorithms, data flows and utilities for Data Products.
+* 【2023-11-28】[pennersr / django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+* 【2023-11-28】[Yvictor / TradingGym](https://github.com/Yvictor/TradingGym) - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.
+* 【2023-11-28】[SpecterOps / Nemesis](https://github.com/SpecterOps/Nemesis) - An offensive data enrichment pipeline
+* 【2023-11-28】[yule-BUAA / MergeLM](https://github.com/yule-BUAA/MergeLM) - Codebase for Merging Language Models
+* 【2023-11-28】[patrickloeber / snake-ai-pytorch](https://github.com/patrickloeber/snake-ai-pytorch) - 
+* 【2023-11-28】[mkshing / ziplora-pytorch](https://github.com/mkshing/ziplora-pytorch) - Implementation of "ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs"
+* 【2023-11-28】[kagisearch / vectordb](https://github.com/kagisearch/vectordb) - A minimal Python package for storing and retrieving text using chunking, embeddings, and vector search.
 * 【2023-11-25】[sh-lee-prml / HierSpeechpp](https://github.com/sh-lee-prml/HierSpeechpp) - The official implementation of HierSpeech++
 * 【2023-11-25】[hylarucoder / svd-webui](https://github.com/hylarucoder/svd-webui) - 
 * 【2023-11-25】[passivestar / quickmenu](https://github.com/passivestar/quickmenu) - Blender addon that simplifies access to useful operators and adds missing functionality
@@ -900,6 +917,7 @@
 
 ## Javascript
 
+* 【2023-11-28】[jason5ng32 / MyIP](https://github.com/jason5ng32/MyIP) - IP 工具箱。可以查看本机IP、挂代理后的IP信息、检查 DNS 泄露、检查 WebRTC 连接、测试网站可用性等。An alternative to ip.skk.moe service.
 * 【2023-11-25】[friuns2 / BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 * 【2023-11-25】[di4b0lical / No-ADS-YouTube](https://github.com/di4b0lical/No-ADS-YouTube) - Skips all YouTube ads | undetectable | skips ads instantly - [ Unpatched Ad-Blocker ]
 * 【2023-11-24】[radian-software / riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
@@ -1109,6 +1127,8 @@
 
 ## Go
 
+* 【2023-11-28】[minchenzz / ierc-miner](https://github.com/minchenzz/ierc-miner) - 
+* 【2023-11-28】[xataio / pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 * 【2023-11-25】[teslamotors / vehicle-command](https://github.com/teslamotors/vehicle-command) - 
 * 【2023-11-24】[kubernetes-sigs / karpenter](https://github.com/kubernetes-sigs/karpenter) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 * 【2023-11-22】[riverqueue / river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
@@ -1246,6 +1266,11 @@
 
 ## C
 
+* 【2023-11-28】[naev / naev](https://github.com/naev/naev) - Naev is a 2d action/rpg space game that combines elements from the action, rpg and simulation genres.
+* 【2023-11-28】[Monster-GM / NewBlackbox](https://github.com/Monster-GM/NewBlackbox) - new Blackbox
+* 【2023-11-28】[haiwen / seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+* 【2023-11-28】[factionsecurity / faction](https://github.com/factionsecurity/faction) - Pen Test Report Generation and Assessment Collaboration
+* 【2023-11-28】[tinyproxy / tinyproxy](https://github.com/tinyproxy/tinyproxy) - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
 * 【2023-11-24】[UncleRus / esp-idf-lib](https://github.com/UncleRus/esp-idf-lib) - Component library for ESP32-xx and ESP8266
 * 【2023-11-24】[EQMOD / EQM_OBDWEB](https://github.com/EQMOD/EQM_OBDWEB) - A WEB Based OBDII Dongle Platform using the ESP32 WROVER Module
 * 【2023-11-24】[antirez / botlib](https://github.com/antirez/botlib) - C Telegram bot framework
@@ -1429,6 +1454,7 @@
 
 ## C++
 
+* 【2023-11-28】[bitcookies / winrar-keygen](https://github.com/bitcookies/winrar-keygen) - Principle of WinRAR key generation.
 * 【2023-11-25】[cisco / openh264](https://github.com/cisco/openh264) - Open Source H.264 Codec
 * 【2023-11-24】[spotify / voyager](https://github.com/spotify/voyager) - 🛰️ Voyager is an approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.
 * 【2023-11-23】[Bill-Haku / kawaii-gcc](https://github.com/Bill-Haku/kawaii-gcc) - GCCコンパイラーを可愛くしましょう！Make your GCC compiler kawaii.
@@ -1578,6 +1604,10 @@
 
 ## C#
 
+* 【2023-11-28】[ph4nt0mbyt3 / Darkside](https://github.com/ph4nt0mbyt3/Darkside) - C# AV/EDR Killer using less-known driver (BYOVD)
+* 【2023-11-28】[emberstack / kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector) - Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
+* 【2023-11-28】[AutoFixture / AutoFixture](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.
+* 【2023-11-28】[GenshinMatrix / genshin-woodmen](https://github.com/GenshinMatrix/genshin-woodmen) - 尘歌壶终结者(原神自动伐木姬 | Genshin Auto Wood Obtain | 原神自動伐採君)
 * 【2023-11-25】[GTA-ASM / SanAndreasUnity](https://github.com/GTA-ASM/SanAndreasUnity) - Open source reimplementation of GTA San Andreas game engine in Unity
 * 【2023-11-24】[microsoft / vstest](https://github.com/microsoft/vstest) - Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.
 * 【2023-11-24】[babalae / better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 🍨BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动派遣 | 一键强化 | 支持云原神
@@ -1738,6 +1768,7 @@
 
 ## Html
 
+* 【2023-11-28】[tansuotv / IPTVindex](https://github.com/tansuotv/IPTVindex) - Enjoy IPTV !
 * 【2023-11-25】[KG-Coding-with-Prashant-Sir / JavaScript_Complete_YouTube](https://github.com/KG-Coding-with-Prashant-Sir/JavaScript_Complete_YouTube) - 
 * 【2023-11-25】[Adamant-im / AIPs](https://github.com/Adamant-im/AIPs) - ADAMANT Improvement Proposal repository
 * 【2023-11-23】[wang987742 / fanmingming](https://github.com/wang987742/fanmingming) - 
@@ -1927,6 +1958,9 @@
 
 ## Css
 
+* 【2023-11-28】[codingstella / cool-responsive-portfolio](https://github.com/codingstella/cool-responsive-portfolio) - 
+* 【2023-11-28】[itscodenation / int-u3l3-23-24-student-exercises](https://github.com/itscodenation/int-u3l3-23-24-student-exercises) - 
+* 【2023-11-28】[christorange / VerticalFox](https://github.com/christorange/VerticalFox) - Firefox theme with Edge like auto-hide vertical tab bar and minimalism design. Powerd by Sidebery.
 * 【2023-11-25】[mustbebuilt / javascript-objects-json-lab](https://github.com/mustbebuilt/javascript-objects-json-lab) - 
 * 【2023-11-25】[jeycaarce / message](https://github.com/jeycaarce/message) - 
 * 【2023-11-25】[EvaMarco / Bridging-the-Design-Dev-Gap-workshop](https://github.com/EvaMarco/Bridging-the-Design-Dev-Gap-workshop) - "Code your Penpot designs seamlessly in our workshop. Step-by-step exercises to reveal the pontential of the integration of design and development. Elevate your collaboration skills with Penpot."
@@ -2181,6 +2215,9 @@
 
 ## Unknown
 
+* 【2023-11-28】[joevess / IPTV](https://github.com/joevess/IPTV) - IPTV直播源抓取 自动整合好趣网直播源+月光宝盒Box直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+* 【2023-11-28】[atomone-hub / genesis](https://github.com/atomone-hub/genesis) - declaration of genesis
+* 【2023-11-28】[ynwynw / allProject](https://github.com/ynwynw/allProject) - springboot 电商书城 springboot酒店预订管理管理 springboot超市管理系统 springboot + vue 超市管理系统 springboot 人事oa管理系统 springboot 房屋租赁系统 springboot 个人博客系统 springboot + vue 宠物交易/租赁系统 springboot 宠物商城 springboot 花店商城系统 （有报告） springboot 教务管理系统 springboot景区旅游系统 springboot电影购票系统 springboot网上商城 springboot网上商城-仿小米 springboot网上商城-仿天猫 springboot+vue图书管理系统 springboot+vue 教务管理系统 …
 * 【2023-11-25】[awslabs / aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) - AWS SDK for the Rust Programming Language
 * 【2023-11-25】[cap-so / cap](https://github.com/cap-so/cap) - Beautiful, shareable screen recordings. Open-source and privacy-friendly.
 * 【2023-11-25】[Boese0601 / MagicDance](https://github.com/Boese0601/MagicDance) - MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer
