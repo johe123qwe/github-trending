@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2023-12-06】[magic-research / magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
+* 【2023-12-06】[state-spaces / mamba](https://github.com/state-spaces/mamba) - 
+* 【2023-12-06】[ytongbai / LVM](https://github.com/ytongbai/LVM) - 
 * 【2023-12-05】[xaoyaoo / PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。
 * 【2023-12-05】[100xdevs-cohort-2 / assignments](https://github.com/100xdevs-cohort-2/assignments) - 
 * 【2023-12-05】[bbycroft / llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
@@ -611,6 +614,8 @@
 
 ## Python
 
+* 【2023-12-06】[dchrastil / ScrapedIn](https://github.com/dchrastil/ScrapedIn) - A tool to scrape LinkedIn without API restrictions for data reconnaissance
+* 【2023-12-06】[pinecone-io / canopy](https://github.com/pinecone-io/canopy) - Retrieval Augmented Generation (RAG) framework and context engine powered by Pinecone
 * 【2023-12-05】[wearecaster / Above](https://github.com/wearecaster/Above) - Invisible network protocol sniffer
 * 【2023-12-05】[lucidrains / meshgpt-pytorch](https://github.com/lucidrains/meshgpt-pytorch) - Implementation of MeshGPT, SOTA Mesh generation using Attention, in Pytorch
 * 【2023-12-05】[HumanAIGC / Cloth2Tex](https://github.com/HumanAIGC/Cloth2Tex) - Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On
@@ -973,6 +978,7 @@
 
 ## Javascript
 
+* 【2023-12-06】[keshavgbpecdelhi / Web-Development](https://github.com/keshavgbpecdelhi/Web-Development) - Here you will find different web development mini projects which are made up of HTML, CSS & little bit of JavaScript. Do you have any such small project which is not already in the List!? 😄
 * 【2023-12-04】[pythongosssss / ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts) - Enhancements & experiments for ComfyUI, mostly focusing on UI features
 * 【2023-12-04】[unconv / gpt4v-browsing](https://github.com/unconv/gpt4v-browsing) - Web Scraping with GPT-4 Vision API and Puppeteer
 * 【2023-12-03】[shadowcz007 / comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes) - 
@@ -1193,6 +1199,7 @@
 
 ## Go
 
+* 【2023-12-06】[jvns / git-commit-folders](https://github.com/jvns/git-commit-folders) - 
 * 【2023-12-05】[gosom / google-maps-scraper](https://github.com/gosom/google-maps-scraper) - scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
 * 【2023-12-05】[dub-flow / sessionprobe](https://github.com/dub-flow/sessionprobe) - SessionProbe is a multi-threaded tool designed for penetration testing and bug bounty hunting. It evaluates user privileges in web applications by taking a session token and checking access across a list of URLs, highlighting potential authorization issues.
 * 【2023-12-04】[0xERR0R / blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -1543,6 +1550,7 @@
 
 ## C++
 
+* 【2023-12-06】[zeroasiccorp / switchboard](https://github.com/zeroasiccorp/switchboard) - Communication framework for RTL simulation and emulation.
 * 【2023-12-03】[mudler / LocalAI](https://github.com/mudler/LocalAI) - 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 * 【2023-12-02】[AlibabaResearch / AdvancedLiterateMachinery](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) - A collection of original, innovative ideas and algorithms towards Advanced Literate Machinery. This project is maintained by the OCR Team in the Language Technology Lab, Alibaba DAMO Academy.
 * 【2023-12-02】[MaorSabag / TrueSightKiller](https://github.com/MaorSabag/TrueSightKiller) - CPP AV/EDR Killer
@@ -1700,6 +1708,7 @@
 
 ## C#
 
+* 【2023-12-06】[SonarSource / sonar-scanner-msbuild](https://github.com/SonarSource/sonar-scanner-msbuild) - SonarScanner for .NET
 * 【2023-12-04】[DaXcess / lethalcompany-vr-plugin](https://github.com/DaXcess/lethalcompany-vr-plugin) - Collecting Scrap in VR
 * 【2023-12-04】[markjprice / cs12dotnet8](https://github.com/markjprice/cs12dotnet8) - Repository for the Packt Publishing book titled "C# 12 and .NET 8 - Modern Cross-Platform Development Fundamentals" by Mark J. Price
 * 【2023-12-02】[dnGrep / dnGrep](https://github.com/dnGrep/dnGrep) - Graphical GREP tool for Windows
@@ -2075,6 +2084,10 @@
 
 ## Css
 
+* 【2023-12-06】[nikhilsoftwareboy / Bing-code](https://github.com/nikhilsoftwareboy/Bing-code) - 
+* 【2023-12-06】[tecg-dcc / js-tp-burger-menu](https://github.com/tecg-dcc/js-tp-burger-menu) - Un menu de navigation burger très simple pour les petits écrans - NIVEAU : facile
+* 【2023-12-06】[demo-projects / training_resources](https://github.com/demo-projects/training_resources) - assets for react training
+* 【2023-12-06】[tecg-dcc / js-tp-spread-operator](https://github.com/tecg-dcc/js-tp-spread-operator) - 
 * 【2023-12-05】[darylsew / visualizer](https://github.com/darylsew/visualizer) - A Python/JS music visualizer.
 * 【2023-12-05】[nikhilsoftwareboy / Real-Estate-Listings-and-Property-Management-Website](https://github.com/nikhilsoftwareboy/Real-Estate-Listings-and-Property-Management-Website) - 
 * 【2023-12-04】[DzarelDeveloper / ForYou](https://github.com/DzarelDeveloper/ForYou) - Message for you ( Crush )
@@ -2357,6 +2370,8 @@
 
 ## Unknown
 
+* 【2023-12-06】[devv-ai / devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
+* 【2023-12-06】[yonggekkk / sing-box](https://github.com/yonggekkk/sing-box) - Sing-box精装桶小白一键脚本【Vless-reality、Vmess-ws、Hysteria2、Tuic5】：支持Argo隧道、多端口跳跃、域名+geosite分流、IP优先切换、自签/acme证书切换、节点TG推送，二维码、Clash-Meta，SFA/SFI/SFW统一配置
 * 【2023-12-05】[miketromba / highest-paying-software-companies](https://github.com/miketromba/highest-paying-software-companies) - The top 500 highest paying companies based on median software engineer total comp on levels.fyi as of 12/1/23.
 * 【2023-12-05】[DERE-ad2001 / Frida-Labs](https://github.com/DERE-ad2001/Frida-Labs) - The repo contains a series of challenges for learning Frida for Android Exploitation.
 * 【2023-12-04】[wpzzz / blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) - 
