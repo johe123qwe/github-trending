@@ -9,6 +9,11 @@
 
 ## All language
 
+* 【2023-12-08】[ml-explore / mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
+* 【2023-12-08】[ml-explore / mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
+* 【2023-12-08】[CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
+* 【2023-12-08】[huggingface / optimum-nvidia](https://github.com/huggingface/optimum-nvidia) - 
+* 【2023-12-08】[yformer / EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything
 * 【2023-12-07】[JJTech0130 / pypush](https://github.com/JJTech0130/pypush) - Cross-platform iMessage POC
 * 【2023-12-07】[google / style-aligned](https://github.com/google/style-aligned) - Official code for "Style Aligned Image Generation via Shared Attention"
 * 【2023-12-07】[ise-uiuc / magicoder](https://github.com/ise-uiuc/magicoder) - Magicoder: Source Code Is All You Need
@@ -483,6 +488,7 @@
 
 ## Java
 
+* 【2023-12-08】[WuKongOpenSource / Wukong_nocode](https://github.com/WuKongOpenSource/Wukong_nocode) - 悟空无代码平台正式开源，通过悟空无代码平台开发工具，企业可自主地快速开发出适合企业需要的信息化系统，开发过程只需要业务人员参与，开发效率极高，维护性很强。
 * 【2023-12-07】[blossom-editor / blossom](https://github.com/blossom-editor/blossom) - A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）
 * 【2023-12-07】[seculayer / AutoAPE-mrms](https://github.com/seculayer/AutoAPE-mrms) - AutoAPE(Advanced Perceptron Engine) - MRMS(Model Recommend Management Server)
 * 【2023-12-05】[geotools / geotools](https://github.com/geotools/geotools) - Official GeoTools repository
@@ -624,6 +630,8 @@
 
 ## Python
 
+* 【2023-12-08】[zappa / Zappa](https://github.com/zappa/Zappa) - Serverless Python
+* 【2023-12-08】[duma-repo / ai_code_reader](https://github.com/duma-repo/ai_code_reader) - AI项目阅读器 by渡码
 * 【2023-12-07】[google-deepmind / uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth) - 
 * 【2023-12-07】[spla-tam / SplaTAM](https://github.com/spla-tam/SplaTAM) - SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM
 * 【2023-12-07】[Flode-Labs / vid2densepose](https://github.com/Flode-Labs/vid2densepose) - Convert your videos to densepose and use it on MagicAnimate
@@ -992,6 +1000,8 @@
 
 ## Javascript
 
+* 【2023-12-08】[JetBrains / kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
+* 【2023-12-08】[zfy666ci / ton-mint](https://github.com/zfy666ci/ton-mint) - 
 * 【2023-12-07】[R-s0n / ars0n-framework](https://github.com/R-s0n/ars0n-framework) - A Modern Framework for Bug Bounty Hunting
 * 【2023-12-07】[DogeNetwork / v4](https://github.com/DogeNetwork/v4) - End internet censorship instantly with Doge Unblocker, a powerful web proxy designed for customization and anonymity. (Please star)
 * 【2023-12-06】[keshavgbpecdelhi / Web-Development](https://github.com/keshavgbpecdelhi/Web-Development) - Here you will find different web development mini projects which are made up of HTML, CSS & little bit of JavaScript. Do you have any such small project which is not already in the List!? 😄
@@ -1215,6 +1225,7 @@
 
 ## Go
 
+* 【2023-12-08】[kubernetes-sigs / kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
 * 【2023-12-07】[devfullcycle / imersao16](https://github.com/devfullcycle/imersao16) - 
 * 【2023-12-07】[aws / karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 * 【2023-12-06】[jvns / git-commit-folders](https://github.com/jvns/git-commit-folders) - 
@@ -1374,6 +1385,7 @@
 
 ## C
 
+* 【2023-12-08】[FeralInteractive / gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 * 【2023-12-07】[losehu / uv-k5-firmware-chinese](https://github.com/losehu/uv-k5-firmware-chinese) - 全功能泉盛UV-K5/K6中文固件
 * 【2023-12-05】[mitxela / candle](https://github.com/mitxela/candle) - 
 * 【2023-12-05】[quelsolaar / makemake](https://github.com/quelsolaar/makemake) - 
@@ -1569,6 +1581,10 @@
 
 ## C++
 
+* 【2023-12-08】[OpenSalamander / salamander](https://github.com/OpenSalamander/salamander) - Open Salamander
+* 【2023-12-08】[google-deepmind / open_spiel](https://github.com/google-deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+* 【2023-12-08】[ml-explore / mlx-data](https://github.com/ml-explore/mlx-data) - Efficient framework-agnostic data loading
+* 【2023-12-08】[couchbase / fleece](https://github.com/couchbase/fleece) - A super-fast, compact, JSON-equivalent binary data format
 * 【2023-12-06】[zeroasiccorp / switchboard](https://github.com/zeroasiccorp/switchboard) - Communication framework for RTL simulation and emulation.
 * 【2023-12-03】[mudler / LocalAI](https://github.com/mudler/LocalAI) - 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
 * 【2023-12-02】[AlibabaResearch / AdvancedLiterateMachinery](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) - A collection of original, innovative ideas and algorithms towards Advanced Literate Machinery. This project is maintained by the OCR Team in the Language Technology Lab, Alibaba DAMO Academy.
@@ -1727,6 +1743,7 @@
 
 ## C#
 
+* 【2023-12-08】[bezzad / Downloader](https://github.com/bezzad/Downloader) - Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.
 * 【2023-12-07】[daem0nc0re / VectorKernel](https://github.com/daem0nc0re/VectorKernel) - PoCs for Kernel-mode rootkit techniques research.
 * 【2023-12-06】[SonarSource / sonar-scanner-msbuild](https://github.com/SonarSource/sonar-scanner-msbuild) - SonarScanner for .NET
 * 【2023-12-04】[DaXcess / lethalcompany-vr-plugin](https://github.com/DaXcess/lethalcompany-vr-plugin) - Collecting Scrap in VR
@@ -1899,6 +1916,9 @@
 
 ## Html
 
+* 【2023-12-08】[profRobsonPMartins / CodePark-01](https://github.com/profRobsonPMartins/CodePark-01) - REPOSIÇÃO - HTML/CSS
+* 【2023-12-08】[profRobsonPMartins / CodePark-02](https://github.com/profRobsonPMartins/CodePark-02) - REPOSIÇÃO - HTML/CSS
+* 【2023-12-08】[grails / grails-core](https://github.com/grails/grails-core) - The Grails Web Application Framework
 * 【2023-12-07】[nikhilsoftwareboy / Apple-Clone](https://github.com/nikhilsoftwareboy/Apple-Clone) - 
 * 【2023-12-07】[nikhilsoftwareboy / Solid-Waste-Management-LPU](https://github.com/nikhilsoftwareboy/Solid-Waste-Management-LPU) - 
 * 【2023-12-07】[Skoolgq / Polaris](https://github.com/Skoolgq/Polaris) - The professional unblocked games site.
@@ -2394,6 +2414,8 @@
 
 ## Unknown
 
+* 【2023-12-08】[krishnaik06 / Perfect-Roadmap-To-Learn-Data-Science-In-2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024) - 
+* 【2023-12-08】[showlab / VideoSwap](https://github.com/showlab/VideoSwap) - Code for VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence
 * 【2023-12-07】[HumanAIGC / VividTalk](https://github.com/HumanAIGC/VividTalk) - VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior
 * 【2023-12-07】[heyOnuoha / Free-Fintech-Engineering-Bootcamp](https://github.com/heyOnuoha/Free-Fintech-Engineering-Bootcamp) - Free learning materials on Fintech Engineering!
 * 【2023-12-07】[lkeab / gaussian-grouping](https://github.com/lkeab/gaussian-grouping) - Gaussian Grouping for open-world Anything reconstruction, segmentation and editing.
