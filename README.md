@@ -9,6 +9,11 @@
 
 ## All language
 
+* 【2023-12-09】[jmpoep / vmprotect-3.5.1](https://github.com/jmpoep/vmprotect-3.5.1) - 
+* 【2023-12-09】[facebookresearch / PurpleLlama](https://github.com/facebookresearch/PurpleLlama) - Set of tools to assess and improve LLM security.
+* 【2023-12-09】[anoma / namada-trusted-setup-claimer](https://github.com/anoma/namada-trusted-setup-claimer) - Sign arbitrary messages with keys obtained from Namada's trusted setup
+* 【2023-12-09】[MichaelYuhe / ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) - A Chrome extension helps you group your tabs with AI.
+* 【2023-12-09】[rmcelreath / stat_rethinking_2024](https://github.com/rmcelreath/stat_rethinking_2024) - 
 * 【2023-12-08】[ml-explore / mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 * 【2023-12-08】[ml-explore / mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 * 【2023-12-08】[CopilotKit / CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
@@ -630,6 +635,10 @@
 
 ## Python
 
+* 【2023-12-09】[havenhq / mamba-chat](https://github.com/havenhq/mamba-chat) - Mamba-Chat: A chat LLM based on the state-space model architecture 🐍
+* 【2023-12-09】[AIFSH / NativeSpeaker](https://github.com/AIFSH/NativeSpeaker) - make your Speaker talking as Native style with own voice！
+* 【2023-12-09】[luciddreamer-cvlab / LucidDreamer](https://github.com/luciddreamer-cvlab/LucidDreamer) - Official code for the paper "LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes".
+* 【2023-12-09】[kyegomez / Gemini](https://github.com/kyegomez/Gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
 * 【2023-12-08】[zappa / Zappa](https://github.com/zappa/Zappa) - Serverless Python
 * 【2023-12-08】[duma-repo / ai_code_reader](https://github.com/duma-repo/ai_code_reader) - AI项目阅读器 by渡码
 * 【2023-12-07】[google-deepmind / uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth) - 
@@ -1000,6 +1009,7 @@
 
 ## Javascript
 
+* 【2023-12-09】[MostlyAdequate / mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 * 【2023-12-08】[JetBrains / kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
 * 【2023-12-08】[zfy666ci / ton-mint](https://github.com/zfy666ci/ton-mint) - 
 * 【2023-12-07】[R-s0n / ars0n-framework](https://github.com/R-s0n/ars0n-framework) - A Modern Framework for Bug Bounty Hunting
@@ -1385,6 +1395,8 @@
 
 ## C
 
+* 【2023-12-09】[research-virus / stuxnet](https://github.com/research-virus/stuxnet) - Public open-source code of malware Stuxnet (aka MyRTUs).
+* 【2023-12-09】[onyx-lang / onyx](https://github.com/onyx-lang/onyx) - A modern language for WebAssembly.
 * 【2023-12-08】[FeralInteractive / gamemode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 * 【2023-12-07】[losehu / uv-k5-firmware-chinese](https://github.com/losehu/uv-k5-firmware-chinese) - 全功能泉盛UV-K5/K6中文固件
 * 【2023-12-05】[mitxela / candle](https://github.com/mitxela/candle) - 
@@ -1581,6 +1593,9 @@
 
 ## C++
 
+* 【2023-12-09】[es3n1n / obfuscator](https://github.com/es3n1n/obfuscator) - Native code PE bin2bin obfuscator
+* 【2023-12-09】[SafeBreach-Labs / PoolParty](https://github.com/SafeBreach-Labs/PoolParty) - A set of fully-undetectable process injection techniques abusing Windows Thread Pools
+* 【2023-12-09】[changh95 / fastcampus_slam_codes](https://github.com/changh95/fastcampus_slam_codes) - Code exercises for the SLAM course in 'Computer Vision, LiDAR processing, and Sensor Fusion for Autonomous Driving' lecture series
 * 【2023-12-08】[OpenSalamander / salamander](https://github.com/OpenSalamander/salamander) - Open Salamander
 * 【2023-12-08】[google-deepmind / open_spiel](https://github.com/google-deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 * 【2023-12-08】[ml-explore / mlx-data](https://github.com/ml-explore/mlx-data) - Efficient framework-agnostic data loading
@@ -1743,6 +1758,7 @@
 
 ## C#
 
+* 【2023-12-09】[standard-webhooks / standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification
 * 【2023-12-08】[bezzad / Downloader](https://github.com/bezzad/Downloader) - Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.
 * 【2023-12-07】[daem0nc0re / VectorKernel](https://github.com/daem0nc0re/VectorKernel) - PoCs for Kernel-mode rootkit techniques research.
 * 【2023-12-06】[SonarSource / sonar-scanner-msbuild](https://github.com/SonarSource/sonar-scanner-msbuild) - SonarScanner for .NET
@@ -1916,6 +1932,7 @@
 
 ## Html
 
+* 【2023-12-09】[smartfoloo / platformer.io](https://github.com/smartfoloo/platformer.io) - The Best Place for Unblocked Games on Mars.
 * 【2023-12-08】[profRobsonPMartins / CodePark-01](https://github.com/profRobsonPMartins/CodePark-01) - REPOSIÇÃO - HTML/CSS
 * 【2023-12-08】[profRobsonPMartins / CodePark-02](https://github.com/profRobsonPMartins/CodePark-02) - REPOSIÇÃO - HTML/CSS
 * 【2023-12-08】[grails / grails-core](https://github.com/grails/grails-core) - The Grails Web Application Framework
@@ -2127,6 +2144,8 @@
 
 ## Css
 
+* 【2023-12-09】[amyyalex / simple-contribution](https://github.com/amyyalex/simple-contribution) - This is a very simple project to help first-time contributors to easily participate in an open-source project.
+* 【2023-12-09】[FreeRDP / freerdp.github.io](https://github.com/FreeRDP/freerdp.github.io) - FreeRDP website
 * 【2023-12-07】[elebumm / YouTubeAIExtension](https://github.com/elebumm/YouTubeAIExtension) - Chat with ANY of your favorite YouTube Videos!
 * 【2023-12-06】[nikhilsoftwareboy / Bing-code](https://github.com/nikhilsoftwareboy/Bing-code) - 
 * 【2023-12-06】[tecg-dcc / js-tp-burger-menu](https://github.com/tecg-dcc/js-tp-burger-menu) - Un menu de navigation burger très simple pour les petits écrans - NIVEAU : facile
@@ -2414,6 +2433,11 @@
 
 ## Unknown
 
+* 【2023-12-09】[meri-nova / breaking-into-data-handbook](https://github.com/meri-nova/breaking-into-data-handbook) - Breaking Into Data Handbook
+* 【2023-12-09】[YuelangX / Gaussian-Head-Avatar](https://github.com/YuelangX/Gaussian-Head-Avatar) - Official repository for "Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians"
+* 【2023-12-09】[skysafe / reblog](https://github.com/skysafe/reblog) - SkySafe Miscellaneous Reverse Engineering Blog
+* 【2023-12-09】[Anttwo / SuGaR](https://github.com/Anttwo/SuGaR) - Official implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering
+* 【2023-12-09】[chihanshipin / dizhifabu](https://github.com/chihanshipin/dizhifabu) - 
 * 【2023-12-08】[krishnaik06 / Perfect-Roadmap-To-Learn-Data-Science-In-2024](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024) - 
 * 【2023-12-08】[showlab / VideoSwap](https://github.com/showlab/VideoSwap) - Code for VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence
 * 【2023-12-07】[HumanAIGC / VividTalk](https://github.com/HumanAIGC/VividTalk) - VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior
