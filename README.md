@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2023-12-12】[HuolalaTech / page-spy-web](https://github.com/HuolalaTech/page-spy-web) - Debug remotely and easily like chrome devtools.
+* 【2023-12-12】[KovenYu / WonderJourney](https://github.com/KovenYu/WonderJourney) - 
+* 【2023-12-12】[allenai / papermage](https://github.com/allenai/papermage) - library supporting NLP and CV research on scientific papers
 * 【2023-12-11】[mapup / MapUp-Data-Assessment-F](https://github.com/mapup/MapUp-Data-Assessment-F) - 
 * 【2023-12-11】[linyiLYi / voice-assistant](https://github.com/linyiLYi/voice-assistant) - 一个简单的 Python 脚本，可以通过语音与本地大语言模型进行对话。
 * 【2023-12-11】[ast-grep / ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -501,6 +504,7 @@
 
 ## Java
 
+* 【2023-12-12】[LibrePDF / OpenPDF](https://github.com/LibrePDF/OpenPDF) - OpenPDF is a free Java library for creating and editing PDF files with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository. ⛺
 * 【2023-12-11】[openpilot-hub / devpilot-intellij](https://github.com/openpilot-hub/devpilot-intellij) - Your new coding buddy, designed exclusively for IntelliJ IDEA.
 * 【2023-12-10】[PortSwigger / bambdas](https://github.com/PortSwigger/bambdas) - Bambdas collection for Burp Suite Professional and Community.
 * 【2023-12-10】[chiteroman / BootloaderSpoofer](https://github.com/chiteroman/BootloaderSpoofer) - Spoof locked bootloader on local attestations
@@ -647,6 +651,9 @@
 
 ## Python
 
+* 【2023-12-12】[guoqincode / AnimateAnyone-unofficial](https://github.com/guoqincode/AnimateAnyone-unofficial) - Unofficial Implementation of Animate Anyone
+* 【2023-12-12】[open-compass / MixtralKit](https://github.com/open-compass/MixtralKit) - A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI
+* 【2023-12-12】[rushter / MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 * 【2023-12-11】[LTH14 / rcg](https://github.com/LTH14/rcg) - PyTorch implementation of RCG https://arxiv.org/abs/2312.03701
 * 【2023-12-11】[spyboy-productions / CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) - Uncover the true IP address of websites safeguarded by Cloudflare
 * 【2023-12-10】[shariqfarooq123 / LooseControl](https://github.com/shariqfarooq123/LooseControl) - Lifting ControlNet for Generalized Depth Conditioning
@@ -1027,6 +1034,10 @@
 
 ## Javascript
 
+* 【2023-12-12】[grommet / grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+* 【2023-12-12】[jhuckaby / Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
+* 【2023-12-12】[codeceptjs / CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS
+* 【2023-12-12】[googleworkspace / apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
 * 【2023-12-11】[GTNewHorizons / GT-New-Horizons-Modpack](https://github.com/GTNewHorizons/GT-New-Horizons-Modpack) - New Modpack with Gregtech, Thaumcraft and Witchery
 * 【2023-12-09】[MostlyAdequate / mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 * 【2023-12-08】[JetBrains / kotlin-web-site](https://github.com/JetBrains/kotlin-web-site) - The Kotlin programming language website
@@ -1416,6 +1427,9 @@
 
 ## C
 
+* 【2023-12-12】[m0nad / Diamorphine](https://github.com/m0nad/Diamorphine) - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86_64 and ARM64)
+* 【2023-12-12】[gspu / Coherent](https://github.com/gspu/Coherent) - Coherent OS
+* 【2023-12-12】[BUPT-OS / RROS](https://github.com/BUPT-OS/RROS) - RROS is a dual-kernel OS for satellites or other scenarios that need both real-time and general-purpose abilities. RROS = RTOS (Rust) + Linux (C).
 * 【2023-12-10】[esp32-open-mac / esp32-open-mac](https://github.com/esp32-open-mac/esp32-open-mac) - Reverse engineered wifi driver for the ESP32
 * 【2023-12-10】[raspberrypi / rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
 * 【2023-12-09】[research-virus / stuxnet](https://github.com/research-virus/stuxnet) - Public open-source code of malware Stuxnet (aka MyRTUs).
@@ -1616,6 +1630,8 @@
 
 ## C++
 
+* 【2023-12-12】[MihailRis / VoxelEngine-Cpp](https://github.com/MihailRis/VoxelEngine-Cpp) - Minecraft-like game engine in C++ with OpenGL
+* 【2023-12-12】[ratgdo / esphome-ratgdo](https://github.com/ratgdo/esphome-ratgdo) - ratgdo for ESPHome
 * 【2023-12-11】[Greedysky / TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) - TTKMusicPlayer imitates Kugou UI, the music player uses of qmmp core library based on Qt for windows and linux.(支持网易云音乐、酷我音乐、酷狗音乐)
 * 【2023-12-11】[sqlitebrowser / sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 * 【2023-12-10】[CowNowK / AimStar](https://github.com/CowNowK/AimStar) - Free and open-source external cheat for CS2, written in C++
@@ -1784,6 +1800,11 @@
 
 ## C#
 
+* 【2023-12-12】[SuxueCode / WechatBakTool](https://github.com/SuxueCode/WechatBakTool) - 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。
+* 【2023-12-12】[MarimerLLC / csla](https://github.com/MarimerLLC/csla) - A home for your business logic in any .NET application.
+* 【2023-12-12】[microsoft / testfx](https://github.com/microsoft/testfx) - MSTest framework and adapter
+* 【2023-12-12】[AnnulusGames / BurstLinq](https://github.com/AnnulusGames/BurstLinq) - Extremely fast LINQ aggregation operations implementation optimized by Burst Compiler
+* 【2023-12-12】[aarthificial-unity / foundations](https://github.com/aarthificial-unity/foundations) - Source Code for Solomon's Link
 * 【2023-12-11】[99natmar99 / Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer) - A tool to "Fix" Windows 11
 * 【2023-12-11】[Proektsoftbg / Calcpad](https://github.com/Proektsoftbg/Calcpad) - Free and open source software for mathematical and engineering calculations.
 * 【2023-12-10】[builtbybel / Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The real Windows 11 Copilot
@@ -1962,6 +1983,7 @@
 
 ## Html
 
+* 【2023-12-12】[TencentARC / SmartEdit](https://github.com/TencentARC/SmartEdit) - 
 * 【2023-12-09】[smartfoloo / platformer.io](https://github.com/smartfoloo/platformer.io) - The Best Place for Unblocked Games on Mars.
 * 【2023-12-08】[profRobsonPMartins / CodePark-01](https://github.com/profRobsonPMartins/CodePark-01) - REPOSIÇÃO - HTML/CSS
 * 【2023-12-08】[profRobsonPMartins / CodePark-02](https://github.com/profRobsonPMartins/CodePark-02) - REPOSIÇÃO - HTML/CSS
@@ -2174,6 +2196,8 @@
 
 ## Css
 
+* 【2023-12-12】[ronaldchan333 / QR-Code-Scan](https://github.com/ronaldchan333/QR-Code-Scan) - 
+* 【2023-12-12】[fleming-23 / DWEC_UNI4_PRAC1](https://github.com/fleming-23/DWEC_UNI4_PRAC1) - 
 * 【2023-12-11】[yandex-praktikum / ono-tebe-nado](https://github.com/yandex-praktikum/ono-tebe-nado) - Проект "Оно тебе надо"
 * 【2023-12-11】[cropsync / CropSync](https://github.com/cropsync/CropSync) - CropSync is a user-friendly website designed to assist farmers in selecting the right crops for their fields and providing essential information throughout the farming process.
 * 【2023-12-11】[edurekacontent / dockerContent](https://github.com/edurekacontent/dockerContent) - 
@@ -2466,6 +2490,10 @@
 
 ## Unknown
 
+* 【2023-12-12】[vvictoryuki / AnimateZero](https://github.com/vvictoryuki/AnimateZero) - Official PyTorch implementation for the paper "AnimateZero: Video Diffusion Models are Zero-Shot Image Animators"
+* 【2023-12-12】[showlab / X-Adapter](https://github.com/showlab/X-Adapter) - X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model
+* 【2023-12-12】[PeterGriffinJin / Awesome-Language-Model-on-Graphs](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) - A curated list of papers and resources based on "Large Language Models on Graphs: A Comprehensive Survey".
+* 【2023-12-12】[2439905184 / Galgame-Engine-Collect](https://github.com/2439905184/Galgame-Engine-Collect) - 关于视觉小说的一切，争取打造全网最全的资料库
 * 【2023-12-11】[openbao / openbao](https://github.com/openbao/openbao) - 
 * 【2023-12-11】[AIoT-MLSys-Lab / Efficient-LLMs-Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) - Efficient Large Language Models: A Survey
 * 【2023-12-11】[GT-RIPL / Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) - A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites
