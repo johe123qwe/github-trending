@@ -663,6 +663,11 @@
 
 ## Python
 
+* 【2023-12-15】[Ucas-HaoranWei / Vary](https://github.com/Ucas-HaoranWei/Vary) - Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.
+* 【2023-12-15】[Xunzi-LLM-of-Chinese-classics / XunziALLM](https://github.com/Xunzi-LLM-of-Chinese-classics/XunziALLM) - 
+* 【2023-12-15】[OpenLLMAI / OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - A Ray-based High-performance RLHF framework (for large models)
+* 【2023-12-15】[microsoft / Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
+* 【2023-12-15】[Frica01 / WeChat-mass-msg](https://github.com/Frica01/WeChat-mass-msg) - 微信自动发送信息，微信群发消息，Windows系统微信客户端（PC端
 * 【2023-12-14】[mistralai / client-python](https://github.com/mistralai/client-python) - Python client library for Mistral AI platform
 * 【2023-12-14】[NVIDIA / GenerativeAIExamples](https://github.com/NVIDIA/GenerativeAIExamples) - Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.
 * 【2023-12-14】[tlkh / asitop](https://github.com/tlkh/asitop) - Perf monitoring CLI tool for Apple Silicon
@@ -1289,6 +1294,7 @@
 
 ## Go
 
+* 【2023-12-15】[expr-lang / expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 * 【2023-12-13】[charmbracelet / huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
 * 【2023-12-13】[hakluke / hakrevdns](https://github.com/hakluke/hakrevdns) - Small, fast tool for performing reverse DNS lookups en masse.
 * 【2023-12-11】[chaseSpace / k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - 
@@ -1453,6 +1459,11 @@
 
 ## C
 
+* 【2023-12-15】[DummrenDuck / cgame](https://github.com/DummrenDuck/cgame) - 
+* 【2023-12-15】[rockchip-linux / rknn-toolkit2](https://github.com/rockchip-linux/rknn-toolkit2) - 
+* 【2023-12-15】[rochus-keller / CspChan](https://github.com/rochus-keller/CspChan) - A pure C (-std=c89) implementation of Go channels, including blocking and non-blocking selects.
+* 【2023-12-15】[ku1ik / stderred](https://github.com/ku1ik/stderred) - stderr in red
+* 【2023-12-15】[QuantFabric / XAPI](https://github.com/QuantFabric/XAPI) - 第三方库，包括SPDLog日志库、HPSocket通信框架、YAML-CPP解析库、CTP柜台API、REM柜台API、YD柜台API、ConcurrentQueue并发队列、OES柜台API。
 * 【2023-12-14】[0xEr3bus / PoolPartyBof](https://github.com/0xEr3bus/PoolPartyBof) - A beacon object file implementation of PoolParty Process Injection Technique.
 * 【2023-12-14】[hfiref0x / KDU](https://github.com/hfiref0x/KDU) - Kernel Driver Utility
 * 【2023-12-13】[TobyLobster / multiply_test](https://github.com/TobyLobster/multiply_test) - Comparing 6502 multiply routines
@@ -1659,6 +1670,7 @@
 
 ## C++
 
+* 【2023-12-15】[j-hc / zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
 * 【2023-12-14】[Mes0903 / Cpp-Miner](https://github.com/Mes0903/Cpp-Miner) - 
 * 【2023-12-14】[chdb-io / chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
 * 【2023-12-14】[NVIDIA / cccl](https://github.com/NVIDIA/cccl) - CUDA C++ Core Libraries
@@ -1832,6 +1844,7 @@
 
 ## C#
 
+* 【2023-12-15】[msdart / layerzero-zksync-scroll-zora-aio-tools](https://github.com/msdart/layerzero-zksync-scroll-zora-aio-tools) - Full free software with beautiful gui!
 * 【2023-12-14】[CosmosOS / Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 * 【2023-12-14】[fullstackhero / dotnet-webapi-starter-kit](https://github.com/fullstackhero/dotnet-webapi-starter-kit) - Clean Architecture Template for .NET 7.0 WebApi built with Multitenancy Support.
 * 【2023-12-14】[LeagueTavern / fix-lcu-window](https://github.com/LeagueTavern/fix-lcu-window) - 解决《英雄联盟》客户端异常窗口大小的问题。
@@ -2233,6 +2246,10 @@
 
 ## Css
 
+* 【2023-12-15】[shanjairaj7 / openweathermap](https://github.com/shanjairaj7/openweathermap) - 
+* 【2023-12-15】[SteamDatabase / GameTracking-CS2](https://github.com/SteamDatabase/GameTracking-CS2) - 📥 Game Tracker: Counter-Strike 2
+* 【2023-12-15】[lomzik / lomzik.github.com](https://github.com/lomzik/lomzik.github.com) - 
+* 【2023-12-15】[AbyssServices / Abyss-Web](https://github.com/AbyssServices/Abyss-Web) - Abyss is an advanced proxy service that provides modern unblocking for all users who use it.
 * 【2023-12-14】[Mozilla-Ocho / Memory-Cache](https://github.com/Mozilla-Ocho/Memory-Cache) - MemoryCache is an experimental development project to turn a local desktop environment into an on-device AI agent
 * 【2023-12-14】[isbendiyarovanezrin / ShoppingCart](https://github.com/isbendiyarovanezrin/ShoppingCart) - Shopping Cart 🛒
 * 【2023-12-14】[themepark-dev / theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
@@ -2531,6 +2548,11 @@
 
 ## Unknown
 
+* 【2023-12-15】[HumanAIGC / OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
+* 【2023-12-15】[Mint-Blockchain / mint-brandkit](https://github.com/Mint-Blockchain/mint-brandkit) - 
+* 【2023-12-15】[ruesandora / Eclipse](https://github.com/ruesandora/Eclipse) - 
+* 【2023-12-15】[VladimirYugay / Gaussian-SLAM](https://github.com/VladimirYugay/Gaussian-SLAM) - 
+* 【2023-12-15】[InstantID / InstantID](https://github.com/InstantID/InstantID) - InstantID : Zero-shot Identity-Preserving Generation in Seconds
 * 【2023-12-14】[sczhou / Upscale-A-Video](https://github.com/sczhou/Upscale-A-Video) - Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution
 * 【2023-12-14】[waf-bypass-maker / waf-community-bypasses](https://github.com/waf-bypass-maker/waf-community-bypasses) - 
 * 【2023-12-13】[dreamoving / dreamoving-project](https://github.com/dreamoving/dreamoving-project) - Official implementation of DreaMoving
