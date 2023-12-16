@@ -9,6 +9,13 @@
 
 ## All language
 
+* 【2023-12-16】[google / generative-ai-swift](https://github.com/google/generative-ai-swift) - Google AI SDK for Swift
+* 【2023-12-16】[bleedline / aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。
+* 【2023-12-16】[oxc-project / oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
+* 【2023-12-16】[yihong0618 / tg_bot_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
+* 【2023-12-16】[srush / Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles) - Solve puzzles. Improve your pytorch.
+* 【2023-12-16】[google / generative-ai-docs](https://github.com/google/generative-ai-docs) - Documentation for Google's Generative AI developer site
+* 【2023-12-16】[google / generative-ai-android](https://github.com/google/generative-ai-android) - Google AI SDK for Android
 * 【2023-12-16】[sfter / evm-inscription-mint](https://github.com/sfter/evm-inscription-mint) - 兼容 evm 的铭文 Mint 工具
 * 【2023-12-16】[adobe / react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 * 【2023-12-14】[microsoft / promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
@@ -516,6 +523,8 @@
 
 ## Java
 
+* 【2023-12-16】[conductor-oss / conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine.
+* 【2023-12-16】[bitisanop / CryptoExchange_TradingPlatform_CoinExchange](https://github.com/bitisanop/CryptoExchange_TradingPlatform_CoinExchange) - Bitisan|BlockchainExchange|ExchangePlatform|CryptocurrencyTrading|区块链|交易所|永续合约|币币兑换
 * 【2023-12-13】[mainpropath / AI-SmartFuse-Framework](https://github.com/mainpropath/AI-SmartFuse-Framework) - 
 * 【2023-12-13】[jetty / jetty.project](https://github.com/jetty/jetty.project) - Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
 * 【2023-12-12】[LibrePDF / OpenPDF](https://github.com/LibrePDF/OpenPDF) - OpenPDF is a free Java library for creating and editing PDF files with a LGPL and MPL open source license. OpenPDF is based on a fork of iText. We welcome contributions from other developers. Please feel free to submit pull-requests and bugreports to this GitHub repository. ⛺
@@ -1297,6 +1306,8 @@
 
 ## Go
 
+* 【2023-12-16】[google / generative-ai-go](https://github.com/google/generative-ai-go) - Go SDK for Google Generative AI
+* 【2023-12-16】[jwping / wxbot](https://github.com/jwping/wxbot) - PC微信Hook模块、Hook WeChat / 微信逆向、微信机器人、WeChatRobot
 * 【2023-12-15】[expr-lang / expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 * 【2023-12-13】[charmbracelet / huh](https://github.com/charmbracelet/huh) - A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
 * 【2023-12-13】[hakluke / hakrevdns](https://github.com/hakluke/hakrevdns) - Small, fast tool for performing reverse DNS lookups en masse.
@@ -1848,6 +1859,7 @@
 
 ## C#
 
+* 【2023-12-16】[tjackenpacken / taskbar-groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups
 * 【2023-12-15】[msdart / layerzero-zksync-scroll-zora-aio-tools](https://github.com/msdart/layerzero-zksync-scroll-zora-aio-tools) - Full free software with beautiful gui!
 * 【2023-12-14】[CosmosOS / Cosmos](https://github.com/CosmosOS/Cosmos) - Cosmos is an operating system "construction kit". Build your own OS using managed languages such as C#, VB.NET, and more!
 * 【2023-12-14】[fullstackhero / dotnet-webapi-starter-kit](https://github.com/fullstackhero/dotnet-webapi-starter-kit) - Clean Architecture Template for .NET 7.0 WebApi built with Multitenancy Support.
@@ -2250,6 +2262,7 @@
 
 ## Css
 
+* 【2023-12-16】[tovifun / VivalArc](https://github.com/tovifun/VivalArc) - With just a few tweaks, you can give Vivaldi that cool Arc vibe
 * 【2023-12-15】[shanjairaj7 / openweathermap](https://github.com/shanjairaj7/openweathermap) - 
 * 【2023-12-15】[SteamDatabase / GameTracking-CS2](https://github.com/SteamDatabase/GameTracking-CS2) - 📥 Game Tracker: Counter-Strike 2
 * 【2023-12-15】[lomzik / lomzik.github.com](https://github.com/lomzik/lomzik.github.com) - 
@@ -2552,6 +2565,10 @@
 
 ## Unknown
 
+* 【2023-12-16】[piglei / one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
+* 【2023-12-16】[riscv / learn](https://github.com/riscv/learn) - Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc.
+* 【2023-12-16】[robotics-survey / Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) - 
+* 【2023-12-16】[TodePond / nDreamBerd](https://github.com/TodePond/nDreamBerd) - perfect programming language
 * 【2023-12-15】[HumanAIGC / OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
 * 【2023-12-15】[Mint-Blockchain / mint-brandkit](https://github.com/Mint-Blockchain/mint-brandkit) - 
 * 【2023-12-15】[ruesandora / Eclipse](https://github.com/ruesandora/Eclipse) - 
