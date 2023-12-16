@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2023-12-16】[sfter / evm-inscription-mint](https://github.com/sfter/evm-inscription-mint) - 兼容 evm 的铭文 Mint 工具
+* 【2023-12-16】[adobe / react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 * 【2023-12-14】[microsoft / promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering
 * 【2023-12-14】[nishuzumi / pow-erc20](https://github.com/nishuzumi/pow-erc20) - A minter for PowerERC20 by rust
 * 【2023-12-14】[krishnaik06 / Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) - 
@@ -1059,6 +1061,7 @@
 
 ## Javascript
 
+* 【2023-12-16】[BruceMacD / chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
 * 【2023-12-14】[Zack995 / web3_script](https://github.com/Zack995/web3_script) - 
 * 【2023-12-14】[derekantrican / GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) - A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed
 * 【2023-12-13】[morris / vanilla-todo](https://github.com/morris/vanilla-todo) - A case study on viable techniques for vanilla web development.
@@ -1670,6 +1673,7 @@
 
 ## C++
 
+* 【2023-12-16】[QuantFabric / XMonitor](https://github.com/QuantFabric/XMonitor) - XMonitor监控客户端，拖拽式插件架构，提供Market、Monitor、EventLog、Permission、RiskJudge、OrderManager插件，不同插件可以拖拽至不同屏幕分屏显示。
 * 【2023-12-15】[j-hc / zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
 * 【2023-12-14】[Mes0903 / Cpp-Miner](https://github.com/Mes0903/Cpp-Miner) - 
 * 【2023-12-14】[chdb-io / chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
