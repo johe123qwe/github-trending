@@ -674,6 +674,13 @@
 
 ## Python
 
+* 【2023-12-17】[kadirnar / whisper-plus](https://github.com/kadirnar/whisper-plus) - WhisperPlus: Advancing Speech-to-Text Processing 🚀
+* 【2023-12-17】[facundoolano / feedi](https://github.com/facundoolano/feedi) - A personal news aggregator and Mastodon client
+* 【2023-12-17】[openai / weak-to-strong](https://github.com/openai/weak-to-strong) - 
+* 【2023-12-17】[Coframe / coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️
+* 【2023-12-17】[google / generative-ai-python](https://github.com/google/generative-ai-python) - The Google AI Python SDK enables developers to use Google's state-of-the-art generative AI models (like Gemini and PaLM) to build AI-powered features and applications.
+* 【2023-12-17】[skills / secure-code-game](https://github.com/skills/secure-code-game) - A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code.
+* 【2023-12-17】[Chocapikk / CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553) - Backup Migration <= 1.3.7 - Unauthenticated Remote Code Execution
 * 【2023-12-15】[Ucas-HaoranWei / Vary](https://github.com/Ucas-HaoranWei/Vary) - Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.
 * 【2023-12-15】[Xunzi-LLM-of-Chinese-classics / XunziALLM](https://github.com/Xunzi-LLM-of-Chinese-classics/XunziALLM) - 
 * 【2023-12-15】[OpenLLMAI / OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF) - A Ray-based High-performance RLHF framework (for large models)
@@ -1070,6 +1077,7 @@
 
 ## Javascript
 
+* 【2023-12-17】[fosatech / STK-Sweep](https://github.com/fosatech/STK-Sweep) - Public STK-Sweep repo.
 * 【2023-12-16】[BruceMacD / chatd](https://github.com/BruceMacD/chatd) - Chat with your documents using local AI
 * 【2023-12-14】[Zack995 / web3_script](https://github.com/Zack995/web3_script) - 
 * 【2023-12-14】[derekantrican / GAS-ICS-Sync](https://github.com/derekantrican/GAS-ICS-Sync) - A Google Apps Script for syncing ICS/ICAL files faster than the current Google Calendar speed
@@ -1684,6 +1692,7 @@
 
 ## C++
 
+* 【2023-12-17】[GPUOpen-LibrariesAndSDKs / FidelityFX-SDK](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK) - The main repository for the FidelityFX SDK.
 * 【2023-12-16】[QuantFabric / XMonitor](https://github.com/QuantFabric/XMonitor) - XMonitor监控客户端，拖拽式插件架构，提供Market、Monitor、EventLog、Permission、RiskJudge、OrderManager插件，不同插件可以拖拽至不同屏幕分屏显示。
 * 【2023-12-15】[j-hc / zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
 * 【2023-12-14】[Mes0903 / Cpp-Miner](https://github.com/Mes0903/Cpp-Miner) - 
@@ -2049,6 +2058,7 @@
 
 ## Html
 
+* 【2023-12-17】[X-LANCE / StoryTTS](https://github.com/X-LANCE/StoryTTS) - https://goarsenal.github.io/StoryTTS/
 * 【2023-12-12】[TencentARC / SmartEdit](https://github.com/TencentARC/SmartEdit) - 
 * 【2023-12-09】[smartfoloo / platformer.io](https://github.com/smartfoloo/platformer.io) - The Best Place for Unblocked Games on Mars.
 * 【2023-12-08】[profRobsonPMartins / CodePark-01](https://github.com/profRobsonPMartins/CodePark-01) - REPOSIÇÃO - HTML/CSS
