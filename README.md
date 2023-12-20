@@ -532,6 +532,7 @@
 
 ## Java
 
+* 【2023-12-20】[apache / incubator-seata](https://github.com/apache/incubator-seata) - 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
 * 【2023-12-19】[Consensys / teku](https://github.com/Consensys/teku) - Java Implementation of the Ethereum 2.0 Beacon Chain
 * 【2023-12-18】[exteraSquad / exteraGram](https://github.com/exteraSquad/exteraGram) - Telegram client based on Android sources with new features
 * 【2023-12-18】[Mino260806 / MessengerPro](https://github.com/Mino260806/MessengerPro) - A mod that enhances Facebook Messenger with loads of powerful features !
