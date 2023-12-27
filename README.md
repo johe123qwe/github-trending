@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2023-12-27】[movie-web / movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
+* 【2023-12-27】[matt8707 / ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 * 【2023-12-25】[Hillobar / Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 * 【2023-12-25】[Innei / Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 * 【2023-12-25】[JShollaj / awesome-llm-interpretability](https://github.com/JShollaj/awesome-llm-interpretability) - A curated list of Large Language Model (LLM) Interpretability resources.
@@ -1154,6 +1156,8 @@
 
 ## Javascript
 
+* 【2023-12-27】[rphlr / 42-Evals](https://github.com/rphlr/42-Evals) - A curated collection of official 42 School evaluation sheets 📄✅, complete with a user-friendly web interface for streamlined navigation and self-assessment. 🖥️🚀 Explore, prepare, and excel in your peer evaluations. For the full experience, visit my web page!
+* 【2023-12-27】[naveeddogar / KING-MD](https://github.com/naveeddogar/KING-MD) - A Multi Device WhatsApp Bot Create By Naveed Dogar 🍁
 * 【2023-12-25】[zeon-studio / hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and TailwindCSS that will save you hours of work.
 * 【2023-12-25】[kovacsv / Online3DViewer](https://github.com/kovacsv/Online3DViewer) - A solution to visualize and explore 3D models in your browser.
 * 【2023-12-24】[casibase / casibase](https://github.com/casibase/casibase) - ⚡️Open-source LangChain-like AI knowledge database with web UI and Enterprise SSO⚡️, supports OpenAI, Azure, Google Gemini, HuggingFace, OpenRouter, ChatGLM and local models, chat demo: https://ai.casbin.com, admin portal demo: https://ai.casibase.com
@@ -1407,6 +1411,9 @@
 
 ## Go
 
+* 【2023-12-27】[xrpinals / XrpinalsMintTool](https://github.com/xrpinals/XrpinalsMintTool) - 
+* 【2023-12-27】[ConnectAI-E / feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书 ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+* 【2023-12-27】[duke-git / lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 * 【2023-12-25】[maypok86 / otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends
 * 【2023-12-25】[mislav / hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 * 【2023-12-25】[mathaou / termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
@@ -1588,6 +1595,9 @@
 
 ## C
 
+* 【2023-12-27】[KpwnZ / Def1nit3lyN0tAJa1lbr3akTool](https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool) - A jailbreak tool for all arm64 devices on iOS 16.0 to iOS 16.5
+* 【2023-12-27】[proh14 / ptext](https://github.com/proh14/ptext) - A nano like text editor built with pure C
+* 【2023-12-27】[lizongying / my-tv](https://github.com/lizongying/my-tv) - 安卓电视直播软件，内置直播源
 * 【2023-12-24】[kindawindytoday / M](https://github.com/kindawindytoday/M) - new dynamically-loading tool for "园什“
 * 【2023-12-24】[codenocold / dgm](https://github.com/codenocold/dgm) - 
 * 【2023-12-23】[gtworek / PSBits](https://github.com/gtworek/PSBits) - Simple (relatively) things allowing you to dig a bit deeper than usual.
@@ -1993,6 +2003,9 @@
 
 ## C#
 
+* 【2023-12-27】[ks233 / ja-learner](https://github.com/ks233/ja-learner) - 📖简易日语学习 / 视觉小说阅读辅助工具
+* 【2023-12-27】[AnnulusGames / LitMotion](https://github.com/AnnulusGames/LitMotion) - Lightning-fast and Zero Allocation Tween Library for Unity.
+* 【2023-12-27】[sim0n00ps / OF-DL](https://github.com/sim0n00ps/OF-DL) - C# console app to download all of the media from Onlyfans accounts with DRM video downloading support
 * 【2023-12-24】[builtbybel / Appcopier](https://github.com/builtbybel/Appcopier) - Back up key things on your Windows PC, perform a reset or simply go back in time.
 * 【2023-12-23】[Stratus-Security / Subdominator](https://github.com/Stratus-Security/Subdominator) - The Internets #1 Subdomain Takeover Tool
 * 【2023-12-23】[DaXcess / LCVR](https://github.com/DaXcess/LCVR) - Collecting Scrap in VR
@@ -2424,6 +2437,7 @@
 
 ## Css
 
+* 【2023-12-27】[sunyctf / css-effects](https://github.com/sunyctf/css-effects) - ⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！
 * 【2023-12-24】[elifgazioglu / doyouwannagooutwithme](https://github.com/elifgazioglu/doyouwannagooutwithme) - 
 * 【2023-12-23】[Akashkumar9508 / Smart-Attend](https://github.com/Akashkumar9508/Smart-Attend) - 
 * 【2023-12-22】[hyperweek / mx3-revamped](https://github.com/hyperweek/mx3-revamped) - mx3 revamped!
@@ -2738,6 +2752,7 @@
 
 ## Unknown
 
+* 【2023-12-27】[hua1995116 / indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 独立开发者出海
 * 【2023-12-25】[kindawindytoday / Minty-Releases](https://github.com/kindawindytoday/Minty-Releases) - 
 * 【2023-12-25】[guoqincode / Focus-on-Your-Instruction](https://github.com/guoqincode/Focus-on-Your-Instruction) - Focus on Your Instruction: Fine-grained and Multi-instruction Image Editing by Attention Modulation
 * 【2023-12-25】[osurf / nzdy](https://github.com/osurf/nzdy) - 翻墙部落-翻墙软件 翻墙工具 自由门 无界 安卓 vpn
