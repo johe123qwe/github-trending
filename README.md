@@ -9,6 +9,10 @@
 
 ## All language
 
+* 【2023-12-29】[KRTirtho / spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+* 【2023-12-29】[SoilLabs / Solana-Foam](https://github.com/SoilLabs/Solana-Foam) - Foam mint and claim script
+* 【2023-12-29】[ChatGPTNextWeb / ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+* 【2023-12-29】[dubinc / dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 * 【2023-12-28】[BartoszJarocki / cv](https://github.com/BartoszJarocki/cv) - Print-friendly, minimalist CV page
 * 【2023-12-28】[d3george / slash-admin](https://github.com/d3george/slash-admin) - A modern react admin. It is based on react 18, vite and TypeScript. It's fast !
 * 【2023-12-28】[iusztinpaul / hands-on-llms](https://github.com/iusztinpaul/hands-on-llms) - 🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴
@@ -567,6 +571,7 @@
 
 ## Java
 
+* 【2023-12-29】[The-Aether-Team / The-Aether](https://github.com/The-Aether-Team/The-Aether) - The original "The Aether" mod, rewritten and ported to modern Minecraft versions.
 * 【2023-12-24】[ReChronoRain / HyperCeiler](https://github.com/ReChronoRain/HyperCeiler) - Make HyperOS Great Again!
 * 【2023-12-24】[xpipe-io / xpipe](https://github.com/xpipe-io/xpipe) - Your entire server infrastructure at your fingertips
 * 【2023-12-24】[dromara / x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingStor、平安云 OBS、首云 OSS、IBM COS、其它兼容 S3 协议的平台。后续即将支持 Samba、NFS
@@ -730,6 +735,13 @@
 
 ## Python
 
+* 【2023-12-29】[ModelTC / lightllm](https://github.com/ModelTC/lightllm) - LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.
+* 【2023-12-29】[KwaiKEG / KwaiAgents](https://github.com/KwaiKEG/KwaiAgents) - A generalized information-seeking agent system with Large Language Models (LLMs).
+* 【2023-12-29】[VRSEN / agency-swarm](https://github.com/VRSEN/agency-swarm) - 
+* 【2023-12-29】[modelscope / swift](https://github.com/modelscope/swift) - 魔搭大模型训练推理工具箱，支持LLaMA、千问、ChatGLM、BaiChuan等多种模型及LoRA等多种训练方式(The LLM training/inference framework of ModelScope community, Support various models like LLaMA, Qwen, ChatGLM, Baichuan and others, and training methods like LoRA, ResTuning, NEFTune, etc.)
+* 【2023-12-29】[emadshanab / Nuclei-Templates-Collection](https://github.com/emadshanab/Nuclei-Templates-Collection) - Nuclei Templates Collection
+* 【2023-12-29】[myhhub / stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,识别股票形态,内置选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
+* 【2023-12-29】[TencentARC / MotionCtrl](https://github.com/TencentARC/MotionCtrl) - 
 * 【2023-12-28】[yangxy / PASD](https://github.com/yangxy/PASD) - 
 * 【2023-12-28】[WangRongsheng / Aurora](https://github.com/WangRongsheng/Aurora) - Aurora is a [Chinese Version] MoE model. Aurora is a further work based on Mixtral-8x7B, which activates the chat capability of the model's Chinese open domain.
 * 【2023-12-28】[microsoft / ics-forensics-tools](https://github.com/microsoft/ics-forensics-tools) - Microsoft ICSpector (ICS Forensics Tools framework) is an open-source forensics framework that enables the analysis of Industrial PLC metadata and project files.
@@ -1166,6 +1178,8 @@
 
 ## Javascript
 
+* 【2023-12-29】[iMAboud / iMSteam](https://github.com/iMAboud/iMSteam) - Adds pirated alternatives for steam's games (Online-fix, FitGirl, Skidrowreloaded and SteamRIP)
+* 【2023-12-29】[nuejs / nue](https://github.com/nuejs/nue) - The closer-to-standards web framework. Simple alternative to Next.js and Astro.
 * 【2023-12-28】[shyamtawli / devFind](https://github.com/shyamtawli/devFind) - devFind is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
 * 【2023-12-27】[rphlr / 42-Evals](https://github.com/rphlr/42-Evals) - A curated collection of official 42 School evaluation sheets 📄✅, complete with a user-friendly web interface for streamlined navigation and self-assessment. 🖥️🚀 Explore, prepare, and excel in your peer evaluations. For the full experience, visit my web page!
 * 【2023-12-27】[naveeddogar / KING-MD](https://github.com/naveeddogar/KING-MD) - A Multi Device WhatsApp Bot Create By Naveed Dogar 🍁
@@ -1422,6 +1436,7 @@
 
 ## Go
 
+* 【2023-12-29】[amir20 / dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 * 【2023-12-28】[anthdm / hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang
 * 【2023-12-27】[xrpinals / XrpinalsMintTool](https://github.com/xrpinals/XrpinalsMintTool) - 
 * 【2023-12-27】[ConnectAI-E / feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书 ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
@@ -1607,6 +1622,10 @@
 
 ## C
 
+* 【2023-12-29】[sekigon-gonnoc / Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040).
+* 【2023-12-29】[medusalix / xone](https://github.com/medusalix/xone) - Linux kernel driver for Xbox One and Xbox Series X|S accessories
+* 【2023-12-29】[toniebox-reverse-engineering / teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) - teddyCloud is an open source server replacement for the Boxine Cloud
+* 【2023-12-29】[Staok / ARM-Linux-Study](https://github.com/Staok/ARM-Linux-Study) - ARM Linux 的学习历程。包括应用、驱动、设备树，GCC, Make, CMake, Bash, Vim, Git 等等大集合内容。文章遵守 CC BY NC SA 4.0 协议。
 * 【2023-12-28】[hrvach / deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 * 【2023-12-28】[netero1010 / EDRSilencer](https://github.com/netero1010/EDRSilencer) - A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
 * 【2023-12-28】[MaJerle / stm32f429](https://github.com/MaJerle/stm32f429) - Keil projects and libraries for STM32F4xx devices
@@ -1834,6 +1853,7 @@
 
 ## C++
 
+* 【2023-12-29】[PlutoLang / Pluto](https://github.com/PlutoLang/Pluto) - A superset of Lua 5.4 — with unique features, optimizations, and improvements.
 * 【2023-12-28】[kroma-network / tachyon](https://github.com/kroma-network/tachyon) - Modular ZK(Zero Knowledge) backend accelerated by GPU
 * 【2023-12-25】[Pagghiu / SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries) - Sane C++ Libraries
 * 【2023-12-23】[openframeworks / openFrameworks](https://github.com/openframeworks/openFrameworks) - openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
@@ -2019,6 +2039,7 @@
 
 ## C#
 
+* 【2023-12-29】[Corsinvest / cv4pve-admin](https://github.com/Corsinvest/cv4pve-admin) - Corsinvest for Proxmox VE Web Admin Clusters
 * 【2023-12-28】[toniebox-reverse-engineering / teddy](https://github.com/toniebox-reverse-engineering/teddy) - With this tool you can dump existing files for the famous audio box or create custom ones.
 * 【2023-12-27】[ks233 / ja-learner](https://github.com/ks233/ja-learner) - 📖简易日语学习 / 视觉小说阅读辅助工具
 * 【2023-12-27】[AnnulusGames / LitMotion](https://github.com/AnnulusGames/LitMotion) - Lightning-fast and Zero Allocation Tween Library for Unity.
@@ -2226,6 +2247,8 @@
 
 ## Html
 
+* 【2023-12-29】[vishaltewatia / code](https://github.com/vishaltewatia/code) - 
+* 【2023-12-29】[uiverse-io / galaxy](https://github.com/uiverse-io/galaxy) - 🚀 3500+ UI elements! Community-made and free to use. Made with either CSS or Tailwind.
 * 【2023-12-28】[OpenMDAO / om-Aviary](https://github.com/OpenMDAO/om-Aviary) - 
 * 【2023-12-28】[swisskyrepo / InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
 * 【2023-12-28】[kbtxwer / IELTS](https://github.com/kbtxwer/IELTS) - 剑桥雅思
@@ -2458,6 +2481,9 @@
 
 ## Css
 
+* 【2023-12-29】[vishaltewatia / propose-your-gf](https://github.com/vishaltewatia/propose-your-gf) - 
+* 【2023-12-29】[vishaltewatia / gift](https://github.com/vishaltewatia/gift) - 
+* 【2023-12-29】[JulietaUla / Montserrat](https://github.com/JulietaUla/Montserrat) - 
 * 【2023-12-28】[heliboo / hai](https://github.com/heliboo/hai) - 
 * 【2023-12-27】[sunyctf / css-effects](https://github.com/sunyctf/css-effects) - ⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！
 * 【2023-12-24】[elifgazioglu / doyouwannagooutwithme](https://github.com/elifgazioglu/doyouwannagooutwithme) - 
@@ -2774,6 +2800,9 @@
 
 ## Unknown
 
+* 【2023-12-29】[OwshenNetwork / genesis](https://github.com/OwshenNetwork/genesis) - Owshen rewards and airdrops
+* 【2023-12-29】[veo / nginx_shell](https://github.com/veo/nginx_shell) - nginx WebShell/内存马，更优雅的nignx backdoor
+* 【2023-12-29】[cuda-mode / resource-stream](https://github.com/cuda-mode/resource-stream) - CUDA related news and material links
 * 【2023-12-28】[Meroser / IPTV](https://github.com/Meroser/IPTV) - 湖南电信、移动、联通组播源，IPv6源，完善的台标，几近完美的EPG节目预告[强迫症福音]
 * 【2023-12-28】[Moexin / IPTV](https://github.com/Moexin/IPTV) - MyIPTV
 * 【2023-12-28】[ConnectAI-E / Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
