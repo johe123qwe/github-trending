@@ -9,6 +9,11 @@
 
 ## All language
 
+* 【2024-01-02】[AntonioErdeljac / next-auth-v5-advanced-guide](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide) - 
+* 【2024-01-02】[firefly-iii / firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+* 【2024-01-02】[UdaraJay / Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
+* 【2024-01-02】[tailcallhq / tailcall](https://github.com/tailcallhq/tailcall) - A high-performance no-code GraphQL backend
+* 【2024-01-02】[ublue-os / bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs.
 * 【2024-01-01】[janhq / jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 * 【2024-01-01】[hack-ink / atomicalsir](https://github.com/hack-ink/atomicalsir) - 
 * 【2024-01-01】[tyxsspa / AnyText](https://github.com/tyxsspa/AnyText) - 
@@ -585,6 +590,7 @@
 
 ## Java
 
+* 【2024-01-02】[gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc) - The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 * 【2024-01-01】[spring-projects / spring-modulith](https://github.com/spring-projects/spring-modulith) - Modular applications with Spring Boot
 * 【2023-12-31】[cBioPortal / cbioportal](https://github.com/cBioPortal/cbioportal) - cBioPortal for Cancer Genomics
 * 【2023-12-31】[Hongmiao0207 / chatgpt-java](https://github.com/Hongmiao0207/chatgpt-java) - ChatGPT Java, it supports some of OpenAI's official interfaces (all interfaces will be supported in the future) and provides a conversational mode based on command-line chat.
@@ -753,6 +759,8 @@
 
 ## Python
 
+* 【2024-01-02】[jekalmin / extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
+* 【2024-01-02】[langroid / langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 * 【2024-01-01】[theOneAndOnlyOne / BeReel](https://github.com/theOneAndOnlyOne/BeReel) - Generate a custom timelapse of all your memories from BeReal
 * 【2024-01-01】[joaomdmoura / crewAI-examples](https://github.com/joaomdmoura/crewAI-examples) - 
 * 【2024-01-01】[alibaba / animate-anything](https://github.com/alibaba/animate-anything) - Fine-Grained Open Domain Image Animation with Motion Guidance
@@ -1668,6 +1676,8 @@
 
 ## C
 
+* 【2024-01-02】[fastfetch-cli / fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
+* 【2024-01-02】[hackerhouse-opensource / Artillery](https://github.com/hackerhouse-opensource/Artillery) - CIA UAC bypass implementation that utilizes elevated COM object to write to System32 and an auto-elevated process to execute as administrator.
 * 【2024-01-01】[ThirteenAG / GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) - This project aims to fix or address some issues in Grand Theft Auto IV Complete Edition
 * 【2024-01-01】[AlexGalhardo / Software-Engineering](https://github.com/AlexGalhardo/Software-Engineering) - Learning Software Engineering 🐢
 * 【2023-12-31】[Maldev-Academy / Christmas](https://github.com/Maldev-Academy/Christmas) - 
@@ -1902,6 +1912,9 @@
 
 ## C++
 
+* 【2024-01-02】[praydog / UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4/5)
+* 【2024-01-02】[geode-sdk / geode](https://github.com/geode-sdk/geode) - The ultimate Geometry Dash modding toolkit
+* 【2024-01-02】[TobyAdd / GDH](https://github.com/TobyAdd/GDH) - Cheat menu for Geometry Dash. Powered by ImGui
 * 【2024-01-01】[thelastoutpostworkshop / gpio_viewer](https://github.com/thelastoutpostworkshop/gpio_viewer) - GPIOViewer Arduino Library to see live GPIO Pins on ESP32 boards
 * 【2024-01-01】[hackerhouse-opensource / WMIProcessWatcher](https://github.com/hackerhouse-opensource/WMIProcessWatcher) - A CIA tradecraft technique to asynchronously detect when a process is created using WMI.
 * 【2023-12-31】[hackerhouse-opensource / SignToolEx](https://github.com/hackerhouse-opensource/SignToolEx) - Patching "signtool.exe" to accept expired certificates for code-signing.
@@ -2311,6 +2324,7 @@
 
 ## Html
 
+* 【2024-01-02】[ShoroukAziz / notion_widgets](https://github.com/ShoroukAziz/notion_widgets) - A set of HTML widgets that could be embedded into Notion.so https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/
 * 【2024-01-01】[FreeCAD / FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) - A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
 * 【2023-12-31】[Carlettoh / NotebooksProcesamientoIA](https://github.com/Carlettoh/NotebooksProcesamientoIA) - Notebooks realizados durante la asignatura de procesamiento de imagen por IA
 * 【2023-12-30】[cipher387 / linux-for-OSINT-21-day](https://github.com/cipher387/linux-for-OSINT-21-day) - In this repository you will find sample commands and test files for each day of the course "Linux for OSINT. A 21-day course for beginners".
@@ -2548,6 +2562,7 @@
 
 ## Css
 
+* 【2024-01-02】[JAYESHBATRA / Virtuo-Learn](https://github.com/JAYESHBATRA/Virtuo-Learn) - Virtuo Learn is a platform that provides immersive learning experiences like never before. It offers simulations, 3D visualizations, customized quizzes, doubt engine, and videos, all in one place.
 * 【2024-01-01】[vicwomg / pikaraoke](https://github.com/vicwomg/pikaraoke) - Youtube-based Karaoke machine for Raspberry Pi, OSX, Windows, and Linux
 * 【2024-01-01】[jaysomani / firstspot](https://github.com/jaysomani/firstspot) - FirstSpot an heven for travellers who love to travel all around the world
 * 【2024-01-01】[akshu20791 / apachewebsite](https://github.com/akshu20791/apachewebsite) - 
@@ -2876,6 +2891,7 @@
 
 ## Unknown
 
+* 【2024-01-02】[kevinchwong / leetcode-intensive](https://github.com/kevinchwong/leetcode-intensive) - Leetcode Intensive tutorial and study guide generated by llama-index, networkx, scikit-learn and pydantic
 * 【2024-01-01】[VictorEijkhout / TheArtofHPC_pdfs](https://github.com/VictorEijkhout/TheArtofHPC_pdfs) - All pdfs of Victor Eijkhout's Art of HPC books and courses
 * 【2024-01-01】[linuxadi / 40k-nuclei-templates](https://github.com/linuxadi/40k-nuclei-templates) - 40,000+ Nuclei templates for security scanning and detection across diverse web applications and services
 * 【2024-01-01】[jschuh / klipper-macros](https://github.com/jschuh/klipper-macros) - A collection of useful macros for the Klipper 3D printer firmware
