@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2024-01-03】[chiteroman / Reprogram-TEE-on-Qualcomm-devices](https://github.com/chiteroman/Reprogram-TEE-on-Qualcomm-devices) - Guide to reprogram the TEE on Qualcomm devices to fix lost attestation keys
+* 【2024-01-03】[HACKE-RC / awesome-reversing](https://github.com/HACKE-RC/awesome-reversing) - A collection of resources to learn Reverse Engineering from start!
+* 【2024-01-03】[zigcc / zig-cookbook](https://github.com/zigcc/zig-cookbook) - Zig cookbook is a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks.
 * 【2024-01-02】[AntonioErdeljac / next-auth-v5-advanced-guide](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide) - 
 * 【2024-01-02】[firefly-iii / firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 * 【2024-01-02】[UdaraJay / Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling.
@@ -759,6 +762,9 @@
 
 ## Python
 
+* 【2024-01-03】[aurelio-labs / semantic-router](https://github.com/aurelio-labs/semantic-router) - 
+* 【2024-01-03】[wenquanlu / HandRefiner](https://github.com/wenquanlu/HandRefiner) - 
+* 【2024-01-03】[Meituan-AutoML / MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices
 * 【2024-01-02】[jekalmin / extended_openai_conversation](https://github.com/jekalmin/extended_openai_conversation) - Home Assistant custom component of conversation agent. It uses OpenAI to control your devices.
 * 【2024-01-02】[langroid / langroid](https://github.com/langroid/langroid) - Harness LLMs with Multi-Agent Programming
 * 【2024-01-01】[theOneAndOnlyOne / BeReel](https://github.com/theOneAndOnlyOne/BeReel) - Generate a custom timelapse of all your memories from BeReal
@@ -1219,6 +1225,7 @@
 
 ## Javascript
 
+* 【2024-01-03】[pysunday / rs-reverse](https://github.com/pysunday/rs-reverse) - 瑞数,rs,rsvmp,瑞数逆向,逆向,瑞数反爬虫,website reverse engineering
 * 【2024-01-01】[Lyfhael / DeleteTweets](https://github.com/Lyfhael/DeleteTweets) - Delete / Remove all your tweets
 * 【2023-12-31】[ordinals-wallet / bellscriptions](https://github.com/ordinals-wallet/bellscriptions) - 
 * 【2023-12-31】[Ninjas-Code-official / Enatega-Multi-Vendor-Food-Delivery-System](https://github.com/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
@@ -1676,6 +1683,8 @@
 
 ## C
 
+* 【2024-01-03】[PureKFD / PureKFD](https://github.com/PureKFD/PureKFD) - A KFD Focused Package Manager that supports 14.0-16.7.4!
+* 【2024-01-03】[ioi / isolate](https://github.com/ioi/isolate) - Sandbox for securely executing untrusted programs
 * 【2024-01-02】[fastfetch-cli / fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 * 【2024-01-02】[hackerhouse-opensource / Artillery](https://github.com/hackerhouse-opensource/Artillery) - CIA UAC bypass implementation that utilizes elevated COM object to write to System32 and an auto-elevated process to execute as administrator.
 * 【2024-01-01】[ThirteenAG / GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) - This project aims to fix or address some issues in Grand Theft Auto IV Complete Edition
@@ -2324,6 +2333,7 @@
 
 ## Html
 
+* 【2024-01-03】[devikumavath / 27-frontend-project](https://github.com/devikumavath/27-frontend-project) - 
 * 【2024-01-02】[ShoroukAziz / notion_widgets](https://github.com/ShoroukAziz/notion_widgets) - A set of HTML widgets that could be embedded into Notion.so https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/
 * 【2024-01-01】[FreeCAD / FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) - A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
 * 【2023-12-31】[Carlettoh / NotebooksProcesamientoIA](https://github.com/Carlettoh/NotebooksProcesamientoIA) - Notebooks realizados durante la asignatura de procesamiento de imagen por IA
@@ -2562,6 +2572,8 @@
 
 ## Css
 
+* 【2024-01-03】[BootstrapDash / star-admin2-free-admin-template](https://github.com/BootstrapDash/star-admin2-free-admin-template) - Star-Admin-2- Free-Bootstrap-Admin-Template
+* 【2024-01-03】[sheryislive / sundown](https://github.com/sheryislive/sundown) - 
 * 【2024-01-02】[JAYESHBATRA / Virtuo-Learn](https://github.com/JAYESHBATRA/Virtuo-Learn) - Virtuo Learn is a platform that provides immersive learning experiences like never before. It offers simulations, 3D visualizations, customized quizzes, doubt engine, and videos, all in one place.
 * 【2024-01-01】[vicwomg / pikaraoke](https://github.com/vicwomg/pikaraoke) - Youtube-based Karaoke machine for Raspberry Pi, OSX, Windows, and Linux
 * 【2024-01-01】[jaysomani / firstspot](https://github.com/jaysomani/firstspot) - FirstSpot an heven for travellers who love to travel all around the world
@@ -2891,6 +2903,9 @@
 
 ## Unknown
 
+* 【2024-01-03】[blindma1den / Programming-Skills-Level0](https://github.com/blindma1den/Programming-Skills-Level0) - This repository contains a series of entry-level exercises that can be solved in any programming language. The purpose of these exercises is to develop your programming logic. This repository is the first in a series of more exercises to improve your programming skills.
+* 【2024-01-03】[anisurrahman072 / React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide) - React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥
+* 【2024-01-03】[Coder-World04 / Time-Series-Analysis-and-Forecasting](https://github.com/Coder-World04/Time-Series-Analysis-and-Forecasting) - This repository contains everything you need to become proficient in Time Series Analysis and Forecasting
 * 【2024-01-02】[kevinchwong / leetcode-intensive](https://github.com/kevinchwong/leetcode-intensive) - Leetcode Intensive tutorial and study guide generated by llama-index, networkx, scikit-learn and pydantic
 * 【2024-01-01】[VictorEijkhout / TheArtofHPC_pdfs](https://github.com/VictorEijkhout/TheArtofHPC_pdfs) - All pdfs of Victor Eijkhout's Art of HPC books and courses
 * 【2024-01-01】[linuxadi / 40k-nuclei-templates](https://github.com/linuxadi/40k-nuclei-templates) - 40,000+ Nuclei templates for security scanning and detection across diverse web applications and services
