@@ -9,6 +9,10 @@
 
 ## All language
 
+* 【2024-01-04】[ali-vilab / dreamtalk](https://github.com/ali-vilab/dreamtalk) - Official implementations for paper: DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models
+* 【2024-01-04】[Frrrrrrrrank / auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.
+* 【2024-01-04】[zju3dv / EasyVolcap](https://github.com/zju3dv/EasyVolcap) - EasyVolcap: Accelerating Neural Volumetric Video Research
+* 【2024-01-04】[googleapis / googleapis](https://github.com/googleapis/googleapis) - Public interface definitions of Google APIs.
 * 【2024-01-03】[chiteroman / Reprogram-TEE-on-Qualcomm-devices](https://github.com/chiteroman/Reprogram-TEE-on-Qualcomm-devices) - Guide to reprogram the TEE on Qualcomm devices to fix lost attestation keys
 * 【2024-01-03】[HACKE-RC / awesome-reversing](https://github.com/HACKE-RC/awesome-reversing) - A collection of resources to learn Reverse Engineering from start!
 * 【2024-01-03】[zigcc / zig-cookbook](https://github.com/zigcc/zig-cookbook) - Zig cookbook is a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks.
@@ -762,6 +766,7 @@
 
 ## Python
 
+* 【2024-01-04】[open-compass / opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
 * 【2024-01-03】[aurelio-labs / semantic-router](https://github.com/aurelio-labs/semantic-router) - 
 * 【2024-01-03】[wenquanlu / HandRefiner](https://github.com/wenquanlu/HandRefiner) - 
 * 【2024-01-03】[Meituan-AutoML / MobileVLM](https://github.com/Meituan-AutoML/MobileVLM) - MobileVLM: A Fast, Strong and Open Vision Language Assistant for Mobile Devices
@@ -1225,6 +1230,7 @@
 
 ## Javascript
 
+* 【2024-01-04】[rolling-scopes-school / clean-code-s1e1](https://github.com/rolling-scopes-school/clean-code-s1e1) - 
 * 【2024-01-03】[pysunday / rs-reverse](https://github.com/pysunday/rs-reverse) - 瑞数,rs,rsvmp,瑞数逆向,逆向,瑞数反爬虫,website reverse engineering
 * 【2024-01-01】[Lyfhael / DeleteTweets](https://github.com/Lyfhael/DeleteTweets) - Delete / Remove all your tweets
 * 【2023-12-31】[ordinals-wallet / bellscriptions](https://github.com/ordinals-wallet/bellscriptions) - 
@@ -1490,6 +1496,7 @@
 
 ## Go
 
+* 【2024-01-04】[zhu327 / gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
 * 【2024-01-01】[csnewman / dextk](https://github.com/csnewman/dextk) - Android dex file parser in Go
 * 【2023-12-31】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
 * 【2023-12-30】[anthdm / ffaas](https://github.com/anthdm/ffaas) - Fast function as a service platform powered by WASM
@@ -1683,6 +1690,7 @@
 
 ## C
 
+* 【2024-01-04】[leaningktower / Analog-GPS-data-receiver](https://github.com/leaningktower/Analog-GPS-data-receiver) - An full analog GPS receiver using discrete rf components and TinyFPGA
 * 【2024-01-03】[PureKFD / PureKFD](https://github.com/PureKFD/PureKFD) - A KFD Focused Package Manager that supports 14.0-16.7.4!
 * 【2024-01-03】[ioi / isolate](https://github.com/ioi/isolate) - Sandbox for securely executing untrusted programs
 * 【2024-01-02】[fastfetch-cli / fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
@@ -1921,6 +1929,7 @@
 
 ## C++
 
+* 【2024-01-04】[ratgdo / homekit-ratgdo](https://github.com/ratgdo/homekit-ratgdo) - A native HomeKit implementation of a Security+ 2.0 garage door controller based on ratgdo hardware
 * 【2024-01-02】[praydog / UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4/5)
 * 【2024-01-02】[geode-sdk / geode](https://github.com/geode-sdk/geode) - The ultimate Geometry Dash modding toolkit
 * 【2024-01-02】[TobyAdd / GDH](https://github.com/TobyAdd/GDH) - Cheat menu for Geometry Dash. Powered by ImGui
@@ -2114,6 +2123,7 @@
 
 ## C#
 
+* 【2024-01-04】[LagrangeDev / Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
 * 【2024-01-01】[digitalinnovationone / trilha-net-fundamentos-desafio](https://github.com/digitalinnovationone/trilha-net-fundamentos-desafio) - Desafio de projeto .NET Fundamentos - DIO
 * 【2024-01-01】[Interkarma / daggerfall-unity](https://github.com/Interkarma/daggerfall-unity) - Open source recreation of Daggerfall in the Unity engine
 * 【2024-01-01】[R-Vaccari / bannerlord-banner-kings](https://github.com/R-Vaccari/bannerlord-banner-kings) - 
@@ -2333,6 +2343,8 @@
 
 ## Html
 
+* 【2024-01-04】[Dreamlinerm / Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ & Hotstar and Crunchyroll. Streaming enhanced
+* 【2024-01-04】[oxalorg / sakura](https://github.com/oxalorg/sakura) - 🌸 a minimal css framework/theme.
 * 【2024-01-03】[devikumavath / 27-frontend-project](https://github.com/devikumavath/27-frontend-project) - 
 * 【2024-01-02】[ShoroukAziz / notion_widgets](https://github.com/ShoroukAziz/notion_widgets) - A set of HTML widgets that could be embedded into Notion.so https://www.notion.so/ pages. For more see https://blog.shorouk.dev/notion-widgets-gallery/
 * 【2024-01-01】[FreeCAD / FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) - A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
@@ -2572,6 +2584,9 @@
 
 ## Css
 
+* 【2024-01-04】[OpenClassrooms-Student-Center / P12_Front-end](https://github.com/OpenClassrooms-Student-Center/P12_Front-end) - 
+* 【2024-01-04】[Rahulvaishnav9 / Login-Page](https://github.com/Rahulvaishnav9/Login-Page) - Follow my instagram account for more content
+* 【2024-01-04】[Rysera-Innovations / Rysera-web](https://github.com/Rysera-Innovations/Rysera-web) - 
 * 【2024-01-03】[BootstrapDash / star-admin2-free-admin-template](https://github.com/BootstrapDash/star-admin2-free-admin-template) - Star-Admin-2- Free-Bootstrap-Admin-Template
 * 【2024-01-03】[sheryislive / sundown](https://github.com/sheryislive/sundown) - 
 * 【2024-01-02】[JAYESHBATRA / Virtuo-Learn](https://github.com/JAYESHBATRA/Virtuo-Learn) - Virtuo Learn is a platform that provides immersive learning experiences like never before. It offers simulations, 3D visualizations, customized quizzes, doubt engine, and videos, all in one place.
@@ -2903,6 +2918,8 @@
 
 ## Unknown
 
+* 【2024-01-04】[Jack-bo1220 / Awesome-Remote-Sensing-Foundation-Models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models) - 
+* 【2024-01-04】[MiAO-AI-Lab / LARP](https://github.com/MiAO-AI-Lab/LARP) - 
 * 【2024-01-03】[blindma1den / Programming-Skills-Level0](https://github.com/blindma1den/Programming-Skills-Level0) - This repository contains a series of entry-level exercises that can be solved in any programming language. The purpose of these exercises is to develop your programming logic. This repository is the first in a series of more exercises to improve your programming skills.
 * 【2024-01-03】[anisurrahman072 / React-Native-Advanced-Guide](https://github.com/anisurrahman072/React-Native-Advanced-Guide) - React Native Advanced Guide Book (iOS & Android) - Be an Expert in 2024 🔥
 * 【2024-01-03】[Coder-World04 / Time-Series-Analysis-and-Forecasting](https://github.com/Coder-World04/Time-Series-Analysis-and-Forecasting) - This repository contains everything you need to become proficient in Time Series Analysis and Forecasting
