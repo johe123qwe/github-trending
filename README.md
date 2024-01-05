@@ -1230,6 +1230,8 @@
 
 ## Javascript
 
+* 【2024-01-05】[speer-technologies / aircall](https://github.com/speer-technologies/aircall) - Frontend Hiring Challenge
+* 【2024-01-05】[TechForPalestine / boycott-israeli-tech-companies-dataset](https://github.com/TechForPalestine/boycott-israeli-tech-companies-dataset) - 
 * 【2024-01-04】[rolling-scopes-school / clean-code-s1e1](https://github.com/rolling-scopes-school/clean-code-s1e1) - 
 * 【2024-01-03】[pysunday / rs-reverse](https://github.com/pysunday/rs-reverse) - 瑞数,rs,rsvmp,瑞数逆向,逆向,瑞数反爬虫,website reverse engineering
 * 【2024-01-01】[Lyfhael / DeleteTweets](https://github.com/Lyfhael/DeleteTweets) - Delete / Remove all your tweets
@@ -1496,6 +1498,7 @@
 
 ## Go
 
+* 【2024-01-05】[qiwentaidi / Slack](https://github.com/qiwentaidi/Slack) - 一款Go Wails实现的GUI工具，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等
 * 【2024-01-04】[zhu327 / gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) - A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
 * 【2024-01-01】[csnewman / dextk](https://github.com/csnewman/dextk) - Android dex file parser in Go
 * 【2023-12-31】[aceberg / ExerciseDiary](https://github.com/aceberg/ExerciseDiary) - Workout diary with GitHub-style year visualization
@@ -1690,6 +1693,9 @@
 
 ## C
 
+* 【2024-01-05】[attractivechaos / plb2](https://github.com/attractivechaos/plb2) - A programming language benchmark
+* 【2024-01-05】[XProger / OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
+* 【2024-01-05】[rodarima / libwa](https://github.com/rodarima/libwa) - WhatsApp C library
 * 【2024-01-04】[leaningktower / Analog-GPS-data-receiver](https://github.com/leaningktower/Analog-GPS-data-receiver) - An full analog GPS receiver using discrete rf components and TinyFPGA
 * 【2024-01-03】[PureKFD / PureKFD](https://github.com/PureKFD/PureKFD) - A KFD Focused Package Manager that supports 14.0-16.7.4!
 * 【2024-01-03】[ioi / isolate](https://github.com/ioi/isolate) - Sandbox for securely executing untrusted programs
@@ -1929,6 +1935,10 @@
 
 ## C++
 
+* 【2024-01-05】[ktock / container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
+* 【2024-01-05】[GregoryCannon / StackRabbit](https://github.com/GregoryCannon/StackRabbit) - An AI for playing NES Tetris at a high level. Based primarily on search & heuristic, with high quality board evaluation through value iteration.
+* 【2024-01-05】[hackerhouse-opensource / Stinger](https://github.com/hackerhouse-opensource/Stinger) - CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator.
+* 【2024-01-05】[J-JLucas / SCM](https://github.com/J-JLucas/SCM) - 
 * 【2024-01-04】[ratgdo / homekit-ratgdo](https://github.com/ratgdo/homekit-ratgdo) - A native HomeKit implementation of a Security+ 2.0 garage door controller based on ratgdo hardware
 * 【2024-01-02】[praydog / UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4/5)
 * 【2024-01-02】[geode-sdk / geode](https://github.com/geode-sdk/geode) - The ultimate Geometry Dash modding toolkit
@@ -2343,6 +2353,7 @@
 
 ## Html
 
+* 【2024-01-05】[netease-youdao / QAnything](https://github.com/netease-youdao/QAnything) - Question and Answer based on Anything.
 * 【2024-01-04】[Dreamlinerm / Netflix-Prime-Auto-Skip](https://github.com/Dreamlinerm/Netflix-Prime-Auto-Skip) - Automatically skip Ads, Intros, Recaps, Credits, etc. on Netflix, Prime video, Disney+ & Hotstar and Crunchyroll. Streaming enhanced
 * 【2024-01-04】[oxalorg / sakura](https://github.com/oxalorg/sakura) - 🌸 a minimal css framework/theme.
 * 【2024-01-03】[devikumavath / 27-frontend-project](https://github.com/devikumavath/27-frontend-project) - 
@@ -2918,6 +2929,7 @@
 
 ## Unknown
 
+* 【2024-01-05】[zju3dv / street_gaussians](https://github.com/zju3dv/street_gaussians) - Code for "Street Gaussians for Modeling Dynamic Urban Scenes"
 * 【2024-01-04】[Jack-bo1220 / Awesome-Remote-Sensing-Foundation-Models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models) - 
 * 【2024-01-04】[MiAO-AI-Lab / LARP](https://github.com/MiAO-AI-Lab/LARP) - 
 * 【2024-01-03】[blindma1den / Programming-Skills-Level0](https://github.com/blindma1den/Programming-Skills-Level0) - This repository contains a series of entry-level exercises that can be solved in any programming language. The purpose of these exercises is to develop your programming logic. This repository is the first in a series of more exercises to improve your programming skills.
