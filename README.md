@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2024-01-06】[ChristianLempa / homelab](https://github.com/ChristianLempa/homelab) - This is my entire homelab documentation files. Here you'll find notes, setups, and configurations for infrastructure, applications, networking, and more.
+* 【2024-01-06】[llenotre / maestro](https://github.com/llenotre/maestro) - Unix-like kernel written in Rust
+* 【2024-01-06】[guoqincode / Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone) - Unofficial Implementation of Animate Anyone
 * 【2024-01-04】[ali-vilab / dreamtalk](https://github.com/ali-vilab/dreamtalk) - Official implementations for paper: DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models
 * 【2024-01-04】[Frrrrrrrrank / auto_job__find__chatgpt__rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.
 * 【2024-01-04】[zju3dv / EasyVolcap](https://github.com/zju3dv/EasyVolcap) - EasyVolcap: Accelerating Neural Volumetric Video Research
@@ -597,6 +600,7 @@
 
 ## Java
 
+* 【2024-01-06】[eazybytes / microservices](https://github.com/eazybytes/microservices) - Microservices With Spring, Docker, Kubernetes - Code Examples
 * 【2024-01-02】[gunnarmorling / 1brc](https://github.com/gunnarmorling/1brc) - The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 * 【2024-01-01】[spring-projects / spring-modulith](https://github.com/spring-projects/spring-modulith) - Modular applications with Spring Boot
 * 【2023-12-31】[cBioPortal / cbioportal](https://github.com/cBioPortal/cbioportal) - cBioPortal for Cancer Genomics
@@ -766,6 +770,9 @@
 
 ## Python
 
+* 【2024-01-06】[InternLM / tutorial](https://github.com/InternLM/tutorial) - 
+* 【2024-01-06】[pratyushasharma / laser](https://github.com/pratyushasharma/laser) - The Truth Is In There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction
+* 【2024-01-06】[allenai / unified-io-2](https://github.com/allenai/unified-io-2) - 
 * 【2024-01-04】[open-compass / opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (LLaMA, LLaMa2, ChatGLM2, ChatGPT, Claude, etc) over 50+ datasets.
 * 【2024-01-03】[aurelio-labs / semantic-router](https://github.com/aurelio-labs/semantic-router) - 
 * 【2024-01-03】[wenquanlu / HandRefiner](https://github.com/wenquanlu/HandRefiner) - 
