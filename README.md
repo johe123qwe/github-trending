@@ -817,6 +817,8 @@
 
 ## Python
 
+* 【2024-01-16】[drunkdream / weread-exporter](https://github.com/drunkdream/weread-exporter) - 将微信读书中的书籍导出成epub、pdf、mobi等格式
+* 【2024-01-16】[BRlkl / AGI-Samantha](https://github.com/BRlkl/AGI-Samantha) - AGI has been achieved externally
 * 【2024-01-15】[Vozec / CVE-2023-7028](https://github.com/Vozec/CVE-2023-7028) - This repository presents a proof-of-concept of CVE-2023-7028
 * 【2024-01-15】[HaujetZhao / CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) - CapsWriter 的离线版，一个好用的 PC 端的语音输入工具
 * 【2024-01-15】[DougDougGithub / Babagaboosh](https://github.com/DougDougGithub/Babagaboosh) - App that lets you have a verbal conversation with OpenAi's GPT 4
@@ -1805,6 +1807,9 @@
 
 ## C
 
+* 【2024-01-16】[limine-bootloader / limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader.
+* 【2024-01-16】[c22dev / Geranium](https://github.com/c22dev/Geranium) - LocSim, Daemon Manager, Cleaner and Superviser for TrollStore
+* 【2024-01-16】[bfengj / eBPFeXPLOIT](https://github.com/bfengj/eBPFeXPLOIT) - Exploit tool implemented using ebpf.
 * 【2024-01-15】[mwpenny / portal64-still-alive](https://github.com/mwpenny/portal64-still-alive) - A demake of Portal for the Nintendo 64
 * 【2024-01-13】[EpicGames / raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 * 【2024-01-13】[tenclass / mvisor](https://github.com/tenclass/mvisor) - A mini x86 hypervisor
@@ -2064,6 +2069,9 @@
 
 ## C++
 
+* 【2024-01-16】[Wh04m1001 / CVE-2024-20656](https://github.com/Wh04m1001/CVE-2024-20656) - 
+* 【2024-01-16】[UniversalRobots / Universal_Robots_ROS_Driver](https://github.com/UniversalRobots/Universal_Robots_ROS_Driver) - Universal Robots ROS driver supporting CB3 and e-Series
+* 【2024-01-16】[fwsGonzo / rvscript](https://github.com/fwsGonzo/rvscript) - Fast RISC-V-based scripting backend for game engines
 * 【2024-01-14】[s-kachroo / SamsungPractice](https://github.com/s-kachroo/SamsungPractice) - Problems for Samsung Research Institute, India - 3 hours Online Test.
 * 【2024-01-14】[m417z / CVE-2023-36003-POC](https://github.com/m417z/CVE-2023-36003-POC) - Privilege escalation using the XAML diagnostics API (CVE-2023-36003)
 * 【2024-01-13】[spaceandtimelabs / blitzar](https://github.com/spaceandtimelabs/blitzar) - Zero-knowledge proof acceleration with GPUs for C++ and Rust
@@ -2268,6 +2276,10 @@
 
 ## C#
 
+* 【2024-01-16】[DeEpinGh0st / WindowsBaselineAssistant](https://github.com/DeEpinGh0st/WindowsBaselineAssistant) - Windows安全基线核查加固助手
+* 【2024-01-16】[Adamant-im / adamant-notificationService](https://github.com/Adamant-im/adamant-notificationService) - ADAMANT push Notification Service for iOS Messenger app
+* 【2024-01-16】[ZGGSONG / STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-use, ready-to-go translation tool developed by WPF/WPF 开发的一款即开即用、即用即走的翻译工具
+* 【2024-01-16】[Yizzii / YizziCamModV2](https://github.com/Yizzii/YizziCamModV2) - A simple camera mod with in game UI.
 * 【2024-01-15】[undreamai / LLMUnity](https://github.com/undreamai/LLMUnity) - Integrate LLM models in Unity!
 * 【2024-01-15】[glzr-io / glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3 and Polybar.
 * 【2024-01-15】[0xthirteen / SharpRDP](https://github.com/0xthirteen/SharpRDP) - Remote Desktop Protocol .NET Console Application for Authenticated Command Execution
@@ -2506,6 +2518,7 @@
 
 ## Html
 
+* 【2024-01-16】[BitgetLimited / v3-bitget-api-sdk](https://github.com/BitgetLimited/v3-bitget-api-sdk) - 
 * 【2024-01-15】[Sha1rholder / use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW) - 在中国境内使用OpenAI服务的方法
 * 【2024-01-15】[kevin-powell / funky-nav](https://github.com/kevin-powell/funky-nav) - 
 * 【2024-01-15】[iinc0gnit0 / BlackPhish](https://github.com/iinc0gnit0/BlackPhish) - 🔱 [ Phishing Made Easy ] 🔱 (In Beta)
@@ -2757,6 +2770,12 @@
 
 ## Css
 
+* 【2024-01-16】[codedamn-classrooms / react-vite-playground](https://github.com/codedamn-classrooms/react-vite-playground) - 
+* 【2024-01-16】[Sriparno08 / Openpedia](https://github.com/Sriparno08/Openpedia) - The Open Source Guide!
+* 【2024-01-16】[swarnade / webdesign-switch](https://github.com/swarnade/webdesign-switch) - An Website Where Develop can Copy The Design Of Various Button And Implement It In Their Site
+* 【2024-01-16】[dchristl / esp32_nat_router_extended](https://github.com/dchristl/esp32_nat_router_extended) - a simple ESP32 NAT Router with some additional features
+* 【2024-01-16】[Jagroop2001 / AcmeRockets](https://github.com/Jagroop2001/AcmeRockets) - Acme Rocket
+* 【2024-01-16】[VladilenItStep / maket](https://github.com/VladilenItStep/maket) - 
 * 【2024-01-15】[Corrupteddisk / SpotifycloneWeb](https://github.com/Corrupteddisk/SpotifycloneWeb) - I'm trying to make a clone of Spotify using HTML,CSS,Javascript.
 * 【2024-01-14】[vishaltewatia / Thankyoubook](https://github.com/vishaltewatia/Thankyoubook) - 
 * 【2024-01-13】[HansNewbie / hansnewbie.github.io](https://github.com/HansNewbie/hansnewbie.github.io) - My page to list stuff that I kind of make as hobby 😄
@@ -3113,6 +3132,7 @@
 
 ## Unknown
 
+* 【2024-01-16】[danieldurnea / FBI-tools](https://github.com/danieldurnea/FBI-tools) - 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
 * 【2024-01-15】[KAIST-VICLab / FMA-Net](https://github.com/KAIST-VICLab/FMA-Net) - 
 * 【2024-01-15】[Learn-with-Sumit / rnext](https://github.com/Learn-with-Sumit/rnext) - Central Code Repository - Reactive Accelerator React-Next.js course by Learn with Sumit
 * 【2024-01-15】[razetime / ngn-k-tutorial](https://github.com/razetime/ngn-k-tutorial) - An ngn/k tutorial.
