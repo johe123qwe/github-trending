@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-02-04】[Sanster / IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 * 【2024-02-03】[OpenBMB / MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM-2B: An end-side LLM outperforms Llama2-13B.
 * 【2024-02-03】[allenai / OLMo](https://github.com/allenai/OLMo) - Modeling, training, eval, and inference code for OLMo
 * 【2024-02-03】[devfullcycle / imersao17](https://github.com/devfullcycle/imersao17) - 
