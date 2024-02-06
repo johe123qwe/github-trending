@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2024-02-06】[google / oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
+* 【2024-02-06】[maybe-finance / maybe-archive](https://github.com/maybe-finance/maybe-archive) - 
 * 【2024-02-05】[clash-verge-rev / clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 * 【2024-02-05】[superbeyone / JetBrainsActiveCode](https://github.com/superbeyone/JetBrainsActiveCode) - Jetbrains Active Code
 * 【2024-02-05】[nomic-ai / contrastors](https://github.com/nomic-ai/contrastors) - Train Models Contrastively in Pytorch
@@ -916,6 +918,11 @@
 
 ## Python
 
+* 【2024-02-06】[FujiwaraChoki / MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviepPy.
+* 【2024-02-06】[segmind / segmoe](https://github.com/segmind/segmoe) - 
+* 【2024-02-06】[d60 / twikit](https://github.com/d60/twikit) - Twitter API wrapper for Python with **no API key required** | Without api key | Free | Twitter scraper | Twitter Bot
+* 【2024-02-06】[octaviovillegas / Curso_de_ingreso_PYTHON](https://github.com/octaviovillegas/Curso_de_ingreso_PYTHON) - Curso de ingreso en PYTHON
+* 【2024-02-06】[Stock-Fund / XCrawler](https://github.com/Stock-Fund/XCrawler) - 轻量型A股爬虫项目
 * 【2024-02-05】[arcee-ai / mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 * 【2024-02-05】[Open-Wine-Components / ULWGL-launcher](https://github.com/Open-Wine-Components/ULWGL-launcher) - 
 * 【2024-02-05】[YPAndrew0907 / Animal-Simulation-game](https://github.com/YPAndrew0907/Animal-Simulation-game) - Dive into Nature Simulation v1, a dynamic ecosystem game. Experience life's balance with interactive controls and stunning visuals of flora and fauna. Engage, learn, and enjoy nature's complexity in a vividly animated environment. Perfect for enthusiasts of simulations and nature.
@@ -1480,6 +1487,7 @@
 
 ## Javascript
 
+* 【2024-02-06】[gulpjs / gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 * 【2024-02-05】[burakorkmez / mern-chat-app](https://github.com/burakorkmez/mern-chat-app) - Real Time Chat App | MERN && Socket.io && JWT
 * 【2024-02-04】[sugarlabs / musicblocks](https://github.com/sugarlabs/musicblocks) - Music Blocks -- A musical microworld
 * 【2024-02-03】[alphagov / govuk-frontend](https://github.com/alphagov/govuk-frontend) - GOV.UK Frontend contains the code you need to start building a user interface for government platforms and services.
@@ -1794,6 +1802,7 @@
 
 ## Go
 
+* 【2024-02-06】[gabotechs / dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
 * 【2024-02-05】[wal-g / wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
 * 【2024-02-03】[glasskube / glasskube](https://github.com/glasskube/glasskube) - 🧊 The missing Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and get automatic updates via a central public package repository.
 * 【2024-02-02】[Telmate / terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform provider plugin for proxmox
@@ -2019,6 +2028,8 @@
 
 ## C
 
+* 【2024-02-06】[stacksmashing / pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) - A simple, very experimental TPM sniffer for LPC bus
+* 【2024-02-06】[umutsevdi / wear-pico](https://github.com/umutsevdi/wear-pico) - An open source Smartwatch firmware written in C for the Raspberry Pi Pico
 * 【2024-02-04】[dankamongmen / notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 * 【2024-02-04】[fmyyss / XNU_KERNEL_RESEARCH](https://github.com/fmyyss/XNU_KERNEL_RESEARCH) - 
 * 【2024-02-04】[karlstav / cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
@@ -3494,6 +3505,10 @@
 
 ## Unknown
 
+* 【2024-02-06】[majidrezarahnavard / way_of_freedom](https://github.com/majidrezarahnavard/way_of_freedom) - methods to access free internet
+* 【2024-02-06】[JeffSackmann / tennis_atp](https://github.com/JeffSackmann/tennis_atp) - ATP Tennis Rankings, Results, and Stats
+* 【2024-02-06】[web-platform-tests / interop](https://github.com/web-platform-tests/interop) - web-platform-tests Interop project
+* 【2024-02-06】[BetterBench / BetterBench-Shop](https://github.com/BetterBench/BetterBench-Shop) - BetterBench 的面包多小店
 * 【2024-02-05】[3b1b / captions](https://github.com/3b1b/captions) - transcripts and captions for 3blue1brown videos
 * 【2024-02-05】[W01fh4cker / LearnJavaMemshellFromZero](https://github.com/W01fh4cker/LearnJavaMemshellFromZero) - 【原创】完全零基础从0到1掌握Java内存马，公众号：追梦信安
 * 【2024-02-05】[G-U-N / AnimateLCM](https://github.com/G-U-N/AnimateLCM) - AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning
