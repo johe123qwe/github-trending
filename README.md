@@ -9,6 +9,11 @@
 
 ## All language
 
+* 【2024-02-08】[0xacme / ERC404](https://github.com/0xacme/ERC404) - 
+* 【2024-02-08】[lllyasviel / stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
+* 【2024-02-08】[ejoy / vaststars](https://github.com/ejoy/vaststars) - A game demo for Ant engine
+* 【2024-02-08】[emmett-framework / granian](https://github.com/emmett-framework/granian) - A Rust HTTP server for Python applications
+* 【2024-02-08】[run-llama / llama-hub](https://github.com/run-llama/llama-hub) - A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
 * 【2024-02-07】[zanfranceschi / rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 * 【2024-02-07】[thu-vu92 / local-llms-analyse-finance](https://github.com/thu-vu92/local-llms-analyse-finance) - In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.
 * 【2024-02-07】[atopile / atopile](https://github.com/atopile/atopile) - 
@@ -726,6 +731,7 @@
 
 ## Java
 
+* 【2024-02-08】[confluentinc / kafka-rest](https://github.com/confluentinc/kafka-rest) - Confluent REST Proxy for Kafka
 * 【2024-02-07】[GlassyAmadeus / CVE-2024-20931](https://github.com/GlassyAmadeus/CVE-2024-20931) - The Poc for CVE-2024-20931
 * 【2024-02-07】[langchain4j / langchain4j-examples](https://github.com/langchain4j/langchain4j-examples) - 
 * 【2024-02-05】[MirnaGama / hospital-management-api](https://github.com/MirnaGama/hospital-management-api) - Hospital Management API built in Spring Boot
@@ -926,6 +932,10 @@
 
 ## Python
 
+* 【2024-02-08】[deepseek-ai / DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) - 
+* 【2024-02-08】[metavoiceio / metavoice-src](https://github.com/metavoiceio/metavoice-src) - AI for human-level speech intelligence
+* 【2024-02-08】[AnythingInAnyScene / anything_in_anyscene](https://github.com/AnythingInAnyScene/anything_in_anyscene) - 
+* 【2024-02-08】[tsujuifu / pytorch_mgie](https://github.com/tsujuifu/pytorch_mgie) - A Gradio demo of MGIE
 * 【2024-02-07】[kevingduck / ChatGPT-phone](https://github.com/kevingduck/ChatGPT-phone) - Demo of twilio
 * 【2024-02-07】[dvcoolarun / web2pdf](https://github.com/dvcoolarun/web2pdf) - 🔄 CLI to convert Webpages to PDFs 🚀
 * 【2024-02-07】[narfindustries / http-garden](https://github.com/narfindustries/http-garden) - Differential testing and fuzzing of HTTP servers and proxies
@@ -1502,6 +1512,7 @@
 
 ## Javascript
 
+* 【2024-02-08】[rocketseat-education / nlw-expert-html-css-js](https://github.com/rocketseat-education/nlw-expert-html-css-js) - A quiz to test your knowledge
 * 【2024-02-07】[stdlib-js / stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 * 【2024-02-07】[jinenge / tvbox](https://github.com/jinenge/tvbox) - TVBox(进恩哥版)，内置源，随时更新内置源，不必担心不能用
 * 【2024-02-07】[namdosanwannabe / be-my-valentine](https://github.com/namdosanwannabe/be-my-valentine) - Simple JavaScript Project
@@ -1821,6 +1832,7 @@
 
 ## Go
 
+* 【2024-02-08】[kubewharf / kubeadmiral](https://github.com/kubewharf/kubeadmiral) - Multi-Cluster Kubernetes Orchestration
 * 【2024-02-07】[dymensionxyz / dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 * 【2024-02-06】[gabotechs / dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
 * 【2024-02-05】[wal-g / wal-g](https://github.com/wal-g/wal-g) - Archival and Restoration for databases in the Cloud
@@ -2048,6 +2060,9 @@
 
 ## C
 
+* 【2024-02-08】[tsoding / raylib.js](https://github.com/tsoding/raylib.js) - Unofficial Implementation of Subset of Raylib API in JavaScript
+* 【2024-02-08】[npurson / vscode-server-toolchain-workaround](https://github.com/npurson/vscode-server-toolchain-workaround) - Workaround for the raised toolchain requirements of VS Code Server 1.86+
+* 【2024-02-08】[Rakashazi / emu-ex-plus-alpha](https://github.com/Rakashazi/emu-ex-plus-alpha) - Multi-platform computer & game console emulation system including supporting code (EmuFramework) and core engine (Imagine)
 * 【2024-02-07】[xroche / httrack](https://github.com/xroche/httrack) - HTTrack Website Copier, copy websites to your computer (Official repository)
 * 【2024-02-06】[stacksmashing / pico-tpmsniffer](https://github.com/stacksmashing/pico-tpmsniffer) - A simple, very experimental TPM sniffer for LPC bus
 * 【2024-02-06】[umutsevdi / wear-pico](https://github.com/umutsevdi/wear-pico) - An open source Smartwatch firmware written in C for the Raspberry Pi Pico
@@ -2344,6 +2359,9 @@
 
 ## C++
 
+* 【2024-02-08】[stacksmashing / LPCClocklessAnalyzer](https://github.com/stacksmashing/LPCClocklessAnalyzer) - A Saleae Analyzer for TPM traffic that only requires the LADD & LFRAME signals, no clock.
+* 【2024-02-08】[CN-annotation-team / leveldb-chinese-annotated](https://github.com/CN-annotation-team/leveldb-chinese-annotated) - leveldb chinese annotation
+* 【2024-02-08】[Lyall / GBFRelinkFix](https://github.com/Lyall/GBFRelinkFix) - A fix for Granblue Fantasy: Relink that adds support for custom resolutions, ultrawide and more.
 * 【2024-02-07】[tenstorrent-metal / tt-metal](https://github.com/tenstorrent-metal/tt-metal) - ttnn - a python API and OP library. TT-Metalium - a low level kernel programming model.
 * 【2024-02-07】[OneLoneCoder / olcUTIL_Geometry2D](https://github.com/OneLoneCoder/olcUTIL_Geometry2D) - A Single-Header 2D Geometry Analysis Library
 * 【2024-02-07】[OpenGene / fastp](https://github.com/OpenGene/fastp) - An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...)
@@ -2575,6 +2593,9 @@
 
 ## C#
 
+* 【2024-02-08】[EvilGreys / Disable-Windows-Defender-](https://github.com/EvilGreys/Disable-Windows-Defender-) - Disable Windows Defender (+ UAC Bypass, + Upgrade to SYSTEM)
+* 【2024-02-08】[microsoft / AdaptiveCards](https://github.com/microsoft/AdaptiveCards) - A new way for developers to exchange card content in a common and consistent way.
+* 【2024-02-08】[kikipoulet / SukiUI](https://github.com/kikipoulet/SukiUI) - UI Theme for AvaloniaUI
 * 【2024-02-07】[Giorgi / EFCore.Visualizer](https://github.com/Giorgi/EFCore.Visualizer) - Entity Framework Core queries debugger visualizer.
 * 【2024-02-07】[shalzuth / PalWorldAntiCheat](https://github.com/shalzuth/PalWorldAntiCheat) - palworld anticheat for dedicated servers
 * 【2024-02-05】[AlianBlank / GameFrameX](https://github.com/AlianBlank/GameFrameX) - Unity前后端+管理端一体化解决方案-HybridCLR+YooAssets+LuBan+Xlua+ProtoBuff+MessagePack+FairyGUI+DoTween+GameAnalytics+LitJson+UniTask+GameFramework+GeekServer+Admin.Net。
@@ -2844,6 +2865,9 @@
 
 ## Html
 
+* 【2024-02-08】[git-disl / PokeLLMon](https://github.com/git-disl/PokeLLMon) - PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models
+* 【2024-02-08】[cryptpad / cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
+* 【2024-02-08】[goitacademy / vanilla-app-template](https://github.com/goitacademy/vanilla-app-template) - 
 * 【2024-02-07】[rajaprerak / rajaprerak.github.io](https://github.com/rajaprerak/rajaprerak.github.io) - Personal Portfolio Website
 * 【2024-02-05】[jgm / djot](https://github.com/jgm/djot) - A light markup language
 * 【2024-02-03】[lukin / keywind](https://github.com/lukin/keywind) - Keywind is a component-based Keycloak Login Theme built with Tailwind CSS
@@ -3124,6 +3148,8 @@
 
 ## Css
 
+* 【2024-02-08】[vishaltewatia / Rose-Day](https://github.com/vishaltewatia/Rose-Day) - 
+* 【2024-02-08】[yforku / template](https://github.com/yforku/template) - Template
 * 【2024-02-07】[echelon-theme / echelon](https://github.com/echelon-theme/echelon) - A old Mozilla Firefox theme for Firefox 115 ESR.
 * 【2024-02-07】[ironhack-labs / lab-react-iron-travels](https://github.com/ironhack-labs/lab-react-iron-travels) - 
 * 【2024-02-05】[hiteshchoudhary / fun-with-tailwind](https://github.com/hiteshchoudhary/fun-with-tailwind) - A fun repo to play with tailwind
@@ -3535,6 +3561,8 @@
 
 ## Unknown
 
+* 【2024-02-08】[dymensionxyz / chain-registry](https://github.com/dymensionxyz/chain-registry) - 
+* 【2024-02-08】[NoobieDog / TPM-Sniffing](https://github.com/NoobieDog/TPM-Sniffing) - A repo for TPM sniffing greatness
 * 【2024-02-07】[QwenLM / Qwen1.5](https://github.com/QwenLM/Qwen1.5) - Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2024-02-07】[perixtar / 2024-Tech-OA](https://github.com/perixtar/2024-Tech-OA) - List of Tech Company OAs. Save your time from finding them all over the internet.
 * 【2024-02-06】[majidrezarahnavard / way_of_freedom](https://github.com/majidrezarahnavard/way_of_freedom) - methods to access free internet
