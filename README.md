@@ -9,6 +9,10 @@
 
 ## All language
 
+* 【2024-02-11】[microsoft / sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
+* 【2024-02-11】[projectx-codehagen / projectx](https://github.com/projectx-codehagen/projectx) - ProjectX aims to simplify financial management with a user-friendly interface and robust backend
+* 【2024-02-11】[sangammukherjee / 25-reactjs-interview-projects](https://github.com/sangammukherjee/25-reactjs-interview-projects) - 
+* 【2024-02-11】[magicbear / palworld-server-toolkit](https://github.com/magicbear/palworld-server-toolkit) - PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc...
 * 【2024-02-10】[cyberus-technology / virtualbox-kvm](https://github.com/cyberus-technology/virtualbox-kvm) - VirtualBox with KVM Backend
 * 【2024-02-10】[awslabs / llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 * 【2024-02-10】[jixserver / free-for-dev](https://github.com/jixserver/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -744,6 +748,8 @@
 
 ## Java
 
+* 【2024-02-11】[dunwu / db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
+* 【2024-02-11】[syncthing / syncthing-android](https://github.com/syncthing/syncthing-android) - Wrapper of syncthing for Android.
 * 【2024-02-10】[bepass-org / oblivion](https://github.com/bepass-org/oblivion) - Unofficial warp client for android
 * 【2024-02-10】[FernandoMatusseMatusse / hwid-spoofer](https://github.com/FernandoMatusseMatusse/hwid-spoofer) - #1 HWID spoofer for ANY game
 * 【2024-02-09】[rocketseat-education / nlw-expert-java](https://github.com/rocketseat-education/nlw-expert-java) - 
@@ -949,6 +955,10 @@
 
 ## Python
 
+* 【2024-02-11】[EvanZhuang / MetaTree](https://github.com/EvanZhuang/MetaTree) - Official implementation of MetaTree: Learning a Decision Tree Algorithm with Transformers
+* 【2024-02-11】[uclaml / SPIN](https://github.com/uclaml/SPIN) - The official implementation of Self-Play Fine-Tuning (SPIN)
+* 【2024-02-11】[barry-far / V2ray-Configs](https://github.com/barry-far/V2ray-Configs) - 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
+* 【2024-02-11】[linsomniac / spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic) - Copy playlists and liked music from Spotify to YTMusic
 * 【2024-02-10】[3DTopia / LGM](https://github.com/3DTopia/LGM) - LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.
 * 【2024-02-10】[ndleah / python-mini-project](https://github.com/ndleah/python-mini-project) - 🙌 Welcome open-source Python mini-project contributions!
 * 【2024-02-10】[RhinoSecurityLabs / cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) - CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool
@@ -1539,6 +1549,9 @@
 
 ## Javascript
 
+* 【2024-02-11】[kunaltyagi9 / MERN-Stack-Projects](https://github.com/kunaltyagi9/MERN-Stack-Projects) - 
+* 【2024-02-11】[mozilla / rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
+* 【2024-02-11】[citizenfx / cfx-server-data](https://github.com/citizenfx/cfx-server-data) - Data repository for CitizenFX servers.
 * 【2024-02-10】[mochajs / mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 * 【2024-02-09】[snyk-workshops / EH-Patch-Todo-App](https://github.com/snyk-workshops/EH-Patch-Todo-App) - 
 * 【2024-02-09】[midudev / tailwind-animations](https://github.com/midudev/tailwind-animations) - Easy peasy animations for your Tailwind project
@@ -1864,6 +1877,9 @@
 
 ## Go
 
+* 【2024-02-11】[inoxlang / inox](https://github.com/inoxlang/inox) - 🛡️ Inox is your shield against complexity in full-stack development.
+* 【2024-02-11】[YouROK / TorrServer](https://github.com/YouROK/TorrServer) - Torrent stream server
+* 【2024-02-11】[danielgtaylor / huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3
 * 【2024-02-08】[kubewharf / kubeadmiral](https://github.com/kubewharf/kubeadmiral) - Multi-Cluster Kubernetes Orchestration
 * 【2024-02-07】[dymensionxyz / dymension](https://github.com/dymensionxyz/dymension) - Dymension Hub
 * 【2024-02-06】[gabotechs / dep-tree](https://github.com/gabotechs/dep-tree) - tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
@@ -2092,6 +2108,8 @@
 
 ## C
 
+* 【2024-02-11】[branc116 / brplot](https://github.com/branc116/brplot) - +256,000,000 points per plot, +60 Fps on shity laptop. Only limit is the size of your RAM.
+* 【2024-02-11】[PSP-Archive / ARK-4](https://github.com/PSP-Archive/ARK-4) - Custom Firmware for the PSP and PS Vita.
 * 【2024-02-09】[Xre0uS / MultiDump](https://github.com/Xre0uS/MultiDump) - MultiDump is a post-exploitation tool for dumping and extracting LSASS memory discreetly.
 * 【2024-02-09】[agvxov / cursed_c](https://github.com/agvxov/cursed_c) - An attempt to create the worst C program ever by repeatedly abusing obscure features. See c.c for the core code. Note that there were no version restraints imposed and extensions are also included.
 * 【2024-02-08】[tsoding / raylib.js](https://github.com/tsoding/raylib.js) - Unofficial Implementation of Subset of Raylib API in JavaScript
@@ -2393,6 +2411,8 @@
 
 ## C++
 
+* 【2024-02-11】[hyprwm / hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a blazing fast wayland wallpaper utility with IPC controls.
+* 【2024-02-11】[letscontrolit / ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easy MultiSensor device based on ESP8266/ESP32
 * 【2024-02-10】[RobotLocomotion / drake](https://github.com/RobotLocomotion/drake) - Model-based design and verification for robotics.
 * 【2024-02-09】[geoffdavis / esphome-mitsubishiheatpump](https://github.com/geoffdavis/esphome-mitsubishiheatpump) - ESPHome Climate Component for Mitsubishi Heatpumps using direct serial connection
 * 【2024-02-08】[stacksmashing / LPCClocklessAnalyzer](https://github.com/stacksmashing/LPCClocklessAnalyzer) - A Saleae Analyzer for TPM traffic that only requires the LADD & LFRAME signals, no clock.
@@ -2629,6 +2649,10 @@
 
 ## C#
 
+* 【2024-02-11】[unity3d-jp / Project_TCC](https://github.com/unity3d-jp/Project_TCC) - TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.
+* 【2024-02-11】[microsoft / CsWin32](https://github.com/microsoft/CsWin32) - A source generator to add a user-defined set of Win32 P/Invoke methods and supporting types to a C# project.
+* 【2024-02-11】[VRPirates / rookie](https://github.com/VRPirates/rookie) - 
+* 【2024-02-11】[thexeondev / WutheringWaves](https://github.com/thexeondev/WutheringWaves) - Wuthering Waves ps (0.8.2)
 * 【2024-02-10】[rocketseat-education / nlw-expert-c-sharp](https://github.com/rocketseat-education/nlw-expert-c-sharp) - An auction system API
 * 【2024-02-10】[reqnroll / Reqnroll](https://github.com/reqnroll/Reqnroll) - Open-source Cucumber-style BDD test automation framework for .NET.
 * 【2024-02-10】[jstrosch / learning-malware-analysis](https://github.com/jstrosch/learning-malware-analysis) - This repository contains sample programs that mimick behavior found in real-world malware. The goal is to provide source code that can be compiled and used for learning purposes, without having to worry about handling live malware.
@@ -2904,6 +2928,7 @@
 
 ## Html
 
+* 【2024-02-11】[andriipaziuk / valentine](https://github.com/andriipaziuk/valentine) - 
 * 【2024-02-10】[AeolusUX / ArkOS-R3XS](https://github.com/AeolusUX/ArkOS-R3XS) - Community Maintained Image of ArkOS for the RetroBox Console / Game Station / Game Consoie R35S / R36S / PowKiddy RGB20S
 * 【2024-02-10】[krishnakumarsekar / awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) - Here you can get all the Quantum Machine learning Basics, Algorithms ,Study Materials ,Projects and the descriptions of the projects around the web
 * 【2024-02-09】[nikhilmwarrier / jee-2024-scraper](https://github.com/nikhilmwarrier/jee-2024-scraper) - Generate a scorecard for JEE using NTA's answer keys
@@ -3191,6 +3216,7 @@
 
 ## Css
 
+* 【2024-02-11】[Narmis-E / hyprland-dots](https://github.com/Narmis-E/hyprland-dots) - My dotfiles for my hyprland installs
 * 【2024-02-10】[heryyy / bunga-buat-gift](https://github.com/heryyy/bunga-buat-gift) - Virtual flowers
 * 【2024-02-10】[JessicaaSun / randomly-moving-button](https://github.com/JessicaaSun/randomly-moving-button) - 
 * 【2024-02-10】[DilemmaGX / shields-maker](https://github.com/DilemmaGX/shields-maker) - Make and preview simple static badges url, html, markdown scripts for non-programmer users
@@ -3608,6 +3634,8 @@
 
 ## Unknown
 
+* 【2024-02-11】[TekkenOverlay / TekkenOverlay](https://github.com/TekkenOverlay/TekkenOverlay) - 
+* 【2024-02-11】[Dimbreath / StarRailData](https://github.com/Dimbreath/StarRailData) - Repository containing the data for the game Honkai: Star Rail.
 * 【2024-02-10】[BurningC4 / Chinese-IPTV](https://github.com/BurningC4/Chinese-IPTV) - Chinese CCTV List (IPV4)
 * 【2024-02-10】[jphall663 / awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) - A curated list of awesome responsible machine learning resources.
 * 【2024-02-09】[ruesandora / mangata-AVS](https://github.com/ruesandora/mangata-AVS) - 
