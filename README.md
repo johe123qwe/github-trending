@@ -9,6 +9,12 @@
 
 ## All language
 
+* 【2024-02-14】[BCG-X-Official / agentkit](https://github.com/BCG-X-Official/agentkit) - Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain
+* 【2024-02-14】[Lunakepio / Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js) - 
+* 【2024-02-14】[Vectorized / dn404](https://github.com/Vectorized/dn404) - Implementation of a co-joined ERC20 and ERC721 pair.
+* 【2024-02-14】[adamcohenhillel / ADeus](https://github.com/adamcohenhillel/ADeus) - An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.
+* 【2024-02-14】[webdriverio / webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
+* 【2024-02-14】[saurabhnemade / will-you-be-my-valentine](https://github.com/saurabhnemade/will-you-be-my-valentine) - A simple application to impress your loved ones on valentines day!!
 * 【2024-02-13】[gitbutlerapp / gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 * 【2024-02-13】[ashishpatel26 / LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning) - LLM Finetuning with peft
 * 【2024-02-13】[Pandora-Labs-Org / erc404](https://github.com/Pandora-Labs-Org/erc404) - 
@@ -753,6 +759,7 @@
 
 ## Java
 
+* 【2024-02-14】[Chipppppppppp / LIME](https://github.com/Chipppppppppp/LIME) - 
 * 【2024-02-13】[pinterest / psc](https://github.com/pinterest/psc) - PubSubClient (PSC)
 * 【2024-02-13】[x-falcon / Virtual-Hosts](https://github.com/x-falcon/Virtual-Hosts) - hosts for android,implement by vpn mode,supports wildcard DNS records
 * 【2024-02-13】[carlrobertoh / CodeGPT](https://github.com/carlrobertoh/CodeGPT) - JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Code Llama, and others, all for free
@@ -964,6 +971,9 @@
 
 ## Python
 
+* 【2024-02-14】[justakazh / sicat](https://github.com/justakazh/sicat) - The useful exploit finder
+* 【2024-02-14】[ncbi / GeneGPT](https://github.com/ncbi/GeneGPT) - Code and data for GeneGPT.
+* 【2024-02-14】[BAAI-DCAI / Bunny](https://github.com/BAAI-DCAI/Bunny) - A family of lightweight multimodal models.
 * 【2024-02-13】[pantsbuild / pants](https://github.com/pantsbuild/pants) - The Pants Build System
 * 【2024-02-13】[Textualize / toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL).
 * 【2024-02-13】[0x999-x / jsluicepp](https://github.com/0x999-x/jsluicepp) - jsluice++ is a Burp Suite extension designed for passive and active scanning of JavaScript traffic using the CLI tool jsluice
@@ -1568,6 +1578,8 @@
 
 ## Javascript
 
+* 【2024-02-14】[DzarelDeveloper / HappyValentine](https://github.com/DzarelDeveloper/HappyValentine) - 
+* 【2024-02-14】[Dogfalo / materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 * 【2024-02-13】[discuitnet / discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 * 【2024-02-13】[11ty / eleventy](https://github.com/11ty/eleventy) - A simpler site generator. Transforms a directory of templates (of varying types) into HTML.
 * 【2024-02-13】[blocklistproject / Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
@@ -2135,6 +2147,7 @@
 
 ## C
 
+* 【2024-02-14】[NLnetLabs / unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 * 【2024-02-13】[portapack-mayhem / mayhem-firmware](https://github.com/portapack-mayhem/mayhem-firmware) - Custom firmware for the HackRF+PortaPack H1/H2
 * 【2024-02-13】[opa334 / Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered permasigned jailbreak for iOS 15
 * 【2024-02-12】[wojciech-graj / doom-ascii](https://github.com/wojciech-graj/doom-ascii) - DooM in the terminal!
@@ -2684,6 +2697,7 @@
 
 ## C#
 
+* 【2024-02-14】[builtbybel / BloatynosyAI](https://github.com/builtbybel/BloatynosyAI) - The Copilot rebel
 * 【2024-02-13】[fiddyschmitt / SimpleKVM](https://github.com/fiddyschmitt/SimpleKVM) - Use multiple computers using the one monitor, mouse and keyboard
 * 【2024-02-13】[vchelaru / FlatRedBall](https://github.com/vchelaru/FlatRedBall) - Cross-platform 2D game engine focused on ultimate productivity built in .NET
 * 【2024-02-12】[skiff-org / skiff-windows-app](https://github.com/skiff-org/skiff-windows-app) - Skiff's Windows app for privacy-first, end-to-end encrypted Mail, Drive, Calendar, and Pages.
@@ -2966,6 +2980,8 @@
 
 ## Html
 
+* 【2024-02-14】[amankapilak / Ask-Her-Out](https://github.com/amankapilak/Ask-Her-Out) - 
+* 【2024-02-14】[asynchronousJavascriptor / level2](https://github.com/asynchronousJavascriptor/level2) - 
 * 【2024-02-13】[byquangthanh / valentine.github.io](https://github.com/byquangthanh/valentine.github.io) - Will you be my valentine project for my girlfriend
 * 【2024-02-13】[balta-io / carnacode-balta-2024-desafio-01](https://github.com/balta-io/carnacode-balta-2024-desafio-01) - 
 * 【2024-02-13】[noob-hackers / seeu](https://github.com/noob-hackers/seeu) - SeeU is a camera hacking tool which is used to hack selfie camera of devices....
@@ -3258,6 +3274,14 @@
 
 ## Css
 
+* 【2024-02-14】[mabelolivera10 / floresamarillasycorazones](https://github.com/mabelolivera10/floresamarillasycorazones) - 
+* 【2024-02-14】[mabelolivera10 / cartaprogramadores](https://github.com/mabelolivera10/cartaprogramadores) - 
+* 【2024-02-14】[KiKaraage / ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look from Windows to Firefox. No waitlist, no registration needed ✨
+* 【2024-02-14】[YCLA-Coding / webreels](https://github.com/YCLA-Coding/webreels) - 
+* 【2024-02-14】[hossaini-f / css-envelope-letter-animation](https://github.com/hossaini-f/css-envelope-letter-animation) - Animated Envelope Animation Using CSS and HTML
+* 【2024-02-14】[Set-Creative-Studio / cube-boilerplate](https://github.com/Set-Creative-Studio/cube-boilerplate) - A simple CUBE CSS boilerplate for Set Studio
+* 【2024-02-14】[hedyorg / hedy](https://github.com/hedyorg/hedy) - Hedy is a gradual programming language to teach children programming. Gradual languages use different language levels, where each level adds new concepts and syntactic complexity. At the end of the Hedy level sequence, kids master a subset of syntactically valid Python.
+* 【2024-02-14】[cascadefox / cascade](https://github.com/cascadefox/cascade) - A responsive One-Line CSS Theme for Firefox.
 * 【2024-02-13】[AlexxAdrian / heart_letter](https://github.com/AlexxAdrian/heart_letter) - letter of hearts to give as a gift
 * 【2024-02-12】[picocss / pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 * 【2024-02-12】[availproject / availproject.github.io](https://github.com/availproject/availproject.github.io) - Official Documentation for the Avail Project.
@@ -3681,6 +3705,10 @@
 
 ## Unknown
 
+* 【2024-02-14】[daveshap / PostLaborEconomics](https://github.com/daveshap/PostLaborEconomics) - Collaborative book to promote the idea of Post Labor Economics
+* 【2024-02-14】[Nothing-Developer-Programme / Glyph-Developer-Kit](https://github.com/Nothing-Developer-Programme/Glyph-Developer-Kit) - 
+* 【2024-02-14】[noislabs / randdrop-snapshots](https://github.com/noislabs/randdrop-snapshots) - 
+* 【2024-02-14】[alexngn / intro-to-system-design](https://github.com/alexngn/intro-to-system-design) - A repository for system design resources.
 * 【2024-02-13】[bjrjk / CVE-2022-4262](https://github.com/bjrjk/CVE-2022-4262) - Full Chain Analysis of CVE-2022-4262, a non-trivial feedback slot type confusion in V8.
 * 【2024-02-13】[keon / awesome-nlp](https://github.com/keon/awesome-nlp) - 📖 A curated list of resources dedicated to Natural Language Processing (NLP)
 * 【2024-02-13】[dylanraga / win11hdr-srgb-to-gamma2.2-icm](https://github.com/dylanraga/win11hdr-srgb-to-gamma2.2-icm) - Transform Windows 11's virtual SDR-in-HDR curve from piecewise sRGB to Gamma 2.2
