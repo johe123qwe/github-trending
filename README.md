@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2024-02-19】[karpathy / minbpe](https://github.com/karpathy/minbpe) - Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
+* 【2024-02-19】[I-S00N / I-S00N](https://github.com/I-S00N/I-S00N) - 
 * 【2024-02-18】[google / magika](https://github.com/google/magika) - Detect file content types with deep learning
 * 【2024-02-18】[ros-perception / image_pipeline](https://github.com/ros-perception/image_pipeline) - An image processing pipeline for ROS.
 * 【2024-02-18】[adrianhajdin / ai_saas_app](https://github.com/adrianhajdin/ai_saas_app) - Build a REAL Software-as-a-Service app with AI features and payments & credits system that you might even turn into a side income or business idea using Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.
@@ -1609,6 +1611,8 @@
 
 ## Javascript
 
+* 【2024-02-19】[mut-ex / gligen-gui](https://github.com/mut-ex/gligen-gui) - An intuitive GUI for GLIGEN that uses ComfyUI in the backend
+* 【2024-02-19】[catsats / backpack_exchange](https://github.com/catsats/backpack_exchange) - backpack 刷交易量 JavaScript 只刷sol/usdc
 * 【2024-02-18】[malvinval / scammer-revenge](https://github.com/malvinval/scammer-revenge) - 
 * 【2024-02-18】[xxxily / hello-ai](https://github.com/xxxily/hello-ai) - 抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》
 * 【2024-02-18】[thoughtbot / administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard.
@@ -1957,6 +1961,7 @@
 
 ## Go
 
+* 【2024-02-19】[fossabot / clash](https://github.com/fossabot/clash) - A rule based proxy in Go.
 * 【2024-02-18】[bepass-org / bepass](https://github.com/bepass-org/bepass) - A simple DPI bypass tool written in go
 * 【2024-02-18】[blushft / go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
 * 【2024-02-18】[marcoshuck / todo](https://github.com/marcoshuck/todo) - A production-grade todo app applying the following technologies: Go, gRPC, Docker, Kubernetes, Zap, Jaeger, Prometheus, Grafana and more
@@ -2510,6 +2515,7 @@
 
 ## C++
 
+* 【2024-02-19】[chancerly / jtik](https://github.com/chancerly/jtik) - Dynamic java method hook for Android，Implemented by jvmti
 * 【2024-02-17】[dosbox-staging / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 * 【2024-02-16】[jesyspa / linear-cpp](https://github.com/jesyspa/linear-cpp) - An attempt at a C++ tutorial.
 * 【2024-02-16】[MalwareTech / EDR-Preloader](https://github.com/MalwareTech/EDR-Preloader) - An EDR bypass that prevents EDRs from hooking or loading DLLs into our process by hijacking the AppVerifier layer
@@ -2757,6 +2763,8 @@
 
 ## C#
 
+* 【2024-02-19】[Sh3lldon / FullBypass](https://github.com/Sh3lldon/FullBypass) - A tool which bypasses AMSI (AntiMalware Scan Interface) and PowerShell CLM (Constrained Language Mode) and gives you a FullLanguage PowerShell reverse shell. Feel free to modiy and DM if you find some bugs :)
+* 【2024-02-19】[Ali10555 / FakeRopeSimulation](https://github.com/Ali10555/FakeRopeSimulation) - Creates a fake simulated rope, connecting between 2 point.
 * 【2024-02-17】[milanm / DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse) - Most common Design Patterns you need to know, with examples in C#.
 * 【2024-02-17】[KyleTheScientist / Bark](https://github.com/KyleTheScientist/Bark) - Bark is a mod for the VR game Gorilla Tag. It allows the player to summon a 3D interface into the game that toggles various fun/useful mechanics on and off.
 * 【2024-02-16】[wh0amitz / SharpADWS](https://github.com/wh0amitz/SharpADWS) - Active Directory reconnaissance and exploitation for Red Teams via the Active Directory Web Services (ADWS).
@@ -3044,6 +3052,7 @@
 
 ## Html
 
+* 【2024-02-19】[capjamesg / cv-book-svg](https://github.com/capjamesg/cv-book-svg) - Turn an image of a bookshelf into an interactive SVG.
 * 【2024-02-18】[dupontgu / qr-file-share](https://github.com/dupontgu/qr-file-share) - Share small files from an offline source using only a QR code
 * 【2024-02-17】[dmtrKovalenko / cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
 * 【2024-02-17】[hemansnation / 7-Day-AI-ML-Fundamentals-Workshop](https://github.com/hemansnation/7-Day-AI-ML-Fundamentals-Workshop) - 7 Day AI ML Fundamentals Workshop The purpose of this FREE workshop is 1. To give you a boost of getting started with AI. 2. A life-long community with a similar mindset. 3. strong grip on fundamentals that the advanced concepts will be easy to understand.
@@ -3786,6 +3795,7 @@
 
 ## Unknown
 
+* 【2024-02-19】[0x4D31 / awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️
 * 【2024-02-18】[cristopherRR / cristopherRR1](https://github.com/cristopherRR/cristopherRR1) - 1
 * 【2024-02-18】[SeoYoungHo / SeoYoungHo1](https://github.com/SeoYoungHo/SeoYoungHo1) - 1
 * 【2024-02-18】[VijayGunturu / VijayGunturu1](https://github.com/VijayGunturu/VijayGunturu1) - 1
