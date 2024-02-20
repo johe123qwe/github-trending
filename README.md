@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-02-20】[CorsixTH / CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
 * 【2024-02-19】[karpathy / minbpe](https://github.com/karpathy/minbpe) - Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 * 【2024-02-19】[I-S00N / I-S00N](https://github.com/I-S00N/I-S00N) - 
 * 【2024-02-18】[google / magika](https://github.com/google/magika) - Detect file content types with deep learning
@@ -992,6 +993,7 @@
 
 ## Python
 
+* 【2024-02-20】[FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 * 【2024-02-18】[xaitax / CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) - Microsoft-Outlook-Remote-Code-Execution-Vulnerability
 * 【2024-02-18】[maurosoria / dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 * 【2024-02-18】[yize8888 / maotai](https://github.com/yize8888/maotai) - i茅台，葫芦娃预约脚本
@@ -1961,6 +1963,7 @@
 
 ## Go
 
+* 【2024-02-20】[INotGreen / XiebroC2](https://github.com/INotGreen/XiebroC2) - Go编写的多人运动渗透测试图形化框架、支持lua插件扩展、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能
 * 【2024-02-19】[fossabot / clash](https://github.com/fossabot/clash) - A rule based proxy in Go.
 * 【2024-02-18】[bepass-org / bepass](https://github.com/bepass-org/bepass) - A simple DPI bypass tool written in go
 * 【2024-02-18】[blushft / go-diagrams](https://github.com/blushft/go-diagrams) - Create beautiful system diagrams with Go
@@ -2203,6 +2206,7 @@
 
 ## C
 
+* 【2024-02-20】[microsoft / Sora](https://github.com/microsoft/Sora) - The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool.
 * 【2024-02-18】[icyguider / UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza) - Collection of UAC Bypass Techniques Weaponized as BOFs
 * 【2024-02-17】[jasonporritt / rg351_m8c](https://github.com/jasonporritt/rg351_m8c) - m8 headless for rg351 devices
 * 【2024-02-16】[jcs / progman](https://github.com/jcs/progman) - progman.exe^H^H^H^H
@@ -2515,6 +2519,7 @@
 
 ## C++
 
+* 【2024-02-20】[hyprwm / hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
 * 【2024-02-19】[chancerly / jtik](https://github.com/chancerly/jtik) - Dynamic java method hook for Android，Implemented by jvmti
 * 【2024-02-17】[dosbox-staging / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 * 【2024-02-16】[jesyspa / linear-cpp](https://github.com/jesyspa/linear-cpp) - An attempt at a C++ tutorial.
@@ -2763,6 +2768,8 @@
 
 ## C#
 
+* 【2024-02-20】[xuzeyu91 / AntSK](https://github.com/xuzeyu91/AntSK) - 基于.Net8+AntBlazor+SemanticKernel 打造的AI知识库/智能体
+* 【2024-02-20】[msdart / solana-sniper-bot](https://github.com/msdart/solana-sniper-bot) - Solana sniper bot, is a software tool created to snipe tokens on DEX
 * 【2024-02-19】[Sh3lldon / FullBypass](https://github.com/Sh3lldon/FullBypass) - A tool which bypasses AMSI (AntiMalware Scan Interface) and PowerShell CLM (Constrained Language Mode) and gives you a FullLanguage PowerShell reverse shell. Feel free to modiy and DM if you find some bugs :)
 * 【2024-02-19】[Ali10555 / FakeRopeSimulation](https://github.com/Ali10555/FakeRopeSimulation) - Creates a fake simulated rope, connecting between 2 point.
 * 【2024-02-17】[milanm / DesignPatternsInUse](https://github.com/milanm/DesignPatternsInUse) - Most common Design Patterns you need to know, with examples in C#.
@@ -3052,6 +3059,7 @@
 
 ## Html
 
+* 【2024-02-20】[IsraC0d33 / Proyecto1Marcas](https://github.com/IsraC0d33/Proyecto1Marcas) - Esta pagina es un Trabajo/Proyecto en equipo que busca replicar la página que se muestra abajo, con todos los conocimientos adquiridos en la asignatura de Lenguaje De Marcas.
 * 【2024-02-19】[capjamesg / cv-book-svg](https://github.com/capjamesg/cv-book-svg) - Turn an image of a bookshelf into an interactive SVG.
 * 【2024-02-18】[dupontgu / qr-file-share](https://github.com/dupontgu/qr-file-share) - Share small files from an offline source using only a QR code
 * 【2024-02-17】[dmtrKovalenko / cypress-real-events](https://github.com/dmtrKovalenko/cypress-real-events) - Fire native system events from Cypress.
@@ -3353,6 +3361,8 @@
 
 ## Css
 
+* 【2024-02-20】[XNM1 / linux-nixos-hyprland-config-dotfiles](https://github.com/XNM1/linux-nixos-hyprland-config-dotfiles) - Linux 🐧 configuration based on NixOS ❄️, Hyprland, and Catppuccin Macchiato theme 😸 for a consistent, complete, and customizable experience. 🚀
+* 【2024-02-20】[bgola / bikeanjo](https://github.com/bgola/bikeanjo) - source code for sistema.bikeanjo.com.br
 * 【2024-02-18】[bmFtZQ / edge-frfox](https://github.com/bmFtZQ/edge-frfox) - A Firefox userChrome.css theme that aims to recreate the look and feel of Microsoft Edge.
 * 【2024-02-18】[Zarbalou / ilyass-port](https://github.com/Zarbalou/ilyass-port) - 
 * 【2024-02-18】[joeroe / risotto](https://github.com/joeroe/risotto) - A minimalist, responsive hugo theme inspired by terminal ricing aesthetics.
@@ -3795,6 +3805,7 @@
 
 ## Unknown
 
+* 【2024-02-20】[didicodes / javascript-dev-bookmarks](https://github.com/didicodes/javascript-dev-bookmarks) - A collection of articles that will help you get better at JavaScript.
 * 【2024-02-19】[0x4D31 / awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️
 * 【2024-02-18】[cristopherRR / cristopherRR1](https://github.com/cristopherRR/cristopherRR1) - 1
 * 【2024-02-18】[SeoYoungHo / SeoYoungHo1](https://github.com/SeoYoungHo/SeoYoungHo1) - 1
