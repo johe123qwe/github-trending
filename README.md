@@ -9,6 +9,12 @@
 
 ## All language
 
+* 【2024-02-22】[levihsu / OOTDiffusion](https://github.com/levihsu/OOTDiffusion) - Official implementation of OOTDiffusion
+* 【2024-02-22】[Speykious / cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
+* 【2024-02-22】[systemdesign42 / system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet
+* 【2024-02-22】[weijunext / indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
+* 【2024-02-22】[mttaggart / I-S00N](https://github.com/mttaggart/I-S00N) - Anxun Shanghai (I-SOON) Data Dump Translations (PII Redacted)
+* 【2024-02-22】[dunwu / linux-tutorial](https://github.com/dunwu/linux-tutorial) - 🐧 Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 * 【2024-02-21】[Kalabasa / htmz](https://github.com/Kalabasa/htmz) - html with targeted manipulation zones
 * 【2024-02-21】[QuivrHQ / quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
 * 【2024-02-20】[CorsixTH / CorsixTH](https://github.com/CorsixTH/CorsixTH) - Open source clone of Theme Hospital
@@ -996,6 +1002,13 @@
 
 ## Python
 
+* 【2024-02-22】[Vchitect / Latte](https://github.com/Vchitect/Latte) - Latte: Latent Diffusion Transformer for Video Generation.
+* 【2024-02-22】[encode / httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
+* 【2024-02-22】[carlini / yet-another-applied-llm-benchmark](https://github.com/carlini/yet-another-applied-llm-benchmark) - A benchmark to evaluate language models on questions I've previously asked them to solve.
+* 【2024-02-22】[kawika-git / wechatSDK](https://github.com/kawika-git/wechatSDK) - 微信机器人是一个创新的基于Python 3.11开发的项目，通过结合ChatGPT模型和微信原生API，为用户提供智能聊天、自动绘画、自动发朋友圈、自动发视频号等多样的API集成服务，旨在提升日常沟通效率和趣味性。
+* 【2024-02-22】[GaussianObject / GaussianObject](https://github.com/GaussianObject/GaussianObject) - Code for "GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting"
+* 【2024-02-22】[charlax / python-education](https://github.com/charlax/python-education) - Reading list for ramping up with professional Python
+* 【2024-02-22】[wuyucheng2002 / DataGuard](https://github.com/wuyucheng2002/DataGuard) - DataGuard网站数据匿名、隐私保护模型开源代码
 * 【2024-02-21】[nyaoouo / GBFR-ACT](https://github.com/nyaoouo/GBFR-ACT) - A combat data track and analytic mod, suchas dps tracking
 * 【2024-02-21】[vvbbnn00 / WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 * 【2024-02-20】[FujiwaraChoki / MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -1618,6 +1631,7 @@
 
 ## Javascript
 
+* 【2024-02-22】[AIGODLIKE / AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation) - A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc
 * 【2024-02-21】[ScratchAddons / ScratchAddons](https://github.com/ScratchAddons/ScratchAddons) - All-in-one browser extension for Scratch.
 * 【2024-02-19】[mut-ex / gligen-gui](https://github.com/mut-ex/gligen-gui) - An intuitive GUI for GLIGEN that uses ComfyUI in the backend
 * 【2024-02-19】[catsats / backpack_exchange](https://github.com/catsats/backpack_exchange) - backpack 刷交易量 JavaScript 只刷sol/usdc
@@ -1969,6 +1983,7 @@
 
 ## Go
 
+* 【2024-02-22】[go-fuego / fuego](https://github.com/go-fuego/fuego) - Golang Fuego - web framework generating OpenAPI 3 spec from source code
 * 【2024-02-21】[cockroachdb / swiss](https://github.com/cockroachdb/swiss) - Go port of Google's Swiss Table hash table
 * 【2024-02-20】[INotGreen / XiebroC2](https://github.com/INotGreen/XiebroC2) - Go编写的多人运动渗透测试图形化框架、支持lua插件扩展、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能
 * 【2024-02-19】[fossabot / clash](https://github.com/fossabot/clash) - A rule based proxy in Go.
@@ -2213,6 +2228,7 @@
 
 ## C
 
+* 【2024-02-22】[tvlad1234 / linux-ch32v003](https://github.com/tvlad1234/linux-ch32v003) - Linux on a $0.15 RISC-V microcontroller
 * 【2024-02-21】[BojanJurca / Esp32_oscilloscope](https://github.com/BojanJurca/Esp32_oscilloscope) - ESP32 oscilloscope - see the signals through Web browser the way ESP32 sees them
 * 【2024-02-20】[microsoft / Sora](https://github.com/microsoft/Sora) - The Microsoft Research Software Radio (Sora) is a programmable software radio platform based on the commodity multicore CPU in a host PC. The SDK provides the drivers, user mode 802.11a/b/n samples, and a debug plot tool.
 * 【2024-02-18】[icyguider / UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza) - Collection of UAC Bypass Techniques Weaponized as BOFs
@@ -2527,6 +2543,8 @@
 
 ## C++
 
+* 【2024-02-22】[ValveSoftware / steam-audio](https://github.com/ValveSoftware/steam-audio) - Steam Audio
+* 【2024-02-22】[geeksblabla / blanat](https://github.com/geeksblabla/blanat) - Blanat: BlaBlaConf 2024 Coding Challenge
 * 【2024-02-21】[InfpPointPlus / Raptor](https://github.com/InfpPointPlus/Raptor) - 第三方阿里云盘桌面应用客户端
 * 【2024-02-21】[hyprwm / hyprlock](https://github.com/hyprwm/hyprlock) - Hyprland's GPU-accelerated screen locking utility
 * 【2024-02-20】[hyprwm / hypridle](https://github.com/hyprwm/hypridle) - Hyprland's idle daemon
@@ -2778,6 +2796,10 @@
 
 ## C#
 
+* 【2024-02-22】[DynamoDS / Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design
+* 【2024-02-22】[GlitchEnzo / NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
+* 【2024-02-22】[mlcsec / FormThief](https://github.com/mlcsec/FormThief) - Spoofing desktop login applications with WinForms and WPF
+* 【2024-02-22】[SciSharp / BotSharp](https://github.com/SciSharp/BotSharp) - The AI Agent Framework in .NET
 * 【2024-02-21】[MadMax1960 / Femc-Reloaded-Project](https://github.com/MadMax1960/Femc-Reloaded-Project) - Repo for Femc Reloaded Project
 * 【2024-02-21】[AppsFlyerSDK / appsflyer-unity-plugin](https://github.com/AppsFlyerSDK/appsflyer-unity-plugin) - AppsFlyer Unity Plugin
 * 【2024-02-20】[xuzeyu91 / AntSK](https://github.com/xuzeyu91/AntSK) - 基于.Net8+AntBlazor+SemanticKernel 打造的AI知识库/智能体
@@ -3071,6 +3093,8 @@
 
 ## Html
 
+* 【2024-02-22】[bradtraversy / property-pulse](https://github.com/bradtraversy/property-pulse) - Next.js app for listing and searching rental properties
+* 【2024-02-22】[Shploop / Blooket-Cheats](https://github.com/Shploop/Blooket-Cheats) - The best blooket hacks you could find! (Repost of 05Konz’s pls no hate). https://05konz.github.io/Blooket-Cheats/
 * 【2024-02-21】[VDIGPKU / GALA3D](https://github.com/VDIGPKU/GALA3D) - 
 * 【2024-02-21】[zapll / chatgpt-next-share](https://github.com/zapll/chatgpt-next-share) - 
 * 【2024-02-20】[IsraC0d33 / Proyecto1Marcas](https://github.com/IsraC0d33/Proyecto1Marcas) - Esta pagina es un Trabajo/Proyecto en equipo que busca replicar la página que se muestra abajo, con todos los conocimientos adquiridos en la asignatura de Lenguaje De Marcas.
@@ -3375,6 +3399,8 @@
 
 ## Css
 
+* 【2024-02-22】[HyperPlay-Gaming / hyperplay-desktop-client](https://github.com/HyperPlay-Gaming/hyperplay-desktop-client) - The HyperPlay desktop app
+* 【2024-02-22】[statick88 / lista-compras-svelte](https://github.com/statick88/lista-compras-svelte) - 
 * 【2024-02-21】[kazemnejad / jekyll-course-website-template](https://github.com/kazemnejad/jekyll-course-website-template) - Feature-rich and easy-to-use Jekyll website template for academic courses
 * 【2024-02-21】[bgao / express-boilerplate](https://github.com/bgao/express-boilerplate) - Express boilerplate integrated Passport, Nodemailer and Initializr(Bootstrap)
 * 【2024-02-21】[SkylineCommunications / dataminer-docs-connectors](https://github.com/SkylineCommunications/dataminer-docs-connectors) - 
@@ -3823,6 +3849,11 @@
 
 ## Unknown
 
+* 【2024-02-22】[whlzy / FiT](https://github.com/whlzy/FiT) - FiT: Flexible Vision Transformer for Diffusion Model
+* 【2024-02-22】[armankhondker / best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources) - This repository contains Leetcode resources to help ace your coding interviews and learn Leetcode Patterns.
+* 【2024-02-22】[imwsl / ZeroCostTools](https://github.com/imwsl/ZeroCostTools) - 零成本的互联网产品或工具，帮助大家快速实现自己的想法!
+* 【2024-02-22】[mkrl / misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
+* 【2024-02-22】[zkSync-Community-Hub / zksync-community](https://github.com/zkSync-Community-Hub/zksync-community) - 
 * 【2024-02-21】[Mastodon-DE / blocklists](https://github.com/Mastodon-DE/blocklists) - Work in progress - created hastily for the February 15th Fedi Spam Attacks
 * 【2024-02-20】[didicodes / javascript-dev-bookmarks](https://github.com/didicodes/javascript-dev-bookmarks) - A collection of articles that will help you get better at JavaScript.
 * 【2024-02-19】[0x4D31 / awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️
