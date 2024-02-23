@@ -3849,6 +3849,7 @@
 
 ## Unknown
 
+* 【2024-02-23】[adminpass / Open-Source](https://github.com/adminpass/Open-Source) - 
 * 【2024-02-22】[whlzy / FiT](https://github.com/whlzy/FiT) - FiT: Flexible Vision Transformer for Diffusion Model
 * 【2024-02-22】[armankhondker / best-leetcode-resources](https://github.com/armankhondker/best-leetcode-resources) - This repository contains Leetcode resources to help ace your coding interviews and learn Leetcode Patterns.
 * 【2024-02-22】[imwsl / ZeroCostTools](https://github.com/imwsl/ZeroCostTools) - 零成本的互联网产品或工具，帮助大家快速实现自己的想法!
