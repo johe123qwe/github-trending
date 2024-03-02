@@ -1038,6 +1038,7 @@
 
 ## Python
 
+* 【2024-03-02】[Avaiga / Taipy-Chatbot-Demo](https://github.com/Avaiga/Taipy-Chatbot-Demo) - A template to create any LLM Inference Web Apps using Python only
 * 【2024-03-01】[mbzuai-oryx / MobiLlama](https://github.com/mbzuai-oryx/MobiLlama) - MobiLlama : Small Language Model tailored for edge devices
 * 【2024-03-01】[fluencelabs / dev-rewards](https://github.com/fluencelabs/dev-rewards) - 
 * 【2024-03-01】[bigcode-project / starcoder2](https://github.com/bigcode-project/starcoder2) - Home of StarCoder2!
