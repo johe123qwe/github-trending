@@ -9,6 +9,11 @@
 
 ## All language
 
+* 【2024-03-06】[yuzu-mirror / yuzu](https://github.com/yuzu-mirror/yuzu) - Nintendo Switch emulator (unofficial mirror fork)
+* 【2024-03-06】[PabloMK7 / citra](https://github.com/PabloMK7/citra) - A Nintendo 3DS Emulator
+* 【2024-03-06】[Ryujinx / release-channel-master](https://github.com/Ryujinx/release-channel-master) - Ryujinx's Release channel: master
+* 【2024-03-06】[QwenLM / Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+* 【2024-03-06】[onevcat / Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
 * 【2024-03-06】[nikic / PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 * 【2024-03-06】[huchenlei / ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffusion custom nodes
 * 【2024-03-05】[layerdiffusion / sd-forge-layerdiffuse](https://github.com/layerdiffusion/sd-forge-layerdiffuse) - [WIP] Layer Diffusion for WebUI (via Forge)
@@ -833,6 +838,8 @@
 
 ## Java
 
+* 【2024-03-06】[linkedin / openhouse](https://github.com/linkedin/openhouse) - Open Control Plane for Tables in Data Lakehouse
+* 【2024-03-06】[TheBeastofwar / JenkinsExploit-GUI](https://github.com/TheBeastofwar/JenkinsExploit-GUI) - 一款Jenkins的综合漏洞利用工具
 * 【2024-03-06】[OpenEMS / openems](https://github.com/OpenEMS/openems) - OpenEMS - Open Source Energy Management System
 * 【2024-03-06】[stanfordnlp / CoreNLP](https://github.com/stanfordnlp/CoreNLP) - CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.
 * 【2024-03-06】[apache / flink-cdc](https://github.com/apache/flink-cdc) - CDC Connectors for Apache Flink®
@@ -1063,6 +1070,13 @@
 
 ## Python
 
+* 【2024-03-06】[PrometheusStealer / Prometheus](https://github.com/PrometheusStealer/Prometheus) - Very powerful stealer + miner + rat + keylogger + clipper
+* 【2024-03-06】[hpcaitech / Open-Sora](https://github.com/hpcaitech/Open-Sora) - Building your own video generation model like OpenAI's Sora
+* 【2024-03-06】[anthropics / anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) - 
+* 【2024-03-06】[AssemblyAI-Examples / Machine-Learning-From-Scratch](https://github.com/AssemblyAI-Examples/Machine-Learning-From-Scratch) - Implementation of popular ML algorithms from scratch
+* 【2024-03-06】[budtmo / docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
+* 【2024-03-06】[evalplus / evalplus](https://github.com/evalplus/evalplus) - EvalPlus for rigourous evaluation of LLM-synthesized code
+* 【2024-03-06】[rohankishore / Youtility](https://github.com/rohankishore/Youtility) - YouTube downloader tools built with PyQt6 and PyTube
 * 【2024-03-06】[StavC / ComPromptMized](https://github.com/StavC/ComPromptMized) - ComPromptMized: Unleashing Zero-click Worms that Target GenAI-Powered Applications
 * 【2024-03-06】[NanmiCoder / MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 * 【2024-03-06】[apple / pfl-research](https://github.com/apple/pfl-research) - Simulation framework for accelerating research in Private Federated Learning
@@ -1734,6 +1748,9 @@
 
 ## Javascript
 
+* 【2024-03-06】[HeyPuter / puter](https://github.com/HeyPuter/puter) - The Internet OS!
+* 【2024-03-06】[whitespider-dev / whitespider](https://github.com/whitespider-dev/whitespider) - 500+ free unblocked games + emulators + unblocked YouTube + unblocked ChatGPT
+* 【2024-03-06】[hickeng / financial](https://github.com/hickeng/financial) - Repository containing financial spreadsheets
 * 【2024-03-06】[cmliu / WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub) - 这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器
 * 【2024-03-06】[panagiop / node.js-clean-architecture](https://github.com/panagiop/node.js-clean-architecture) - A use case of Clean Architecture in Node.js comprising of Express.js, MongoDB and Redis as the main (but replaceable) infrastructure.
 * 【2024-03-04】[weather-gov / weather.gov](https://github.com/weather-gov/weather.gov) - weather.gov 2.0
@@ -2109,6 +2126,8 @@
 
 ## Go
 
+* 【2024-03-06】[trap-bytes / 403jump](https://github.com/trap-bytes/403jump) - HTTP 403 bypass tool
+* 【2024-03-06】[AndreyMashukov / go-crypto-bot](https://github.com/AndreyMashukov/go-crypto-bot) - Multithread crypto bot implemented on Golang
 * 【2024-03-06】[benhoyt / go-1brc](https://github.com/benhoyt/go-1brc) - My Go solutions to the One Billion Row Challenge
 * 【2024-03-04】[Geniucker / CoGPT](https://github.com/Geniucker/CoGPT) - Hmm Copilot or GPT? Who knows. Get access to gpt-4 via copilot.
 * 【2024-03-04】[jovandeginste / payme](https://github.com/jovandeginste/payme) - QR code generator (ASCII & PNG) for SEPA payments
@@ -2373,6 +2392,8 @@
 
 ## C
 
+* 【2024-03-06】[Lovepreet-Singh-LPSK / MultiThreadedProxyServerClient](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient) - 
+* 【2024-03-06】[s1204IT / Lockpick_RCM](https://github.com/s1204IT/Lockpick_RCM) - DO NOT FORK !! : Import and redistribute this repository.
 * 【2024-03-06】[rfaile313 / draw_game](https://github.com/rfaile313/draw_game) - Draw! is a small game that was developed in C
 * 【2024-03-06】[tomojitakasu / RTKLIB](https://github.com/tomojitakasu/RTKLIB) - 
 * 【2024-03-04】[zigzap / zap](https://github.com/zigzap/zap) - blazingly fast backends in zig
@@ -2697,6 +2718,9 @@
 
 ## C++
 
+* 【2024-03-06】[amwatson / CitraVR](https://github.com/amwatson/CitraVR) - Port of the leading 3DS emulator, Citra — designed for playing 3DS homebrew and personal game backups in 3D on the go with your Quest.
+* 【2024-03-06】[ourfavoritefruits / citra-nightly](https://github.com/ourfavoritefruits/citra-nightly) - 
+* 【2024-03-06】[ashvardanian / StringZilla](https://github.com/ashvardanian/StringZilla) - Up to 10x faster strings for C, C++, Python, Rust, and Swift, leveraging SWAR and SIMD on Arm Neon and x86 AVX2 & AVX-512-capable chips to accelerate search, sort, edit distances, alignment scores, etc 🦖
 * 【2024-03-06】[b4rtaz / distributed-llama](https://github.com/b4rtaz/distributed-llama) - Run LLMs on weak devices or make powerful devices even more powerful by distributing the workload and dividing the RAM usage.
 * 【2024-03-04】[love2d / love](https://github.com/love2d/love) - LÖVE is an awesome 2D game framework for Lua.
 * 【2024-03-03】[nRF24 / RF24](https://github.com/nRF24/RF24) - OSI Layer 2 driver for nRF24L01 on Arduino & Raspberry Pi/Linux Devices
@@ -2960,6 +2984,7 @@
 
 ## C#
 
+* 【2024-03-06】[amakvana / SwitchEmuModDownloader](https://github.com/amakvana/SwitchEmuModDownloader) - SwitchEmuModDownloader - A Cross-Platform One-Click Games Mod Downloader for Switch emulators. Formerly YuzuModDownloader.
 * 【2024-03-06】[chenxuuu / llcom](https://github.com/chenxuuu/llcom) - 🛠功能强大的串口工具。支持Lua自动化处理、串口调试、串口监听、串口曲线、TCP测试、MQTT测试、编码转换、乱码恢复等功能
 * 【2024-03-06】[Stormrider31 / Storm-Breakers](https://github.com/Stormrider31/Storm-Breakers) - An epic ocean simulation (Unity 2021+ URP)
 * 【2024-03-04】[emoisback / Helldivers-2-Hack-PoC](https://github.com/emoisback/Helldivers-2-Hack-PoC) - This is PoC that i create to learn about asm injection using C# on 64bit application / game. ( i took helldivers 2 as sample )
@@ -3272,6 +3297,9 @@
 
 ## Html
 
+* 【2024-03-06】[osumatu / terorist-quiz](https://github.com/osumatu/terorist-quiz) - teroristini dogru tani turkiye
+* 【2024-03-06】[hundredblocks / transcription_demo](https://github.com/hundredblocks/transcription_demo) - 
+* 【2024-03-06】[GoulartNogueira / BadUI](https://github.com/GoulartNogueira/BadUI) - Inspired by r/badUIbattles (a joke subreddit for intentionally bad UI designs). This repository aggregates all best (or worst?) bad-UI designs.
 * 【2024-03-06】[yuzu-emu / yuzu-emu.github.io](https://github.com/yuzu-emu/yuzu-emu.github.io) - Website source code
 * 【2024-03-03】[nanographs / Open-Beam-Interface](https://github.com/nanographs/Open-Beam-Interface) - 
 * 【2024-03-01】[acgeospatial / awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - A curated list of awesome tools, tutorials, code, projects, links, stuff about Earth Observation, Geospatial Satellite Imagery
@@ -3591,6 +3619,8 @@
 
 ## Css
 
+* 【2024-03-06】[pineappleEA / pineappleEA.github.io](https://github.com/pineappleEA/pineappleEA.github.io) - Website made to store EA links for Yuzu
+* 【2024-03-06】[marcgarciamo / entrega05-m8-uf5](https://github.com/marcgarciamo/entrega05-m8-uf5) - 
 * 【2024-03-06】[kaloslazo / Habu](https://github.com/kaloslazo/Habu) - 🐨 Habu it's a minimalistic startpage made with the essence of neovim dashboard with the catppuccin mocha palette. Fully customizable and easy to setup.
 * 【2024-03-06】[jjoao / h5i](https://github.com/jjoao/h5i) - History after 5 images
 * 【2024-03-06】[CodegirlSchool / pomodoro-timer](https://github.com/CodegirlSchool/pomodoro-timer) - Домашнее задание к модулю "Продвинутая работа с функциями"
@@ -4068,6 +4098,11 @@
 
 ## Unknown
 
+* 【2024-03-06】[wdndev / llm_interview_note](https://github.com/wdndev/llm_interview_note) - 大模型面试题及答案，大模型八股文
+* 【2024-03-06】[Meituan-AutoML / VisionLLaMA](https://github.com/Meituan-AutoML/VisionLLaMA) - 
+* 【2024-03-06】[PrincessAkira / road-to-yuzu-without-switch](https://github.com/PrincessAkira/road-to-yuzu-without-switch) - This Repo explains how to install the Yuzu Switch Emulator without a Switch
+* 【2024-03-06】[yiyuanjichang / dizhi](https://github.com/yiyuanjichang/dizhi) - 
+* 【2024-03-06】[hwanz / SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan) - 机场推荐与机场评测
 * 【2024-03-06】[Honei / bookshelf](https://github.com/Honei/bookshelf) - 📚 books
 * 【2024-03-06】[FuelLabs / fuel-specs](https://github.com/FuelLabs/fuel-specs) - 📝 Specifications for the Fuel protocol and the FuelVM, a blazingly fast blockchain VM.
 * 【2024-03-06】[CS-BAOYAN / CSSummerCamp2024](https://github.com/CS-BAOYAN/CSSummerCamp2024) - 
