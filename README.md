@@ -9,6 +9,10 @@
 
 ## All language
 
+* 【2024-03-16】[Unity-Technologies / megacity-metro](https://github.com/Unity-Technologies/megacity-metro) - Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.
+* 【2024-03-16】[Skyvern-AI / skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
+* 【2024-03-16】[lsc4719 / MyViewOfLinuxSystems](https://github.com/lsc4719/MyViewOfLinuxSystems) - 
+* 【2024-03-16】[pancakeswap / pancake-frontend](https://github.com/pancakeswap/pancake-frontend) - 🥞 Pancake main features (farms, pools, IFO, lottery, profiles)
 * 【2024-03-15】[lavague-ai / LaVague](https://github.com/lavague-ai/LaVague) - Automate automation with Large Action Model framework
 * 【2024-03-15】[Mintimate / oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate. QQ Chat-Group: 703260572
 * 【2024-03-15】[diia-open-source / ios-diia](https://github.com/diia-open-source/ios-diia) - 
@@ -883,6 +887,7 @@
 
 ## Java
 
+* 【2024-03-16】[marcushellberg / java-ai-playground](https://github.com/marcushellberg/java-ai-playground) - 
 * 【2024-03-14】[liyupi / yu-rpc](https://github.com/liyupi/yu-rpc) - 从 0 到 1，带你开发自己的 RPC 框架
 * 【2024-03-14】[spring-projects / spring-data-redis](https://github.com/spring-projects/spring-data-redis) - Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 * 【2024-03-13】[smartboot / smart-mqtt](https://github.com/smartboot/smart-mqtt) - 一款开源的云原生分布式 MQTT Broker 服务器，支持海量物联网设备互联互通。
@@ -1122,6 +1127,8 @@
 
 ## Python
 
+* 【2024-03-16】[zurdi15 / romm](https://github.com/zurdi15/romm) - A beautiful, powerful, self-hosted rom manager
+* 【2024-03-16】[naver-ai / Visual-Style-Prompting](https://github.com/naver-ai/Visual-Style-Prompting) - Official Pytorch implementation of "Visual Style Prompting with Swapping Self-Attention"
 * 【2024-03-15】[luijait / DarkGPT](https://github.com/luijait/DarkGPT) - DarkGPT is an OSINT assistant based on GPT-4-200K (recommended use) designed to perform queries on leaked databases, thus providing an artificial intelligence assistant that can be useful in your traditional OSINT processes.
 * 【2024-03-15】[phospho-app / phospho](https://github.com/phospho-app/phospho) - Text analytics for LLM apps. PostHog for prompts. Extract evaluations, intents and events from text messages. phospho leverages LLM (OpenAI, MistralAI, Ollama, etc.)
 * 【2024-03-15】[microsoft / presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and de-identification SDK for text and images
@@ -1830,6 +1837,7 @@
 
 ## Javascript
 
+* 【2024-03-16】[randyisback / ask-for-a-date](https://github.com/randyisback/ask-for-a-date) - Js project troll.
 * 【2024-03-15】[said7388 / developer-portfolio](https://github.com/said7388/developer-portfolio) - Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.
 * 【2024-03-15】[Eclipse-Laboratories-Inc / eclipse-wallet](https://github.com/Eclipse-Laboratories-Inc/eclipse-wallet) - 
 * 【2024-03-14】[wasmerio / winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
@@ -2223,6 +2231,10 @@
 
 ## Go
 
+* 【2024-03-16】[yusufcanb / tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙
+* 【2024-03-16】[basecamp / thruster](https://github.com/basecamp/thruster) - 
+* 【2024-03-16】[smallstep / certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+* 【2024-03-16】[pufferffish / wireproxy](https://github.com/pufferffish/wireproxy) - Wireguard client that exposes itself as a socks5 proxy
 * 【2024-03-13】[awslabs / diagram-as-code](https://github.com/awslabs/diagram-as-code) - Diagram-as-code for AWS architecture.
 * 【2024-03-13】[devploit / nomore403](https://github.com/devploit/nomore403) - Tool to bypass 403/40X response codes.
 * 【2024-03-13】[dream-mo / prom-elastic-alert](https://github.com/dream-mo/prom-elastic-alert) - Prometheus & Alerting With ElasticSearch
@@ -2828,6 +2840,7 @@
 
 ## C++
 
+* 【2024-03-16】[0x36 / Pixel_GPU_Exploit](https://github.com/0x36/Pixel_GPU_Exploit) - Android 14 kernel exploit for Pixel7/8 Pro
 * 【2024-03-15】[flox / flox](https://github.com/flox/flox) - Developer environments you can take with you
 * 【2024-03-14】[electronicarts / CNC_TS_and_RA2_Mission_Editor](https://github.com/electronicarts/CNC_TS_and_RA2_Mission_Editor) - FinalSun & FinalAlert2 Level Editors
 * 【2024-03-14】[MetaWu2077 / Esp32_VoiceChat_LLMs](https://github.com/MetaWu2077/Esp32_VoiceChat_LLMs) - esp32 based device, mainly used for voice chat with large language models
@@ -3434,6 +3447,7 @@
 
 ## Html
 
+* 【2024-03-16】[chiphuyen / ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book) - https://huyenchip.com/ml-interviews-book/
 * 【2024-03-14】[wuhobin / blog-home](https://github.com/wuhobin/blog-home) - 一个干净简洁的个人作品集合主页
 * 【2024-03-13】[midudev / eloquent-javascript-es](https://github.com/midudev/eloquent-javascript-es) - Traducción del libro Eloquent JavaScript en Español
 * 【2024-03-13】[J2TEAM / demo](https://github.com/J2TEAM/demo) - Code demo cho các video của JUNO_OKYO
@@ -3768,6 +3782,12 @@
 
 ## Css
 
+* 【2024-03-16】[milk-v / milkv.io](https://github.com/milk-v/milkv.io) - 
+* 【2024-03-16】[dajianihao / helldivers-2-cheat](https://github.com/dajianihao/helldivers-2-cheat) - New updated cheat for Helldivers 2!
+* 【2024-03-16】[alexbates / Tamari](https://github.com/alexbates/Tamari) - A fully-featured recipe manager web application built using Python and the Flask Framework.
+* 【2024-03-16】[EELL88 / aurora](https://github.com/EELL88/aurora) - v2board前端
+* 【2024-03-16】[NeuraLegion / brokencrystals](https://github.com/NeuraLegion/brokencrystals) - A Broken Application - Very Vulnerable!
+* 【2024-03-16】[thomskaf / CSS-image-replacement](https://github.com/thomskaf/CSS-image-replacement) - New CSS image replacement
 * 【2024-03-15】[boolean-uk / angular-greengrocers](https://github.com/boolean-uk/angular-greengrocers) - 
 * 【2024-03-15】[DevOpsManiac / CorpSite](https://github.com/DevOpsManiac/CorpSite) - 
 * 【2024-03-15】[obscurefreeman / typora_theme_blackout](https://github.com/obscurefreeman/typora_theme_blackout) - Blackout theme of typora
@@ -4270,6 +4290,9 @@
 
 ## Unknown
 
+* 【2024-03-16】[ianand / spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
+* 【2024-03-16】[linaruqi / StratiCounterGUI](https://github.com/linaruqi/StratiCounterGUI) - a GUI
+* 【2024-03-16】[darius-khll / golang-developer-roadmap](https://github.com/darius-khll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2020
 * 【2024-03-15】[decodingml / llm-twin-course](https://github.com/decodingml/llm-twin-course) - 🤖 LLM Twin FREE Course: Building Your Production-Ready AI Replica | An End-to-End Framework for Production-Ready LLM Systems by Building Your LLM Twin | WIP...
 * 【2024-03-15】[telegram-sgk / SGK_Sites_and_Bots](https://github.com/telegram-sgk/SGK_Sites_and_Bots) - 免费在线社工库，免费Telegram社工库
 * 【2024-03-15】[OceanNg529 / allAI](https://github.com/OceanNg529/allAI) - 
