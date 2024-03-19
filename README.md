@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2024-03-19】[xai-org / grok-1](https://github.com/xai-org/grok-1) - Grok open release
+* 【2024-03-19】[ZHO-ZHO-ZHO / ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
+* 【2024-03-19】[albertan017 / LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
 * 【2024-03-18】[openai / grok](https://github.com/openai/grok) - 
 * 【2024-03-18】[codediodeio / rembg-webapp-tutorial](https://github.com/codediodeio/rembg-webapp-tutorial) - a simple webapp with rembg
 * 【2024-03-18】[the-mirror-gdp / the-mirror](https://github.com/the-mirror-gdp/the-mirror) - The open-source Roblox & UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot.
@@ -895,6 +898,8 @@
 
 ## Java
 
+* 【2024-03-19】[CodingGay / BlackShadow](https://github.com/CodingGay/BlackShadow) - 腾讯(Tencent)Shadow的二次封装项目，开袋即食版。
+* 【2024-03-19】[smilexizheng / coco-boot](https://github.com/smilexizheng/coco-boot) - test-coco-springboot
 * 【2024-03-18】[racoonman2 / ReTerraForged](https://github.com/racoonman2/ReTerraForged) - a 1.19+ port of https://github.com/TerraForged/TerraForged
 * 【2024-03-17】[Sab1e-GitHub / BadAppleJuice](https://github.com/Sab1e-GitHub/BadAppleJuice) - 参考自EvilAppleJuice的项目，用于在安卓设备上发送广播包，唤起iPhone设备的弹窗。
 * 【2024-03-17】[ItsMadruga / MdgWa](https://github.com/ItsMadruga/MdgWa) - Um módulo Xposed para personalizar seu WhatsApp.
@@ -1854,6 +1859,10 @@
 
 ## Javascript
 
+* 【2024-03-19】[JaimeObregon / observatoriospublicos.es](https://github.com/JaimeObregon/observatoriospublicos.es) - Observatorio de los observatorios públicos de España
+* 【2024-03-19】[DeFiSolMaster / Solana-Sniper-Bot-Opensource](https://github.com/DeFiSolMaster/Solana-Sniper-Bot-Opensource) - Ultimate Solana Sniper Bot for the degens that want to snipe tokens and farm airdrop
+* 【2024-03-19】[mediacms-io / mediacms](https://github.com/mediacms-io/mediacms) - MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+* 【2024-03-19】[FiveKG / gas-listener](https://github.com/FiveKG/gas-listener) - 
 * 【2024-03-18】[JavaScript-Mastery-Pro / gsap-cc-starter](https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter) - Starter Repository of GSAP Crash Course
 * 【2024-03-18】[developersdigest / llm-answer-engine](https://github.com/developersdigest/llm-answer-engine) - Build a Perplexity-Inspired Answer Engine Using Groq, Mixtral, Langchain, Brave & OpenAI
 * 【2024-03-17】[adrianhajdin / iphone](https://github.com/adrianhajdin/iphone) - Recreate the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models, this tutorial covers it all.
@@ -2532,6 +2541,10 @@
 
 ## C
 
+* 【2024-03-19】[trezor / trezor-firmware](https://github.com/trezor/trezor-firmware) - 🔒 Trezor Firmware Monorepo
+* 【2024-03-19】[pygame-community / pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
+* 【2024-03-19】[ossc-db / pg_hint_plan](https://github.com/ossc-db/pg_hint_plan) - Give PostgreSQL ability to manually force some decisions in execution plans.
+* 【2024-03-19】[ClimbSnail / SnailHeater](https://github.com/ClimbSnail/SnailHeater) - 多功能焊台（T12/JBC245、烤箱回流焊、加热台、风枪、可调电源、简易双通道示波器、函数发生器、高精度PWM脉冲）
 * 【2024-03-18】[SentientArt / TheBasement](https://github.com/SentientArt/TheBasement) - 
 * 【2024-03-17】[stm32duino / Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) - STM32 core support for Arduino
 * 【2024-03-14】[tumuyan / RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, nearest, bilinear, bicubic, AVIR.
@@ -2868,6 +2881,7 @@
 
 ## C++
 
+* 【2024-03-19】[a-ngo / route-planning](https://github.com/a-ngo/route-planning) - 
 * 【2024-03-17】[Hagrid29 / CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP) - 
 * 【2024-03-16】[0x36 / Pixel_GPU_Exploit](https://github.com/0x36/Pixel_GPU_Exploit) - Android 14 kernel exploit for Pixel7/8 Pro
 * 【2024-03-15】[flox / flox](https://github.com/flox/flox) - Developer environments you can take with you
@@ -3150,6 +3164,7 @@
 
 ## C#
 
+* 【2024-03-19】[falseeeeeeeeee / ShaderLibrary](https://github.com/falseeeeeeeeee/ShaderLibrary) - 希望开源能够帮到所有人
 * 【2024-03-18】[DevToys-app / DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
 * 【2024-03-17】[WistfulHopes / gbfrelink.utility.manager](https://github.com/WistfulHopes/gbfrelink.utility.manager) - Mod management utility for Granblue Fantasy Relink using Reloaded II
 * 【2024-03-15】[Vietsens / hisnguonmo](https://github.com/Vietsens/hisnguonmo) - His nguồn mở
@@ -3478,6 +3493,7 @@
 
 ## Html
 
+* 【2024-03-19】[zhugezifang / ai_timeline](https://github.com/zhugezifang/ai_timeline) - AI时间线，产品地址：http://www.ai-timeline.top
 * 【2024-03-18】[niikhiljha / Impressing-your-crush](https://github.com/niikhiljha/Impressing-your-crush) - 
 * 【2024-03-18】[Mojang / bedrock-protocol-docs](https://github.com/Mojang/bedrock-protocol-docs) - Documentation of the Bedrock network protocol. Protocol is subject to change release over release.
 * 【2024-03-17】[iOS17 / Jailbreak](https://github.com/iOS17/Jailbreak) - iOS 17 Jailbreak Tools, Cydia/Sileo/Zebra Tweaks & Jailbreak Related News Updates
@@ -3816,6 +3832,9 @@
 
 ## Css
 
+* 【2024-03-19】[Saivenkat2005 / https-github.com-DeepakReddyG-ZeroOneCodeClub_FirstWebDevProject](https://github.com/Saivenkat2005/https-github.com-DeepakReddyG-ZeroOneCodeClub_FirstWebDevProject) - 
+* 【2024-03-19】[gathpadeepak / ZeroOneCodeClub_FirstWebDevProject](https://github.com/gathpadeepak/ZeroOneCodeClub_FirstWebDevProject) - 
+* 【2024-03-19】[adityanavgurukul / weather-app-group4](https://github.com/adityanavgurukul/weather-app-group4) - 
 * 【2024-03-18】[beeper / themes](https://github.com/beeper/themes) - Community Themes
 * 【2024-03-18】[Abhishekyadav450 / CipherGuard](https://github.com/Abhishekyadav450/CipherGuard) - 
 * 【2024-03-18】[Phillip-England / templ-quickstart](https://github.com/Phillip-England/templ-quickstart) - Scaffold an http server using Go, HTMX, Templ, and Tailwind quick and easy.
