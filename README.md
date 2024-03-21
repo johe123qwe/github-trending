@@ -9,6 +9,10 @@
 
 ## All language
 
+* 【2024-03-21】[ynqa / jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
+* 【2024-03-21】[microsoft / retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
+* 【2024-03-21】[CISOfy / lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+* 【2024-03-21】[yesmore / vmail](https://github.com/yesmore/vmail) - Open source temporary email tool. 开源临时邮箱工具 👉 vmail.dev
 * 【2024-03-20】[discord / embedded-app-sdk](https://github.com/discord/embedded-app-sdk) - 🚀 The Discord Embedded App SDK lets you build rich, multiplayer experiences as Activities inside Discord.
 * 【2024-03-20】[TheMMC / In-Place_Upgrade_Helper](https://github.com/TheMMC/In-Place_Upgrade_Helper) - Helper-Tool für Windows 10/11 Inplace-Upgrades und Editionswechsel
 * 【2024-03-20】[xyflow / xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
@@ -1152,6 +1156,9 @@
 
 ## Python
 
+* 【2024-03-21】[kongzhecn / OMG](https://github.com/kongzhecn/OMG) - OMG: Occlusion-friendly Personalized Multi-concept Generation In Diffusion Models
+* 【2024-03-21】[Kiteretsu77 / APISR](https://github.com/Kiteretsu77/APISR) - APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)
+* 【2024-03-21】[mrphrazer / reverser_ai](https://github.com/mrphrazer/reverser_ai) - Provides automated reverse engineering assistance through the use of local large language models (LLMs) on consumer hardware.
 * 【2024-03-18】[yoheinakajima / mindgraph](https://github.com/yoheinakajima/mindgraph) - proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
 * 【2024-03-18】[almandin / fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
 * 【2024-03-18】[CognitionAI / devin-swebench-results](https://github.com/CognitionAI/devin-swebench-results) - Cognition's results and methodology on SWE-bench
@@ -1867,6 +1874,8 @@
 
 ## Javascript
 
+* 【2024-03-21】[typicode / mistcss](https://github.com/typicode/mistcss) - Write atomic React components using only CSS! (JS-from-CSS™) 🌬️
+* 【2024-03-21】[Hyizhou1 / tg_hongbao](https://github.com/Hyizhou1/tg_hongbao) - Telegram电报tg红包雷,红包扫雷机器人源码--自助充值、提现全功能完整版多语言全网最全假人自动抢包
 * 【2024-03-20】[Hyizhou1 / Tg_SuperSerch](https://github.com/Hyizhou1/Tg_SuperSerch) - 关于 TG索引机器人，telegram中文搜索群组，telegram超级索引源码，tg中文搜索，群组收录，tg搜索机器人https://t.me/spuerserch
 * 【2024-03-20】[ButzYung / SystemAnimatorOnline](https://github.com/ButzYung/SystemAnimatorOnline) - XR Animator, AI-based Full Body Motion Capture and Extended Reality (XR) solution, powered by System Animator Online
 * 【2024-03-20】[darkroomengineering / lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
@@ -2273,6 +2282,7 @@
 
 ## Go
 
+* 【2024-03-21】[omriharel / deej](https://github.com/omriharel/deej) - Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
 * 【2024-03-20】[veops / oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
 * 【2024-03-17】[missingstudio / gateway](https://github.com/missingstudio/gateway) - 🌈 A Reliable AI Gateway - Core infrastructure stack for building your AI workforce
 * 【2024-03-17】[scratchdata / scratchdata](https://github.com/scratchdata/scratchdata) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse.
@@ -2554,6 +2564,7 @@
 
 ## C
 
+* 【2024-03-21】[cecio / USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
 * 【2024-03-20】[X1Plus / X1Plus](https://github.com/X1Plus/X1Plus) - Custom firmware for Bambu Lab X1 and X1 Carbon 3D printers
 * 【2024-03-20】[xscorp / jsmug](https://github.com/xscorp/jsmug) - A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
 * 【2024-03-20】[dibyendumajumdar / ravi](https://github.com/dibyendumajumdar/ravi) - Ravi is a dialect of Lua, featuring limited optional static typing, JIT and AOT compilers
@@ -2897,6 +2908,8 @@
 
 ## C++
 
+* 【2024-03-21】[rive-app / rive-renderer](https://github.com/rive-app/rive-renderer) - Downstream repo for Rive renderer
+* 【2024-03-21】[RedefiningReality / Cobalt-Strike](https://github.com/RedefiningReality/Cobalt-Strike) - Various resources to enhance Cobalt Strike's functionality and its ability to evade antivirus/EDR detection
 * 【2024-03-20】[ros-drivers / usb_cam](https://github.com/ros-drivers/usb_cam) - A ROS Driver for V4L2 USB Cameras
 * 【2024-03-19】[a-ngo / route-planning](https://github.com/a-ngo/route-planning) - 
 * 【2024-03-17】[Hagrid29 / CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP) - 
@@ -3181,6 +3194,9 @@
 
 ## C#
 
+* 【2024-03-21】[microsoft / FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
+* 【2024-03-21】[Pathoschild / SMAPI](https://github.com/Pathoschild/SMAPI) - The modding API for Stardew Valley.
+* 【2024-03-21】[Prescoter / Emora-Project](https://github.com/Prescoter/Emora-Project) - Emora is an OSINT tool like sherlock but with a GUI, which search for accounts by username across social networks
 * 【2024-03-20】[microsoft / garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 * 【2024-03-19】[falseeeeeeeeee / ShaderLibrary](https://github.com/falseeeeeeeeee/ShaderLibrary) - 希望开源能够帮到所有人
 * 【2024-03-18】[DevToys-app / DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
@@ -4374,6 +4390,7 @@
 
 ## Unknown
 
+* 【2024-03-21】[meituan / Meituan-INFORMS-TSL-Research-Challenge](https://github.com/meituan/Meituan-INFORMS-TSL-Research-Challenge) - 
 * 【2024-03-20】[dotnet-smartcomponents / smartcomponents](https://github.com/dotnet-smartcomponents/smartcomponents) - Experimental, end-to-end AI features for .NET apps
 * 【2024-03-20】[mims-harvard / UniTS](https://github.com/mims-harvard/UniTS) - A unified time series model.
 * 【2024-03-20】[Coder-World04 / Complete-Machine-Learning-](https://github.com/Coder-World04/Complete-Machine-Learning-) - This repository contains everything you need to become proficient in Machine Learning
