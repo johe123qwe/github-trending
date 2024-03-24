@@ -9,6 +9,10 @@
 
 ## All language
 
+* 【2024-03-24】[face-hh / griddycode](https://github.com/face-hh/griddycode) - A code editor made with Godot. Code has never been more lit!
+* 【2024-03-24】[mshumer / gpt-investor](https://github.com/mshumer/gpt-investor) - 
+* 【2024-03-24】[lichao-sun / Mora](https://github.com/lichao-sun/Mora) - Mora: More like Sora for Generalist Video Generation
+* 【2024-03-24】[jasonppy / VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 * 【2024-03-23】[stitionai / devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.
 * 【2024-03-23】[OpenInterpreter / 01](https://github.com/OpenInterpreter/01) - The open-source language model computer
 * 【2024-03-23】[SakanaAI / evolutionary-model-merge](https://github.com/SakanaAI/evolutionary-model-merge) - Official repository of Evolutionary Optimization of Model Merging Recipes
@@ -922,6 +926,7 @@
 
 ## Java
 
+* 【2024-03-24】[labilibili / labilibili](https://github.com/labilibili/labilibili) - 仿bilibili前后端实现
 * 【2024-03-20】[01-ai / Descartes](https://github.com/01-ai/Descartes) - 
 * 【2024-03-19】[CodingGay / BlackShadow](https://github.com/CodingGay/BlackShadow) - 腾讯(Tencent)Shadow的二次封装项目，开袋即食版。
 * 【2024-03-19】[smilexizheng / coco-boot](https://github.com/smilexizheng/coco-boot) - test-coco-springboot
@@ -1893,6 +1898,7 @@
 
 ## Javascript
 
+* 【2024-03-24】[jayofelony / pwnagotchi](https://github.com/jayofelony/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 * 【2024-03-23】[huanghanzhilian / c-shopping-rn](https://github.com/huanghanzhilian/c-shopping-rn) - This is a complete App developed by React Native (Expo). It is a beautiful e-commerce shopping application. 这个是一个React Native(Expo) 开发的完整App应用，是一个精美的电商购物应用。
 * 【2024-03-23】[Nuked88 / ComfyUI-N-Sidebar](https://github.com/Nuked88/ComfyUI-N-Sidebar) - A simple sidebar for your ConfyUI!
 * 【2024-03-23】[zeke / livestory](https://github.com/zeke/livestory) - 
@@ -2589,6 +2595,7 @@
 
 ## C
 
+* 【2024-03-24】[placeholderkv / placeholderkv](https://github.com/placeholderkv/placeholderkv) - A new project to resume development on the formerly open-source Redis project. Name is placeholder.
 * 【2024-03-23】[phdlee / uvk5cec](https://github.com/phdlee/uvk5cec) - Adds various experimental features to the uvk5 radio
 * 【2024-03-23】[wendy512 / iec61850](https://github.com/wendy512/iec61850) - GoLang IEC61850 library
 * 【2024-03-21】[cecio / USBvalve](https://github.com/cecio/USBvalve) - Expose USB activity on the fly
@@ -3222,6 +3229,9 @@
 
 ## C#
 
+* 【2024-03-24】[KonataDev / Lagrange.Core](https://github.com/KonataDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+* 【2024-03-24】[Preeaaw / Aviator-Predictor-FULL](https://github.com/Preeaaw/Aviator-Predictor-FULL) - Aviator Predictor is a tool designed for predicting multipliers in the Aviator betting game, helping players secure their earnings.
+* 【2024-03-24】[daleao / modular-overhaul](https://github.com/daleao/modular-overhaul) - 
 * 【2024-03-23】[whuanle / maomi](https://github.com/whuanle/maomi) - Maomi 框架是一个简单的、简洁的开发框架，处理框架本身提供的功能之外，Maomi 还作为一个易于阅读的开源项目，能够给开发者提供设计框架的思路和代码。
 * 【2024-03-23】[emoacht / Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease
 * 【2024-03-23】[grzybeek / grzyClothTool](https://github.com/grzybeek/grzyClothTool) - grzyClothTool is a free tool to create and manage GTA5 addon clothing packs
@@ -3559,6 +3569,7 @@
 
 ## Html
 
+* 【2024-03-24】[una / better-faster-stronger-web-ui](https://github.com/una/better-faster-stronger-web-ui) - Better Faster Stronger Web UI Talk
 * 【2024-03-23】[TheLargestHiddenWiki / uncensored-onion-links](https://github.com/TheLargestHiddenWiki/uncensored-onion-links) - The Hidden Wiki
 * 【2024-03-23】[anan1213095357 / Blueprint](https://github.com/anan1213095357/Blueprint) - 
 * 【2024-03-23】[mist64 / 64er-magazin.de](https://github.com/mist64/64er-magazin.de) - 
@@ -3903,6 +3914,7 @@
 
 ## Css
 
+* 【2024-03-24】[EngRobot33 / ZED](https://github.com/EngRobot33/ZED) - A minimal clone of Twitter
 * 【2024-03-23】[Darshika-Mishra / CBTCIP-2](https://github.com/Darshika-Mishra/CBTCIP-2) - 
 * 【2024-03-23】[diydiagnostics / App6-HTML5-Canvas](https://github.com/diydiagnostics/App6-HTML5-Canvas) - 
 * 【2024-03-23】[christian7gonzalez / davinci-resolve-studio-18-download](https://github.com/christian7gonzalez/davinci-resolve-studio-18-download) - 
@@ -4432,6 +4444,9 @@
 
 ## Unknown
 
+* 【2024-03-24】[mahidarling / Kubernetes-Mock-Exams](https://github.com/mahidarling/Kubernetes-Mock-Exams) - 
+* 【2024-03-24】[CIS-Team / UI-UX-Roadmap-2023](https://github.com/CIS-Team/UI-UX-Roadmap-2023) - UI/UX Squad Roadmap
+* 【2024-03-24】[WallKiller-glitch / V2raySSSSRShare](https://github.com/WallKiller-glitch/V2raySSSSRShare) - 科学上网，vpn机场推荐，支持shadowrocket，ss, ssr, v2ray, trojan, clash,clashr,需要自取（每日更新）
 * 【2024-03-23】[jakubtomsu / awesome-odin](https://github.com/jakubtomsu/awesome-odin) - A collection of awesome Odin libraries, bindings, software and resources 🧙‍♂️✨
 * 【2024-03-23】[jaywcjlove / DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 * 【2024-03-23】[zorazrw / awesome-tool-llm](https://github.com/zorazrw/awesome-tool-llm) - 
