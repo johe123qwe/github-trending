@@ -2635,6 +2635,7 @@
 
 ## C
 
+* 【2024-03-29】[valkey-io / valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie.
 * 【2024-03-28】[Notselwyn / CVE-2024-1086](https://github.com/Notselwyn/CVE-2024-1086) - Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.
 * 【2024-03-26】[janmojzis / tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 * 【2024-03-26】[let-def / texpresso](https://github.com/let-def/texpresso) - TeXpresso: live rendering and error reporting for LaTeX
