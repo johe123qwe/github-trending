@@ -9,6 +9,11 @@
 
 ## All language
 
+* 【2024-03-30】[easychen / one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
+* 【2024-03-30】[TMElyralab / MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
+* 【2024-03-30】[folke / trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
+* 【2024-03-30】[TencentARC / BrushNet](https://github.com/TencentARC/BrushNet) - The official implementation of paper "BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion"
+* 【2024-03-30】[LLM-Red-Team / kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型白嫖服务，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
 * 【2024-03-29】[Zejun-Yang / AniPortrait](https://github.com/Zejun-Yang/AniPortrait) - AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation
 * 【2024-03-29】[databricks / dbrx](https://github.com/databricks/dbrx) - Code examples and resources for DBRX, a large language model developed by Databricks
 * 【2024-03-29】[gamemcu / www-genshin](https://github.com/gamemcu/www-genshin) - 
@@ -942,6 +947,8 @@
 
 ## Java
 
+* 【2024-03-30】[apache / paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
+* 【2024-03-30】[apache / incubator-amoro](https://github.com/apache/incubator-amoro) - Apache Amoro (incubating) is a Lakehouse management system built on open data lake formats.
 * 【2024-03-28】[digitalinnovationone / santander-dev-week-2024](https://github.com/digitalinnovationone/santander-dev-week-2024) - RESTful API da Santander Dev Week 2024 construída em Java 21 com Spring Boot 3.
 * 【2024-03-28】[pig-mesh / excel-spring-boot-starter](https://github.com/pig-mesh/excel-spring-boot-starter) - alibaba easyexcel spring boot starter
 * 【2024-03-26】[infinilabs / analysis-ik](https://github.com/infinilabs/analysis-ik) - 🚌 The IK Analysis plugin integrates Lucene IK analyzer into Elasticsearch and OpenSearch, support customized dictionary.
@@ -1194,6 +1201,7 @@
 
 ## Python
 
+* 【2024-03-30】[WithSecureLabs / drozer](https://github.com/WithSecureLabs/drozer) - The Leading Security Assessment Framework for Android.
 * 【2024-03-29】[NanmiCoder / CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial) - 爬虫入门、爬虫进阶、高级爬虫
 * 【2024-03-29】[pentestfunctions / BlueDucky](https://github.com/pentestfunctions/BlueDucky) - 🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)
 * 【2024-03-28】[agiresearch / AIOS](https://github.com/agiresearch/AIOS) - AIOS: LLM Agent Operating System
@@ -1930,6 +1938,11 @@
 
 ## Javascript
 
+* 【2024-03-30】[somta / Juggle](https://github.com/somta/Juggle) - 一款适用于微服务编排，第三方api集成，私有化定制开发，编写BFF聚合层等场景的强大低码编排工具！
+* 【2024-03-30】[wahdalo / tiktok-src](https://github.com/wahdalo/tiktok-src) - Tiktok downloader & auto upload to reels facebook (with puppeteer)
+* 【2024-03-30】[OrionReed / dom3d](https://github.com/OrionReed/dom3d) - Browser extension to view and debug the DOM in 3D space.
+* 【2024-03-30】[franceking1 / Flash-Md](https://github.com/franceking1/Flash-Md) - 
+* 【2024-03-30】[techwithtim / Django-React-Full-Stack-App](https://github.com/techwithtim/Django-React-Full-Stack-App) - 
 * 【2024-03-29】[2ri4eUI / CFW-BOT](https://github.com/2ri4eUI/CFW-BOT) - Cloudflare Woker Bot ! No servers needed, just pure Xray link creation, all running smoothly on PythonAnywhere. a Shortcut to internet freedom! ✨"
 * 【2024-03-29】[asyncapi / generator](https://github.com/asyncapi/generator) - Use your AsyncAPI definition to generate literally anything. Markdown documentation, Node.js code, HTML documentation, anything!
 * 【2024-03-29】[k1nd0ne / VolWeb](https://github.com/k1nd0ne/VolWeb) - A centralized and enhanced memory analysis platform
@@ -2354,6 +2367,8 @@
 
 ## Go
 
+* 【2024-03-30】[shizunge / endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
+* 【2024-03-30】[disingn / sunotoapi](https://github.com/disingn/sunotoapi) - 将 sunoAi web转成 openai 格式进行调用
 * 【2024-03-28】[charmbracelet / freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
 * 【2024-03-25】[cortezaproject / corteza](https://github.com/cortezaproject/corteza) - Low-code platform
 * 【2024-03-25】[wendy512 / iec104](https://github.com/wendy512/iec104) - GoLang IEC104 library
@@ -3631,6 +3646,7 @@
 
 ## Html
 
+* 【2024-03-30】[syhily / algorithm-anime](https://github.com/syhily/algorithm-anime) - 
 * 【2024-03-29】[midudev / javascript-100-proyectos](https://github.com/midudev/javascript-100-proyectos) - 100 proyectos de JavaScript con código y vídeos. ¡Gratis!
 * 【2024-03-29】[0xeb / TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 * 【2024-03-28】[Winnie09 / GPTCelltype](https://github.com/Winnie09/GPTCelltype) - 
@@ -3987,6 +4003,7 @@
 
 ## Css
 
+* 【2024-03-30】[bernardodangelo / CS2-SkinChanger](https://github.com/bernardodangelo/CS2-SkinChanger) - 
 * 【2024-03-29】[mehmetkahya0 / temp-mail](https://github.com/mehmetkahya0/temp-mail) - TempMail is a simple web application that allows you to generate temporary email addresses and view the emails received by these addresses.
 * 【2024-03-28】[a9fm / a9fm.github.io](https://github.com/a9fm/a9fm.github.io) - 
 * 【2024-03-28】[prs-teacher / LayoutParts-Part2](https://github.com/prs-teacher/LayoutParts-Part2) - 
@@ -4523,6 +4540,9 @@
 
 ## Unknown
 
+* 【2024-03-30】[soufianetahiri / TeamsNTLMLeak](https://github.com/soufianetahiri/TeamsNTLMLeak) - Leak NTLM via Website tab in teams via MS Office
+* 【2024-03-30】[KushalVijay / GetHiredRoadmap2024](https://github.com/KushalVijay/GetHiredRoadmap2024) - 
+* 【2024-03-30】[DefTruth / Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) - 📖A curated list of Awesome LLM Inference Paper with codes, TensorRT-LLM, vLLM, streaming-llm, AWQ, SmoothQuant, WINT8/4, Continuous Batching, FlashAttention, PagedAttention etc.
 * 【2024-03-29】[fuckpiracyshield / fuckpiracyshield](https://github.com/fuckpiracyshield/fuckpiracyshield) - Readme
 * 【2024-03-29】[IDKiro / sdxs](https://github.com/IDKiro/sdxs) - Official repo of paper "SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions"
 * 【2024-03-28】[Picsart-AI-Research / StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
