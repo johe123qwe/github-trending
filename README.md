@@ -2367,6 +2367,7 @@
 
 ## Go
 
+* 【2024-03-31】[semaphoreui / semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible
 * 【2024-03-30】[shizunge / endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
 * 【2024-03-30】[disingn / sunotoapi](https://github.com/disingn/sunotoapi) - 将 sunoAi web转成 openai 格式进行调用
 * 【2024-03-28】[charmbracelet / freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
