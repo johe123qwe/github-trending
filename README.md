@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2024-04-01】[heyform / heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
+* 【2024-04-01】[wandb / openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 * 【2024-03-31】[adrianhajdin / zoom-clone](https://github.com/adrianhajdin/zoom-clone) - Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.
 * 【2024-03-30】[easychen / one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
 * 【2024-03-30】[TMElyralab / MuseV](https://github.com/TMElyralab/MuseV) - MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising
@@ -1203,6 +1205,9 @@
 
 ## Python
 
+* 【2024-04-01】[brilliantlabsAR / noa-assistant](https://github.com/brilliantlabsAR/noa-assistant) - 
+* 【2024-04-01】[Lightning-AI / litgpt](https://github.com/Lightning-AI/litgpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+* 【2024-04-01】[foivospar / Arc2Face](https://github.com/foivospar/Arc2Face) - Arc2Face: A Foundation Model of Human Faces
 * 【2024-03-31】[google-deepmind / long-form-factuality](https://github.com/google-deepmind/long-form-factuality) - Benchmarking long-form factuality in large language models. Original code for our paper "Long-form factuality in large language models".
 * 【2024-03-31】[MsLolita / backpack-volume-auto](https://github.com/MsLolita/backpack-volume-auto) - 
 * 【2024-03-31】[MsLolita / grass](https://github.com/MsLolita/grass) - grass-mining
@@ -2670,6 +2675,8 @@
 
 ## C
 
+* 【2024-04-01】[BandarHL / BHTwitter](https://github.com/BandarHL/BHTwitter) - Awesome tweak for Twitter
+* 【2024-04-01】[ysanatomic / io_uring_LPE-CVE-2024-0582](https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582) - LPE exploit for CVE-2024-0582 (io_uring)
 * 【2024-03-31】[Decscots / Lockpick_RCM](https://github.com/Decscots/Lockpick_RCM) - 
 * 【2024-03-31】[dayanch96 / YTMusicUltimate](https://github.com/dayanch96/YTMusicUltimate) - The best tweak for YouTube Music iOS.
 * 【2024-03-29】[airockchip / rknn-toolkit2](https://github.com/airockchip/rknn-toolkit2) - 
@@ -3319,6 +3326,8 @@
 
 ## C#
 
+* 【2024-04-01】[sourcegit-scm / sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+* 【2024-04-01】[yaobiao131 / downkyicore](https://github.com/yaobiao131/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 * 【2024-03-31】[Pathoschild / StardewMods](https://github.com/Pathoschild/StardewMods) - Mods for Stardew Valley using SMAPI.
 * 【2024-03-25】[vercidium-patreon / meshing](https://github.com/vercidium-patreon/meshing) - Greedy meshing algorithm for voxel models
 * 【2024-03-25】[yaobus / EducationalAdministrationManagementSystem](https://github.com/yaobus/EducationalAdministrationManagementSystem) - 教务管理系统（毕业论文实例）
@@ -3663,6 +3672,7 @@
 
 ## Html
 
+* 【2024-04-01】[simonw / tools](https://github.com/simonw/tools) - Assorted tools
 * 【2024-03-31】[EPFLXplore / XRE_LeggedRobot_HW](https://github.com/EPFLXplore/XRE_LeggedRobot_HW) - PCB designs for Xplore Research's robot dog project
 * 【2024-03-31】[erew123 / alltalk_tts](https://github.com/erew123/alltalk_tts) - AllTalk is based on the Coqui TTS engine, similar to the Coqui_tts extension for Text generation webUI, however supports a variety of advanced features, such as a settings page, low VRAM support, DeepSpeed, narrator, model finetuning, custom models, wav file maintenance. It can also be used with 3rd Party software via JSON calls.
 * 【2024-03-30】[syhily / algorithm-anime](https://github.com/syhily/algorithm-anime) - 
@@ -4022,6 +4032,7 @@
 
 ## Css
 
+* 【2024-04-01】[Hardhat-Enterprises / website](https://github.com/Hardhat-Enterprises/website) - The main website for Hardhat Enterprises
 * 【2024-03-31】[CyanVoxel / Obsidian-Notebook-Themes](https://github.com/CyanVoxel/Obsidian-Notebook-Themes) - A Series of Notebook Theme CSS Snippets for Obsidian.
 * 【2024-03-31】[ferdium / ferdium-recipes](https://github.com/ferdium/ferdium-recipes) - Recipes encapsulate your favourite apps into Ferdium for unified notifications handling and more
 * 【2024-03-30】[bernardodangelo / CS2-SkinChanger](https://github.com/bernardodangelo/CS2-SkinChanger) - 
@@ -4561,6 +4572,9 @@
 
 ## Unknown
 
+* 【2024-04-01】[billmei / every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT
+* 【2024-04-01】[PandaBearLab / prompt-tutorial](https://github.com/PandaBearLab/prompt-tutorial) - 
+* 【2024-04-01】[Chanda-Abdul / Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews](https://github.com/Chanda-Abdul/Several-Coding-Patterns-for-Solving-Data-Structures-and-Algorithms-Problems-during-Interviews) - Several Coding Patterns for Solving Data Structures and Algorithms Problems during Interviews
 * 【2024-03-31】[h4x0r-dz / Leaked-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) - how to look for Leaked Credentials !
 * 【2024-03-31】[knassar702 / awesome-linux-minimalism](https://github.com/knassar702/awesome-linux-minimalism) - awesome linux minimalism suggestions
 * 【2024-03-31】[BINANCECONTRACT / How-to-Create-BEP20-Token](https://github.com/BINANCECONTRACT/How-to-Create-BEP20-Token) - Step By Step Guide to How to Create BEP20 Token and list them on PANCAKE SWAP.
