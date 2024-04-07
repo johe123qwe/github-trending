@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2024-04-07】[cloudflare / orange](https://github.com/cloudflare/orange) - 
+* 【2024-04-07】[availproject / avail-light](https://github.com/availproject/avail-light) - 
+* 【2024-04-07】[pagefaultgames / pokerogue](https://github.com/pagefaultgames/pokerogue) - 
 * 【2024-04-06】[FoundationVision / VAR](https://github.com/FoundationVision/VAR) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction"
 * 【2024-04-06】[avito-tech / backend-trainee-assignment-2024](https://github.com/avito-tech/backend-trainee-assignment-2024) - 
 * 【2024-04-06】[mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
@@ -972,6 +975,7 @@
 
 ## Java
 
+* 【2024-04-07】[rkkr / simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 * 【2024-04-05】[querydsl / querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
 * 【2024-04-05】[confluentinc / kafka-streams-examples](https://github.com/confluentinc/kafka-streams-examples) - Demo applications and code examples for Apache Kafka's Streams API.
 * 【2024-04-04】[javaconferences / javaconferences.github.io](https://github.com/javaconferences/javaconferences.github.io) - The Github repository for javaconferences.org
@@ -1234,6 +1238,10 @@
 
 ## Python
 
+* 【2024-04-07】[nashsu / FreeAskInternet](https://github.com/nashsu/FreeAskInternet) - FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results.
+* 【2024-04-07】[facebookresearch / schedule_free](https://github.com/facebookresearch/schedule_free) - Schedule-Free Optimization in PyTorch
+* 【2024-04-07】[stanfordnlp / pyreft](https://github.com/stanfordnlp/pyreft) - ReFT: Representation Finetuning for Language Models
+* 【2024-04-07】[KrisCris / Palworld-Pal-Editor](https://github.com/KrisCris/Palworld-Pal-Editor) - Palworld Pal Editor, the tool for Adding, Deleting, and Modifying Pals in Palworld Game Save, supports running on Docker, GUI, WebUI, and Cli.
 * 【2024-04-06】[InstantStyle / InstantStyle](https://github.com/InstantStyle/InstantStyle) - 
 * 【2024-04-06】[PhonePe / mantis](https://github.com/PhonePe/mantis) - Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning.
 * 【2024-04-06】[myshell-ai / JetMoE](https://github.com/myshell-ai/JetMoE) - Reaching LLaMA2 Performance with 0.1M Dollars
@@ -2002,6 +2010,8 @@
 
 ## Javascript
 
+* 【2024-04-07】[curtisf / logger](https://github.com/curtisf/logger) - Loggerbot version 3, the Discord bot serving nearly 24 million users.
+* 【2024-04-07】[kolbytn / mindcraft](https://github.com/kolbytn/mindcraft) - 
 * 【2024-04-06】[Ottodix / Eole-foobar-theme](https://github.com/Ottodix/Eole-foobar-theme) - Eole blows gently into your ear his nicest melodies.
 * 【2024-04-06】[ExpTechTW / TREM-electron](https://github.com/ExpTechTW/TREM-electron) - Taiwan Real-time Earthquake Monitoring ( 臺灣即時地震監測 )
 * 【2024-04-05】[missuo / FreeGPT35](https://github.com/missuo/FreeGPT35) - Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
@@ -2744,6 +2754,7 @@
 
 ## C
 
+* 【2024-04-07】[RsyncProject / rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 * 【2024-04-06】[alfiecg24 / TrollInstallerX](https://github.com/alfiecg24/TrollInstallerX) - A TrollStore installer for iOS 14.0 - 16.6.1
 * 【2024-04-05】[NVIDIAGameWorks / Streamline](https://github.com/NVIDIAGameWorks/Streamline) - Streamline Integration Framework
 * 【2024-04-04】[renderlet / wander](https://github.com/renderlet/wander) - wander - the Wasm Renderer
@@ -3113,6 +3124,7 @@
 
 ## C++
 
+* 【2024-04-07】[hyprwm / hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 * 【2024-04-06】[araujo88 / important-algorithms](https://github.com/araujo88/important-algorithms) - A list of important algorithms to study
 * 【2024-04-06】[projectM-visualizer / projectm](https://github.com/projectM-visualizer/projectm) - projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
 * 【2024-04-06】[stack-of-tasks / pinocchio](https://github.com/stack-of-tasks/pinocchio) - A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives
@@ -3410,6 +3422,8 @@
 
 ## C#
 
+* 【2024-04-07】[zoriya / Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
+* 【2024-04-07】[stanuwu / PixelGun3DPCCheat](https://github.com/stanuwu/PixelGun3DPCCheat) - Cheat for Pixel Gun 3D PC
 * 【2024-04-05】[MochiesCode / Mochies-Unity-Shaders](https://github.com/MochiesCode/Mochies-Unity-Shaders) - 
 * 【2024-04-05】[p0dalirius / LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
 * 【2024-04-04】[MaxWasUnavailable / Virality](https://github.com/MaxWasUnavailable/Virality) - A bigger lobby mod for Content Warning.
@@ -3760,6 +3774,7 @@
 
 ## Html
 
+* 【2024-04-07】[RedByte1337 / GraphSpy](https://github.com/RedByte1337/GraphSpy) - Initial Access and Post-Exploitation Tool for AAD and O365 with a browser-based GUI
 * 【2024-04-05】[WICG / dbsc](https://github.com/WICG/dbsc) - 
 * 【2024-04-05】[TIM168 / technical_books](https://github.com/TIM168/technical_books) - 📚🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中♨️
 * 【2024-04-04】[rocketseat-education / nlw-unite-html-css-js](https://github.com/rocketseat-education/nlw-unite-html-css-js) - Aplicação front-end em HTML+CSS+JS desenvolvida durante o NLW Unite da Rocketseat
@@ -4129,6 +4144,7 @@
 
 ## Css
 
+* 【2024-04-07】[techeonn / lifeline-Shradha-kapoor](https://github.com/techeonn/lifeline-Shradha-kapoor) - 
 * 【2024-04-06】[CyanVoxel / Obsidian-Colored-Sidebar](https://github.com/CyanVoxel/Obsidian-Colored-Sidebar) - A Colored Sidebar CSS Snippet for Obsidian.
 * 【2024-04-06】[Miderson / 3c_Sexta](https://github.com/Miderson/3c_Sexta) - 
 * 【2024-04-06】[itscodenation / int-u4l6-23-24-student-exercises](https://github.com/itscodenation/int-u4l6-23-24-student-exercises) - 
@@ -4693,6 +4709,12 @@
 
 ## Unknown
 
+* 【2024-04-07】[krishnaik06 / AI-Engineer-Roadmap-2024](https://github.com/krishnaik06/AI-Engineer-Roadmap-2024) - 
+* 【2024-04-07】[Hakhka / kakaakak](https://github.com/Hakhka/kakaakak) - 
+* 【2024-04-07】[nera-nikolayeva / Rainbow6s](https://github.com/nera-nikolayeva/Rainbow6s) - PASS - 1234
+* 【2024-04-07】[LAbroski234 / labroe4432](https://github.com/LAbroski234/labroe4432) - 
+* 【2024-04-07】[OpenBMB / Eurus](https://github.com/OpenBMB/Eurus) - 
+* 【2024-04-07】[xioacd99 / study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource
 * 【2024-04-05】[Leymore / ruozhiba](https://github.com/Leymore/ruozhiba) - 
 * 【2024-04-05】[DataTalksClub / llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp - a free online course about building an AI bot that can answer questions about your knowledge base
 * 【2024-04-05】[solddead / V1.4M](https://github.com/solddead/V1.4M) - 
