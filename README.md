@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2024-04-10】[karpathy / llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
+* 【2024-04-10】[miurla / morphic](https://github.com/miurla/morphic) - An AI-powered answer engine with a generative UI
+* 【2024-04-10】[datawhalechina / self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
 * 【2024-04-09】[drawdb-io / drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 * 【2024-04-08】[andreasfertig / cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 * 【2024-04-07】[cloudflare / orange](https://github.com/cloudflare/orange) - 
@@ -977,6 +980,7 @@
 
 ## Java
 
+* 【2024-04-10】[datastrato / gravitino](https://github.com/datastrato/gravitino) - World's most powerful data catalog service with providing a high-performance, geo-distributed and federated metadata lake.
 * 【2024-04-09】[Gayanukaa / Spring-Boot-Playground](https://github.com/Gayanukaa/Spring-Boot-Playground) - Self-Learn and Testing Environment
 * 【2024-04-07】[rkkr / simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 * 【2024-04-05】[querydsl / querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
@@ -1241,6 +1245,10 @@
 
 ## Python
 
+* 【2024-04-10】[LlamaFamily / Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
+* 【2024-04-10】[jmerle / imc-prosperity-2-backtester](https://github.com/jmerle/imc-prosperity-2-backtester) - Backtester for IMC Prosperity 2 algorithms
+* 【2024-04-10】[Filimoa / open-parse](https://github.com/Filimoa/open-parse) - Improved file parsing for LLM’s
+* 【2024-04-10】[blasty / JiaTansSSHAgent](https://github.com/blasty/JiaTansSSHAgent) - 
 * 【2024-04-09】[Vision-CAIR / MiniGPT4-video](https://github.com/Vision-CAIR/MiniGPT4-video) - 
 * 【2024-04-09】[AiGptCode / Iphone-14-15-IRAN-Anten](https://github.com/AiGptCode/Iphone-14-15-IRAN-Anten) - آموزش رایگان و دائمی فعال‌سازی آنتن در آیفون ۱۴ و ۱۵ بدون ردگیری و بسته شدن با دو روش مختلف، به همراه سورس کد و فایل ساخت UUID یکتا
 * 【2024-04-08】[Libr-AI / OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification) - Open-source solution designed to automate the process of verifying factuality
@@ -2017,6 +2025,7 @@
 
 ## Javascript
 
+* 【2024-04-10】[camwiegert / typical](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
 * 【2024-04-09】[stackframe-projects / pgmock](https://github.com/stackframe-projects/pgmock) - In-memory Postgres for unit/E2E tests
 * 【2024-04-09】[alexpinel / Dot](https://github.com/alexpinel/Dot) - Standalone app for fully local RAG with Mistral 7B
 * 【2024-04-09】[langflow-ai / langflow](https://github.com/langflow-ai/langflow) - ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
@@ -2461,6 +2470,7 @@
 
 ## Go
 
+* 【2024-04-10】[flipt-io / reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
 * 【2024-04-06】[RiemaLabs / modular-indexer-light](https://github.com/RiemaLabs/modular-indexer-light) - A fully user-verified execution layer for Bitcoin's meta-protocols. (light indexer)
 * 【2024-04-05】[kube-vip / kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
 * 【2024-04-05】[AlexanderGrom / go-patterns](https://github.com/AlexanderGrom/go-patterns) - Design patterns in Golang
@@ -2764,6 +2774,7 @@
 
 ## C
 
+* 【2024-04-10】[bb-qq / r8152](https://github.com/bb-qq/r8152) - Synology DSM driver for Realtek RTL8152/RTL8153/RTL8156 based adapters
 * 【2024-04-09】[migueletto / PumpkinOS](https://github.com/migueletto/PumpkinOS) - PumpkinOS is a re-implementation of PalmOS.
 * 【2024-04-09】[FascinatedBox / bonk](https://github.com/FascinatedBox/bonk) - X11 window management toolkit
 * 【2024-04-08】[BasedHardware / Friend](https://github.com/BasedHardware/Friend) - AI wearable with 24h+ battery
@@ -3137,6 +3148,7 @@
 
 ## C++
 
+* 【2024-04-10】[GothenburgBitFactory / taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 * 【2024-04-08】[zk-Call / zkp-hmac-communication-cpp](https://github.com/zk-Call/zkp-hmac-communication-cpp) - "Zero-Knowledge" Proof Implementation with HMAC Communication in C++
 * 【2024-04-08】[PacktPublishing / C-High-Performance-for-Financial-Systems-](https://github.com/PacktPublishing/C-High-Performance-for-Financial-Systems-) - 
 * 【2024-04-07】[hyprwm / hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
@@ -3437,6 +3449,8 @@
 
 ## C#
 
+* 【2024-04-10】[blake502 / balatro-apk-maker](https://github.com/blake502/balatro-apk-maker) - Create a Balatro APK from your Steam version of Balatro
+* 【2024-04-10】[amantinband / error-or](https://github.com/amantinband/error-or) - A simple, fluent discriminated union of an error or a result.
 * 【2024-04-09】[ricardojoserf / NativeDump](https://github.com/ricardojoserf/NativeDump) - Dump lsass using only Native APIs by hand-crafting Minidump files (without MinidumpWriteDump!)
 * 【2024-04-09】[belav / csharpier](https://github.com/belav/csharpier) - CSharpier is an opinionated code formatter for c#.
 * 【2024-04-07】[zoriya / Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -3791,6 +3805,10 @@
 
 ## Html
 
+* 【2024-04-10】[microsoft / BotFramework-WebChat](https://github.com/microsoft/BotFramework-WebChat) - A highly-customizable web-based client for Azure Bot Services.
+* 【2024-04-10】[xvvvyz / tilde](https://github.com/xvvvyz/tilde) - Minimal browser startpage.
+* 【2024-04-10】[alura-challenges / challenge-one-portfolio-br](https://github.com/alura-challenges/challenge-one-portfolio-br) - Repositorio Base para desenvolvimento do Desafio 1 Crie seu próprio Portfólio do Challenge ONE Front end
+* 【2024-04-10】[sunaku / glove80-keymaps](https://github.com/sunaku/glove80-keymaps) - "Glorious Engrammer" keymap for Glove80 keyboard
 * 【2024-04-09】[perfildodev / projetosdoperfil](https://github.com/perfildodev/projetosdoperfil) - Projetos de autoria do perfil do dev para os nossos seguidores. Abraços do ADM
 * 【2024-04-09】[tennc / fuzzdb](https://github.com/tennc/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 * 【2024-04-08】[iofeqkurrc42 / jetbra-server-go](https://github.com/iofeqkurrc42/jetbra-server-go) - 
@@ -4168,6 +4186,11 @@
 
 ## Css
 
+* 【2024-04-10】[parthwebdev / UI-Components](https://github.com/parthwebdev/UI-Components) - Some Awesome UI Components made with HTML, CSS and JavaScript.
+* 【2024-04-10】[kpman / blog](https://github.com/kpman/blog) - Personal blog powered by Next.js
+* 【2024-04-10】[MuriithiEric / plp-task-management](https://github.com/MuriithiEric/plp-task-management) - 
+* 【2024-04-10】[TheBridge-FullStackDeveloper / redux-task](https://github.com/TheBridge-FullStackDeveloper/redux-task) - 
+* 【2024-04-10】[apache / dubbo-website](https://github.com/apache/dubbo-website) - Apache Dubbo documents
 * 【2024-04-09】[piyushsachdeva / 10weeksofcloudops](https://github.com/piyushsachdeva/10weeksofcloudops) - 
 * 【2024-04-09】[TheBridge-FullStackDeveloper / hooks](https://github.com/TheBridge-FullStackDeveloper/hooks) - 
 * 【2024-04-09】[iamstevendao / vue-tel-input](https://github.com/iamstevendao/vue-tel-input) - International Telephone Input with Vue
@@ -4738,6 +4761,8 @@
 
 ## Unknown
 
+* 【2024-04-10】[trusted-point / 0g-tools](https://github.com/trusted-point/0g-tools) - 0G Validator Guide
+* 【2024-04-10】[ddz16 / TSFpaper](https://github.com/ddz16/TSFpaper) - This repository contains a reading list of papers on Time Series Forecasting/Prediction (TSF) and Spatio-Temporal Forecasting/Prediction (STF). These papers are mainly categorized according to the type of model.
 * 【2024-04-09】[netsecfish / dlink](https://github.com/netsecfish/dlink) - 
 * 【2024-04-09】[plausible / community-edition](https://github.com/plausible/community-edition) - Example docker-compose setups for hosting Plausible Community Edition
 * 【2024-04-08】[anu0012 / awesome-computer-science-opportunities](https://github.com/anu0012/awesome-computer-science-opportunities) - An awesome list of events and fellowship opportunities for Computer Science students
