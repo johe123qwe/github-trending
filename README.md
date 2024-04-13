@@ -9,6 +9,11 @@
 
 ## All language
 
+* 【2024-04-13】[eknkc / ssr-benchmark](https://github.com/eknkc/ssr-benchmark) - 
+* 【2024-04-13】[itsmattkc / dotnet9x](https://github.com/itsmattkc/dotnet9x) - Backport of .NET 2.0 - 3.5 to Windows 9x
+* 【2024-04-13】[Azure / Copilot-For-Security](https://github.com/Azure/Copilot-For-Security) - Microsoft Copilot for Security is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles
+* 【2024-04-13】[saasfly / saasfly](https://github.com/saasfly/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
+* 【2024-04-13】[BITNP / BIThesis](https://github.com/BITNP/BIThesis) - 📖 北京理工大学非官方 LaTeX 模板集合，包含本科、研究生毕业设计模板及更多。🎉 （更多文档请访问 wiki 和 release 中的手册）
 * 【2024-04-12】[YuriiCrimson / ExploitGSM](https://github.com/YuriiCrimson/ExploitGSM) - Exploit for 6.4 - 6.5 kernels and another exploit for 5.15 - 6.5
 * 【2024-04-12】[google-gemini / cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API.
 * 【2024-04-12】[PKU-YuanGroup / MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators
@@ -987,6 +992,7 @@
 
 ## Java
 
+* 【2024-04-13】[apache / hertzbeat](https://github.com/apache/hertzbeat) - HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 * 【2024-04-10】[datastrato / gravitino](https://github.com/datastrato/gravitino) - World's most powerful data catalog service with providing a high-performance, geo-distributed and federated metadata lake.
 * 【2024-04-09】[Gayanukaa / Spring-Boot-Playground](https://github.com/Gayanukaa/Spring-Boot-Playground) - Self-Learn and Testing Environment
 * 【2024-04-07】[rkkr / simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
@@ -1252,6 +1258,8 @@
 
 ## Python
 
+* 【2024-04-13】[huggingface / dataspeech](https://github.com/huggingface/dataspeech) - 
+* 【2024-04-13】[VRSEN / agency-swarm-lab](https://github.com/VRSEN/agency-swarm-lab) - 
 * 【2024-04-12】[google-deepmind / recurrentgemma](https://github.com/google-deepmind/recurrentgemma) - Open weights language model from Google DeepMind, based on Griffin.
 * 【2024-04-12】[AIRI-Institute / OmniFusion](https://github.com/AIRI-Institute/OmniFusion) - OmniFusion — a multimodal model to communicate using text and images
 * 【2024-04-12】[huggingface / parler-tts](https://github.com/huggingface/parler-tts) - Inference and training library for high-quality TTS models.
@@ -2037,6 +2045,8 @@
 
 ## Javascript
 
+* 【2024-04-13】[leibnizli / hummingbird](https://github.com/leibnizli/hummingbird) - A compression (jpg/png/webp/svg/gif/css/js/html/mp4/mov) App, it can convert different format pictures, support for macOS and Windows.
+* 【2024-04-13】[safak / react-firebase-chat](https://github.com/safak/react-firebase-chat) - 
 * 【2024-04-12】[apachecn / rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) - 
 * 【2024-04-12】[nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 * 【2024-04-12】[dai-shi / use-signals](https://github.com/dai-shi/use-signals) - An experimental React hook for TC39 signals
@@ -3826,6 +3836,7 @@
 
 ## Html
 
+* 【2024-04-13】[stanford-oval / storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 * 【2024-04-12】[ClickHouse / adsb.exposed](https://github.com/ClickHouse/adsb.exposed) - Interactive visualization and analytics on ADS-B data with ClickHouse
 * 【2024-04-12】[Qadeer0937 / Dead-By-Daylight-Extrnl](https://github.com/Qadeer0937/Dead-By-Daylight-Extrnl) - for youtube video
 * 【2024-04-12】[Ben00000000 / Working-Hwid-Spoofer](https://github.com/Ben00000000/Working-Hwid-Spoofer) - 
@@ -4212,6 +4223,8 @@
 
 ## Css
 
+* 【2024-04-13】[rodolfomori / dev-previsao](https://github.com/rodolfomori/dev-previsao) - 
+* 【2024-04-13】[TheBridge-FullStackDeveloper / gitData](https://github.com/TheBridge-FullStackDeveloper/gitData) - 
 * 【2024-04-12】[github-copilot-workshop / copilot-petclinic](https://github.com/github-copilot-workshop/copilot-petclinic) - 
 * 【2024-04-12】[ShreyNaithani / Movavi-Free-Crack](https://github.com/ShreyNaithani/Movavi-Free-Crack) - 
 * 【2024-04-12】[ISM6225 / Assignment_LookAndFeel](https://github.com/ISM6225/Assignment_LookAndFeel) - 
@@ -4792,6 +4805,12 @@
 
 ## Unknown
 
+* 【2024-04-13】[Abhay5855 / Mission-frontend](https://github.com/Abhay5855/Mission-frontend) - A curated list of Javascript, React, Machine coding problems, Pattern questions, basic backend knowledge and fundamentals questions all in one.
+* 【2024-04-13】[SamurAIGPT / Best-AI-Agents](https://github.com/SamurAIGPT/Best-AI-Agents) - A list of top AI agents
+* 【2024-04-13】[DEBAGanov / interview_questions](https://github.com/DEBAGanov/interview_questions) - Java Developer Interview Preparation Materials
+* 【2024-04-13】[tldrsec / awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) - Awesome secure by default libraries to help you eliminate bug classes!
+* 【2024-04-13】[spocky / miproja1](https://github.com/spocky/miproja1) - 
+* 【2024-04-13】[dinaashraf20003 / Software-Internship-Guide](https://github.com/dinaashraf20003/Software-Internship-Guide) - Software Internship Guide for Egyptian Undergraduates
 * 【2024-04-12】[WUYANXIUSHI / BLACK_NEWS](https://github.com/WUYANXIUSHI/BLACK_NEWS) - 北京邮电大学郑凤事件完整pdf
 * 【2024-04-12】[Edr4 / XSS-Bypass-Filters](https://github.com/Edr4/XSS-Bypass-Filters) - 
 * 【2024-04-12】[eric-ai-lab / swap-anything](https://github.com/eric-ai-lab/swap-anything) - 
