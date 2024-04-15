@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2024-04-15】[tonyke-bot / ore-miner](https://github.com/tonyke-bot/ore-miner) - ORE Miner built on top of Jito bundle with both CPU and GPU support.
+* 【2024-04-15】[jina-ai / reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
+* 【2024-04-15】[hydralauncher / hydra](https://github.com/hydralauncher/hydra) - Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.
 * 【2024-04-14】[openai / simple-evals](https://github.com/openai/simple-evals) - 
 * 【2024-04-14】[datawhalechina / llm-universe](https://github.com/datawhalechina/llm-universe) - 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/
 * 【2024-04-13】[eknkc / ssr-benchmark](https://github.com/eknkc/ssr-benchmark) - 
@@ -994,6 +997,7 @@
 
 ## Java
 
+* 【2024-04-15】[Hafthor / zsvutil](https://github.com/Hafthor/zsvutil) - ZSV Utility for converting csv/tsv to/from zip-separated-values
 * 【2024-04-14】[hebian1994 / cloud2024](https://github.com/hebian1994/cloud2024) - 
 * 【2024-04-14】[uncle-novel / uncle-novel](https://github.com/uncle-novel/uncle-novel) - 📖 Uncle小说，PC版，一个全网小说下载器及阅读器，目录解析与书源结合，支持有声小说与文本小说，可下载mobi、epub、txt格式文本小说。
 * 【2024-04-13】[apache / hertzbeat](https://github.com/apache/hertzbeat) - HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
@@ -1262,6 +1266,8 @@
 
 ## Python
 
+* 【2024-04-15】[TencentARC / InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models
+* 【2024-04-15】[wligithub / tax-tool](https://github.com/wligithub/tax-tool) - Automated Personal Tax Preparing Tool for VMW-AVGO Merger
 * 【2024-04-14】[OpenBMB / MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities
 * 【2024-04-14】[chengaopan / AutoMergePublicNodes](https://github.com/chengaopan/AutoMergePublicNodes) - 自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子
 * 【2024-04-13】[huggingface / dataspeech](https://github.com/huggingface/dataspeech) - 
@@ -2051,6 +2057,8 @@
 
 ## Javascript
 
+* 【2024-04-15】[Oligard008 / Pancakeswap-Bot](https://github.com/Oligard008/Pancakeswap-Bot) - Bot for PancakeSwap Prediction – 30technical indicators. Multichain with MetaMask
+* 【2024-04-15】[NaishengZhang / blog](https://github.com/NaishengZhang/blog) - Blog Platform Using Spring Boot
 * 【2024-04-14】[gezhaoyou / picprose](https://github.com/gezhaoyou/picprose) - PicProse is a better cover image generator tool for Medium, YouTube, BiliBili, Blog and many others
 * 【2024-04-14】[adrianhajdin / aora](https://github.com/adrianhajdin/aora) - Build your first mobile application
 * 【2024-04-14】[eidam / cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
@@ -2504,6 +2512,10 @@
 
 ## Go
 
+* 【2024-04-15】[Simple-Tracker / qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker) - 一款适用于 qBittorrent/Transmission (Beta) 的客户端屏蔽器, 默认屏蔽包括但不限于迅雷 (XunLei/XL0012) 等客户端. A client blocker compatible with qBittorrent/Transmission (Beta) which is prohibited to include but not limited to clients such as Xunlei.
+* 【2024-04-15】[k8snetworkplumbingwg / multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes
+* 【2024-04-15】[Kethsar / ytarchive](https://github.com/Kethsar/ytarchive) - Garbage Youtube livestream downloader
+* 【2024-04-15】[IceBearAI / LLM-And-More](https://github.com/IceBearAI/LLM-And-More) - LLM-And-More is a professional, plug-and-play, llm trainer and application builder that guides you through the complete LLM workflow from data to evaluation, from training to deployment, from idea to sevice. / LLM-And-More 是一个专业、开箱即用的大模型训练及应用构建一站式解决方案，包含从数据到评估、从训练到部署、从想法到服务的全流程最佳实践。
 * 【2024-04-14】[FyshOS / fynedesk](https://github.com/FyshOS/fynedesk) - A full desktop environment for Linux/Unix using Fyne
 * 【2024-04-11】[dolthub / go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 * 【2024-04-10】[flipt-io / reverst](https://github.com/flipt-io/reverst) - Reverse Tunnels in Go over HTTP/3 and QUIC
@@ -4236,6 +4248,10 @@
 
 ## Css
 
+* 【2024-04-15】[TheBridge-FullStackDeveloper / colors](https://github.com/TheBridge-FullStackDeveloper/colors) - 
+* 【2024-04-15】[edudark1000 / Veteran-Loader-70-Games-Supported](https://github.com/edudark1000/Veteran-Loader-70-Games-Supported) - 
+* 【2024-04-15】[FQQD / MCServer-Web-Template](https://github.com/FQQD/MCServer-Web-Template) - A template for a modern looking website to promote your Minecraft server
+* 【2024-04-15】[JunaidShamnad / SignIn-SignUp-Form](https://github.com/JunaidShamnad/SignIn-SignUp-Form) - Responsive Login & Registration Form Using HTML & CSS & JS .Sliding Sign In & Sign Up Form
 * 【2024-04-14】[mahfuz0001 / onyxium-sass](https://github.com/mahfuz0001/onyxium-sass) - Become more active with our psychologist AI
 * 【2024-04-14】[pyOpenSci / python-package-guide](https://github.com/pyOpenSci/python-package-guide) - scientific Python package recommendations & guidance curated by pyOpenSci
 * 【2024-04-14】[10-5-pursuit / lab-react-state-objects](https://github.com/10-5-pursuit/lab-react-state-objects) - 
@@ -4821,6 +4837,8 @@
 
 ## Unknown
 
+* 【2024-04-15】[jeffreycayao / pinginfoview](https://github.com/jeffreycayao/pinginfoview) - PingInfoView is a small utility that allows you to easily ping multiple host names and IP addresses, and watch the result in one table. It automatically ping to all hosts every number of seconds that you specify, and displays the number of succeed and failed pings, as well as the average ping time. You can also save the ping result into text/htm…
+* 【2024-04-15】[hujingguang / ChinaIPTV](https://github.com/hujingguang/ChinaIPTV) - 中国电视直播源 cnTV m3u（实时更新,长期有效）
 * 【2024-04-14】[microsoft / rho](https://github.com/microsoft/rho) - Repo for Rho-1: Token-level Data Selection & Selective Pretraining of LLMs.
 * 【2024-04-14】[henry123-boy / SpaTracker](https://github.com/henry123-boy/SpaTracker) - 
 * 【2024-04-13】[Abhay5855 / Mission-frontend](https://github.com/Abhay5855/Mission-frontend) - A curated list of Javascript, React, Machine coding problems, Pattern questions, basic backend knowledge and fundamentals questions all in one.
