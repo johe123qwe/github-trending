@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2024-04-18】[Julien-cpsn / ATAC](https://github.com/Julien-cpsn/ATAC) - A simple API client (postman like) in your terminal
+* 【2024-04-18】[kevinbentley / Descent3](https://github.com/kevinbentley/Descent3) - Descent 3 by Outrage Entertainment
+* 【2024-04-18】[figma / code-connect](https://github.com/figma/code-connect) - A tool for connecting your design system components in code with your design system in Figma
 * 【2024-04-17】[BenjaSOL / ore-cli-gpu](https://github.com/BenjaSOL/ore-cli-gpu) - 
 * 【2024-04-17】[Dhravya / supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
 * 【2024-04-17】[elastic / otel-profiling-agent](https://github.com/elastic/otel-profiling-agent) - The production-scale datacenter profiler
@@ -1003,6 +1006,7 @@
 
 ## Java
 
+* 【2024-04-18】[redis / lettuce](https://github.com/redis/lettuce) - Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
 * 【2024-04-17】[apache / mina-sshd](https://github.com/apache/mina-sshd) - Apache MINA sshd is a comprehensive Java library for client- and server-side SSH.
 * 【2024-04-16】[MohamedMetwalli5 / LeetCode-Solutions](https://github.com/MohamedMetwalli5/LeetCode-Solutions) - ✅🟨 These solutions are designed specifically for beginners on LeetCode, addressing many problems using code and animations. They will be continuously updated to facilitate better understanding for beginners.
 * 【2024-04-15】[Hafthor / zsvutil](https://github.com/Hafthor/zsvutil) - ZSV Utility for converting csv/tsv to/from zip-separated-values
@@ -1274,6 +1278,8 @@
 
 ## Python
 
+* 【2024-04-18】[pytorch / torchtune](https://github.com/pytorch/torchtune) - A Native-PyTorch Library for LLM Fine-tuning
+* 【2024-04-18】[truefoundry / cognita](https://github.com/truefoundry/cognita) - Cognita by TrueFoundry - Framework for building modular, open source RAG applications for production.
 * 【2024-04-17】[xlang-ai / OSWorld](https://github.com/xlang-ai/OSWorld) - OSWorld: A unified, real computer environment for multimodal agents to evaluate open-ended computer tasks involving arbitrary apps and interfaces on Ubuntu, Windows, and macOS
 * 【2024-04-17】[cognitivecomputations / github2file](https://github.com/cognitivecomputations/github2file) - 
 * 【2024-04-17】[hudson-and-thames / arbitragelab](https://github.com/hudson-and-thames/arbitragelab) - ArbitrageLab is a python library that enables traders who want to exploit mean-reverting portfolios by providing a complete set of algorithms from the best academic journals.
@@ -2072,6 +2078,9 @@
 
 ## Javascript
 
+* 【2024-04-18】[fatwang2 / coze2openai](https://github.com/fatwang2/coze2openai) - Turn Coze API into OpenAI
+* 【2024-04-18】[bpc-clone / bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters) - 
+* 【2024-04-18】[rastapasta / mapscii](https://github.com/rastapasta/mapscii) - 🗺 MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
 * 【2024-04-16】[Bistutu / FluentRead](https://github.com/Bistutu/FluentRead) - 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。
 * 【2024-04-15】[Oligard008 / Pancakeswap-Bot](https://github.com/Oligard008/Pancakeswap-Bot) - Bot for PancakeSwap Prediction – 30technical indicators. Multichain with MetaMask
 * 【2024-04-15】[NaishengZhang / blog](https://github.com/NaishengZhang/blog) - Blog Platform Using Spring Boot
@@ -2528,6 +2537,7 @@
 
 ## Go
 
+* 【2024-04-18】[omni-network / omni](https://github.com/omni-network/omni) - Monorepo for Omni node, contracts and other related tools
 * 【2024-04-16】[nalgeon / redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 * 【2024-04-15】[Simple-Tracker / qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker) - 一款适用于 qBittorrent/Transmission (Beta) 的客户端屏蔽器, 默认屏蔽包括但不限于迅雷 (XunLei/XL0012) 等客户端. A client blocker compatible with qBittorrent/Transmission (Beta) which is prohibited to include but not limited to clients such as Xunlei.
 * 【2024-04-15】[k8snetworkplumbingwg / multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes
@@ -2839,6 +2849,7 @@
 
 ## C
 
+* 【2024-04-18】[hakaioffsec / CVE-2024-21338](https://github.com/hakaioffsec/CVE-2024-21338) - Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled.
 * 【2024-04-17】[Thehepta / androidGRPC](https://github.com/Thehepta/androidGRPC) - 
 * 【2024-04-16】[DosX-dev / obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation (tcc, win x86/x64)
 * 【2024-04-16】[HypoPG / hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
@@ -4272,6 +4283,10 @@
 
 ## Css
 
+* 【2024-04-18】[itscodenation / flw1-u4l2-23-24-student-exercises](https://github.com/itscodenation/flw1-u4l2-23-24-student-exercises) - 
+* 【2024-04-18】[TheBridge-FullStackDeveloper / front-join](https://github.com/TheBridge-FullStackDeveloper/front-join) - 
+* 【2024-04-18】[CodeSpace-Academy / SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11](https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11) - 
+* 【2024-04-18】[RelicInc / react-todo-app-training](https://github.com/RelicInc/react-todo-app-training) - 
 * 【2024-04-17】[soulhotel / FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - Native Vertical Tabs, keep your sidebar, no extensions needed. No overthinking. a 100% CSS Theme. FF Ultima.
 * 【2024-04-17】[LondheShubham153 / tws-portfolio](https://github.com/LondheShubham153/tws-portfolio) - 
 * 【2024-04-17】[Gurupatil0003 / Learn-Ed](https://github.com/Gurupatil0003/Learn-Ed) - 
@@ -4868,6 +4883,12 @@
 
 ## Unknown
 
+* 【2024-04-18】[CryingMan666 / eternal-nodes](https://github.com/CryingMan666/eternal-nodes) - 👇 手机往下滑 📱 一个能每天自动生成高速机场的小站
+* 【2024-04-18】[SoilZhu / CookLikeHOC](https://github.com/SoilZhu/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+* 【2024-04-18】[milanm / azure-cheat-sheet](https://github.com/milanm/azure-cheat-sheet) - Every product, feature and service in the Azure family.
+* 【2024-04-18】[ton-society / ecosystem-map](https://github.com/ton-society/ecosystem-map) - TON Ecosystem Map
+* 【2024-04-18】[elicit / machine-learning-list](https://github.com/elicit/machine-learning-list) - 
+* 【2024-04-18】[bilal414 / backupsheep](https://github.com/bilal414/backupsheep) - Automating backups is costly and takes time. With BackupSheep, you can quickly automate server snapshots and offsite backups - without writing code.
 * 【2024-04-17】[LLMBook-zh / LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 * 【2024-04-17】[DKWDRV / DKWDRV](https://github.com/DKWDRV/DKWDRV) - 
 * 【2024-04-16】[cqcore / Fact-Checking-Verification](https://github.com/cqcore/Fact-Checking-Verification) - Find helpful tools and resources to help you fact check and analyse, fake news and AI generated imagery.
