@@ -2092,6 +2092,7 @@
 
 ## Javascript
 
+* 【2024-04-20】[UseInterstellar / Interstellar](https://github.com/UseInterstellar/Interstellar) - One of the most popular modern web proxies with blazing fast speeds and a variety of games.
 * 【2024-04-19】[facebook / react-native-website](https://github.com/facebook/react-native-website) - The React Native website and docs
 * 【2024-04-18】[fatwang2 / coze2openai](https://github.com/fatwang2/coze2openai) - Turn Coze API into OpenAI
 * 【2024-04-18】[bpc-clone / bypass-paywalls-clean-filters](https://github.com/bpc-clone/bypass-paywalls-clean-filters) - 
