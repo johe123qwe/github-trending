@@ -9,6 +9,11 @@
 
 ## All language
 
+* 【2024-04-20】[meta-llama / llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
+* 【2024-04-20】[code100x / chess](https://github.com/code100x/chess) - A multiplayer chess platform similar to https://chess.com/
+* 【2024-04-20】[meta-llama / llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger
+* 【2024-04-20】[timpaul / form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - 
+* 【2024-04-20】[harperreed / photo-similarity-search](https://github.com/harperreed/photo-similarity-search) - Super simple MLX (apple silicon) CLIP based photo similarity web app
 * 【2024-04-19】[rileytestut / Delta](https://github.com/rileytestut/Delta) - Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.
 * 【2024-04-19】[meta-llama / PurpleLlama](https://github.com/meta-llama/PurpleLlama) - Set of tools to assess and improve LLM security.
 * 【2024-04-19】[WINSDK / bite](https://github.com/WINSDK/bite) - Disassembler focused on comprehensive rust support.
@@ -1287,6 +1292,10 @@
 
 ## Python
 
+* 【2024-04-20】[Upsonic / Tiger](https://github.com/Upsonic/Tiger) - Neuralink for your AI Agents
+* 【2024-04-20】[facebookresearch / generative-recommenders](https://github.com/facebookresearch/generative-recommenders) - Repository hosting code used to reproduce results in "Actions Speak Louder than Words Trillion-Parameter Sequential Transducers for Generative Recommendations" (https://arxiv.org/abs/2402.17152).
+* 【2024-04-20】[QwenLM / CodeQwen1.5](https://github.com/QwenLM/CodeQwen1.5) - CodeQwen1.5 is the code version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.
+* 【2024-04-20】[theowni / Damn-Vulnerable-RESTaurant-API-Game](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game) - Damn Vulnerable Restaurant is an intentionally vulnerable Web API game for learning and training purposes dedicated to developers, ethical hackers and security engineers.
 * 【2024-04-19】[mistralai / mistral-common](https://github.com/mistralai/mistral-common) - 
 * 【2024-04-19】[binarly-io / binary-risk-intelligence](https://github.com/binarly-io/binary-risk-intelligence) - Binary Risk Intelligence
 * 【2024-04-19】[meta-llama / llama](https://github.com/meta-llama/llama) - Inference code for Llama models
@@ -2092,6 +2101,9 @@
 
 ## Javascript
 
+* 【2024-04-20】[replicate / llama-chat](https://github.com/replicate/llama-chat) - A boilerplate for creating a Llama 3 chat app
+* 【2024-04-20】[Arun020 / Jarvis-AI](https://github.com/Arun020/Jarvis-AI) - A small virtual Assistant
+* 【2024-04-20】[archtaurus / RetroPieBIOS](https://github.com/archtaurus/RetroPieBIOS) - Full BIOS collection for RetroPie
 * 【2024-04-20】[UseInterstellar / Interstellar](https://github.com/UseInterstellar/Interstellar) - One of the most popular modern web proxies with blazing fast speeds and a variety of games.
 * 【2024-04-19】[facebook / react-native-website](https://github.com/facebook/react-native-website) - The React Native website and docs
 * 【2024-04-18】[fatwang2 / coze2openai](https://github.com/fatwang2/coze2openai) - Turn Coze API into OpenAI
@@ -2553,6 +2565,8 @@
 
 ## Go
 
+* 【2024-04-20】[marco-liberale / PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2-less RAT
+* 【2024-04-20】[danvergara / morphos](https://github.com/danvergara/morphos) - Self-hosted file converter server
 * 【2024-04-18】[omni-network / omni](https://github.com/omni-network/omni) - Monorepo for Omni node, contracts and other related tools
 * 【2024-04-16】[nalgeon / redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 * 【2024-04-15】[Simple-Tracker / qBittorrent-ClientBlocker](https://github.com/Simple-Tracker/qBittorrent-ClientBlocker) - 一款适用于 qBittorrent/Transmission (Beta) 的客户端屏蔽器, 默认屏蔽包括但不限于迅雷 (XunLei/XL0012) 等客户端. A client blocker compatible with qBittorrent/Transmission (Beta) which is prohibited to include but not limited to clients such as Xunlei.
@@ -2865,6 +2879,8 @@
 
 ## C
 
+* 【2024-04-20】[loopj / short-stack](https://github.com/loopj/short-stack) - World's Smallest Nintendo Wii, using a trimmed motherboard and custom stacked PCBs
+* 【2024-04-20】[yoshisuga / MAME4iOS](https://github.com/yoshisuga/MAME4iOS) - Multiple Arcade Machine Emulator for iOS, iPadOS, tvOS, macOS (Catalyst)
 * 【2024-04-19】[antirez / zx2040](https://github.com/antirez/zx2040) - RP2040 ZX Spectrum emulator
 * 【2024-04-19】[Nero22k / Exploits](https://github.com/Nero22k/Exploits) - Repo with different exploits & PoCs
 * 【2024-04-18】[hakaioffsec / CVE-2024-21338](https://github.com/hakaioffsec/CVE-2024-21338) - Local Privilege Escalation from Admin to Kernel vulnerability on Windows 10 and Windows 11 operating systems with HVCI enabled.
@@ -3247,6 +3263,8 @@
 
 ## C++
 
+* 【2024-04-20】[gottingen / hercules](https://github.com/gottingen/hercules) - aot compiler
+* 【2024-04-20】[AztecProtocol / aztec-packages](https://github.com/AztecProtocol/aztec-packages) - 
 * 【2024-04-19】[EvanMcBroom / lsa-whisperer](https://github.com/EvanMcBroom/lsa-whisperer) - Tools for interacting with authentication packages using their individual message protocols
 * 【2024-04-19】[Meowmycks / LetMeowIn](https://github.com/Meowmycks/LetMeowIn) - A sophisticated, covert Windows-based credential dumper using C++ and MASM x64.
 * 【2024-04-17】[CocoaBob / GBA4iOS](https://github.com/CocoaBob/GBA4iOS) - A fork of https://bitbucket.org/rileytestut/gba4ios
@@ -3552,6 +3570,7 @@
 
 ## C#
 
+* 【2024-04-20】[Navi-Studio / Virtual-Human-for-Chatting](https://github.com/Navi-Studio/Virtual-Human-for-Chatting) - Live2D Virtual Human for Chatting based on Unity
 * 【2024-04-19】[dotnet / aspire-samples](https://github.com/dotnet/aspire-samples) - 
 * 【2024-04-17】[leap71 / PicoGK](https://github.com/leap71/PicoGK) - PicoGK is a compact and robust geometry kernel for Computational Engineering
 * 【2024-04-17】[bbradson / Performance-Fish](https://github.com/bbradson/Performance-Fish) - Performance Mod for RimWorld
@@ -4306,6 +4325,8 @@
 
 ## Css
 
+* 【2024-04-20】[munris-vlad / munris.tech](https://github.com/munris-vlad/munris.tech) - 
+* 【2024-04-20】[jckermagoret / jckermagoret.github.com](https://github.com/jckermagoret/jckermagoret.github.com) - Personal Web Site
 * 【2024-04-19】[supabase / auth-js](https://github.com/supabase/auth-js) - An isomorphic Javascript library for Supabase Auth.
 * 【2024-04-19】[paveltocto / chat_nodejs](https://github.com/paveltocto/chat_nodejs) - Chat NodeJs
 * 【2024-04-19】[Jas-SinghFSU / homepage-catppuccin](https://github.com/Jas-SinghFSU/homepage-catppuccin) - 
@@ -4910,6 +4931,10 @@
 
 ## Unknown
 
+* 【2024-04-20】[315386775 / DeepLearing-Interview-Awesome-2024](https://github.com/315386775/DeepLearing-Interview-Awesome-2024) - AIGC-interview/CV-interview/LLMs-interview面试问题与答案集合仓，同时包含工作和科研过程中的新想法、新问题、新资源与新项目
+* 【2024-04-20】[Psmths / windows-forensic-artifacts](https://github.com/Psmths/windows-forensic-artifacts) - Handbook of windows forensic artifacts across multiple Windows version with interpretation tips with some examples. Work in progress!
+* 【2024-04-20】[Aikoyori / ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
+* 【2024-04-20】[tora-in-net / onion-sites-list-2024](https://github.com/tora-in-net/onion-sites-list-2024) - 
 * 【2024-04-19】[ronakganatra / awesome-marketing](https://github.com/ronakganatra/awesome-marketing) - A living document of hand-picked resources for marketers.
 * 【2024-04-19】[Cisco-Talos / IOCs](https://github.com/Cisco-Talos/IOCs) - Indicators of Compromise
 * 【2024-04-19】[nodelrd / ChatGPT-Next-Web-PLUS](https://github.com/nodelrd/ChatGPT-Next-Web-PLUS) - 基于chatgpt-next-web 增强版本，后台管理，接入知识库等。将按需持续接入midjourney绘画功能，接入了stable-diffusion，支持oss，支持dall-e-3、gpt-4-vision-preview、whisper、tts，支持gpt-4-all，支持GPTs商店。
