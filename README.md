@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-04-29】[LukeMathWalker / zero-to-production](https://github.com/LukeMathWalker/zero-to-production) - Code for "Zero To Production In Rust", a book on API development using Rust.
 * 【2024-04-28】[pytorch / torchtitan](https://github.com/pytorch/torchtitan) - A native PyTorch Library for large model training
 * 【2024-04-28】[plaintextpackets / netprobe_lite](https://github.com/plaintextpackets/netprobe_lite) - Simple internet performance tester written in Python
 * 【2024-04-27】[adam-maj / tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up
@@ -1044,6 +1045,7 @@
 
 ## Java
 
+* 【2024-04-29】[lgp547 / any-door](https://github.com/lgp547/any-door) - 
 * 【2024-04-28】[BiliRoamingX / BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) - BiliRoamingX integrations and patches powered by ReVanced.
 * 【2024-04-28】[bisq-network / bisq](https://github.com/bisq-network/bisq) - A decentralized bitcoin exchange network
 * 【2024-04-26】[OpenSPG / openspg](https://github.com/OpenSPG/openspg) - OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused representation, 3) kNext SDK(python): LLM-enhanced knowledge construction, reasoning and generation
@@ -1327,6 +1329,7 @@
 
 ## Python
 
+* 【2024-04-29】[autonomousvision / gaussian-opacity-fields](https://github.com/autonomousvision/gaussian-opacity-fields) - Gaussian Opacity Fields for Efficient and Compact Surface Reconstruction in Unbounded Scenes
 * 【2024-04-29】[mbzuai-oryx / LLaVA-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)
 * 【2024-04-29】[sarperavci / GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
 * 【2024-04-28】[pangao1990 / PPX](https://github.com/pangao1990/PPX) - 基于 JavaScript 和 Python，一键生成 macOS 和 Windows 平台客户端应用
@@ -2159,6 +2162,8 @@
 
 ## Javascript
 
+* 【2024-04-29】[ibrahimaitech / IBRAHIM-MD](https://github.com/ibrahimaitech/IBRAHIM-MD) - Black panther md the fastest wabot that helps WhatsApp users to enjoy smooth life
+* 【2024-04-29】[jadehh / TVSpider](https://github.com/jadehh/TVSpider) - 影视和猫影视爬虫仓库
 * 【2024-04-28】[Lunakepio / Mario-Bros.js](https://github.com/Lunakepio/Mario-Bros.js) - A Mario Bros in 3D with React
 * 【2024-04-26】[fatwang2 / search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
 * 【2024-04-25】[0xlau / biliplus](https://github.com/0xlau/biliplus) - 🧩 A Chrome/Edge extension to feel better in bilibili.com
@@ -3663,6 +3668,10 @@
 
 ## C#
 
+* 【2024-04-29】[JakaAmbrus / PlayLink](https://github.com/JakaAmbrus/PlayLink) - .NET API with Clean Architecture and CQRS, featuring advanced testing and a dynamic Angular frontend
+* 【2024-04-29】[Project-PLATEAU / SkylinesPLATEAU](https://github.com/Project-PLATEAU/SkylinesPLATEAU) - 3D都市モデルを都市育成シミュレーションゲーム"Cities:Skylines"にインポートするMOD
+* 【2024-04-29】[bbradson / Fishery](https://github.com/bbradson/Fishery) - Modding Library
+* 【2024-04-29】[MicrosoftDocs / windows-dev-docs](https://github.com/MicrosoftDocs/windows-dev-docs) - Conceptual and overview content for developing Windows apps
 * 【2024-04-28】[Voland163 / TFTV](https://github.com/Voland163/TFTV) - Terror from the Void mod for Phoenix Point
 * 【2024-04-28】[stayintarkov / SIT-Mod-Ports](https://github.com/stayintarkov/SIT-Mod-Ports) - 
 * 【2024-04-26】[ForzaMods / Forza-Mods-AIO](https://github.com/ForzaMods/Forza-Mods-AIO) - Free and open-source FH4 & FH5 mod tool
@@ -4450,6 +4459,10 @@
 
 ## Css
 
+* 【2024-04-29】[technomancy-dev / 00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people!
+* 【2024-04-29】[WinTenDev / ZiziBot-Engine](https://github.com/WinTenDev/ZiziBot-Engine) - 5th Gen ZiziBot Engine
+* 【2024-04-29】[gunners6518 / Netflix-clone](https://github.com/gunners6518/Netflix-clone) - This is a Netflix clone application made with React+TypeScript.
+* 【2024-04-29】[ibm-developer-skills-network / grihf-frontend_capstone_starter_code](https://github.com/ibm-developer-skills-network/grihf-frontend_capstone_starter_code) - frontend_capstone_starter_code
 * 【2024-04-27】[yep / yep.github.io](https://github.com/yep/yep.github.io) - GitHub page
 * 【2024-04-26】[P4ScriptsFivem / pappu-multicharacter](https://github.com/P4ScriptsFivem/pappu-multicharacter) - QBCore Multicharacter And inspired by NoPixel 4.0.
 * 【2024-04-26】[Danmendua / AlBot](https://github.com/Danmendua/AlBot) - 
@@ -5075,6 +5088,8 @@
 
 ## Unknown
 
+* 【2024-04-29】[func25 / go-practical-tips](https://github.com/func25/go-practical-tips) - Go Practical Tips
+* 【2024-04-29】[project-fika / Fika-Documentation](https://github.com/project-fika/Fika-Documentation) - 
 * 【2024-04-28】[ImplFerris / LearnRust](https://github.com/ImplFerris/LearnRust) - Rust Learning Resources
 * 【2024-04-28】[Gar-b-age / CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) - 🥢像老乡鸡🐔那样做饭。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
 * 【2024-04-27】[OdysseusYuan / Mocreak](https://github.com/OdysseusYuan/Mocreak) - 基于 LKY_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
