@@ -1327,6 +1327,8 @@
 
 ## Python
 
+* 【2024-04-29】[mbzuai-oryx / LLaVA-pp](https://github.com/mbzuai-oryx/LLaVA-pp) - 🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)
+* 【2024-04-29】[sarperavci / GoogleRecaptchaBypass](https://github.com/sarperavci/GoogleRecaptchaBypass) - Solve Google reCAPTCHA in less than 5 seconds! 🚀
 * 【2024-04-28】[pangao1990 / PPX](https://github.com/pangao1990/PPX) - 基于 JavaScript 和 Python，一键生成 macOS 和 Windows 平台客户端应用
 * 【2024-04-27】[CrazyBoyM / phi3-Chinese](https://github.com/CrazyBoyM/phi3-Chinese) - Phi3 中文仓库
 * 【2024-04-27】[TagStudioDev / TagStudio](https://github.com/TagStudioDev/TagStudio) - A file and photo management application and system.
