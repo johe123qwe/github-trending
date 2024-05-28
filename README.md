@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2024-05-28】[didi / xiaoju-survey](https://github.com/didi/xiaoju-survey) - 「快速」打造「专属」问卷系统, 让调研「更轻松」
+* 【2024-05-28】[iyaja / llama-fs](https://github.com/iyaja/llama-fs) - A self-organizing file system with llama 3
+* 【2024-05-28】[lihaoyun6 / QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 * 【2024-05-27】[wintermute-cell / ngrrram](https://github.com/wintermute-cell/ngrrram) - A TUI tool to help you type faster and learn new layouts. Includes a free cat.
 * 【2024-05-27】[ccbikai / Sink](https://github.com/ccbikai/Sink) - A Simple / Speedy / Secrue Link Shortener with Analytics, 100% run on Cloudflare.
 * 【2024-05-27】[zakirkun / arsip-gorengan-is](https://github.com/zakirkun/arsip-gorengan-is) - Arsip gorengan full konteks
@@ -1460,6 +1463,11 @@
 
 ## Python
 
+* 【2024-05-28】[lks-ai / anynode](https://github.com/lks-ai/anynode) - A Node for ComfyUI that does what you ask it to do
+* 【2024-05-28】[dbrojas / optlib](https://github.com/dbrojas/optlib) - A library for financial options pricing written in Python.
+* 【2024-05-28】[RUC-NLPIR / FlashRAG](https://github.com/RUC-NLPIR/FlashRAG) - ⚡FlashRAG: A Python Toolkit for Efficient RAG Research
+* 【2024-05-28】[princeton-nlp / SimPO](https://github.com/princeton-nlp/SimPO) - SimPO: Simple Preference Optimization with a Reference-Free Reward
+* 【2024-05-28】[transcriptionstream / transcriptionstream](https://github.com/transcriptionstream/transcriptionstream) - turnkey self-hosted offline transcription and diarization service with llm summary
 * 【2024-05-27】[vb000 / LookOnceToHear](https://github.com/vb000/LookOnceToHear) - A novel human-interaction method for real-time speech extraction on headphones.
 * 【2024-05-27】[talkdai / dialog](https://github.com/talkdai/dialog) - RAG LLM Ops App for easy deployment and testing
 * 【2024-05-26】[shamhi / HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
@@ -2376,6 +2384,9 @@
 
 ## Javascript
 
+* 【2024-05-28】[WasperAI / Wasper](https://github.com/WasperAI/Wasper) - 
+* 【2024-05-28】[frappe / gantt](https://github.com/frappe/gantt) - Open Source Javascript Gantt
+* 【2024-05-28】[Kingjux / Venocyber-md](https://github.com/Kingjux/Venocyber-md) - Introducing Venocyber md bot your personal chuddybuddy md you were looking for this is most powerful Whatsapp chat bot created to ensure your WhatsApp personal requirements you are all in one ✍️👋👋
 * 【2024-05-25】[apple / password-manager-resources](https://github.com/apple/password-manager-resources) - A place for creators and users of password managers to collaborate on resources to make password management better.
 * 【2024-05-24】[github / relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard <time> element.
 * 【2024-05-24】[imputnet / cobalt](https://github.com/imputnet/cobalt) - save what you love
@@ -3246,6 +3257,9 @@
 
 ## C
 
+* 【2024-05-28】[CDSoft / luax](https://github.com/CDSoft/luax) - luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a "compiler" that produces standalone executables from Lua scripts.
+* 【2024-05-28】[null-luo / btrace](https://github.com/null-luo/btrace) - btrace：binder_transaction+eBPF+Golang实现通用的Android APP动态行为追踪工具
+* 【2024-05-28】[pytorch / cpuinfo](https://github.com/pytorch/cpuinfo) - CPU INFOrmation library (x86/x86-64/ARM/ARM64, Linux/Windows/Android/macOS/iOS)
 * 【2024-05-26】[Encryqed / Dumper-7](https://github.com/Encryqed/Dumper-7) - 
 * 【2024-05-25】[lanceewing / agi](https://github.com/lanceewing/agi) - Original source code of Sierra On-Line's AGI adventure game interpreter.
 * 【2024-05-24】[psycopg / psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
@@ -3668,6 +3682,9 @@
 
 ## C++
 
+* 【2024-05-28】[DiscoGrad / DiscoGrad](https://github.com/DiscoGrad/DiscoGrad) - DiscoGrad - automatically differentiate across conditional branches in C++ programs
+* 【2024-05-28】[microsoft / GW-BASIC](https://github.com/microsoft/GW-BASIC) - The original source code of Microsoft GW-BASIC from 1983
+* 【2024-05-28】[tnodir / fort](https://github.com/tnodir/fort) - Fort Firewall for Windows
 * 【2024-05-27】[MaaXYZ / MaaFramework](https://github.com/MaaXYZ/MaaFramework) - 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition
 * 【2024-05-27】[intel / openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity®.
 * 【2024-05-25】[es3n1n / no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender. (through the WSC api)
@@ -4021,6 +4038,7 @@
 
 ## C#
 
+* 【2024-05-28】[babalae / better-wuthering-waves](https://github.com/babalae/better-wuthering-waves) - 🌊更好的鸣潮 - 后台自动剧情
 * 【2024-05-27】[jonathanpeppers / dotnes](https://github.com/jonathanpeppers/dotnes) - .NET for the NES game console
 * 【2024-05-27】[runevision / LayerProcGen](https://github.com/runevision/LayerProcGen) - Layer-based infinite procedural generation
 * 【2024-05-26】[Sehyn / Wuwa_fpsunlocker](https://github.com/Sehyn/Wuwa_fpsunlocker) - Unlocking Wuwa FPS Limits for PC version.
@@ -4449,6 +4467,7 @@
 
 ## Html
 
+* 【2024-05-28】[akshetP / robotics-resources](https://github.com/akshetP/robotics-resources) - A complete library of resources that caters to all levels of Roboticists.
 * 【2024-05-26】[lowlighter / matcha](https://github.com/lowlighter/matcha) - 🍵 Drop-in semantic styling library in pure CSS.
 * 【2024-05-25】[TommyBoi-TB / Blooket-Cheats](https://github.com/TommyBoi-TB/Blooket-Cheats) - 
 * 【2024-05-24】[nextcloud / documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation
@@ -4911,6 +4930,10 @@
 
 ## Css
 
+* 【2024-05-28】[PacktPublishing / Django-5-By-Example](https://github.com/PacktPublishing/Django-5-By-Example) - Django 5 By Example (5th Edition) published by Packt
+* 【2024-05-28】[OpenLake / GitStartedWithUs](https://github.com/OpenLake/GitStartedWithUs) - 
+* 【2024-05-28】[Poooooooo01 / sirusa](https://github.com/Poooooooo01/sirusa) - Buat Project Sistem Rumah Sakit
+* 【2024-05-28】[Samadeen / intro-component-with-signup](https://github.com/Samadeen/intro-component-with-signup) - 
 * 【2024-05-27】[UnivMinho / F501_FE](https://github.com/UnivMinho/F501_FE) - 
 * 【2024-05-26】[RituKumari98 / imgIN](https://github.com/RituKumari98/imgIN) - 
 * 【2024-05-25】[microsoft / prompty](https://github.com/microsoft/prompty) - 
@@ -5610,6 +5633,13 @@
 
 ## Unknown
 
+* 【2024-05-28】[Fankouzu / solana-basic-ui](https://github.com/Fankouzu/solana-basic-ui) - Solana中文大全-由崔棉大师@mastercui和捕鲸船社区小伙伴共建的Solana学习社区
+* 【2024-05-28】[xForeSwitchEz / hamster-coin-tools-v1.2](https://github.com/xForeSwitchEz/hamster-coin-tools-v1.2) - 
+* 【2024-05-28】[zHex4z / ERDP](https://github.com/zHex4z/ERDP) - 
+* 【2024-05-28】[zHex4z / zHex4z1](https://github.com/zHex4z/zHex4z1) - apex-legends apex-hack apex-legends-hack apex-legends-cheat apex-legends-aimbot apex-legends-wallhack apex-free-hack apex-hacks apex-legends-hacks apex-legends-cheats apex-cheat apex-aimbot hacks-apex-legends hack-apex apex-hack-download download-apex-hack apex-legends-hack-pc apex-legends-hacker apex-legends-esp apex-legends-free-hack
+* 【2024-05-28】[Z4ee / Pipsi-WW-Releases](https://github.com/Z4ee/Pipsi-WW-Releases) - 
+* 【2024-05-28】[MatthewScould / MatthewScould](https://github.com/MatthewScould/MatthewScould) - 
+* 【2024-05-28】[kotlin-magazine / kotlin-magazine](https://github.com/kotlin-magazine/kotlin-magazine) - fun code() – A magazine for Kotlin™ developers
 * 【2024-05-27】[ruesandora / Rivalz](https://github.com/ruesandora/Rivalz) - 
 * 【2024-05-26】[endingwithali / boyfriendlist](https://github.com/endingwithali/boyfriendlist) - submit pr to join the boyfriend list
 * 【2024-05-26】[alfa155518 / API-s-collection-free](https://github.com/alfa155518/API-s-collection-free) - The API's collection is free to Any One and Open source
