@@ -9,6 +9,10 @@
 
 ## All language
 
+* 【2024-06-03】[onuratakan / gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant) - gpt-4o for windows, macos and ubuntu
+* 【2024-06-03】[adrianhajdin / podcastr](https://github.com/adrianhajdin/podcastr) - 
+* 【2024-06-03】[aaedmusa / Capstan-Drive](https://github.com/aaedmusa/Capstan-Drive) - Robotic actuator test stand utilizing a Capstan Drive reducer
+* 【2024-06-03】[Gktwo / wuwa-mod](https://github.com/Gktwo/wuwa-mod) - Wuthering Waves pak mods
 * 【2024-06-02】[lllyasviel / Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 * 【2024-06-02】[face-hh / webx](https://github.com/face-hh/webx) - An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.
 * 【2024-06-02】[ishaan1013 / sandbox](https://github.com/ishaan1013/sandbox) - A cloud-based code editing environment with an AI copilot and real-time collaboration.
@@ -1183,6 +1187,10 @@
 
 ## Java
 
+* 【2024-06-03】[FaculdadeDescomplica / pratica_integradora_tecnologias_disruptivas](https://github.com/FaculdadeDescomplica/pratica_integradora_tecnologias_disruptivas) - 
+* 【2024-06-03】[MultiArrayQueue / MultiArrayQueue](https://github.com/MultiArrayQueue/MultiArrayQueue) - Multi-Array Queue program codes
+* 【2024-06-03】[Alanosy / online-exam-system-backend](https://github.com/Alanosy/online-exam-system-backend) - 考试系统
+* 【2024-06-03】[Arijit-SE / Java-Solutions-TCS-IPA-Questions](https://github.com/Arijit-SE/Java-Solutions-TCS-IPA-Questions) - Java Solutions of TCS IPA exam. 35 marks and 15 marks questions are solved.
 * 【2024-06-02】[SNWCreations / KookBC](https://github.com/SNWCreations/KookBC) - The Kook Bot Client & JKook API standard implementation for Java.
 * 【2024-06-01】[eclipse-edc / Connector](https://github.com/eclipse-edc/Connector) - EDC core services including data plane and control plane
 * 【2024-05-30】[openkoda / openkoda](https://github.com/openkoda/openkoda) - Open source business application platform for fast development
@@ -1494,6 +1502,7 @@
 
 ## Python
 
+* 【2024-06-03】[TMElyralab / Comfyui-MusePose](https://github.com/TMElyralab/Comfyui-MusePose) - 
 * 【2024-06-02】[G-U-N / Phased-Consistency-Model](https://github.com/G-U-N/Phased-Consistency-Model) - Boosting the performance of consistency models with PCM!
 * 【2024-06-02】[fofr / cog-consistent-character](https://github.com/fofr/cog-consistent-character) - Create images of a given character in different poses
 * 【2024-06-02】[Bklieger / groqbook](https://github.com/Bklieger/groqbook) - Groqbook: Generate entire books in seconds using Groq and Llama3
@@ -2435,6 +2444,7 @@
 
 ## Javascript
 
+* 【2024-06-03】[VajiraTech / VAJIRA-MD](https://github.com/VajiraTech/VAJIRA-MD) - 🇱🇰King vajira md v4 update released🇱🇰
 * 【2024-06-02】[Muskansahuincredible / StudyNotion-An-Online-Education-Platform](https://github.com/Muskansahuincredible/StudyNotion-An-Online-Education-Platform) - 
 * 【2024-06-02】[SyedImtiyaz-1 / GetTechProjects](https://github.com/SyedImtiyaz-1/GetTechProjects) - Make your first Pull Request on this Repo. Don't forget to spread love and give us a ⭐️
 * 【2024-06-01】[feiyun0112 / Gradio.Net](https://github.com/feiyun0112/Gradio.Net) - Gradio for .NET – a port of Gradio, an open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function. Gradio for .NET – 基于 Gradio 的 .NET 移植，Gradio 是一个开源 Python 包，允许你为机器学习模型、API 或任何任意 Python 函数快速构建演示或 Web 应用程序。
@@ -2958,6 +2968,8 @@
 
 ## Go
 
+* 【2024-06-03】[ivoras / EncryptedNotepad2](https://github.com/ivoras/EncryptedNotepad2) - A Notepad-like simple text editor where files are saved (and later loaded) encrypted with AES-256.
+* 【2024-06-03】[AccentDesign / gcss](https://github.com/AccentDesign/gcss) - CSS written in Pure Go
 * 【2024-06-02】[fruitbars / simple-one-api](https://github.com/fruitbars/simple-one-api) - OpenAI 接口接入适配，支持千帆大模型平台、讯飞星火大模型、腾讯混元以及MiniMax、Deep-Seek，等兼容OpenAI接口，仅单可执行文件，配置超级简单，一键部署，开箱即用.
 * 【2024-06-02】[getseabird / seabird](https://github.com/getseabird/seabird) - Native Kubernetes desktop client.
 * 【2024-06-02】[redpanda-data / benthos](https://github.com/redpanda-data/benthos) - 
@@ -3754,6 +3766,7 @@
 
 ## C++
 
+* 【2024-06-03】[samtupy / nvgt](https://github.com/samtupy/nvgt) - The Nonvisual Gaming Toolkit
 * 【2024-05-31】[Cambricon / triton-linalg](https://github.com/Cambricon/triton-linalg) - Development repository for the Triton-Linalg conversion
 * 【2024-05-31】[baidu / babylon](https://github.com/baidu/babylon) - High-Performance C++ Fundamental Library
 * 【2024-05-30】[Offensive-Panda / RWX_MEMEORY_HUNT_AND_INJECTION_DV](https://github.com/Offensive-Panda/RWX_MEMEORY_HUNT_AND_INJECTION_DV) - Abusing Windows fork API and OneDrive.exe process to inject the malicious shellcode without allocating new RWX memory region.
@@ -4114,6 +4127,8 @@
 
 ## C#
 
+* 【2024-06-03】[thebookisclosed / AmperageKit](https://github.com/thebookisclosed/AmperageKit) - One stop shop for enabling Recall in Windows 11 version 24H2 on unsupported devices
+* 【2024-06-03】[awaescher / OllamaSharp](https://github.com/awaescher/OllamaSharp) - Ollama API bindings for .NET
 * 【2024-06-03】[fullstackhero / dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
 * 【2024-06-01】[Unity-Technologies / ECSGalaxySample](https://github.com/Unity-Technologies/ECSGalaxySample) - ECS sample demonstrating an automated simulation of teams of spaceships fighting for the control of planets
 * 【2024-05-31】[WalletWasabi / WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
@@ -4546,6 +4561,8 @@
 
 ## Html
 
+* 【2024-06-03】[VA3HDL / hamdashboard](https://github.com/VA3HDL/hamdashboard) - Customizable Dashboard for Ham Radio
+* 【2024-06-03】[YingqingHe / Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) - 🔥🔥🔥 A curated list of papers on LLMs-based multimodal generation (image, video, 3D and audio).
 * 【2024-06-02】[Huxpro / huxblog-boilerplate](https://github.com/Huxpro/huxblog-boilerplate) - Boilerplate of Hux Blog
 * 【2024-06-01】[karpathy / calorie](https://github.com/karpathy/calorie) - nice and effective super simple calorie counter web app
 * 【2024-06-01】[w3c / webauthn](https://github.com/w3c/webauthn) - Web Authentication: An API for accessing Public Key Credentials
@@ -5018,6 +5035,8 @@
 
 ## Css
 
+* 【2024-06-03】[100xdevs-cohort-2 / paytm-project-starter-monorepo](https://github.com/100xdevs-cohort-2/paytm-project-starter-monorepo) - 
+* 【2024-06-03】[lisandrascruz / PretaLab-c10-Disney-LP-Projeto](https://github.com/lisandrascruz/PretaLab-c10-Disney-LP-Projeto) - 
 * 【2024-05-31】[CodeSpace-Academy / StudentNo_Classcode_Group_Name-Surname_DJS07](https://github.com/CodeSpace-Academy/StudentNo_Classcode_Group_Name-Surname_DJS07) - [DJS07] Starter Code for Module 7's Project Submission
 * 【2024-05-31】[creativetimofficial / argon-dashboard-laravel-bs4](https://github.com/creativetimofficial/argon-dashboard-laravel-bs4) - 
 * 【2024-05-31】[fluxus-executor / fluxus-executor.github.io](https://github.com/fluxus-executor/fluxus-executor.github.io) - Fluxus is a powerful and popular free Roblox script executor with a user-friendly interface.
@@ -5732,6 +5751,8 @@
 
 ## Unknown
 
+* 【2024-06-03】[DustinWin / clash_singbox-tools](https://github.com/DustinWin/clash_singbox-tools) - 自动同步 Clash Premium 内核、mihomo 内核、sing-box 内核、sing-box PuerNya 版内核、Clash dashboard 面板和 AdGuardHome 最新版
+* 【2024-06-03】[Sourav692 / Data-Engineer-Books](https://github.com/Sourav692/Data-Engineer-Books) - This repo contains some of the most famous books on Data Engineering
 * 【2024-06-02】[moest-np / incubator](https://github.com/moest-np/incubator) - Problem statements, discussions and prototypes
 * 【2024-06-02】[magic-research / InstaDrag](https://github.com/magic-research/InstaDrag) - Experiencing lightning fast (~1s) and accurate drag-based image editing
 * 【2024-06-01】[LzhDreamcc / Blum-auto-bot](https://github.com/LzhDreamcc/Blum-auto-bot) - Blum auto bot free download for windows / blum auto farm bot Hi everyone today we present you our bot for crypto game Blum with which you can automate the whole process in the game which is possible
