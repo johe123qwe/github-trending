@@ -2987,6 +2987,7 @@
 
 ## Go
 
+* 【2024-06-11】[wzshiming / crproxy](https://github.com/wzshiming/crproxy) - CRProxy (Container Registry Proxy)
 * 【2024-06-10】[danvergara / dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves.
 * 【2024-06-10】[imgproxy / imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 * 【2024-06-08】[playwright-community / playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
