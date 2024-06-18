@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-06-18】[datawhalechina / leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial) - 《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases
 * 【2024-06-17】[zxwk1998 / vue-admin-better](https://github.com/zxwk1998/vue-admin-better) - 🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro
 * 【2024-06-14】[lexbor / lexbor](https://github.com/lexbor/lexbor) - Lexbor is development of an open source HTML Renderer library. https://lexbor.com
 * 【2024-06-13】[fchollet / ARC-AGI](https://github.com/fchollet/ARC-AGI) - The Abstraction and Reasoning Corpus
@@ -3003,6 +3004,7 @@
 
 ## Go
 
+* 【2024-06-18】[envoyproxy / ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 * 【2024-06-17】[simulot / immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 * 【2024-06-14】[multiversx / mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang.
 * 【2024-06-13】[Azure / azure-storage-fuse](https://github.com/Azure/azure-storage-fuse) - A virtual file system adapter for Azure Blob storage
@@ -3815,6 +3817,7 @@
 
 ## C++
 
+* 【2024-06-18】[FrederoxDev / Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c++ modding for MCBE 1.21.0.3 for building client side mods
 * 【2024-06-08】[microsoft / onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 * 【2024-06-03】[samtupy / nvgt](https://github.com/samtupy/nvgt) - The Nonvisual Gaming Toolkit
 * 【2024-05-31】[Cambricon / triton-linalg](https://github.com/Cambricon/triton-linalg) - Development repository for the Triton-Linalg conversion
