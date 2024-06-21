@@ -4187,6 +4187,7 @@
 
 ## C#
 
+* 【2024-06-21】[bitwarden / android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
 * 【2024-06-19】[dotnet / android](https://github.com/dotnet/android) - .NET for Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#
 * 【2024-06-17】[notscuffed / repkg](https://github.com/notscuffed/repkg) - Wallpaper engine PKG extractor/TEX to image converter
 * 【2024-06-13】[MediaBrowser / Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
