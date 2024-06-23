@@ -1201,6 +1201,8 @@
 
 ## Java
 
+* 【2024-06-23】[DSheirer / sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR). Website:
+* 【2024-06-23】[gsantner / markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 * 【2024-06-20】[eclipse-jkube / jkube](https://github.com/eclipse-jkube/jkube) - Build and Deploy java applications on Kubernetes
 * 【2024-06-19】[testng-team / testng](https://github.com/testng-team/testng) - TestNG testing framework
 * 【2024-06-17】[uber / NullAway](https://github.com/uber/NullAway) - A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
@@ -1529,6 +1531,7 @@
 
 ## Python
 
+* 【2024-06-23】[Kosinkadink / ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved) - Improved AnimateDiff for ComfyUI and Advanced Sampling Support
 * 【2024-06-22】[p0dalirius / smbclient-ng](https://github.com/p0dalirius/smbclient-ng) - smbclient-ng, a fast and user friendly way to interact with SMB shares.
 * 【2024-06-20】[labelmeai / labelme](https://github.com/labelmeai/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 * 【2024-06-19】[landing-ai / vision-agent](https://github.com/landing-ai/vision-agent) - Vision agent
@@ -3014,6 +3017,7 @@
 
 ## Go
 
+* 【2024-06-23】[alecthomas / kong](https://github.com/alecthomas/kong) - Kong is a command-line parser for Go
 * 【2024-06-18】[envoyproxy / ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 * 【2024-06-17】[simulot / immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 * 【2024-06-14】[multiversx / mx-chain-go](https://github.com/multiversx/mx-chain-go) - ⚡ The official implementation of the MultiversX blockchain protocol, written in golang.
@@ -3828,6 +3832,7 @@
 
 ## C++
 
+* 【2024-06-23】[geektcp / UeCore](https://github.com/geektcp/UeCore) - UeCore wow game server c++ 开源魔兽世界 https://uewow.com
 * 【2024-06-18】[FrederoxDev / Amethyst](https://github.com/FrederoxDev/Amethyst) - Native c++ modding for MCBE 1.21.0.3 for building client side mods
 * 【2024-06-08】[microsoft / onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) - Examples for using ONNX Runtime for machine learning inferencing.
 * 【2024-06-03】[samtupy / nvgt](https://github.com/samtupy/nvgt) - The Nonvisual Gaming Toolkit
@@ -4191,6 +4196,8 @@
 
 ## C#
 
+* 【2024-06-23】[soulsmods / DSMapStudio](https://github.com/soulsmods/DSMapStudio) - A standalone map/level editor for Demon's Souls, Dark Souls 1/2/3, Bloodborne, Sekiro, and Elden Ring.
+* 【2024-06-23】[Mzying2001 / CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
 * 【2024-06-22】[BenGrn / EldenRingSaveCopier](https://github.com/BenGrn/EldenRingSaveCopier) - 
 * 【2024-06-22】[IzyPro / WatchDog](https://github.com/IzyPro/WatchDog) - WatchDog is a Realtime Message, Event, HTTP (Request & Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http requests made to their web application and also exception caught during runtime in their web applications, all in Realtime.
 * 【2024-06-21】[bitwarden / android](https://github.com/bitwarden/android) - Bitwarden mobile app for Android.
@@ -4633,6 +4640,7 @@
 
 ## Html
 
+* 【2024-06-23】[ComposioHQ / composio](https://github.com/ComposioHQ/composio) - Composio equips agents with well-crafted tools empowering them to tackle complex tasks
 * 【2024-06-22】[dotnet / upgrade-assistant](https://github.com/dotnet/upgrade-assistant) - A tool to assist developers in upgrading .NET Framework applications to .NET 6 and beyond
 * 【2024-06-20】[vasturiano / globe.gl](https://github.com/vasturiano/globe.gl) - UI component for Globe Data Visualization using ThreeJS/WebGL
 * 【2024-06-19】[lllllllillllllillll / DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a web interface for managing Docker, with a zero-config dashboard for your containers.
