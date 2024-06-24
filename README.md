@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-06-24】[SimplifyJobs / Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships) - Collection of Summer 2025 tech internships!
 * 【2024-06-22】[niedev / RTranslator](https://github.com/niedev/RTranslator) - RTranslator is the world's first open source real-time translation app.
 * 【2024-06-22】[karpathy / micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 * 【2024-06-19】[open-metadata / OpenMetadata](https://github.com/open-metadata/OpenMetadata) - OpenMetadata is a unified platform for discovery, observability, and governance powered by a central metadata repository, in-depth lineage, and seamless team collaboration.
