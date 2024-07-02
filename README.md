@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-07-02】[NVIDIA / gpu-operator](https://github.com/NVIDIA/gpu-operator) - NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
 * 【2024-07-01】[YaLTeR / niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 * 【2024-06-30】[ClayAmore / ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor) - Elden Ring Save Editor. Compatible with PC and Playstation saves.
 * 【2024-06-30】[ZuodaoTech / everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
@@ -1208,6 +1209,7 @@
 
 ## Java
 
+* 【2024-07-02】[kermitt2 / grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 * 【2024-06-30】[unicode-org / cldr](https://github.com/unicode-org/cldr) - The home of the Unicode Common Locale Data Repository
 * 【2024-06-30】[runtimeverification / k](https://github.com/runtimeverification/k) - K Framework Tools 7.0
 * 【2024-06-25】[xwiki / xwiki-platform](https://github.com/xwiki/xwiki-platform) - The XWiki platform
@@ -1541,6 +1543,8 @@
 
 ## Python
 
+* 【2024-07-02】[pydata / xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
+* 【2024-07-02】[thinkst / opencanary](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot
 * 【2024-06-29】[modelscope / FunASR](https://github.com/modelscope/FunASR) - A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
 * 【2024-06-27】[bunkerity / bunkerweb](https://github.com/bunkerity/bunkerweb) - 🛡️ Make your web services secure by default !
 * 【2024-06-26】[frappe / hrms](https://github.com/frappe/hrms) - Open Source HR and Payroll Software
@@ -3415,6 +3419,7 @@
 
 ## C
 
+* 【2024-07-02】[shalxmva / modxo](https://github.com/shalxmva/modxo) - Xbox LPC Port modchip using a Raspberry Pi Pico
 * 【2024-06-25】[bol-van / zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 * 【2024-06-22】[robertdavidgraham / wc2](https://github.com/robertdavidgraham/wc2) - Investigates optimizing 'wc', the Unix word count program
 * 【2024-06-15】[KhronosGroup / Vulkan-Loader](https://github.com/KhronosGroup/Vulkan-Loader) - Vulkan Loader
@@ -4226,6 +4231,7 @@
 
 ## C#
 
+* 【2024-07-02】[Nordgaren / Elden-Ring-Debug-Tool](https://github.com/Nordgaren/Elden-Ring-Debug-Tool) - Debug tool for Elden Ring modding
 * 【2024-06-30】[sn4k3 / UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 * 【2024-06-30】[SamboyCoding / Cpp2IL](https://github.com/SamboyCoding/Cpp2IL) - Work-in-progress tool to reverse unity's IL2CPP toolchain.
 * 【2024-06-28】[SonarSource / sonar-dotnet](https://github.com/SonarSource/sonar-dotnet) - Code analyzer for C# and VB.NET projects
