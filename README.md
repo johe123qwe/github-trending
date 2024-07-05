@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-07-05】[Azure-Samples / graphrag-accelerator](https://github.com/Azure-Samples/graphrag-accelerator) - One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
 * 【2024-07-04】[microsoft / graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 * 【2024-07-04】[kuizuo / blog](https://github.com/kuizuo/blog) - A Blog on Customizing Docusaurus
 * 【2024-07-03】[BLAKE3-team / BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
