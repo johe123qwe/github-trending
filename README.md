@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-07-17】[tokio-rs / tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 * 【2024-07-15】[neo4j-labs / llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
 * 【2024-07-12】[apify / crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
 * 【2024-07-11】[swiftlang / swift](https://github.com/swiftlang/swift) - The Swift Programming Language
@@ -3451,6 +3452,7 @@
 
 ## C
 
+* 【2024-07-17】[IvorySQL / IvorySQL](https://github.com/IvorySQL/IvorySQL) - Open Source Oracle Compatible PostgreSQL.
 * 【2024-07-11】[zherczeg / sljit](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler
 * 【2024-07-11】[yarrick / iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel
 * 【2024-07-09】[virtualsquare / vde-2](https://github.com/virtualsquare/vde-2) - 
@@ -4724,6 +4726,7 @@
 
 ## Html
 
+* 【2024-07-17】[trigaten / The_Prompt_Report](https://github.com/trigaten/The_Prompt_Report) - 
 * 【2024-07-09】[paulirish / lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 * 【2024-06-30】[elastic / ecs-dotnet](https://github.com/elastic/ecs-dotnet) - 
 * 【2024-06-29】[wppconnect-team / wa-version](https://github.com/wppconnect-team/wa-version) - 
