@@ -3070,6 +3070,7 @@
 
 ## Go
 
+* 【2024-07-19】[GoogleCloudPlatform / golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
 * 【2024-07-15】[edoardottt / scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 * 【2024-07-15】[taubyte / tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
 * 【2024-07-11】[nerdswords / yet-another-cloudwatch-exporter](https://github.com/nerdswords/yet-another-cloudwatch-exporter) - Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
@@ -3906,6 +3907,7 @@
 
 ## C++
 
+* 【2024-07-19】[Livox-SDK / livox_ros_driver2](https://github.com/Livox-SDK/livox_ros_driver2) - Livox device driver under Ros(Compatible with ros and ros2), support Lidar HAP and Mid-360.
 * 【2024-07-16】[ROCm / HIP](https://github.com/ROCm/HIP) - HIP: C++ Heterogeneous-Compute Interface for Portability
 * 【2024-07-16】[strawberrymusicplayer / strawberry](https://github.com/strawberrymusicplayer/strawberry) - 🍓 Strawberry Music Player
 * 【2024-07-12】[qiayuanl / legged_control](https://github.com/qiayuanl/legged_control) - Nonlinear MPC and WBC framework for legged robot based on OCS2 and ros-controls
