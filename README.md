@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-07-20】[TraceMachina / nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings.
 * 【2024-07-18】[sonofmagic / weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) - bring tailwindcss to weapp ! 把 `tailwindcss` 原子化思想带入小程序开发吧 ! 原 `weapp-tailwindcss-webpack-plugin`
 * 【2024-07-17】[tokio-rs / tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 * 【2024-07-15】[neo4j-labs / llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
@@ -2528,6 +2529,7 @@
 
 ## Javascript
 
+* 【2024-07-20】[kevin-mizu / domloggerpp](https://github.com/kevin-mizu/domloggerpp) - A browser extension that allows you to monitor, intercept, and debug JavaScript sinks based on customizable configurations.
 * 【2024-07-18】[cavi-au / Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
 * 【2024-07-06】[metafloor / bwip-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
 * 【2024-07-03】[microsoft / botframework-sdk](https://github.com/microsoft/botframework-sdk) - Bot Framework provides the most comprehensive experience for building conversation applications.
@@ -3070,6 +3072,8 @@
 
 ## Go
 
+* 【2024-07-20】[quackduck / devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
+* 【2024-07-20】[oliver006 / redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for ValKey & Redis Metrics. Supports ValKey and Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x
 * 【2024-07-19】[GoogleCloudPlatform / golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
 * 【2024-07-15】[edoardottt / scilla](https://github.com/edoardottt/scilla) - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 * 【2024-07-15】[taubyte / tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
@@ -5218,6 +5222,7 @@
 
 ## Css
 
+* 【2024-07-20】[rust-lang / reference](https://github.com/rust-lang/reference) - The Rust Reference
 * 【2024-07-09】[primary-theme / obsidian](https://github.com/primary-theme/obsidian) - Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"
 * 【2024-07-03】[koaning / tuilwindcss](https://github.com/koaning/tuilwindcss) - Very much like Tailwind, but for TUI frameworks in Textual.
 * 【2024-07-01】[devlikeapro / waha](https://github.com/devlikeapro/waha) - WAHA - WhatsApp HTTP API (REST API) that you can configure in a click!
