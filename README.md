@@ -1560,6 +1560,8 @@
 
 ## Python
 
+* 【2024-07-25】[ollama / ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
+* 【2024-07-25】[google-research / neuralgcm](https://github.com/google-research/neuralgcm) - Hybrid ML + physics model of the Earth's atmosphere
 * 【2024-07-22】[crewAIInc / crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 * 【2024-07-21】[crewAIInc / crewAI-examples](https://github.com/crewAIInc/crewAI-examples) - 
 * 【2024-07-16】[mem0ai / mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
@@ -4748,6 +4750,7 @@
 
 ## Html
 
+* 【2024-07-25】[riggraz / no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme.
 * 【2024-07-17】[trigaten / The_Prompt_Report](https://github.com/trigaten/The_Prompt_Report) - 
 * 【2024-07-09】[paulirish / lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) - A faster youtube embed.
 * 【2024-06-30】[elastic / ecs-dotnet](https://github.com/elastic/ecs-dotnet) - 
