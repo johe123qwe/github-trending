@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-08-04】[hufrea / byedpi](https://github.com/hufrea/byedpi) - Bypass DPI
 * 【2024-08-03】[xvzc / SpoofDPI](https://github.com/xvzc/SpoofDPI) - A simple and fast anti-censorship tool written in Go
 * 【2024-08-03】[apache / apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 * 【2024-08-02】[RSSNext / follow](https://github.com/RSSNext/follow) - 🧡 Next generation information browser
@@ -1572,6 +1573,7 @@
 
 ## Python
 
+* 【2024-08-04】[McGill-NLP / llm2vec](https://github.com/McGill-NLP/llm2vec) - Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'
 * 【2024-08-03】[InternLM / lagent](https://github.com/InternLM/lagent) - A lightweight framework for building LLM-based agents
 * 【2024-08-02】[ChaozhongLiu / DyberPet](https://github.com/ChaozhongLiu/DyberPet) - Desktop Cyber Pet Framework based on PySide6
 * 【2024-08-01】[DAGWorks-Inc / burr](https://github.com/DAGWorks-Inc/burr) - Build applications that make decisions (chatbots, agents, simulations, etc...). Monitor, trace, persist, and execute on your own infrastructure.
@@ -4333,6 +4335,8 @@
 
 ## C#
 
+* 【2024-08-04】[jumoog / intro-skipper](https://github.com/jumoog/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
+* 【2024-08-04】[0x90d / videoduplicatefinder](https://github.com/0x90d/videoduplicatefinder) - Video Duplicate Finder - Crossplatform
 * 【2024-08-02】[openai / openai-dotnet](https://github.com/openai/openai-dotnet) - The official .NET library for the OpenAI API
 * 【2024-08-01】[PunishXIV / Artisan](https://github.com/PunishXIV/Artisan) - A 'simple' crafting plugin.
 * 【2024-07-21】[Cysharp / Ulid](https://github.com/Cysharp/Ulid) - Fast .NET C# Implementation of ULID for .NET and Unity.
