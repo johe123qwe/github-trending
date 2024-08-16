@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-08-16】[chen08209 / FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 * 【2024-08-15】[Zipstack / unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
 * 【2024-08-13】[versotile-org / verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 * 【2024-08-13】[shardeum / shardeum](https://github.com/shardeum/shardeum) - Shardeum is an EVM based autoscaling blockchain
@@ -1246,6 +1247,7 @@
 
 ## Java
 
+* 【2024-08-16】[rtm516 / MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast) - A simple Geyser extension that broadcasts the server over Xbox Live.
 * 【2024-08-13】[KingContaria / seedqueue](https://github.com/KingContaria/seedqueue) - 
 * 【2024-08-10】[spring-projects / spring-session](https://github.com/spring-projects/spring-session) - Spring Session
 * 【2024-08-03】[krlvm / PowerTunnel](https://github.com/krlvm/PowerTunnel) - Powerful and extensible proxy server with anti-censorship functionality
@@ -1587,6 +1589,7 @@
 
 ## Python
 
+* 【2024-08-16】[intelowlproject / IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 * 【2024-08-15】[sustcsonglin / flash-linear-attention](https://github.com/sustcsonglin/flash-linear-attention) - Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton
 * 【2024-08-15】[andrewyng / translation-agent](https://github.com/andrewyng/translation-agent) - 
 * 【2024-08-13】[bitsandbytes-foundation / bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) - Accessible large language models via k-bit quantization for PyTorch.
@@ -2579,6 +2582,7 @@
 
 ## Javascript
 
+* 【2024-08-16】[marcelscruz / public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 * 【2024-08-09】[cables-gl / cables](https://github.com/cables-gl/cables) - cables is a tool for creating beautiful interactive content
 * 【2024-08-06】[hackthedev / dcts-shipping](https://github.com/hackthedev/dcts-shipping) - A Chat Platform like Discord but self-hostable like TeamSpeak
 * 【2024-08-03】[SadeghHayeri / GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
@@ -4363,6 +4367,7 @@
 
 ## C#
 
+* 【2024-08-16】[ErsatzTV / ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) - Stream custom live channels using your own media
 * 【2024-08-10】[vawser / Smithbox](https://github.com/vawser/Smithbox) - Smithbox is a modding tool for Elden Ring, Armored Core VI, Sekiro, Dark Souls 3, Dark Souls 2, Dark Souls, Bloodborne and Demon's Souls.
 * 【2024-08-10】[arcusmaximus / YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - A tool for creating styled YouTube subtitles
 * 【2024-08-06】[GitTools / GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time
@@ -6039,6 +6044,7 @@
 
 ## Unknown
 
+* 【2024-08-16】[base-org / brand-kit](https://github.com/base-org/brand-kit) - Brand guide and logos for the Base brand.
 * 【2024-08-09】[joebew42 / study-path](https://github.com/joebew42/study-path) - An organized learning path on Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
 * 【2024-08-08】[microsoft / powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples) - Power BI Desktop sample files for the monthly release. Here you can find the PBIX files used in the monthly release videos.
 * 【2024-07-24】[onceupon / Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
