@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-08-22】[All-Hands-AI / OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 * 【2024-08-21】[wasi-master / 13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 * 【2024-08-19】[OpenBB-finance / OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 * 【2024-08-19】[toss / es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
@@ -2599,6 +2600,7 @@
 
 ## Javascript
 
+* 【2024-08-22】[mermaid-js / mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 * 【2024-08-21】[bluewave-labs / bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime) - BlueWave Uptime Monitor application
 * 【2024-08-19】[TiddlyWiki / TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 * 【2024-08-19】[Itxxwasi / WASI-MD-V2](https://github.com/Itxxwasi/WASI-MD-V2) - WASI-MD-V2 is a Cool Multi-Device WhatsApp bot developed by WASI TECH. This bot is just developed for using whatsapp in funny ways.
@@ -4014,6 +4016,7 @@
 
 ## C++
 
+* 【2024-08-22】[ros-controls / ros2_controllers](https://github.com/ros-controls/ros2_controllers) - Generic robotic controllers to accompany ros2_control
 * 【2024-08-20】[chrxh / alien](https://github.com/chrxh/alien) - ALIEN is a CUDA-powered artificial life simulation program.
 * 【2024-08-11】[raspberrypi / picotool](https://github.com/raspberrypi/picotool) - 
 * 【2024-07-30】[margelo / react-native-filament](https://github.com/margelo/react-native-filament) - 🐧 A real-time physically based 3D rendering engine for React Native
@@ -4394,6 +4397,8 @@
 
 ## C#
 
+* 【2024-08-22】[wixtoolset / wix](https://github.com/wixtoolset/wix) - WiX Toolset Code
+* 【2024-08-22】[NickvisionApps / Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 * 【2024-08-21】[berichan / ACNHMobileSpawner](https://github.com/berichan/ACNHMobileSpawner) - Animal Crossing New Horizons real-time multi-tool built in Unity.
 * 【2024-08-19】[RaidMax / IW4M-Admin](https://github.com/RaidMax/IW4M-Admin) - Complete administration tool for IW4x, Pluto T6, Pluto IW5, Pluto T5, Pluto T4, H1-Mod, CoD4x, IW6x, TeknoMW3, and most Call of Duty® dedicated servers.
 * 【2024-08-17】[DigitalRuby / IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most trusted, free security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected. Upgrade to IPBan Pro today and get a discount. Learn more at ↓
