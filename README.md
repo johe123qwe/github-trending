@@ -3153,6 +3153,7 @@
 
 ## Go
 
+* 【2024-08-22】[adnanh / webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 * 【2024-08-21】[sourcegraph / sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 * 【2024-08-19】[rusq / slackdump](https://github.com/rusq/slackdump) - Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.
 * 【2024-08-17】[erigontech / erigon](https://github.com/erigontech/erigon) - Ethereum implementation on the efficiency frontier https://erigon.gitbook.io
