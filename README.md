@@ -1260,6 +1260,7 @@
 
 ## Java
 
+* 【2024-08-31】[in28minutes / JavaInterviewQuestionsAndAnswers](https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers) - Java Interview Questions and Answers
 * 【2024-08-24】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
 * 【2024-08-21】[spring-projects / spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
 * 【2024-08-20】[DImuthuUpe / AndroidPdfViewer](https://github.com/DImuthuUpe/AndroidPdfViewer) - Android view for displaying PDFs rendered with PdfiumAndroid
@@ -1608,6 +1609,9 @@
 
 ## Python
 
+* 【2024-08-31】[scikit-image / scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python
+* 【2024-08-31】[frappe / frappe_docker](https://github.com/frappe/frappe_docker) - Docker images for production and development setups of the Frappe framework and ERPNext
+* 【2024-08-31】[Zeyi-Lin / HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 * 【2024-08-29】[THUDM / GLM-4](https://github.com/THUDM/GLM-4) - GLM-4 series: Open Multilingual Multimodal Chat LMs | 开源多语言多模态对话模型
 * 【2024-08-27】[NUS-HPC-AI-Lab / VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation
 * 【2024-08-26】[PromtEngineer / Verbi](https://github.com/PromtEngineer/Verbi) - A modular voice assistant application for experimenting with state-of-the-art transcription, response generation, and text-to-speech models. Supports OpenAI, Groq, Elevanlabs, CartesiaAI, and Deepgram APIs, plus local models via Ollama. Ideal for research and development in voice technology.
@@ -3172,6 +3176,8 @@
 
 ## Go
 
+* 【2024-08-31】[opentofu / registry](https://github.com/opentofu/registry) - The all-new opentofu.org registry!
+* 【2024-08-31】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 * 【2024-08-26】[rabilrbl / jiotv_go](https://github.com/rabilrbl/jiotv_go) - Unlock the magic of JioTV across all your devices, without the need for the JioTV App. Crafted with love in Golang for a delightful blend of speed and efficiency! 🌟✨
 * 【2024-08-22】[adnanh / webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 * 【2024-08-21】[sourcegraph / sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
