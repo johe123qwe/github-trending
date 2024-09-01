@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2024-09-01】[gitroomhq / postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀
+* 【2024-09-01】[AppFlowy-IO / AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 * 【2024-08-29】[Cinnamon / kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 * 【2024-08-29】[dokku / dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 * 【2024-08-27】[khcrysalis / Feather](https://github.com/khcrysalis/Feather) - Feather is a free on-device iOS application manager/installer built with UIKit for quality.
@@ -1260,6 +1262,7 @@
 
 ## Java
 
+* 【2024-09-01】[Wynntils / Wynntils](https://github.com/Wynntils/Wynntils) - Wynntils (Artemis) is a rewrite of Wynntils in 1.21 using Architectury, to support Fabric and Forge.
 * 【2024-08-31】[in28minutes / JavaInterviewQuestionsAndAnswers](https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers) - Java Interview Questions and Answers
 * 【2024-08-24】[nfcgate / nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
 * 【2024-08-21】[spring-projects / spring-integration](https://github.com/spring-projects/spring-integration) - Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
@@ -3176,6 +3179,8 @@
 
 ## Go
 
+* 【2024-09-01】[oapi-codegen / oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
+* 【2024-09-01】[gotify / server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 * 【2024-08-31】[opentofu / registry](https://github.com/opentofu/registry) - The all-new opentofu.org registry!
 * 【2024-08-31】[substratusai / kubeai](https://github.com/substratusai/kubeai) - Private Open AI on Kubernetes
 * 【2024-08-26】[rabilrbl / jiotv_go](https://github.com/rabilrbl/jiotv_go) - Unlock the magic of JioTV across all your devices, without the need for the JioTV App. Crafted with love in Golang for a delightful blend of speed and efficiency! 🌟✨
@@ -3577,6 +3582,7 @@
 
 ## C
 
+* 【2024-09-01】[libsdl-org / SDL_image](https://github.com/libsdl-org/SDL_image) - Image decoding for many popular formats for Simple Directmedia Layer.
 * 【2024-08-23】[open-telemetry / opentelemetry-go-instrumentation](https://github.com/open-telemetry/opentelemetry-go-instrumentation) - OpenTelemetry Auto Instrumentation using eBPF
 * 【2024-08-20】[unbit / uwsgi](https://github.com/unbit/uwsgi) - uWSGI application server container
 * 【2024-08-17】[Wren6991 / PicoDVI](https://github.com/Wren6991/PicoDVI) - Bitbanged DVI on the RP2040 Microcontroller
@@ -4041,6 +4047,7 @@
 
 ## C++
 
+* 【2024-09-01】[DistroAV / DistroAV](https://github.com/DistroAV/DistroAV) - DistroAV (formerly OBS-NDI): NewTek NDI integration for OBS Studio
 * 【2024-08-30】[colmap / glomap](https://github.com/colmap/glomap) - GLOMAP - Global Structured-from-Motion Revisited
 * 【2024-08-27】[unitreerobotics / unitree_ros](https://github.com/unitreerobotics/unitree_ros) - 
 * 【2024-08-26】[dpjudas / SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
@@ -4427,6 +4434,7 @@
 
 ## C#
 
+* 【2024-09-01】[microsoft / PSRule](https://github.com/microsoft/PSRule) - Validate infrastructure as code (IaC) and objects using PowerShell rules.
 * 【2024-08-29】[gusmanb / logicanalyzer](https://github.com/gusmanb/logicanalyzer) - 24 channel, 100Msps logic analyzer hardware and software
 * 【2024-08-29】[AElfProject / AElf](https://github.com/AElfProject/AElf) - An AI-enhanced cloud-native layer-1 blockchain network.
 * 【2024-08-29】[Azure / azure-sdk-tools](https://github.com/Azure/azure-sdk-tools) - Tools repository leveraged by the Azure SDK team.
@@ -4897,6 +4905,7 @@
 
 ## Html
 
+* 【2024-09-01】[jdecked / twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 * 【2024-08-23】[CommunityPro / portfolio-html](https://github.com/CommunityPro/portfolio-html) - 🌍 Open source portfolio template built with plain Html, CSS and JavaScript for developers to create their portfolio website
 * 【2024-08-17】[tc39 / proposal-decimal](https://github.com/tc39/proposal-decimal) - Built-in exact decimal numbers for JavaScript
 * 【2024-08-09】[seeingtheory / Seeing-Theory](https://github.com/seeingtheory/Seeing-Theory) - A visual introduction to probability and statistics.
