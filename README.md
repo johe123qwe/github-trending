@@ -5438,6 +5438,7 @@
 
 ## Css
 
+* 【2024-09-09】[refact0r / system24](https://github.com/refact0r/system24) - a tui-style discord theme
 * 【2024-09-08】[dotnet-presentations / blazor-hybrid-workshop](https://github.com/dotnet-presentations/blazor-hybrid-workshop) - A full day workshop (.NET MAUI Blazor Hybrid Workshop in a Box) on how to build Blazor Hybrid apps with .NET MAUI for iOS, Android, macOS, and Windows
 * 【2024-09-06】[teacat / tocas](https://github.com/teacat/tocas) - 👀 The fastest and most intuitive way to build diverse websites and progressive web application interfaces.
 * 【2024-09-05】[learningequality / kolibri](https://github.com/learningequality/kolibri) - Kolibri Learning Platform: the offline app for universal education
