@@ -1275,6 +1275,7 @@
 
 ## Java
 
+* 【2024-09-14】[unitycatalog / unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi-modal Catalog for Data & AI
 * 【2024-09-06】[OpenBAS-Platform / openbas](https://github.com/OpenBAS-Platform/openbas) - Open Breach and Attack Simulation Platform
 * 【2024-09-04】[irsdl / IIS-ShortName-Scanner](https://github.com/irsdl/IIS-ShortName-Scanner) - latest version of scanners for IIS short filename (8.3) disclosure vulnerability
 * 【2024-09-02】[Dev4Mod / WaEnhancer](https://github.com/Dev4Mod/WaEnhancer) - WhatsApp tools for Android
