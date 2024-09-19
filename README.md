@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-09-19】[achristmascarl / rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 * 【2024-09-18】[tungbq / devops-basics](https://github.com/tungbq/devops-basics) - 🚀 Practical and document place for DevOps toolchain
 * 【2024-09-17】[Morganamilo / paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 * 【2024-09-16】[krayin / laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
@@ -3225,6 +3226,7 @@
 
 ## Go
 
+* 【2024-09-19】[sensepost / gowitness](https://github.com/sensepost/gowitness) - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
 * 【2024-09-15】[golang / example](https://github.com/golang/example) - Go example projects
 * 【2024-09-11】[openziti / ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @openziti
 * 【2024-09-09】[arduino / arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
@@ -3631,6 +3633,7 @@
 
 ## C
 
+* 【2024-09-19】[klonyyy / MCUViewer](https://github.com/klonyyy/MCUViewer) - Real-time embedded variable & trace viewer
 * 【2024-09-13】[libssh2 / libssh2](https://github.com/libssh2/libssh2) - the SSH library
 * 【2024-09-06】[sz3 / cfc](https://github.com/sz3/cfc) - Demo/test android app for libcimbar. Copy files over the cell phone camera!
 * 【2024-09-04】[coop-deluxe / sm64coopdx](https://github.com/coop-deluxe/sm64coopdx) - An official continuation of https://github.com/djoslin0/sm64ex-coop on sm64coopdx for the enhancements and progress it already has.
