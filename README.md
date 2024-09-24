@@ -1637,6 +1637,7 @@
 
 ## Python
 
+* 【2024-09-24】[LibraHp / GetQzonehistory](https://github.com/LibraHp/GetQzonehistory) - 获取QQ空间发布的历史说说
 * 【2024-09-20】[rspeer / wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages.
 * 【2024-09-20】[ctripcorp / flybirds](https://github.com/ctripcorp/flybirds) - 基于自然语言的，跨端跨框架 BDD UI 自动化测试方案，BDD testing, Python style, Present by Trip Flight
 * 【2024-09-16】[CadQuery / cadquery](https://github.com/CadQuery/cadquery) - A python parametric CAD scripting framework based on OCCT
