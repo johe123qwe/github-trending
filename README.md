@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-09-28】[meta-llama / llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 * 【2024-09-27】[Yonom / assistant-ui](https://github.com/Yonom/assistant-ui) - React Components for AI Chat 💬 🚀
 * 【2024-09-27】[src-d / hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 * 【2024-09-27】[statamic / cms](https://github.com/statamic/cms) - The core Laravel CMS Composer package
