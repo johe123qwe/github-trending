@@ -1296,6 +1296,8 @@
 
 ## Java
 
+* 【2024-10-01】[nageoffer / 12306](https://github.com/nageoffer/12306) - 🔥 官方推荐 🔥 大学春招、秋招、应届项目，SpringBoot3 + Java17 + SpringCloud Alibaba + Vue3 等技术架构，完成高仿铁路 12306 用户 + 抢票 + 订单 + 支付服务，帮助学生主打就业的项目。
+* 【2024-10-01】[kafbat / kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
 * 【2024-09-26】[apache / parquet-java](https://github.com/apache/parquet-java) - Apache Parquet Java
 * 【2024-09-26】[FasterXML / jackson-core](https://github.com/FasterXML/jackson-core) - Core part of Jackson that defines Streaming API as well as basic shared abstractions
 * 【2024-09-24】[CodePhiliaX / Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
@@ -2687,6 +2689,7 @@
 
 ## Javascript
 
+* 【2024-10-01】[fineanmol / Hacktoberfest2024](https://github.com/fineanmol/Hacktoberfest2024) - Make your first Pull Request on Hacktoberfest 2024. Don't forget to spread love and if you like give us a ⭐️
 * 【2024-09-30】[m14r41 / PentestingEverything](https://github.com/m14r41/PentestingEverything) - Penetration Testing For - Web | Mobile | API | Thick Client | Source Code Review | DevSecOps | Wireless | Network Pentesting, etc...
 * 【2024-09-28】[LedgerHQ / ledger-live](https://github.com/LedgerHQ/ledger-live) - Mono-repository for packages related to Ledger Live and its JavaScript ecosystem.
 * 【2024-09-26】[ThePansmith / Monifactory](https://github.com/ThePansmith/Monifactory) - A Modern Remaster of Nomifactory
@@ -4145,6 +4148,8 @@
 
 ## C++
 
+* 【2024-10-01】[rakshasa / rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
+* 【2024-10-01】[zenustech / zeno](https://github.com/zenustech/zeno) - ZEn NOde system - a simulation & rendering engine in nodes
 * 【2024-09-30】[getml / reflect-cpp](https://github.com/getml/reflect-cpp) - A C++20 library for fast serialization, deserialization and validation using reflection. Supports JSON, BSON, CBOR, flexbuffers, msgpack, TOML, XML, YAML / msgpack.org[C++20]
 * 【2024-09-26】[ksnip / ksnip](https://github.com/ksnip/ksnip) - ksnip the cross-platform screenshot and annotation tool
 * 【2024-09-22】[DarthTon / Xenos](https://github.com/DarthTon/Xenos) - Windows dll injector
@@ -6260,6 +6265,7 @@
 
 ## Unknown
 
+* 【2024-10-01】[Abacatinhos / eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - Lista de eventos tech que acontecem no Brasil
 * 【2024-09-27】[mahseema / awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 * 【2024-09-23】[GEIGEIGEIST / TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 * 【2024-09-22】[n8n-io / self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
