@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-10-08】[zotero-chinese / styles](https://github.com/zotero-chinese/styles) - 中文 CSL 样式
 * 【2024-10-06】[onejs / one](https://github.com/onejs/one) - ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.
 * 【2024-10-06】[ErikBjare / gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
 * 【2024-10-03】[XengShi / materialYouNewTab](https://github.com/XengShi/materialYouNewTab) - A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design
@@ -1663,6 +1664,7 @@
 
 ## Python
 
+* 【2024-10-08】[cvat-ai / cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 * 【2024-10-07】[KruxAI / ragbuilder](https://github.com/KruxAI/ragbuilder) - A toolkit to create optimal Production-ready RAG setup for your data
 * 【2024-10-07】[Open-Wine-Components / umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - 
 * 【2024-10-06】[karpathy / build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
@@ -3694,6 +3696,8 @@
 
 ## C
 
+* 【2024-10-08】[openresty / openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
+* 【2024-10-08】[cage-kiosk / cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 * 【2024-10-07】[morrownr / 8821au-20210708](https://github.com/morrownr/8821au-20210708) - Linux Driver for USB WiFi Adapters that are based on the RTL8811AU and RTL8821AU Chipsets - v5.12.5.2
 * 【2024-10-02】[BasedHardware / omi](https://github.com/BasedHardware/omi) - AI wearables
 * 【2024-09-30】[Autossh / autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels
@@ -4171,6 +4175,7 @@
 
 ## C++
 
+* 【2024-10-08】[dalathegreat / Battery-Emulator](https://github.com/dalathegreat/Battery-Emulator) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters.
 * 【2024-10-03】[deskflow / deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 * 【2024-10-03】[tenstorrent / tt-metal](https://github.com/tenstorrent/tt-metal) - 🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
 * 【2024-10-02】[oneapi-src / level-zero](https://github.com/oneapi-src/level-zero) - oneAPI Level Zero Specification Headers and Loader
@@ -4574,6 +4579,8 @@
 
 ## C#
 
+* 【2024-10-08】[PKBeam / AMWin-RP](https://github.com/PKBeam/AMWin-RP) - A Discord Rich Presence client for Apple Music's native Windows app.
+* 【2024-10-08】[microsoft / dev-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path.
 * 【2024-09-30】[mcmonkeyprojects / SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI) - SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
 * 【2024-09-29】[HearthSim / Hearthstone-Deck-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker) - A deck tracker and deck manager for Hearthstone on Windows
 * 【2024-09-23】[HotCakeX / Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
