@@ -6305,6 +6305,7 @@
 
 ## Unknown
 
+* 【2024-10-09】[stackblitz / webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
 * 【2024-10-03】[searxng / searxng-docker](https://github.com/searxng/searxng-docker) - The docker-compose files for setting up a SearXNG instance with docker.
 * 【2024-10-03】[northwesternfintech / 2025QuantInternships](https://github.com/northwesternfintech/2025QuantInternships) - Public quant internship repository, maintained by NUFT but available for everyone.
 * 【2024-10-01】[Abacatinhos / eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) - Lista de eventos tech que acontecem no Brasil
