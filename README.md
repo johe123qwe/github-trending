@@ -2711,6 +2711,7 @@
 
 ## Javascript
 
+* 【2024-10-12】[sindresorhus / eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 * 【2024-10-10】[revoltchat / self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
 * 【2024-10-06】[inertiajs / inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 * 【2024-10-02】[software-mansion / radon-ide](https://github.com/software-mansion/radon-ide) - VSCode extension that turns your editor into a fully fledged IDE for React Native and Expo.
@@ -3701,6 +3702,7 @@
 
 ## C
 
+* 【2024-10-12】[rspamd / rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
 * 【2024-10-08】[openresty / openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 * 【2024-10-08】[cage-kiosk / cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 * 【2024-10-07】[morrownr / 8821au-20210708](https://github.com/morrownr/8821au-20210708) - Linux Driver for USB WiFi Adapters that are based on the RTL8811AU and RTL8821AU Chipsets - v5.12.5.2
@@ -4584,6 +4586,7 @@
 
 ## C#
 
+* 【2024-10-12】[apache / arrow-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow
 * 【2024-10-10】[microsoft / DacFx](https://github.com/microsoft/DacFx) - DacFx, SqlPackage, and other SQL development libraries enable declarative database development and database portability across SQL versions and environments. Share feedback here on dacpacs, bacpacs, and SQL projects.
 * 【2024-10-08】[PKBeam / AMWin-RP](https://github.com/PKBeam/AMWin-RP) - A Discord Rich Presence client for Apple Music's native Windows app.
 * 【2024-10-08】[microsoft / dev-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path.
@@ -5067,6 +5070,7 @@
 
 ## Html
 
+* 【2024-10-12】[tc39 / proposal-import-attributes](https://github.com/tc39/proposal-import-attributes) - Proposal for syntax to import ES modules with assertions
 * 【2024-10-11】[hugo-sid / hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) - Fast, minimal blog with dark mode support.
 * 【2024-10-10】[tc39 / proposal-structs](https://github.com/tc39/proposal-structs) - JavaScript Structs: Fixed Layout Objects
 * 【2024-10-10】[tomfran / typo](https://github.com/tomfran/typo) - A simple Hugo theme
