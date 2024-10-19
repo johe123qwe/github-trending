@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2024-10-19】[microsoft / openvmm](https://github.com/microsoft/openvmm) - Home of OpenVMM and OpenHCL.
+* 【2024-10-19】[facebookresearch / co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
 * 【2024-10-17】[fingerprintjs / fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
 * 【2024-10-17】[firecracker-microvm / firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 * 【2024-10-14】[openai / swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
@@ -2722,6 +2724,7 @@
 
 ## Javascript
 
+* 【2024-10-19】[huggingface / transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 * 【2024-10-14】[chaxus / ran](https://github.com/chaxus/ran) - web components library, machine learning, function library and so on.
 * 【2024-10-12】[sindresorhus / eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 * 【2024-10-10】[revoltchat / self-hosted](https://github.com/revoltchat/self-hosted) - Deploy Revolt using Docker.
@@ -5606,6 +5609,7 @@
 
 ## Css
 
+* 【2024-10-19】[iamparas0 / TIC-TAC-TOE](https://github.com/iamparas0/TIC-TAC-TOE) - take a preview
 * 【2024-10-17】[aws-samples / amplify-next-template](https://github.com/aws-samples/amplify-next-template) - This is a Next.js starter for building a fullstack app with AWS Amplify.
 * 【2024-10-14】[lemonmade / bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
 * 【2024-10-10】[appsecco / dvja](https://github.com/appsecco/dvja) - Damn Vulnerable Java (EE) Application
