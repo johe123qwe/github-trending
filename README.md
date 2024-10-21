@@ -1316,6 +1316,7 @@
 
 ## Java
 
+* 【2024-10-21】[SoLegendary / reignofnether](https://github.com/SoLegendary/reignofnether) - 
 * 【2024-10-18】[adorsys / keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 * 【2024-10-17】[eclipse-platform / eclipse.platform.ui](https://github.com/eclipse-platform/eclipse.platform.ui) - Eclipse Platform
 * 【2024-10-06】[DhanushNehru / Hacktoberfest2024](https://github.com/DhanushNehru/Hacktoberfest2024) - Hacktoberfest 2024 OPEN FIRST Pull Request - SUPPORT OPEN SOURCE - Don't forget to spread love and if you like give us a ⭐️
@@ -3310,6 +3311,7 @@
 
 ## Go
 
+* 【2024-10-21】[lucaslorentz / caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
 * 【2024-10-18】[GreenmaskIO / greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
 * 【2024-10-16】[johnfercher / maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
 * 【2024-10-14】[kercre123 / wire-pod](https://github.com/kercre123/wire-pod) - Free, fully-featured server software for the Anki Vector robot.
@@ -4618,6 +4620,8 @@
 
 ## C#
 
+* 【2024-10-21】[codeproject / CodeProject.AI-Server](https://github.com/codeproject/CodeProject.AI-Server) - CodeProject.AI Server is a self contained service that software developers can include in, and distribute with, their applications in order to augment their apps with the power of AI.
+* 【2024-10-21】[Macro-Deck-App / Macro-Deck](https://github.com/Macro-Deck-App/Macro-Deck) - Macro Deck transforms your phone, tablet, or any device equipped with a modern internet browser into an efficient remote macro pad. With this tool, you can execute single or multi-step actions seamlessly with just a single tap.
 * 【2024-10-15】[bloxstraplabs / bloxstrap](https://github.com/bloxstraplabs/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
 * 【2024-10-14】[2394425147 / astrodx](https://github.com/2394425147/astrodx) - 
 * 【2024-10-12】[apache / arrow-adbc](https://github.com/apache/arrow-adbc) - Database connectivity API standard and libraries for Apache Arrow
@@ -5104,6 +5108,8 @@
 
 ## Html
 
+* 【2024-10-21】[vishanurag / Canvas-Editor](https://github.com/vishanurag/Canvas-Editor) - This is a simple web project that is made with an aim to learn about canvas element of html. Now, this project is open to all of the amazing contributors.
+* 【2024-10-21】[hugo-fixit / FixIt](https://github.com/hugo-fixit/FixIt) - 🔧 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 * 【2024-10-16】[jianjianai / ms-copilot-play](https://github.com/jianjianai/ms-copilot-play) - Cloudflare Worker 的 Microsoft Copilot 加速服务。Microsoft Copilot 是基于 OpenAI GPT-4 的强大 AI 并且能够使用 Bing 搜索来解答问题。简单部署即可在国内高速访问原滋原味的 Microsoft Copilot 的几乎全部功能，聊天，笔记本，插件，图像生成，分享等等..
 * 【2024-10-15】[Gyanthakur / Dev_Profiles](https://github.com/Gyanthakur/Dev_Profiles) - 
 * 【2024-10-14】[Anjaliavv51 / Retro](https://github.com/Anjaliavv51/Retro) - Explore the vintage look!
