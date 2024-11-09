@@ -1331,6 +1331,7 @@
 
 ## Java
 
+* 【2024-11-09】[binarywang / WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
 * 【2024-11-04】[MehVahdJukaar / Supplementaries](https://github.com/MehVahdJukaar/Supplementaries) - 
 * 【2024-11-03】[MovTery / ZalithLauncher](https://github.com/MovTery/ZalithLauncher) - Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices.
 * 【2024-10-30】[qaiu / netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等. 预览地址 https://lz.qaiu.top
@@ -1702,6 +1703,8 @@
 
 ## Python
 
+* 【2024-11-09】[letta-ai / letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
+* 【2024-11-09】[NVIDIA / TransformerEngine](https://github.com/NVIDIA/TransformerEngine) - A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper and Ada GPUs, to provide better performance with lower memory utilization in both training and inference.
 * 【2024-11-05】[TencentBlueKing / blueking-paas](https://github.com/TencentBlueKing/blueking-paas) - 蓝鲸智云PaaS平台是一个开放式的开发平台，让开发者可以方便快捷地创建、开发、部署和管理 SaaS 应用。它提供了完善的前后台开发框架、服务总线（ESB）、API Gateway、调度引擎、公共组件 等服务。旨在帮助用户快速、低成本的构建免运维运营系统与支撑工具。
 * 【2024-10-31】[timescale / pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 * 【2024-10-29】[PokeAPI / pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
@@ -2758,6 +2761,7 @@
 
 ## Javascript
 
+* 【2024-11-09】[dotnet / eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 * 【2024-11-05】[frappe / lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 * 【2024-11-04】[Azgaar / Fantasy-Map-Generator](https://github.com/Azgaar/Fantasy-Map-Generator) - Web application generating interactive and highly customizable maps
 * 【2024-11-04】[jesse-ai / jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
