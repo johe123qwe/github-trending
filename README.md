@@ -2782,6 +2782,7 @@
 
 ## Javascript
 
+* 【2024-11-16】[lucahammer / tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free
 * 【2024-11-14】[InternLM / MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 * 【2024-11-10】[muxinc / media-elements](https://github.com/muxinc/media-elements) - A collection of HTMLMediaElement compatible elements and add-ons
 * 【2024-11-09】[dotnet / eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
