@@ -6550,6 +6550,7 @@
 
 ## Unknown
 
+* 【2024-12-03】[Aethersailor / Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验。
 * 【2024-11-28】[skills / github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
 * 【2024-11-26】[futurice / ios-good-practices](https://github.com/futurice/ios-good-practices) - Good ideas for iOS development, by Futurice developers.
 * 【2024-11-23】[deepseek-ai / DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
