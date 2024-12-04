@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-12-04】[pydantic / pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
 * 【2024-12-02】[anthropics / prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 * 【2024-12-02】[moshstudio / TAICHI-flet](https://github.com/moshstudio/TAICHI-flet) - 基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。
 * 【2024-12-01】[epicweb-dev / epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
@@ -1736,6 +1737,7 @@
 
 ## Python
 
+* 【2024-12-04】[QwenLM / Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) - Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 * 【2024-12-02】[superlinear-ai / raglite](https://github.com/superlinear-ai/raglite) - 🥤 RAGLite is a Python toolkit for Retrieval-Augmented Generation (RAG) with PostgreSQL or SQLite
 * 【2024-12-01】[Agenta-AI / agenta](https://github.com/Agenta-AI/agenta) - The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.
 * 【2024-12-01】[t41372 / Open-LLM-VTuber](https://github.com/t41372/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, Live2D taking face, and long-term memory running locally across platforms
@@ -2822,6 +2824,7 @@
 
 ## Javascript
 
+* 【2024-12-04】[OpenNebula / one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
 * 【2024-11-30】[xanderfrangos / twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 * 【2024-11-29】[besuper / TwitchNoSub](https://github.com/besuper/TwitchNoSub) - An extension to watch sub only VOD on Twitch
 * 【2024-11-27】[gnmyt / Nexterm](https://github.com/gnmyt/Nexterm) - The open source server management software for SSH, VNC & RDP
@@ -3854,6 +3857,9 @@
 
 ## C
 
+* 【2024-12-04】[mstorsjo / llvm-mingw](https://github.com/mstorsjo/llvm-mingw) - An LLVM/Clang/LLD based mingw-w64 toolchain
+* 【2024-12-04】[simple64 / simple64](https://github.com/simple64/simple64) - Accurate N64 Emulator
+* 【2024-12-04】[SSSD / sssd](https://github.com/SSSD/sssd) - A daemon to manage identity, authentication and authorization for centrally-managed systems.
 * 【2024-11-30】[ashvardanian / SimSIMD](https://github.com/ashvardanian/SimSIMD) - Up to 200x Faster Dot Products & Similarity Metrics — for Python, Rust, C, JS, and Swift, supporting f64, f32, f16 real & complex, i8, and bit vectors using SIMD for both AVX2, AVX-512, NEON, SVE, & SVE2 📐
 * 【2024-11-28】[hengyoush / kyanos](https://github.com/hengyoush/kyanos) - Visualize the time packets spend in the kernel, watch & analyze in command line.
 * 【2024-11-25】[Ysurac / openmptcprouter](https://github.com/Ysurac/openmptcprouter) - OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
@@ -4354,6 +4360,7 @@
 
 ## C++
 
+* 【2024-12-04】[shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 * 【2024-12-02】[jpudysz / react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
 * 【2024-11-30】[LANDrop / LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 * 【2024-11-30】[elalish / manifold](https://github.com/elalish/manifold) - Geometry library for topological robustness
