@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2024-12-07】[al1abb / invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
+* 【2024-12-07】[PostgREST / postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+* 【2024-12-07】[evolutionaryscale / esm](https://github.com/evolutionaryscale/esm) - 
 * 【2024-12-06】[qodo-ai / qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 * 【2024-12-05】[spaceandtimelabs / sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) - Space and Time | Proof of SQL
 * 【2024-12-04】[pydantic / pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
