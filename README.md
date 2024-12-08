@@ -4366,6 +4366,7 @@
 
 ## C++
 
+* 【2024-12-08】[ares-emulator / ares](https://github.com/ares-emulator/ares) - ares is a cross-platform, open source, multi-system emulator, focusing on accuracy and preservation.
 * 【2024-12-04】[shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 * 【2024-12-02】[jpudysz / react-native-unistyles](https://github.com/jpudysz/react-native-unistyles) - Level up your React Native StyleSheet
 * 【2024-11-30】[LANDrop / LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
