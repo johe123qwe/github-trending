@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-12-14】[Saghen / blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
 * 【2024-12-13】[mherrmann / helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 * 【2024-12-12】[tursodatabase / limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
 * 【2024-12-12】[electric-sql / electric](https://github.com/electric-sql/electric) - Sync little subsets of your Postgres data into local apps and services.
@@ -2849,6 +2850,7 @@
 
 ## Javascript
 
+* 【2024-12-14】[http-party / node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
 * 【2024-12-13】[viarotel-org / escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
 * 【2024-12-12】[bluewave-labs / checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 * 【2024-12-10】[jezen / is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
@@ -4390,6 +4392,7 @@
 
 ## C++
 
+* 【2024-12-14】[Detanup01 / gbe_fork](https://github.com/Detanup01/gbe_fork) - Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 * 【2024-12-10】[uxlfoundation / oneTBB](https://github.com/uxlfoundation/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 * 【2024-12-08】[ares-emulator / ares](https://github.com/ares-emulator/ares) - ares is a cross-platform, open source, multi-system emulator, focusing on accuracy and preservation.
 * 【2024-12-04】[shadps4-emu / shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
@@ -6593,6 +6596,7 @@
 
 ## Unknown
 
+* 【2024-12-14】[proxifly / free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
 * 【2024-12-12】[amilajack / reading](https://github.com/amilajack/reading) - A list of computer-science readings I recommend
 * 【2024-12-03】[Aethersailor / Custom_OpenClash_Rules](https://github.com/Aethersailor/Custom_OpenClash_Rules) - 分流完善的 OpenClash 订阅转换模板，搭配保姆级 OpenClash 设置教程，无需套娃即可实现完美分流、DNS无污染无泄漏，且快速的国内外上网体验。
 * 【2024-11-28】[skills / github-pages](https://github.com/skills/github-pages) - Create a site or blog from your GitHub repositories with GitHub Pages.
