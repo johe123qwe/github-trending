@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2024-12-25】[anti-work / shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
+* 【2024-12-25】[OpenSPG / KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.
 * 【2024-12-23】[malmeloo / FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Everything you need to query Apple's FindMy network!
 * 【2024-12-22】[bytedance / monolith](https://github.com/bytedance/monolith) - ByteDance's Recommendation System
 * 【2024-12-22】[browserbase / stagehand](https://github.com/browserbase/stagehand) - An AI web browsing framework focused on simplicity and extensibility.
@@ -3927,6 +3929,7 @@
 
 ## C
 
+* 【2024-12-25】[libsdl-org / SDL_ttf](https://github.com/libsdl-org/SDL_ttf) - Support for TrueType (.ttf) font files with Simple Directmedia Layer.
 * 【2024-12-20】[nicbarker / clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 * 【2024-12-19】[KreitinnSoftware / MiceWine-Application](https://github.com/KreitinnSoftware/MiceWine-Application) - MiceWine is a project that aims to run Windows applications and games on Android smartphones.
 * 【2024-12-19】[HDFGroup / hdf5](https://github.com/HDFGroup/hdf5) - Official HDF5® Library Repository
@@ -6662,6 +6665,7 @@
 
 ## Unknown
 
+* 【2024-12-25】[lowercase78 / V2RayN-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN-Pro
 * 【2024-12-20】[phmullins / awesome-macos](https://github.com/phmullins/awesome-macos) - A curated list of awesome software for Apple's macOS.
 * 【2024-12-19】[wwb521 / live](https://github.com/wwb521/live) - 更新高质量电视直播源，欢迎大家使用，永久免费
 * 【2024-12-19】[jujumilk3 / leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
