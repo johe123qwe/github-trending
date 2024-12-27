@@ -1777,6 +1777,7 @@
 
 ## Python
 
+* 【2024-12-27】[modelcontextprotocol / python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 * 【2024-12-26】[freqtrade / freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 * 【2024-12-26】[lipku / LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
 * 【2024-12-23】[AgentOps-AI / AgentStack](https://github.com/AgentOps-AI/AgentStack) - The fastest way to build robust AI agents
@@ -2886,6 +2887,7 @@
 
 ## Javascript
 
+* 【2024-12-27】[ruby / setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
 * 【2024-12-26】[moshang-ax / lottery](https://github.com/moshang-ax/lottery) - 🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀
 * 【2024-12-22】[violentmonkey / violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 * 【2024-12-20】[huggingface / transformers.js-examples](https://github.com/huggingface/transformers.js-examples) - A collection of 🤗 Transformers.js demos and example applications
@@ -3495,6 +3497,7 @@
 
 ## Go
 
+* 【2024-12-27】[cashapp / cloner](https://github.com/cashapp/cloner) - 
 * 【2024-12-24】[langgenius / dify-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
 * 【2024-12-23】[bbernhard / signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) - Dockerized Signal Messenger REST API
 * 【2024-12-19】[mailru / easyjson](https://github.com/mailru/easyjson) - Fast JSON serializer for golang.
@@ -3932,6 +3935,8 @@
 
 ## C
 
+* 【2024-12-27】[rusefi / rusefi](https://github.com/rusefi/rusefi) - rusefi - GPL internal combustion engine control unit
+* 【2024-12-27】[RamonUnch / AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
 * 【2024-12-25】[libsdl-org / SDL_ttf](https://github.com/libsdl-org/SDL_ttf) - Support for TrueType (.ttf) font files with Simple Directmedia Layer.
 * 【2024-12-20】[nicbarker / clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
 * 【2024-12-19】[KreitinnSoftware / MiceWine-Application](https://github.com/KreitinnSoftware/MiceWine-Application) - MiceWine is a project that aims to run Windows applications and games on Android smartphones.
