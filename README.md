@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2024-12-30】[mikage-emu / mikage-dev](https://github.com/mikage-emu/mikage-dev) - Mikage Developer Edition
 * 【2024-12-29】[elizaOS / eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 * 【2024-12-28】[mbadolato / iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more
 * 【2024-12-28】[kangfenmao / cherry-studio](https://github.com/kangfenmao/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
@@ -2892,6 +2893,7 @@
 
 ## Javascript
 
+* 【2024-12-30】[notwaldorf / emoji-translate](https://github.com/notwaldorf/emoji-translate) - 📚 Translate text to ✨emoji ✨!
 * 【2024-12-29】[amarullz / AnimeTV](https://github.com/amarullz/AnimeTV) - Watch Anime in Your AndroidTV
 * 【2024-12-28】[dexie / Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 * 【2024-12-27】[ruby / setup-ruby](https://github.com/ruby/setup-ruby) - An action to download a prebuilt Ruby and add it to the PATH in 5 seconds
@@ -6687,6 +6689,7 @@
 
 ## Unknown
 
+* 【2024-12-30】[tycrek / degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 * 【2024-12-28】[shadps4-emu / shadps4-game-compatibility](https://github.com/shadps4-emu/shadps4-game-compatibility) - Shadps4 game compatibility
 * 【2024-12-28】[deepseek-ai / awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - 
 * 【2024-12-25】[lowercase78 / V2RayN-PRO](https://github.com/lowercase78/V2RayN-PRO) - v2rayN-Pro
