@@ -3959,6 +3959,8 @@
 
 ## C
 
+* 【2025-01-06】[s-macke / VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
+* 【2025-01-06】[Waujito / youtubeUnblock](https://github.com/Waujito/youtubeUnblock) - Bypasses Deep Packet Inspection (DPI) systems that rely on SNI
 * 【2024-12-31】[bmorcelli / M5Stick-Launcher](https://github.com/bmorcelli/M5Stick-Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
 * 【2024-12-29】[TA-Lib / ta-lib](https://github.com/TA-Lib/ta-lib) - TA-Lib (Core C Library)
 * 【2024-12-29】[skot / ESP-Miner](https://github.com/skot/ESP-Miner) - A bitcoin ASIC miner for the ESP32
