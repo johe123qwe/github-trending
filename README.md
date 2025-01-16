@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2025-01-16】[pixelfed / pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
 * 【2025-01-15】[spree / spree](https://github.com/spree/spree) - An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev
 * 【2025-01-13】[JoshuaC215 / agent-service-toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 * 【2025-01-13】[kevmo314 / scuda](https://github.com/kevmo314/scuda) - SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.
@@ -1802,6 +1803,10 @@
 
 ## Python
 
+* 【2025-01-16】[AmberSahdev / Open-Interface](https://github.com/AmberSahdev/Open-Interface) - Control Any Computer Using LLMs.
+* 【2025-01-16】[instructor-ai / instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms
+* 【2025-01-16】[qhjqhj00 / MemoRAG](https://github.com/qhjqhj00/MemoRAG) - Empowering RAG with a memory-based data interface for all-purpose applications!
+* 【2025-01-16】[ansible / ansible-lint](https://github.com/ansible/ansible-lint) - ansible-lint checks playbooks for practices and behavior that could potentially be improved and can fix some of the most common ones for you
 * 【2025-01-15】[OpenBMB / MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone
 * 【2025-01-14】[KoljaB / RealtimeSTT](https://github.com/KoljaB/RealtimeSTT) - A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.
 * 【2025-01-13】[nautechsystems / nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
@@ -2928,6 +2933,7 @@
 
 ## Javascript
 
+* 【2025-01-16】[pixelfed / pixelfed-rn](https://github.com/pixelfed/pixelfed-rn) - Pixelfed mobile app
 * 【2025-01-14】[i-am-shodan / USBArmyKnife](https://github.com/i-am-shodan/USBArmyKnife) - USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
 * 【2025-01-11】[thedevs-network / kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 * 【2025-01-07】[openai / openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
@@ -4514,6 +4520,8 @@
 
 ## C++
 
+* 【2025-01-16】[GuijiAI / duix.ai](https://github.com/GuijiAI/duix.ai) - 
+* 【2025-01-16】[windirstat / windirstat](https://github.com/windirstat/windirstat) - WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows
 * 【2025-01-11】[Livox-SDK / Livox-SDK2](https://github.com/Livox-SDK/Livox-SDK2) - Drivers for receiving LiDAR data and controlling lidar, support Lidar HAP and Mid-360.
 * 【2025-01-07】[srsran / srsRAN_Project](https://github.com/srsran/srsRAN_Project) - Open source O-RAN 5G CU/DU solution from Software Radio Systems (SRS) https://docs.srsran.com/projects/project
 * 【2025-01-06】[momo5502 / emulator](https://github.com/momo5502/emulator) - 🪅 Windows User Space Emulator
@@ -4958,6 +4966,8 @@
 
 ## C#
 
+* 【2025-01-16】[shouldly / shouldly](https://github.com/shouldly/shouldly) - Should testing for .NET—the way assertions should be!
+* 【2025-01-16】[googlesamples / unity-jar-resolver](https://github.com/googlesamples/unity-jar-resolver) - Unity plugin which resolves Android & iOS dependencies and performs version management
 * 【2025-01-06】[antonioCoco / RunasCs](https://github.com/antonioCoco/RunasCs) - RunasCs - Csharp and open version of windows builtin runas.exe
 * 【2025-01-01】[NoelFB / Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
 * 【2025-01-01】[neo-project / neo](https://github.com/neo-project/neo) - NEO Smart Economy
@@ -5472,6 +5482,7 @@
 
 ## Html
 
+* 【2025-01-16】[Born2Root / Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
 * 【2025-01-14】[IBM / data-prep-kit](https://github.com/IBM/data-prep-kit) - Open source project for data preparation of LLM application builders
 * 【2025-01-12】[PaulJerimy / SecCertRoadmapHTML](https://github.com/PaulJerimy/SecCertRoadmapHTML) - Security Certification Roadmap HTML5/CSS3 version
 * 【2025-01-08】[kha-white / mokuro](https://github.com/kha-white/mokuro) - Read Japanese manga inside browser with selectable text.
@@ -6764,6 +6775,7 @@
 
 ## Unknown
 
+* 【2025-01-16】[GAIR-NLP / O1-Journey](https://github.com/GAIR-NLP/O1-Journey) - O1 Replication Journey: A Strategic Progress Report – Part I
 * 【2025-01-11】[openebs / openebs](https://github.com/openebs/openebs) - Most popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 * 【2025-01-09】[microsoft / aitour-repo-principal-list](https://github.com/microsoft/aitour-repo-principal-list) - 
 * 【2025-01-08】[jaywcjlove / docker-tutorial](https://github.com/jaywcjlove/docker-tutorial) - 🐳 Docker入门学习笔记
