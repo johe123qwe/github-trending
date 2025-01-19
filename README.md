@@ -1806,6 +1806,7 @@
 
 ## Python
 
+* 【2025-01-19】[AutoGPTQ / AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 * 【2025-01-18】[databrickslabs / dqx](https://github.com/databrickslabs/dqx) - Databricks framework to validate Data Quality of pySpark DataFrames
 * 【2025-01-18】[ArchipelagoMW / Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 * 【2025-01-16】[AmberSahdev / Open-Interface](https://github.com/AmberSahdev/Open-Interface) - Control Any Computer Using LLMs.
