@@ -4016,6 +4016,8 @@
 
 ## C
 
+* 【2025-01-21】[nuta / operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
+* 【2025-01-21】[am32-firmware / AM32](https://github.com/am32-firmware/AM32) - 
 * 【2025-01-20】[i486 / VxKex](https://github.com/i486/VxKex) - Windows 7 API Extensions
 * 【2025-01-20】[networkupstools / nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 Please star NUT on GitHub, this helps with sponsorships!
 * 【2025-01-19】[YTEC-info / CH341A-Softwares](https://github.com/YTEC-info/CH341A-Softwares) - CH341A Softwares (Windows, Linux, Mac and Android)
@@ -4989,6 +4991,7 @@
 
 ## C#
 
+* 【2025-01-21】[odedshimon / BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
 * 【2025-01-20】[builtbybel / Flyby11](https://github.com/builtbybel/Flyby11) - Windows 11 Upgrading Assistant
 * 【2025-01-19】[Jettcodey / TikTok-Downloader](https://github.com/Jettcodey/TikTok-Downloader) - Just a simple TikTok Downloader for Windows capable of downloading single videos/images, Mass Downloading from Links in a Text file or Mass downloading from an entire Profile.
 * 【2025-01-16】[shouldly / shouldly](https://github.com/shouldly/shouldly) - Should testing for .NET—the way assertions should be!
@@ -5507,6 +5510,7 @@
 
 ## Html
 
+* 【2025-01-21】[OCA / pos](https://github.com/OCA/pos) - 
 * 【2025-01-20】[7h30th3r0n3 / Evil-M5Project](https://github.com/7h30th3r0n3/Evil-M5Project) - Evil-M5Project is an innovative tool developed for ethical testing and exploration of WiFi networks. It's compatible with Cardputer, Atoms3, Fire, core2. You can scan, monitor, and interact with WiFi networks in a controlled environment. This project is designed for educational purposes, aiding in understanding network security and vulnerabilities.
 * 【2025-01-19】[xlang-ai / Spider2](https://github.com/xlang-ai/Spider2) - Spider 2.0: Evaluating Language Models on Real-World Enterprise Text-to-SQL Workflows
 * 【2025-01-18】[platzi / git-github](https://github.com/platzi/git-github) - Repositorio del Curso de Git y GitHub
