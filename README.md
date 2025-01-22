@@ -4016,6 +4016,7 @@
 
 ## C
 
+* 【2025-01-22】[oxters168 / Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android
 * 【2025-01-21】[nuta / operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines) - Writing an OS in 1,000 lines.
 * 【2025-01-21】[am32-firmware / AM32](https://github.com/am32-firmware/AM32) - 
 * 【2025-01-20】[i486 / VxKex](https://github.com/i486/VxKex) - Windows 7 API Extensions
@@ -4543,6 +4544,7 @@
 
 ## C++
 
+* 【2025-01-22】[moudey / Shell](https://github.com/moudey/Shell) - Powerful context menu manager for Windows File Explorer
 * 【2025-01-20】[TDesktop-x64 / tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
 * 【2025-01-19】[aliyun / SimAI](https://github.com/aliyun/SimAI) - 
 * 【2025-01-16】[GuijiAI / duix.ai](https://github.com/GuijiAI/duix.ai) - 
@@ -4991,6 +4993,7 @@
 
 ## C#
 
+* 【2025-01-22】[dnnsoftware / Dnn.Platform](https://github.com/dnnsoftware/Dnn.Platform) - DNN (formerly DotNetNuke) is the leading open source web content management platform (CMS) in the Microsoft ecosystem.
 * 【2025-01-21】[odedshimon / BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool
 * 【2025-01-20】[builtbybel / Flyby11](https://github.com/builtbybel/Flyby11) - Windows 11 Upgrading Assistant
 * 【2025-01-19】[Jettcodey / TikTok-Downloader](https://github.com/Jettcodey/TikTok-Downloader) - Just a simple TikTok Downloader for Windows capable of downloading single videos/images, Mass Downloading from Links in a Text file or Mass downloading from an entire Profile.
@@ -6047,6 +6050,7 @@
 
 ## Css
 
+* 【2025-01-22】[mecha-org / mecha-docs](https://github.com/mecha-org/mecha-docs) - Open Docs for Mecha Stack
 * 【2025-01-17】[felix-bohlin / ui](https://github.com/felix-bohlin/ui) - A modern, cutting edge UI library. So modern you might need browser feature flags enabled. Designed to suit professional teams as well as tinkering hobbyists.
 * 【2025-01-09】[vinaysomawat / vinaysomawat.github.io](https://github.com/vinaysomawat/vinaysomawat.github.io) - A cutting-edge portfolio web page utilizing vanilla JavaScript.
 * 【2025-01-07】[remy / mit-license](https://github.com/remy/mit-license) - Hosted MIT License with details controlled through this repo
