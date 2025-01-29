@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2025-01-29】[QwenLM / Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+* 【2025-01-29】[deepseek-ai / ESFT](https://github.com/deepseek-ai/ESFT) - Expert Specialized Fine-Tuning
 * 【2025-01-28】[deepseek-ai / Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 * 【2025-01-26】[onlook-dev / onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
 * 【2025-01-25】[lightpanda-io / browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
@@ -1424,6 +1426,7 @@
 
 ## Java
 
+* 【2025-01-29】[infinispan / infinispan](https://github.com/infinispan/infinispan) - Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
 * 【2025-01-28】[wso2 / product-is](https://github.com/wso2/product-is) - Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.
 * 【2025-01-27】[anonfaded / FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad-free and open-source, with customizable options.
 * 【2025-01-26】[PurpurMC / Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
@@ -2961,6 +2964,7 @@
 
 ## Javascript
 
+* 【2025-01-29】[DeepLifeStudio / DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model.
 * 【2025-01-27】[IQEngine / WebFFT](https://github.com/IQEngine/WebFFT) - The Fastest Fourier Transform on the Web!
 * 【2025-01-27】[bosichong / PrimarySchoolMathematics](https://github.com/bosichong/PrimarySchoolMathematics) - 孩子上小学一年级了，加减乘除的口算就要开始练习了，估计老师肯定会让家长出题，所以提前准备一下，利用Python开发了一套自动生成小学生口算题的小应用。而且今天是程序员节，撸200行代码庆祝一下。：）
 * 【2025-01-25】[XRPLF / xrpl-dev-portal](https://github.com/XRPLF/xrpl-dev-portal) - Source code for xrpl.org including developer documentation
@@ -3586,6 +3590,7 @@
 
 ## Go
 
+* 【2025-01-29】[ekristen / aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
 * 【2025-01-27】[nevalang / neva](https://github.com/nevalang/neva) - 🌊 Next-generation programming language that solves programmers' problems
 * 【2025-01-27】[garethgeorge / backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup.
 * 【2025-01-25】[mk6i / retro-aim-server](https://github.com/mk6i/retro-aim-server) - Open-source instant messaging server that makes classic AIM and ICQ clients work again.
@@ -6846,6 +6851,7 @@
 
 ## Unknown
 
+* 【2025-01-29】[may215 / awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 * 【2025-01-25】[jlopp / physical-bitcoin-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.
 * 【2025-01-23】[mercari / ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
 * 【2025-01-16】[GAIR-NLP / O1-Journey](https://github.com/GAIR-NLP/O1-Journey) - O1 Replication Journey: A Strategic Progress Report – Part I
