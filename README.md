@@ -1837,6 +1837,8 @@
 
 ## Python
 
+* 【2025-02-04】[agno-agi / agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
+* 【2025-02-04】[Blaizzy / mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
 * 【2025-02-02】[lllyasviel / Paints-UNDO](https://github.com/lllyasviel/Paints-UNDO) - Understand Human Behavior to Align True Needs
 * 【2025-01-31】[QwenLM / Qwen2.5-Math](https://github.com/QwenLM/Qwen2.5-Math) - A series of math-specific large language models of our Qwen2 series.
 * 【2025-01-31】[volcengine / verl](https://github.com/volcengine/verl) - veRL: Volcano Engine Reinforcement Learning for LLM
@@ -5046,6 +5048,7 @@
 
 ## C#
 
+* 【2025-02-04】[timschneeb / GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
 * 【2025-02-03】[InvisibleManVPN / InvisibleMan-XRayClient](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient) - A client for xray core
 * 【2025-01-28】[ElectronNET / Electron.NET](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
 * 【2025-01-25】[ivanpaulovich / clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - 🌀 Clean Architecture with .NET6, C#10 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
