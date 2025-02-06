@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2025-02-06】[Physical-Intelligence / openpi](https://github.com/Physical-Intelligence/openpi) - 
 * 【2025-02-05】[monasticacademy / httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 * 【2025-02-05】[elastic / integrations](https://github.com/elastic/integrations) - 
 * 【2025-02-04】[folke / snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
@@ -6886,6 +6887,7 @@
 
 ## Unknown
 
+* 【2025-02-06】[koobzaar / lol-skins](https://github.com/koobzaar/lol-skins) - [⭐] A community-maintained repository featuring all 7,669 official League of Legends skins and chromas models as custom skins.
 * 【2025-01-29】[may215 / awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
 * 【2025-01-25】[jlopp / physical-bitcoin-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace.
 * 【2025-01-23】[mercari / ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern) - System design patterns for machine learning
