@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2025-02-08】[ChatGPTNextWeb / NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
 * 【2025-02-06】[Physical-Intelligence / openpi](https://github.com/Physical-Intelligence/openpi) - 
 * 【2025-02-05】[monasticacademy / httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 * 【2025-02-05】[elastic / integrations](https://github.com/elastic/integrations) - 
@@ -1841,6 +1842,7 @@
 
 ## Python
 
+* 【2025-02-08】[roboflow / maestro](https://github.com/roboflow/maestro) - streamline the fine-tuning process for multimodal models: PaliGemma, Florence-2, and Qwen2-VL
 * 【2025-02-04】[tcgoetz / GarminDB](https://github.com/tcgoetz/GarminDB) - Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.
 * 【2025-02-04】[agno-agi / agno](https://github.com/agno-agi/agno) - Agno is a lightweight framework for building multi-modal Agents
 * 【2025-02-04】[Blaizzy / mlx-vlm](https://github.com/Blaizzy/mlx-vlm) - MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
@@ -4604,6 +4606,7 @@
 
 ## C++
 
+* 【2025-02-08】[dwhinham / mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth.
 * 【2025-02-04】[mkckr0 / audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 * 【2025-02-04】[steveicarus / iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
 * 【2025-02-01】[KhronosGroup / Vulkan-ValidationLayers](https://github.com/KhronosGroup/Vulkan-ValidationLayers) - Vulkan Validation Layers (VVL)
@@ -5057,6 +5060,7 @@
 
 ## C#
 
+* 【2025-02-08】[dotnet / yarp](https://github.com/dotnet/yarp) - A toolkit for developing high-performance HTTP reverse proxy applications.
 * 【2025-02-04】[timschneeb / GalaxyBudsClient](https://github.com/timschneeb/GalaxyBudsClient) - Unofficial Galaxy Buds Manager for Windows, macOS, Linux, and Android
 * 【2025-02-03】[InvisibleManVPN / InvisibleMan-XRayClient](https://github.com/InvisibleManVPN/InvisibleMan-XRayClient) - A client for xray core
 * 【2025-01-28】[ElectronNET / Electron.NET](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).
@@ -6124,6 +6128,7 @@
 
 ## Css
 
+* 【2025-02-08】[wso2 / docs-apim](https://github.com/wso2/docs-apim) - 
 * 【2025-01-31】[pythonanywhere / help_pages](https://github.com/pythonanywhere/help_pages) - The help pages for help.pythonanywhere.com
 * 【2025-01-22】[mecha-org / mecha-docs](https://github.com/mecha-org/mecha-docs) - Open Docs for Mecha Stack
 * 【2025-01-17】[felix-bohlin / ui](https://github.com/felix-bohlin/ui) - A modern, cutting edge UI library. So modern you might need browser feature flags enabled. Designed to suit professional teams as well as tinkering hobbyists.
