@@ -3616,6 +3616,7 @@
 
 ## Go
 
+* 【2025-02-08】[fastenhealth / fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
 * 【2025-02-03】[starfederation / datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 * 【2025-01-30】[centrifugal / centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.
 * 【2025-01-29】[ekristen / aws-nuke](https://github.com/ekristen/aws-nuke) - Remove all the resources from an AWS account
@@ -4073,6 +4074,7 @@
 
 ## C
 
+* 【2025-02-08】[eclipse-paho / paho.mqtt.c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/
 * 【2025-02-04】[StuckAtPrototype / Racer](https://github.com/StuckAtPrototype/Racer) - 
 * 【2025-01-30】[pebble-dev / RebbleOS](https://github.com/pebble-dev/RebbleOS) - open source operating system for low-power smartwatches
 * 【2025-01-26】[da-luce / astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
@@ -4606,6 +4608,7 @@
 
 ## C++
 
+* 【2025-02-08】[mlc-ai / xgrammar](https://github.com/mlc-ai/xgrammar) - Efficient, Flexible and Portable Structured Generation
 * 【2025-02-08】[dwhinham / mt32-pi](https://github.com/dwhinham/mt32-pi) - 🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth.
 * 【2025-02-04】[mkckr0 / audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 * 【2025-02-04】[steveicarus / iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog
@@ -5585,6 +5588,7 @@
 
 ## Html
 
+* 【2025-02-08】[n8n-io / n8n-docs](https://github.com/n8n-io/n8n-docs) - Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
 * 【2025-02-01】[uswds / uswds-site](https://github.com/uswds/uswds-site) - USWDS website and documentation
 * 【2025-01-31】[jflaherty / ptrtut13](https://github.com/jflaherty/ptrtut13) - A TUTORIAL ON POINTERS AND ARRAYS IN C
 * 【2025-01-28】[nginx / documentation](https://github.com/nginx/documentation) - Public source for docs.nginx.com
