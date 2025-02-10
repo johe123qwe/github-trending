@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2025-02-10】[browser-use / browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+* 【2025-02-10】[n0-computer / iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
+* 【2025-02-10】[T8RIN / ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 * 【2025-02-08】[ChatGPTNextWeb / NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
 * 【2025-02-06】[Physical-Intelligence / openpi](https://github.com/Physical-Intelligence/openpi) - 
 * 【2025-02-05】[monasticacademy / httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
@@ -1442,6 +1445,7 @@
 
 ## Java
 
+* 【2025-02-10】[DP-Hridayan / aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 * 【2025-01-29】[infinispan / infinispan](https://github.com/infinispan/infinispan) - Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.
 * 【2025-01-28】[wso2 / product-is](https://github.com/wso2/product-is) - Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.
 * 【2025-01-27】[anonfaded / FadCam](https://github.com/anonfaded/FadCam) - Seamless background video recorder for Android – ad-free and open-source, with customizable options.
@@ -1842,6 +1846,8 @@
 
 ## Python
 
+* 【2025-02-10】[homarr-labs / dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
+* 【2025-02-10】[SWivid / F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 * 【2025-02-09】[potpie-ai / potpie](https://github.com/potpie-ai/potpie) - Prompt-To-Agent : Create custom engineering agents for your codebase
 * 【2025-02-09】[iscyy / ultralyticsPro](https://github.com/iscyy/ultralyticsPro) - 🔥🔥🔥 专注于YOLO11，YOLOv8、YOLOv10、RT-DETR、YOLOv7、YOLOv5改进模型，Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
 * 【2025-02-08】[roboflow / maestro](https://github.com/roboflow/maestro) - streamline the fine-tuning process for multimodal models: PaliGemma, Florence-2, and Qwen2-VL
@@ -2990,6 +2996,7 @@
 
 ## Javascript
 
+* 【2025-02-10】[ftde0 / yt2009](https://github.com/ftde0/yt2009) - 2009 youtube frontend.
 * 【2025-02-04】[Lumon-Industries / Macrodata-Refinement](https://github.com/Lumon-Industries/Macrodata-Refinement) - Marcrodata Refinement
 * 【2025-02-01】[shipshapecode / shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 * 【2025-01-29】[DeepLifeStudio / DeepSeekAI](https://github.com/DeepLifeStudio/DeepSeekAI) - Browser extension for invoking the DeepSeek AI large model.
@@ -3618,6 +3625,7 @@
 
 ## Go
 
+* 【2025-02-10】[turbot / tailpipe](https://github.com/turbot/tailpipe) - select * from logs; Tailpipe is an open source SIEM for instant log insights, powered by DuckDB. Analyze millions of events in seconds, right from your terminal.
 * 【2025-02-09】[mayswind / ezbookkeeping](https://github.com/mayswind/ezbookkeeping) - A lightweight personal bookkeeping app hosted by yourself.
 * 【2025-02-08】[fastenhealth / fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
 * 【2025-02-03】[starfederation / datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
@@ -6135,6 +6143,7 @@
 
 ## Css
 
+* 【2025-02-10】[adriankarlen / textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast
 * 【2025-02-08】[wso2 / docs-apim](https://github.com/wso2/docs-apim) - 
 * 【2025-01-31】[pythonanywhere / help_pages](https://github.com/pythonanywhere/help_pages) - The help pages for help.pythonanywhere.com
 * 【2025-01-22】[mecha-org / mecha-docs](https://github.com/mecha-org/mecha-docs) - Open Docs for Mecha Stack
