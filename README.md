@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2025-02-12】[MystenLabs / walrus-docs](https://github.com/MystenLabs/walrus-docs) - Documentation and examples for the Walrus decentralized storage system
+* 【2025-02-12】[datawhalechina / llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+* 【2025-02-12】[antonputra / tutorials](https://github.com/antonputra/tutorials) - DevOps Tutorials
 * 【2025-02-11】[microsoft / data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 * 【2025-02-10】[browser-use / browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 * 【2025-02-10】[n0-computer / iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
@@ -1847,6 +1850,8 @@
 
 ## Python
 
+* 【2025-02-12】[WEIFENG2333 / VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
+* 【2025-02-12】[greghesp / ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers
 * 【2025-02-10】[homarr-labs / dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
 * 【2025-02-10】[SWivid / F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 * 【2025-02-09】[potpie-ai / potpie](https://github.com/potpie-ai/potpie) - Prompt-To-Agent : Create custom engineering agents for your codebase
@@ -5604,6 +5609,7 @@
 
 ## Html
 
+* 【2025-02-12】[SuperSimpleDev / html-css-course](https://github.com/SuperSimpleDev/html-css-course) - Watch the course: https://youtu.be/G3e-cpL7ofc
 * 【2025-02-08】[n8n-io / n8n-docs](https://github.com/n8n-io/n8n-docs) - Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.
 * 【2025-02-01】[uswds / uswds-site](https://github.com/uswds/uswds-site) - USWDS website and documentation
 * 【2025-01-31】[jflaherty / ptrtut13](https://github.com/jflaherty/ptrtut13) - A TUTORIAL ON POINTERS AND ARRAYS IN C
