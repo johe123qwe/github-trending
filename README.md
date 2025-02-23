@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2025-02-23】[mountain-loop / yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 * 【2025-02-22】[koide3 / glim](https://github.com/koide3/glim) - GLIM: versatile and extensible range-based 3D localization and mapping framework
 * 【2025-02-20】[treetrum / amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Designed for downloading your Kindle eBooks in a more automated fashion than is typically permitted, this tool allows you to create backup copies of the books you've already purchased.
 * 【2025-02-20】[mastra-ai / mastra](https://github.com/mastra-ai/mastra) - the TypeScript AI agent framework
@@ -3658,6 +3659,7 @@
 
 ## Go
 
+* 【2025-02-23】[uber / kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 * 【2025-02-22】[subtrace / subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
 * 【2025-02-15】[kubernetes-sigs / lws](https://github.com/kubernetes-sigs/lws) - LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
 * 【2025-02-13】[MartialBE / one-hub](https://github.com/MartialBE/one-hub) - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
@@ -4121,6 +4123,7 @@
 
 ## C
 
+* 【2025-02-23】[stlink-org / stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
 * 【2025-02-20】[ghaerr / elks](https://github.com/ghaerr/elks) - Embeddable Linux Kernel Subset - Linux for 8086
 * 【2025-02-08】[eclipse-paho / paho.mqtt.c](https://github.com/eclipse-paho/paho.mqtt.c) - An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/
 * 【2025-02-04】[StuckAtPrototype / Racer](https://github.com/StuckAtPrototype/Racer) - 
@@ -4656,6 +4659,7 @@
 
 ## C++
 
+* 【2025-02-23】[mausimus / ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop
 * 【2025-02-16】[ggml-org / llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 * 【2025-02-11】[ripose-jp / Memento](https://github.com/ripose-jp/Memento) - An mpv-based video player for studying Japanese
 * 【2025-02-11】[qpdf / qpdf](https://github.com/qpdf/qpdf) - qpdf: A content-preserving PDF document transformer
