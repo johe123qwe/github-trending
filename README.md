@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2025-02-24】[vllm-project / aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
+* 【2025-02-24】[Flowseal / zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - 
 * 【2025-02-23】[mountain-loop / yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 * 【2025-02-22】[koide3 / glim](https://github.com/koide3/glim) - GLIM: versatile and extensible range-based 3D localization and mapping framework
 * 【2025-02-20】[treetrum / amazon-kindle-bulk-downloader](https://github.com/treetrum/amazon-kindle-bulk-downloader) - Designed for downloading your Kindle eBooks in a more automated fashion than is typically permitted, this tool allows you to create backup copies of the books you've already purchased.
@@ -1867,6 +1869,7 @@
 
 ## Python
 
+* 【2025-02-24】[crossbario / autobahn-testsuite](https://github.com/crossbario/autobahn-testsuite) - Autobahn WebSocket protocol testsuite
 * 【2025-02-22】[fastapi / sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 * 【2025-02-20】[fastapi / fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 * 【2025-02-19】[getzep / graphiti](https://github.com/getzep/graphiti) - Build and query dynamic, temporally-aware Knowledge Graphs
@@ -3027,6 +3030,7 @@
 
 ## Javascript
 
+* 【2025-02-24】[steveseguin / social_stream](https://github.com/steveseguin/social_stream) - Consolidate your live social messaging streams and much more
 * 【2025-02-20】[tailwindlabs / tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 * 【2025-02-18】[damianeickhoff / HaCasa](https://github.com/damianeickhoff/HaCasa) - Custom theme and cards for Home Assistant
 * 【2025-02-16】[enatega / food-delivery-multivendor](https://github.com/enatega/food-delivery-multivendor) - Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: 🚀🛒📦🌐
@@ -3659,6 +3663,8 @@
 
 ## Go
 
+* 【2025-02-24】[AvaProtocol / EigenLayer-AVS](https://github.com/AvaProtocol/EigenLayer-AVS) - AvaProtocol Ethereum Automation Build on EigenLayer
+* 【2025-02-24】[googleapis / genai-toolbox](https://github.com/googleapis/genai-toolbox) - Gen AI Toolbox for Databases is an open source server that makes it easier to build Gen AI tools for interacting with databases.
 * 【2025-02-23】[uber / kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 * 【2025-02-22】[subtrace / subtrace](https://github.com/subtrace/subtrace) - Wireshark for Docker containers
 * 【2025-02-15】[kubernetes-sigs / lws](https://github.com/kubernetes-sigs/lws) - LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
@@ -6200,6 +6206,7 @@
 
 ## Css
 
+* 【2025-02-24】[polyfractal / elasticsearch-segmentspy](https://github.com/polyfractal/elasticsearch-segmentspy) - ElasticSearch plugin to watch segment dynamics (additions, merges, deletes)
 * 【2025-02-20】[open-falcon-archive / agent](https://github.com/open-falcon-archive/agent) - linux monitor agent
 * 【2025-02-10】[adriankarlen / textfox](https://github.com/adriankarlen/textfox) - firefox theme for the tui enthusiast
 * 【2025-02-08】[wso2 / docs-apim](https://github.com/wso2/docs-apim) - 
@@ -6966,6 +6973,7 @@
 
 ## Unknown
 
+* 【2025-02-24】[ZitaoTech / Hackberry-Pi_Zero](https://github.com/ZitaoTech/Hackberry-Pi_Zero) - A handheld Linux terminal using Raspberry pi Zero 2W as Core with 4" 720X720 TFT display
 * 【2025-02-18】[icon11-community / Folder11](https://github.com/icon11-community/Folder11) - Windows 11-like custom directory icon.
 * 【2025-02-06】[koobzaar / lol-skins](https://github.com/koobzaar/lol-skins) - [⭐] A community-maintained repository featuring all 7,669 official League of Legends skins and chromas models as custom skins.
 * 【2025-01-29】[may215 / awesome-termux-hacking](https://github.com/may215/awesome-termux-hacking) - ⚡️An awesome list of the best Termux hacking tools
