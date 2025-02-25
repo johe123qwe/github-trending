@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2025-02-25】[langchain-ai / open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 * 【2025-02-24】[vllm-project / aibrix](https://github.com/vllm-project/aibrix) - Cost-efficient and pluggable Infrastructure components for GenAI inference
 * 【2025-02-24】[Flowseal / zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube) - 
 * 【2025-02-23】[mountain-loop / yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
