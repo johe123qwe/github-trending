@@ -5154,6 +5154,7 @@
 
 ## C#
 
+* 【2025-03-05】[hedge-dev / HedgeModManager](https://github.com/hedge-dev/HedgeModManager) - Multiplatform rewrite of Hedge Mod Manager
 * 【2025-03-03】[iiDk-the-actual / iis.Stupid.Menu](https://github.com/iiDk-the-actual/iis.Stupid.Menu) - A mod menu for Gorilla Tag with over 800+ mods
 * 【2025-03-02】[DeltaV-Station / Delta-v](https://github.com/DeltaV-Station/Delta-v) - A fork of Space Station 14, embracing a mixture of classic SS13 chaos and experimentation only possible with the new engine
 * 【2025-02-26】[Unity-Technologies / ProjectAuditor](https://github.com/Unity-Technologies/ProjectAuditor) - Project Auditor is an experimental static analysis tool for Unity Projects.
