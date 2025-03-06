@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2025-03-06】[TanStack / form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
 * 【2025-03-05】[kubernetes-sigs / kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 * 【2025-03-05】[commixproject / commix](https://github.com/commixproject/commix) - Automated All-in-One OS Command Injection Exploitation Tool.
 * 【2025-03-05】[cloudwego / eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang.
