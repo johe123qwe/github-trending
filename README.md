@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2025-03-07】[EFForg / rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
+* 【2025-03-07】[patchy631 / ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - 
 * 【2025-03-06】[zigtools / zls](https://github.com/zigtools/zls) - A Zig language server supporting Zig developers with features like autocomplete and goto definition
 * 【2025-03-06】[Plachtaa / seed-vc](https://github.com/Plachtaa/seed-vc) - zero-shot voice conversion & singing voice conversion, with real-time support
 * 【2025-03-06】[TanStack / form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
@@ -1884,6 +1886,7 @@
 
 ## Python
 
+* 【2025-03-07】[Tencent / HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
 * 【2025-03-06】[THUDM / CogView4](https://github.com/THUDM/CogView4) - CogView4, CogView3-Plus and CogView3(ECCV 2024)
 * 【2025-03-05】[gpustack / gpustack](https://github.com/gpustack/gpustack) - Manage GPU clusters for running AI models
 * 【2025-03-03】[jjleng / copilot-more](https://github.com/jjleng/copilot-more) - GPT-4o and Claude-3.7-Sonnet APIs for coding.
@@ -3056,6 +3059,7 @@
 
 ## Javascript
 
+* 【2025-03-07】[browserbase / mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - 
 * 【2025-03-06】[maxi1134 / Home-Assistant-Config](https://github.com/maxi1134/Home-Assistant-Config) - This is my Smart-home Installation repository
 * 【2025-03-06】[microsoft / generative-ai-with-javascript](https://github.com/microsoft/generative-ai-with-javascript) - Join a time-traveling adventure where you meet history’s legends while learning Generative AI technologies! ✨
 * 【2025-03-02】[lyfe00011 / levanter](https://github.com/lyfe00011/levanter) - 
@@ -3696,6 +3700,7 @@
 
 ## Go
 
+* 【2025-03-07】[mostlygeek / llama-swap](https://github.com/mostlygeek/llama-swap) - transparent proxy server for llama.cpp's server to provide automatic model swapping
 * 【2025-03-03】[vinceanalytics / vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 * 【2025-03-02】[DeepSourceCorp / globstar](https://github.com/DeepSourceCorp/globstar) - Globstar is a fast, feature-rich, and open-source static analysis toolkit for writing and running code checkers. Based on tree-sitter.
 * 【2025-03-02】[gagliardetto / solana-go](https://github.com/gagliardetto/solana-go) - Go SDK library and RPC client for the Solana Blockchain
@@ -4704,6 +4709,7 @@
 
 ## C++
 
+* 【2025-03-07】[bytedance / flux](https://github.com/bytedance/flux) - A fast communication-overlapping library for tensor/expert parallelism on GPUs.
 * 【2025-03-03】[hedge-dev / UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 * 【2025-02-26】[ROCm / composable_kernel](https://github.com/ROCm/composable_kernel) - Composable Kernel: Performance Portable Programming Model for Machine Learning Tensor Operators
 * 【2025-02-23】[mausimus / ShaderGlass](https://github.com/mausimus/ShaderGlass) - Overlay for running GPU shaders on top of Windows desktop
