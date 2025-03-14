@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2025-03-14】[johnbean393 / Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
 * 【2025-03-11】[yuruotong1 / autoMate](https://github.com/yuruotong1/autoMate) - like manus and omniparser.AI-driven local automation assistant that uses natural language to make computers work by themselves
 * 【2025-03-10】[thalissonvs / pydoll](https://github.com/thalissonvs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping.
 * 【2025-03-10】[mfontanini / presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
