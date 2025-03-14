@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2025-03-14】[yuaotian / go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+* 【2025-03-14】[kern / filepizza](https://github.com/kern/filepizza) - 🍕 Peer-to-peer file transfers in your browser
 * 【2025-03-14】[johnbean393 / Sidekick](https://github.com/johnbean393/Sidekick) - A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
 * 【2025-03-11】[yuruotong1 / autoMate](https://github.com/yuruotong1/autoMate) - like manus and omniparser.AI-driven local automation assistant that uses natural language to make computers work by themselves
 * 【2025-03-10】[thalissonvs / pydoll](https://github.com/thalissonvs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping.
@@ -1896,6 +1898,7 @@
 
 ## Python
 
+* 【2025-03-14】[simular-ai / Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 * 【2025-03-13】[microsoft / TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25).
 * 【2025-03-10】[ElectricAlexis / NotaGen](https://github.com/ElectricAlexis/NotaGen) - NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms
 * 【2025-03-10】[kijai / ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper) - 
@@ -4195,6 +4198,7 @@
 
 ## C
 
+* 【2025-03-14】[open-quantum-safe / oqs-provider](https://github.com/open-quantum-safe/oqs-provider) - OpenSSL 3 provider containing post-quantum algorithms
 * 【2025-02-26】[espressif / esp-sr](https://github.com/espressif/esp-sr) - Speech recognition
 * 【2025-02-26】[unkyulee / micro-journal](https://github.com/unkyulee/micro-journal) - 
 * 【2025-02-23】[stlink-org / stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
@@ -6292,6 +6296,7 @@
 
 ## Css
 
+* 【2025-03-14】[teacat / chaturbate-dvr](https://github.com/teacat/chaturbate-dvr) - 😎 Chaturbate DVR - auto records the stream when it goes online!
 * 【2025-03-05】[uvdesk / community-skeleton](https://github.com/uvdesk/community-skeleton) - UVdesk Opensource Community Helpdesk Project built for all to make a Full Ticketing Support System along with many more other features.
 * 【2025-03-04】[accordproject / techdocs](https://github.com/accordproject/techdocs) - Accord Project Documentation
 * 【2025-03-03】[18F / identity-saml-sinatra](https://github.com/18F/identity-saml-sinatra) - Mock relying party (user app) to send requests to ID server
