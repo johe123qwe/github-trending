@@ -1490,6 +1490,7 @@
 
 ## Java
 
+* 【2025-03-17】[kooritea / fcmfix](https://github.com/kooritea/fcmfix) - [xposed]让fcm唤醒已完全停止的应用
 * 【2025-03-15】[HbmMods / Hbm-s-Nuclear-Tech-GIT](https://github.com/HbmMods/Hbm-s-Nuclear-Tech-GIT) - A flaming wreck of a minecraft mod about nuclear technology that is somehow still in development.
 * 【2025-03-13】[sleuthkit / autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
 * 【2025-03-13】[freeok / so-novel](https://github.com/freeok/so-novel) - 小说下载器 | 小说下载工具 | 小说下载神器 | 免费小说 | 网络小说 | 免费下载 | 网文下载
@@ -3087,6 +3088,7 @@
 
 ## Javascript
 
+* 【2025-03-17】[exa-labs / exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) - Claude can perform Web Search | Exa with MCP (Model Context Protocol)
 * 【2025-03-13】[clusterzx / paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 * 【2025-03-13】[steve02081504 / fount](https://github.com/steve02081504/fount) - AI character architecture/package loader in pure JS with a chat UI
 * 【2025-03-11】[Flux159 / mcp-server-kubernetes](https://github.com/Flux159/mcp-server-kubernetes) - MCP Server for kubernetes management commands
@@ -3732,6 +3734,7 @@
 
 ## Go
 
+* 【2025-03-17】[marcopiovanello / yt-dlp-web-ui](https://github.com/marcopiovanello/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 * 【2025-03-09】[Aylur / ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
 * 【2025-03-09】[e2b-dev / infra](https://github.com/e2b-dev/infra) - Infrastructure for AI code interpreting that's powering E2B.
 * 【2025-03-08】[mark3labs / mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
@@ -4747,6 +4750,7 @@
 
 ## C++
 
+* 【2025-03-17】[sipeed / NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
 * 【2025-03-10】[thomasxm / BOAZ_beta](https://github.com/thomasxm/BOAZ_beta) - Multilayered AV/EDR Evasion Framework
 * 【2025-03-09】[directvt / vtm](https://github.com/directvt/vtm) - Text-based desktop environment
 * 【2025-03-09】[diasurgical / DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
