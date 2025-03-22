@@ -6339,6 +6339,7 @@
 
 ## Css
 
+* 【2025-03-22】[Diolinux / PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 * 【2025-03-14】[teacat / chaturbate-dvr](https://github.com/teacat/chaturbate-dvr) - 😎 Chaturbate DVR - auto records the stream when it goes online!
 * 【2025-03-05】[uvdesk / community-skeleton](https://github.com/uvdesk/community-skeleton) - UVdesk Opensource Community Helpdesk Project built for all to make a Full Ticketing Support System along with many more other features.
 * 【2025-03-04】[accordproject / techdocs](https://github.com/accordproject/techdocs) - Accord Project Documentation
