@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2025-03-26】[deepseek-ai / DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
+* 【2025-03-26】[Akkudoktor-EOS / EOS](https://github.com/Akkudoktor-EOS/EOS) - This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
 * 【2025-03-25】[ourongxing / newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 * 【2025-03-23】[wonderwhy-er / ClaudeDesktopCommander](https://github.com/wonderwhy-er/ClaudeDesktopCommander) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 * 【2025-03-23】[Devolutions / IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
@@ -1917,6 +1919,7 @@
 
 ## Python
 
+* 【2025-03-26】[awslabs / amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
 * 【2025-03-25】[mikel-brostrom / boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
 * 【2025-03-24】[MarkusPfundstein / mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
 * 【2025-03-24】[amd / gaia](https://github.com/amd/gaia) - Run LLM Agents on Ryzen AI PCs in Minutes
@@ -4785,6 +4788,7 @@
 
 ## C++
 
+* 【2025-03-26】[ggml-org / ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 * 【2025-03-25】[TarsCloud / Tars](https://github.com/TarsCloud/Tars) - Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.
 * 【2025-03-23】[FlagBrew / PKSM](https://github.com/FlagBrew/PKSM) - Gen I to GenVIII save manager.
 * 【2025-03-20】[autowarefoundation / autoware_universe](https://github.com/autowarefoundation/autoware_universe) - 
