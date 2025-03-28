@@ -4245,6 +4245,7 @@
 
 ## C
 
+* 【2025-03-28】[zinongli / KeyCopier](https://github.com/zinongli/KeyCopier) - Key Copier App for Flipper Zero
 * 【2025-03-27】[espressif / esp-drone](https://github.com/espressif/esp-drone) - Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.
 * 【2025-03-25】[GuijiAI / HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - 
 * 【2025-03-24】[bootchk / resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
@@ -5263,6 +5264,7 @@
 
 ## C#
 
+* 【2025-03-28】[dexyfex / CodeWalker](https://github.com/dexyfex/CodeWalker) - 
 * 【2025-03-27】[b-editor / beutl](https://github.com/b-editor/beutl) - Cross-platform video editing (compositing) software.
 * 【2025-03-20】[kangyu-california / PersistentWindows](https://github.com/kangyu-california/PersistentWindows) - fork of http://www.ninjacrab.com/persistent-windows/ with windows 10 update
 * 【2025-03-19】[Cysharp / ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with Span and LINQ to SIMD, LINQ to Tree (FileSystem, Json, GameObject, etc.) for all .NET platforms and Unity.
@@ -5803,6 +5805,7 @@
 
 ## Html
 
+* 【2025-03-28】[canonical / ubuntu.com](https://github.com/canonical/ubuntu.com) - The official website for the Ubuntu operating system
 * 【2025-03-27】[harvesthq / chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 * 【2025-03-24】[m4tinbeigi-official / freemovie](https://github.com/m4tinbeigi-official/freemovie) - 
 * 【2025-03-20】[apache / grails-core](https://github.com/apache/grails-core) - The Grails Web Application Framework
