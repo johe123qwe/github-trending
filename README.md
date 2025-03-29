@@ -1920,6 +1920,7 @@
 
 ## Python
 
+* 【2025-03-29】[chengazhen / cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 * 【2025-03-26】[awslabs / amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
 * 【2025-03-25】[mikel-brostrom / boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
 * 【2025-03-24】[MarkusPfundstein / mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
