@@ -9,6 +9,7 @@
 
 ## All language
 
+* 【2025-04-01】[hackclub / hcb](https://github.com/hackclub/hcb) - 🏦 The neobank built for nonprofits.
 * 【2025-03-31】[yetone / avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 * 【2025-03-31】[supabase-community / postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
 * 【2025-03-30】[ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
@@ -6397,6 +6398,7 @@
 
 ## Css
 
+* 【2025-04-01】[lscambo13 / ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI.
 * 【2025-03-25】[Yavuzlar / VulnLab](https://github.com/Yavuzlar/VulnLab) - 
 * 【2025-03-23】[littleosbook / littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
 * 【2025-03-22】[Diolinux / PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
