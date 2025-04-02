@@ -9,6 +9,9 @@
 
 ## All language
 
+* 【2025-04-02】[elie222 / inbox-zero](https://github.com/elie222/inbox-zero) - Open source email app to reach inbox zero fast.
+* 【2025-04-02】[inkonchain / ink-kit](https://github.com/inkonchain/ink-kit) - Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨
+* 【2025-04-02】[chiphuyen / aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 * 【2025-04-01】[hackclub / hcb](https://github.com/hackclub/hcb) - 🏦 The neobank built for nonprofits.
 * 【2025-03-31】[yetone / avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 * 【2025-03-31】[supabase-community / postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
@@ -1929,6 +1932,8 @@
 
 ## Python
 
+* 【2025-04-02】[dreammis / social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+* 【2025-04-02】[apirrone / Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe
 * 【2025-03-30】[blazickjp / arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 * 【2025-03-30】[basicmachines-co / basic-memory](https://github.com/basicmachines-co/basic-memory) - Basic Memory is a knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants. All knowledge is stored in standard Markdown files on your computer, giving you full control and ownership of your data. Integrates directly with Obsidan.md
 * 【2025-03-30】[leminlimez / Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
@@ -3133,6 +3138,7 @@
 
 ## Javascript
 
+* 【2025-04-02】[JetBrains / mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 * 【2025-03-25】[prateek-chaubey / YTPro](https://github.com/prateek-chaubey/YTPro) - All in one YouTube App with downloader , background player , Google Gemini ✨ and many more features.
 * 【2025-03-23】[pi-hole / web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
 * 【2025-03-19】[NB-Group / NB_Music](https://github.com/NB-Group/NB_Music) - A nearly perfect music player.
@@ -5832,6 +5838,7 @@
 
 ## Html
 
+* 【2025-04-02】[dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 * 【2025-03-28】[canonical / ubuntu.com](https://github.com/canonical/ubuntu.com) - The official website for the Ubuntu operating system
 * 【2025-03-27】[harvesthq / chosen](https://github.com/harvesthq/chosen) - Deprecated - Chosen is a library for making long, unwieldy select boxes more friendly.
 * 【2025-03-24】[m4tinbeigi-official / freemovie](https://github.com/m4tinbeigi-official/freemovie) - 
@@ -6398,6 +6405,7 @@
 
 ## Css
 
+* 【2025-04-02】[catppuccin / jupyterlab](https://github.com/catppuccin/jupyterlab) - 📊 Soothing pastel theme for JupyterLab
 * 【2025-04-01】[lscambo13 / ElegantFin](https://github.com/lscambo13/ElegantFin) - A Jellyfin theme inspired from Jellyseerr. This theme improves the overall look and experience with various little fixes to the UI.
 * 【2025-03-25】[Yavuzlar / VulnLab](https://github.com/Yavuzlar/VulnLab) - 
 * 【2025-03-23】[littleosbook / littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
@@ -7178,6 +7186,7 @@
 
 ## Unknown
 
+* 【2025-04-02】[SLAM-Handbook-contributors / slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
 * 【2025-03-24】[caido / caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 * 【2025-03-11】[appcypher / awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 * 【2025-03-08】[rust-embedded / awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
