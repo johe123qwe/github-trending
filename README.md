@@ -1932,6 +1932,7 @@
 
 ## Python
 
+* 【2025-04-03】[run-llama / llama_cloud_services](https://github.com/run-llama/llama_cloud_services) - Knowledge Agents and Management in the Cloud
 * 【2025-04-02】[dreammis / social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 * 【2025-04-02】[apirrone / Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini) - Making a mini version of the BDX droid. https://discord.gg/UtJZsgfQGe
 * 【2025-03-30】[blazickjp / arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
@@ -3138,6 +3139,7 @@
 
 ## Javascript
 
+* 【2025-04-03】[adobe / aem-guides-wknd](https://github.com/adobe/aem-guides-wknd) - Tutorial Code companion for Getting Started Developing with AEM Sites WKND Tutorial
 * 【2025-04-02】[JetBrains / mcp-jetbrains](https://github.com/JetBrains/mcp-jetbrains) - A model context protocol server to work with JetBrains IDEs: IntelliJ, PyCharm, WebStorm, etc. Also, works with Android Studio
 * 【2025-03-25】[prateek-chaubey / YTPro](https://github.com/prateek-chaubey/YTPro) - All in one YouTube App with downloader , background player , Google Gemini ✨ and many more features.
 * 【2025-03-23】[pi-hole / web](https://github.com/pi-hole/web) - Pi-hole Dashboard for stats and more
@@ -4271,6 +4273,7 @@
 
 ## C
 
+* 【2025-04-03】[vial-kb / vial-qmk](https://github.com/vial-kb/vial-qmk) - QMK fork with Vial-specific features.
 * 【2025-03-31】[Johannes4Linux / Linux_Driver_Tutorial_legacy](https://github.com/Johannes4Linux/Linux_Driver_Tutorial_legacy) - A Tutorial how to get started with Linux Kernel Modules and Linux Drivers.
 * 【2025-03-28】[zinongli / KeyCopier](https://github.com/zinongli/KeyCopier) - Key Copier App for Flipper Zero
 * 【2025-03-27】[espressif / esp-drone](https://github.com/espressif/esp-drone) - Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.
