@@ -3158,6 +3158,7 @@
 
 ## Javascript
 
+* 【2025-04-10】[goldbergyoni / nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 * 【2025-04-09】[jerhadf / linear-mcp-server](https://github.com/jerhadf/linear-mcp-server) - A server that integrates Linear's project management system with the Model Context Protocol (MCP) to allow LLMs to interact with Linear.
 * 【2025-04-08】[its-a-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 * 【2025-04-05】[googlecreativelab / chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab) - A collection of experiments for exploring how music works, all built with the Web Audio API.
@@ -4850,6 +4851,7 @@
 
 ## C++
 
+* 【2025-04-10】[xtensor-stack / xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
 * 【2025-04-06】[kuzudb / kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
 * 【2025-04-06】[NVIDIA-RTX / NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - 
 * 【2025-04-05】[ggml-org / whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -5876,6 +5878,7 @@
 
 ## Html
 
+* 【2025-04-10】[deanmalmgren / textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 * 【2025-04-06】[rbuckton / proposal-enum](https://github.com/rbuckton/proposal-enum) - Proposal for ECMAScript enums
 * 【2025-04-04】[sunnyoggcp / github-slideshow](https://github.com/sunnyoggcp/github-slideshow) - A robot powered training repository 🤖
 * 【2025-04-02】[dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
@@ -7227,6 +7230,7 @@
 
 ## Unknown
 
+* 【2025-04-10】[FFmpeg / asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 * 【2025-04-08】[TianxingChen / Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能入门指南 Embodied-AI-Guide
 * 【2025-04-07】[NeverSinkDev / NeverSink-Filter-for-PoE2](https://github.com/NeverSinkDev/NeverSink-Filter-for-PoE2) - This is a lootfilter for the game "Path of Exile 2". It adds colors, sounds, map icons, beams to highlight remarkable gear and inform the user
 * 【2025-04-03】[wong2 / awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
