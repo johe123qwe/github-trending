@@ -1525,6 +1525,8 @@
 
 ## Java
 
+* 【2025-04-15】[Audiveris / audiveris](https://github.com/Audiveris/audiveris) - Latest generation of Audiveris OMR engine
+* 【2025-04-15】[AugmentOS-Community / AugmentOS](https://github.com/AugmentOS-Community/AugmentOS) - Smart glasses OS, with dozens of built-in apps. Users get AI assistant, notifications, translation, screen mirror, captions, and more. Devs get to write 1 app that runs on any pair of smart glases.
 * 【2025-04-13】[data-integrations / wrangler](https://github.com/data-integrations/wrangler) - Wrangler Transform: A DMD system for transforming Big Data
 * 【2025-04-13】[1024-lab / smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot2/3 + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
 * 【2025-04-05】[openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) - OpenMRS API and web application code
@@ -4859,6 +4861,7 @@
 
 ## C++
 
+* 【2025-04-15】[HanGuo97 / flute](https://github.com/HanGuo97/flute) - Fast Matrix Multiplications for Lookup Table-Quantized LLMs
 * 【2025-04-12】[ezEngine / ezEngine](https://github.com/ezEngine/ezEngine) - An open source C++ game engine.
 * 【2025-04-10】[xtensor-stack / xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
 * 【2025-04-06】[kuzudb / kuzu](https://github.com/kuzudb/kuzu) - Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.
