@@ -9,6 +9,8 @@
 
 ## All language
 
+* 【2025-04-16】[Anxcye / anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
+* 【2025-04-16】[opf / openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 * 【2025-04-15】[jlevy / og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
 * 【2025-04-15】[fuma-nama / fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
 * 【2025-04-12】[yeongpin / cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In & Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
@@ -1951,6 +1953,7 @@
 
 ## Python
 
+* 【2025-04-16】[IBM / terratorch](https://github.com/IBM/terratorch) - A Python toolkit for fine-tuning Geospatial Foundation Models (GFMs).
 * 【2025-04-15】[AI-Hypercomputer / RecML](https://github.com/AI-Hypercomputer/RecML) - 
 * 【2025-04-15】[jixiaozhong / Sonic](https://github.com/jixiaozhong/Sonic) - Official implementation of "Sonic: Shifting Focus to Global Audio Perception in Portrait Animation"
 * 【2025-04-12】[crestalnetwork / intentkit](https://github.com/crestalnetwork/intentkit) - An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!
@@ -3170,6 +3173,7 @@
 
 ## Javascript
 
+* 【2025-04-16】[zombieyang / sd-ppp](https://github.com/zombieyang/sd-ppp) - Simplify ComfyUI and Connect with Photoshop
 * 【2025-04-10】[goldbergyoni / nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 * 【2025-04-09】[jerhadf / linear-mcp-server](https://github.com/jerhadf/linear-mcp-server) - A server that integrates Linear's project management system with the Model Context Protocol (MCP) to allow LLMs to interact with Linear.
 * 【2025-04-08】[its-a-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
@@ -4312,6 +4316,7 @@
 
 ## C
 
+* 【2025-04-16】[tsoding / nob.h](https://github.com/tsoding/nob.h) - Header only library for writing build recipes in C.
 * 【2025-04-15】[debevv / nanoMODBUS](https://github.com/debevv/nanoMODBUS) - A compact MODBUS RTU/TCP C library for embedded/microcontrollers
 * 【2025-04-15】[samdenty / Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
 * 【2025-04-12】[OpenCPN / OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation
@@ -5897,6 +5902,7 @@
 
 ## Html
 
+* 【2025-04-16】[CVEProject / cve-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format. Releases of the CVE JSON record format will also be published here. This repository is managed by the CVE Quality Working Group.
 * 【2025-04-13】[sidex15 / susfs4ksu-module](https://github.com/sidex15/susfs4ksu-module) - An addon root hiding service for KernelSU
 * 【2025-04-10】[deanmalmgren / textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 * 【2025-04-06】[rbuckton / proposal-enum](https://github.com/rbuckton/proposal-enum) - Proposal for ECMAScript enums
