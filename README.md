@@ -4874,6 +4874,7 @@
 
 ## C++
 
+* 【2025-04-18】[Lizonghang / prima.cpp](https://github.com/Lizonghang/prima.cpp) - prima.cpp: Speeding up 70B-scale LLM inference on low-resource everyday home clusters
 * 【2025-04-15】[HanGuo97 / flute](https://github.com/HanGuo97/flute) - Fast Matrix Multiplications for Lookup Table-Quantized LLMs
 * 【2025-04-12】[ezEngine / ezEngine](https://github.com/ezEngine/ezEngine) - An open source C++ game engine.
 * 【2025-04-10】[xtensor-stack / xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
