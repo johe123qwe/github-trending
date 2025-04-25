@@ -1,7 +1,5 @@
 # GitHub Trending
 
-项目来自 [bonfy/github-trending](https://github.com/aneasystone/github-trending)。
-
 - [Java](#Java)
 - [Python](#python)
 - [Go](#Go)
@@ -8356,3 +8354,6 @@
 * 【2023-08-02】[malvuln / RansomLord](https://github.com/malvuln/RansomLord) - RansomLord is a proof-of-concept Anti-Ransomware exploitation tool that automates the creation of PE files, used to compromise Ransomware pre-encryption.
 * 【2023-08-02】[0xPugazh / One-Liners](https://github.com/0xPugazh/One-Liners) - A collection of awesome one-liners for bug bounty hunting.
 * 【2023-08-02】[miklgraf / UniSwap-sniper-bot](https://github.com/miklgraf/UniSwap-sniper-bot) - Optimized, fast and safe Uniswap sniping bot for buying new listings.
+
+## Thanks
+[bonfy/github-trending](https://github.com/aneasystone/github-trending)。
