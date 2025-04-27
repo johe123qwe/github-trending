@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-04-27】[rowboatlabs / rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
 * 【2025-04-25】[fastrepl / hyprnote](https://github.com/fastrepl/hyprnote) - AI Notepad for back-to-back meetings. Local-first & Extensible.
 * 【2025-04-25】[tracel-ai / burn](https://github.com/tracel-ai/burn) - Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 * 【2025-04-25】[kortix-ai / suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
