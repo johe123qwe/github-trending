@@ -3199,6 +3199,7 @@
 
 ## Javascript
 
+* 【2025-04-28】[tavily-ai / tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - 
 * 【2025-04-26】[Moustachauve / cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 * 【2025-04-23】[abhiz123 / todoist-mcp-server](https://github.com/abhiz123/todoist-mcp-server) - MCP server for Todoist integration enabling natural language task management with Claude
 * 【2025-04-22】[Worklenz / worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
