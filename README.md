@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2025-05-07】[voideditor / void](https://github.com/voideditor/void) - 
+* 【2025-05-07】[evroon / bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
+* 【2025-05-07】[beekeeper-studio / beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 * 【2025-05-06】[awslabs / agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 * 【2025-05-06】[huggingface / agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 * 【2025-05-03】[jj-vcs / jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -1981,6 +1984,7 @@
 
 ## Python
 
+* 【2025-05-07】[icip-cas / PPTAgent](https://github.com/icip-cas/PPTAgent) - PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides
 * 【2025-05-06】[Capsize-Games / airunner](https://github.com/Capsize-Games/airunner) - Privacy focused, local-first, multi-modal inference engine and agent platform for running LLMs, image generation, speech processing, and tool-based automation
 * 【2025-05-06】[HarrisonKramer / optiland](https://github.com/HarrisonKramer/optiland) - Comprehensive optical design, optimization, and analysis in Python, including GPU-accelerated and differentiable ray tracing via PyTorch.
 * 【2025-05-06】[ag2ai / ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open-Source AgentOS. Join us at: https://discord.gg/pAbnFJrkgZ
@@ -3221,6 +3225,7 @@
 
 ## Javascript
 
+* 【2025-05-07】[GeoNode / geonode](https://github.com/GeoNode/geonode) - GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data.
 * 【2025-05-06】[igrigorik / videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
 * 【2025-05-05】[serverless-dns / serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 * 【2025-05-05】[git-tips / tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
@@ -3895,6 +3900,7 @@
 
 ## Go
 
+* 【2025-05-07】[rzane / docker2exe](https://github.com/rzane/docker2exe) - Convert a Docker image to an executable
 * 【2025-05-06】[gabe565 / ascii-movie](https://github.com/gabe565/ascii-movie) - Star Wars SSH + Telnet server written in Go.
 * 【2025-05-04】[googleapis / go-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
 * 【2025-05-04】[blacktop / ipsw](https://github.com/blacktop/ipsw) - iOS/macOS Research Swiss Army Knife
@@ -5454,6 +5460,7 @@
 
 ## C#
 
+* 【2025-05-07】[kurrent-io / KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
 * 【2025-05-02】[meysamhadeli / monolith-to-cloud-architecture](https://github.com/meysamhadeli/monolith-to-cloud-architecture) - A practical architecture styles for migrating from monolith to modern cloud native application with the latest technologies and architectures like Vertical Slice Architecture, Event Sourcing, CQRS, DDD, gRpc, MongoDB, RabbitMq, and Masstransit in .Net 9.
 * 【2025-05-02】[SpaceTimee / Sheas-Cealer](https://github.com/SpaceTimee/Sheas-Cealer) - Just Ceal It (可用于无代理合法抵御网络监听和开展网络研究)
 * 【2025-04-29】[intro-skipper / intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
