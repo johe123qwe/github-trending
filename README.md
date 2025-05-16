@@ -1996,6 +1996,7 @@
 
 ## Python
 
+* 【2025-05-16】[mikumifa / cppTickerBuy](https://github.com/mikumifa/cppTickerBuy) - cpp cp30 漫展 活动 抢票 无差别 同人展
 * 【2025-05-13】[pallets / click](https://github.com/pallets/click) - Python composable command line interface toolkit
 * 【2025-05-13】[simonw / files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
 * 【2025-05-13】[microsoft / Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator) - The Multi-Agent Custom Automation Engine Solution Accelerator is an AI-driven orchestration system that manages a group of AI agents to accomplish tasks based on user input. Powered by AutoGen, Azure OpenAI, Cosmos, and infrastructure services, it provides a ready to go application to use as a reference, allowing you to hit the ground running.
