@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-05-16】[git-bug / git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 * 【2025-05-15】[TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 * 【2025-05-15】[facebookresearch / fairchem](https://github.com/facebookresearch/fairchem) - FAIR Chemistry's library of machine learning methods for chemistry
 * 【2025-05-15】[happycola233 / tchMaterial-parser](https://github.com/happycola233/tchMaterial-parser) - 国家中小学智慧教育平台 电子课本下载工具，帮助您从智慧教育平台中获取电子课本的 PDF 文件网址并进行下载，让您更方便地获取课本内容。
@@ -3926,6 +3927,7 @@
 
 ## Go
 
+* 【2025-05-16】[microsoft / typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 * 【2025-05-15】[lejianwen / rustdesk-api](https://github.com/lejianwen/rustdesk-api) - Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
 * 【2025-05-09】[databricks / terraform-provider-databricks](https://github.com/databricks/terraform-provider-databricks) - Databricks Terraform Provider
 * 【2025-05-08】[hookdeck / outpost](https://github.com/hookdeck/outpost) - Open Source Outbound Webhooks and Event Destinations Infrastructure
@@ -4433,6 +4435,8 @@
 
 ## C
 
+* 【2025-05-16】[espressif / esp-webrtc-solution](https://github.com/espressif/esp-webrtc-solution) - 
+* 【2025-05-16】[strongtz / i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
 * 【2025-05-15】[n64decomp / mk64](https://github.com/n64decomp/mk64) - A speedy Mario Kart 64 decompilation, brought to you by the cousin of a tame racing driver.
 * 【2025-05-15】[TEN-framework / ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework and platform for building real-time, multimodal, low-latency conversational voice AI agents. It features a workflow builder and supports C, C++, Go, Python, JavaScript, and TypeScript. TEN also offers ready-to-use extensions for integration with platforms like Dify and Coze.
 * 【2025-05-15】[OpenEPaperLink / OpenEPaperLink](https://github.com/OpenEPaperLink/OpenEPaperLink) - The OpenEPaperLink core project
@@ -5000,6 +5004,7 @@
 
 ## C++
 
+* 【2025-05-16】[berthrage / Devil-May-Cry-3-Crimson](https://github.com/berthrage/Devil-May-Cry-3-Crimson) - New Gameplay Options, Visual/Sound updates, Multiplayer, Fixes and more for Devil May Cry 3 (HD Collection version), based on DDMK.
 * 【2025-05-09】[memgraph / memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 * 【2025-05-08】[mohsenph69 / Godot-MTerrain-plugin](https://github.com/mohsenph69/Godot-MTerrain-plugin) - A GDExtension plugin which give godot the ability to produce highly optimized Terrain for Open world games
 * 【2025-05-06】[conservation-laws / ryujin](https://github.com/conservation-laws/ryujin) - High-performance high-order finite element solver for hyperbolic conservation equations
