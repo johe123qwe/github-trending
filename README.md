@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-05-17】[itdoginfo / podkop](https://github.com/itdoginfo/podkop) - Dev podkop
 * 【2025-05-16】[git-bug / git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 * 【2025-05-15】[TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 * 【2025-05-15】[facebookresearch / fairchem](https://github.com/facebookresearch/fairchem) - FAIR Chemistry's library of machine learning methods for chemistry
@@ -4435,6 +4436,7 @@
 
 ## C
 
+* 【2025-05-17】[microsoft / documentdb](https://github.com/microsoft/documentdb) - DocumentDB is the open-source engine powering vCore-based Azure Cosmos DB for MongoDB. It offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework.
 * 【2025-05-16】[espressif / esp-webrtc-solution](https://github.com/espressif/esp-webrtc-solution) - 
 * 【2025-05-16】[strongtz / i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
 * 【2025-05-15】[n64decomp / mk64](https://github.com/n64decomp/mk64) - A speedy Mario Kart 64 decompilation, brought to you by the cousin of a tame racing driver.
