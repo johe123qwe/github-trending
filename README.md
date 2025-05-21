@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-05-21】[modelcontextprotocol / registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 * 【2025-05-20】[facebook / pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 * 【2025-05-18】[ed-donner / llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
 * 【2025-05-17】[itdoginfo / podkop](https://github.com/itdoginfo/podkop) - Dev podkop
@@ -2001,6 +2002,7 @@
 
 ## Python
 
+* 【2025-05-21】[apache / iceberg-python](https://github.com/apache/iceberg-python) - Apache PyIceberg
 * 【2025-05-20】[beeware / toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
 * 【2025-05-20】[bilibili / Index-anisora](https://github.com/bilibili/Index-anisora) - 
 * 【2025-05-16】[mikumifa / cppTickerBuy](https://github.com/mikumifa/cppTickerBuy) - cpp cp30 漫展 活动 抢票 无差别 同人展
@@ -5014,6 +5016,8 @@
 
 ## C++
 
+* 【2025-05-21】[ERGO-Code / HiGHS](https://github.com/ERGO-Code/HiGHS) - Linear optimization software
+* 【2025-05-21】[duixcom / Duix.mobile](https://github.com/duixcom/Duix.mobile) - 
 * 【2025-05-19】[supercollider / supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 * 【2025-05-16】[berthrage / Devil-May-Cry-3-Crimson](https://github.com/berthrage/Devil-May-Cry-3-Crimson) - New Gameplay Options, Visual/Sound updates, Multiplayer, Fixes and more for Devil May Cry 3 (HD Collection version), based on DDMK.
 * 【2025-05-09】[memgraph / memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
@@ -5512,6 +5516,7 @@
 
 ## C#
 
+* 【2025-05-21】[clawsoftware / clawPDF](https://github.com/clawsoftware/clawPDF) - Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.
 * 【2025-05-12】[GhostPack / SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) - SharpDPAPI is a C# port of some Mimikatz DPAPI functionality.
 * 【2025-05-07】[kurrent-io / KurrentDB](https://github.com/kurrent-io/KurrentDB) - EventStoreDB, the event-native database. Designed for Event Sourcing, Event-Driven, and Microservices architectures
 * 【2025-05-02】[meysamhadeli / monolith-to-cloud-architecture](https://github.com/meysamhadeli/monolith-to-cloud-architecture) - A practical architecture styles for migrating from monolith to modern cloud native application with the latest technologies and architectures like Vertical Slice Architecture, Event Sourcing, CQRS, DDD, gRpc, MongoDB, RabbitMq, and Masstransit in .Net 9.
@@ -6068,6 +6073,7 @@
 
 ## Html
 
+* 【2025-05-21】[nottelabs / notte](https://github.com/nottelabs/notte) - 🔥 Opensource browser using agents
 * 【2025-05-20】[JuergenFleiss / aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models.
 * 【2025-05-15】[jonbarron / jonbarron.github.io](https://github.com/jonbarron/jonbarron.github.io) - 
 * 【2025-05-14】[thewickedkarma / blackeye-im](https://github.com/thewickedkarma/blackeye-im) - This project is now discontinued. Kindly use other working alternatives.
@@ -6650,6 +6656,7 @@
 
 ## Css
 
+* 【2025-05-21】[sameerasw / my-internet](https://github.com/sameerasw/my-internet) - Custom CSS to make the web transparent, beautiful and zen. Main style repo for the Zen Internet add-on
 * 【2025-05-20】[themesberg / flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 * 【2025-05-04】[fauzanmy / pehtheme-hugo](https://github.com/fauzanmy/pehtheme-hugo) - The Hugo theme is inspired by Material Design version 3, built with love using Tailwind CSS.
 * 【2025-04-17】[carbonwallet / carbonwallet.github.io](https://github.com/carbonwallet/carbonwallet.github.io) - 
@@ -7435,6 +7442,8 @@
 
 ## Unknown
 
+* 【2025-05-21】[MicrosoftDocs / WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
+* 【2025-05-21】[lvgl / lvgl_editor](https://github.com/lvgl/lvgl_editor) - 
 * 【2025-05-14】[stackia / best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
 * 【2025-05-10】[fudan-generative-vision / OpenHumanVid](https://github.com/fudan-generative-vision/OpenHumanVid) - [CVPR 2025] A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation
 * 【2025-05-09】[logpai / loghub](https://github.com/logpai/loghub) - A large collection of system log datasets for AI-driven log analytics [ISSRE'23]
