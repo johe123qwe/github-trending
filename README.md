@@ -2007,6 +2007,7 @@
 
 ## Python
 
+* 【2025-05-26】[MaiM-with-u / MaiBot](https://github.com/MaiM-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
 * 【2025-05-25】[city96 / ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
 * 【2025-05-23】[ML-GSAI / LLaDA](https://github.com/ML-GSAI/LLaDA) - Official PyTorch implementation for "Large Language Diffusion Models"
 * 【2025-05-23】[qodo-ai / pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
