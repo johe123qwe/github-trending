@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2025-05-29】[livestorejs / livestore](https://github.com/livestorejs/livestore) - LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+* 【2025-05-29】[KwaiVGI / LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 * 【2025-05-28】[NomicFoundation / hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 * 【2025-05-28】[Lagrange-Labs / deep-prove](https://github.com/Lagrange-Labs/deep-prove) - Framework to prove inference of ML models blazingly fast
 * 【2025-05-27】[stalwartlabs / stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
@@ -3963,6 +3965,7 @@
 
 ## Go
 
+* 【2025-05-29】[NVIDIA / KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler) - KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
 * 【2025-05-28】[manusa / kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-05-27】[mark3labs / mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations.
 * 【2025-05-26】[applejag / kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
@@ -6701,6 +6704,7 @@
 
 ## Css
 
+* 【2025-05-29】[hunvreus / basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 * 【2025-05-26】[mattermost / mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation) - Mattermost developer documentation.
 * 【2025-05-26】[cormullion / juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
 * 【2025-05-21】[sameerasw / my-internet](https://github.com/sameerasw/my-internet) - Custom CSS to make the web transparent, beautiful and zen. Main style repo for the Zen Internet add-on
@@ -7489,6 +7493,7 @@
 
 ## Unknown
 
+* 【2025-05-29】[deepseek-ai / DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 * 【2025-05-22】[skills / communicate-using-markdown](https://github.com/skills/communicate-using-markdown) - Organize ideas and collaborate using Markdown, a lightweight language for text formatting.
 * 【2025-05-21】[MicrosoftDocs / WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
 * 【2025-05-21】[lvgl / lvgl_editor](https://github.com/lvgl/lvgl_editor) - 
