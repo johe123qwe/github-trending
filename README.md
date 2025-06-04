@@ -1580,6 +1580,7 @@
 
 ## Java
 
+* 【2025-06-04】[joey-zhou / xiaozhi-esp32-server-java](https://github.com/joey-zhou/xiaozhi-esp32-server-java) - 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案
 * 【2025-05-26】[boricj / ghidra-delinker-extension](https://github.com/boricj/ghidra-delinker-extension) - Ghidra extension for exporting relocatable object files
 * 【2025-05-18】[adityachandelgit / BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
 * 【2025-05-08】[modelcontextprotocol / java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
@@ -2018,6 +2019,8 @@
 
 ## Python
 
+* 【2025-06-04】[conda / conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
+* 【2025-06-04】[mit-han-lab / nunchaku](https://github.com/mit-han-lab/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 * 【2025-06-03】[mofeng-git / One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。
 * 【2025-06-01】[ivnvxd / arc-export](https://github.com/ivnvxd/arc-export) - Export pinned Arc Browser tabs for importing bookmarks into other browsers
 * 【2025-05-30】[GoogleCloudPlatform / agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack) - A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution, addressing common challenges (Deployment & Operations, Evaluation, Customization, Observability) in building and deploying GenAI agents.
@@ -3282,6 +3285,7 @@
 
 ## Javascript
 
+* 【2025-06-04】[DevLARLEY / WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
 * 【2025-06-03】[einaregilsson / Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 * 【2025-06-02】[google-ai-edge / model-explorer](https://github.com/google-ai-edge/model-explorer) - A modern model graph visualizer and debugger
 * 【2025-05-31】[netbymatt / ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
@@ -6721,6 +6725,7 @@
 
 ## Css
 
+* 【2025-06-04】[greeeen-dev / natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) - A userchrome for Zen Browser that makes things flow.
 * 【2025-05-29】[hunvreus / basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 * 【2025-05-26】[mattermost / mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation) - Mattermost developer documentation.
 * 【2025-05-26】[cormullion / juliamono](https://github.com/cormullion/juliamono) - repository for JuliaMono, a monospaced font with reasonable Unicode support.
