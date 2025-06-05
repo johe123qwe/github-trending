@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2025-06-05】[iamgio / quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
+* 【2025-06-05】[topoteretes / cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 5 lines of code
+* 【2025-06-05】[modelcontextprotocol / ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.
 * 【2025-05-31】[promptfoo / promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 * 【2025-05-31】[chenzomi12 / aisystem](https://github.com/chenzomi12/aisystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 * 【2025-05-30】[coleam00 / local-ai-packaged](https://github.com/coleam00/local-ai-packaged) - Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!
@@ -1580,6 +1583,7 @@
 
 ## Java
 
+* 【2025-06-05】[apache / fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 * 【2025-06-04】[joey-zhou / xiaozhi-esp32-server-java](https://github.com/joey-zhou/xiaozhi-esp32-server-java) - 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案
 * 【2025-05-26】[boricj / ghidra-delinker-extension](https://github.com/boricj/ghidra-delinker-extension) - Ghidra extension for exporting relocatable object files
 * 【2025-05-18】[adityachandelgit / BookLore](https://github.com/adityachandelgit/BookLore) - BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
@@ -2019,6 +2023,8 @@
 
 ## Python
 
+* 【2025-06-05】[LMCache / LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs
+* 【2025-06-05】[HKUDS / AutoAgent](https://github.com/HKUDS/AutoAgent) - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 * 【2025-06-04】[conda / conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 * 【2025-06-04】[mit-han-lab / nunchaku](https://github.com/mit-han-lab/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 * 【2025-06-03】[mofeng-git / One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。
@@ -5072,6 +5078,7 @@
 
 ## C++
 
+* 【2025-06-05】[unitreerobotics / unitree_sdk2](https://github.com/unitreerobotics/unitree_sdk2) - Unitree robot sdk version 2. https://support.unitree.com/home/zh/developer
 * 【2025-05-31】[su2code / SU2](https://github.com/su2code/SU2) - SU2: An Open-Source Suite for Multiphysics Simulation and Design
 * 【2025-05-27】[Slicer / Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 * 【2025-05-23】[pafuhana1213 / KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) - KawaiiPhysics : Simple fake Physics for UnrealEngine4 & 5
@@ -5577,6 +5584,7 @@
 
 ## C#
 
+* 【2025-06-05】[UnderminersTeam / UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
 * 【2025-06-02】[RMC-14 / RMC-14](https://github.com/RMC-14/RMC-14) - RMC-14 is an asymmetric PvP game that runs on Robust Toolbox.
 * 【2025-05-31】[oculus-samples / Unity-PassthroughCameraApiSamples](https://github.com/oculus-samples/Unity-PassthroughCameraApiSamples) - A Sample Project for Passthrough Camera API in Unity.
 * 【2025-05-31】[huynhsontung / Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
