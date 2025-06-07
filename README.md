@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2025-06-07】[Daymychen / art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
+* 【2025-06-07】[iib0011 / omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+* 【2025-06-07】[alphacep / vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
 * 【2025-06-06】[codexu / note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
 * 【2025-06-06】[unslothai / notebooks](https://github.com/unslothai/notebooks) - Unsloth Fine-tuning Notebooks for Google Colab, Kaggle, Hugging Face and more.
 * 【2025-06-06】[deepsense-ai / ragbits](https://github.com/deepsense-ai/ragbits) - Building blocks for rapid development of GenAI applications
@@ -2028,6 +2031,7 @@
 
 ## Python
 
+* 【2025-06-07】[haris-musa / excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
 * 【2025-06-06】[PKU-YuanGroup / UniWorld-V1](https://github.com/PKU-YuanGroup/UniWorld-V1) - UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation
 * 【2025-06-05】[LMCache / LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs
 * 【2025-06-05】[HKUDS / AutoAgent](https://github.com/HKUDS/AutoAgent) - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
@@ -3297,6 +3301,7 @@
 
 ## Javascript
 
+* 【2025-06-07】[eyaltoledano / claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 * 【2025-06-07】[sebastiancarlos / beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI tool to replace and automate your daily web browser.
 * 【2025-06-05】[ConardLi / easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
 * 【2025-06-04】[DevLARLEY / WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2) - An extension-based proxy for Widevine EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.
@@ -5595,6 +5600,7 @@
 
 ## C#
 
+* 【2025-06-07】[SteveDunn / Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
 * 【2025-06-05】[UnderminersTeam / UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
 * 【2025-06-02】[RMC-14 / RMC-14](https://github.com/RMC-14/RMC-14) - RMC-14 is an asymmetric PvP game that runs on Robust Toolbox.
 * 【2025-05-31】[oculus-samples / Unity-PassthroughCameraApiSamples](https://github.com/oculus-samples/Unity-PassthroughCameraApiSamples) - A Sample Project for Passthrough Camera API in Unity.
@@ -6746,6 +6752,7 @@
 
 ## Css
 
+* 【2025-06-07】[JustAdumbPrsn / Zen-Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) - A minimalist Glassmorphism based theme to elevate the UI of Zen browser
 * 【2025-06-04】[greeeen-dev / natsumi-browser](https://github.com/greeeen-dev/natsumi-browser) - A userchrome for Zen Browser that makes things flow.
 * 【2025-05-29】[hunvreus / basecoat](https://github.com/hunvreus/basecoat) - A components library built with Tailwind CSS that works with any web stack.
 * 【2025-05-26】[mattermost / mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation) - Mattermost developer documentation.
