@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-06-08】[tensorzero / tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 * 【2025-06-07】[Daymychen / art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
 * 【2025-06-07】[iib0011 / omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 * 【2025-06-07】[alphacep / vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -1590,6 +1591,7 @@
 
 ## Java
 
+* 【2025-06-08】[GeyserMC / Hydraulic](https://github.com/GeyserMC/Hydraulic) - A companion mod to Geyser which allows for Bedrock players to join modded Minecraft: Java Edition servers.
 * 【2025-06-06】[DragonKingpin / Hydra](https://github.com/DragonKingpin/Hydra) - Hydra九头龙，面向PB级别知识库取数、情报系统、数据平台、大规模控制调度系统。建设云计算资源管理、任务/服务统一调度、数仓、微服务化、中台基建系统化能力。——以实现大规模分布式爬虫搜索引擎为例。
 * 【2025-06-05】[apache / fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 * 【2025-06-04】[joey-zhou / xiaozhi-esp32-server-java](https://github.com/joey-zhou/xiaozhi-esp32-server-java) - 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案
@@ -2031,6 +2033,8 @@
 
 ## Python
 
+* 【2025-06-08】[r-three / common-pile](https://github.com/r-three/common-pile) - Code for collecting, processing, and preparing datasets for the Common Pile
+* 【2025-06-08】[langchain-ai / langmem](https://github.com/langchain-ai/langmem) - 
 * 【2025-06-07】[haris-musa / excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
 * 【2025-06-06】[PKU-YuanGroup / UniWorld-V1](https://github.com/PKU-YuanGroup/UniWorld-V1) - UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation
 * 【2025-06-05】[LMCache / LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs
@@ -3998,6 +4002,7 @@
 
 ## Go
 
+* 【2025-06-08】[steveiliop56 / tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 * 【2025-06-06】[Glimesh / broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 * 【2025-06-02】[dagu-org / dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 * 【2025-05-30】[krillinai / KlicStudio](https://github.com/krillinai/KlicStudio) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
@@ -5091,6 +5096,7 @@
 
 ## C++
 
+* 【2025-06-08】[wjakob / instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
 * 【2025-06-06】[kvcache-ai / Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 * 【2025-06-06】[YuriSizuku / OnscripterYuri](https://github.com/YuriSizuku/OnscripterYuri) - An enhancement ONScripter project porting to many platforms, especially web.
 * 【2025-06-06】[ai-dynamo / nixl](https://github.com/ai-dynamo/nixl) - NVIDIA Inference Xfer Library (NIXL)
@@ -6165,6 +6171,7 @@
 
 ## Html
 
+* 【2025-06-08】[robiningelbrecht / statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
 * 【2025-06-06】[TheKing-OfTime / YandexMusicModClient](https://github.com/TheKing-OfTime/YandexMusicModClient) - Modification for Yandex Music Desktop application to add some features
 * 【2025-05-25】[Anduin2017 / AnduinOS](https://github.com/Anduin2017/AnduinOS) - AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows.
 * 【2025-05-24】[wizarrrr / wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
