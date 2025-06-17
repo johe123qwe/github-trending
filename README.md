@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-06-17】[linshenkx / prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) - 一款提示词优化器，助力于编写高质量的提示词
 * 【2025-06-12】[xiangechen / chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
 * 【2025-06-12】[FareedKhan-dev / all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
 * 【2025-06-11】[jdepoix / youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
@@ -2037,6 +2038,7 @@
 
 ## Python
 
+* 【2025-06-17】[pixeltable / pixeltable](https://github.com/pixeltable/pixeltable) - Pixeltable — AI Data infrastructure providing a declarative, incremental approach for multimodal workloads.
 * 【2025-06-11】[openai / openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
 * 【2025-06-10】[confident-ai / deepteam](https://github.com/confident-ai/deepteam) - The LLM Red Teaming Framework
 * 【2025-06-10】[canopyai / Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
@@ -4012,6 +4014,7 @@
 
 ## Go
 
+* 【2025-06-17】[zachlatta / sshtron](https://github.com/zachlatta/sshtron) - $ ssh sshtron.zachlatta.com
 * 【2025-06-14】[cloudreve / cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 * 【2025-06-12】[gtsteffaniak / filebrowser](https://github.com/gtsteffaniak/filebrowser) - 📂 Web File Browser
 * 【2025-06-09】[akvorado / akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
@@ -4535,6 +4538,7 @@
 
 ## C
 
+* 【2025-06-17】[armory3d / armortools](https://github.com/armory3d/armortools) - 3D Content Creation Tools
 * 【2025-06-14】[PostHog / DeskHog](https://github.com/PostHog/DeskHog) - A friend for your desk, a dedicated terminal for numbers
 * 【2025-06-11】[aws / pgactive](https://github.com/aws/pgactive) - 
 * 【2025-06-11】[glouw / ctl](https://github.com/glouw/ctl) - The C Template Library
@@ -5624,6 +5628,7 @@
 
 ## C#
 
+* 【2025-06-17】[modelcontextprotocol / csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft.
 * 【2025-06-12】[not-nullptr / Aerochat](https://github.com/not-nullptr/Aerochat) - Native rewrite of Aerochat, a WLM 09 themed Discord client
 * 【2025-06-11】[umlx5h / LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 * 【2025-06-07】[SteveDunn / Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
@@ -7575,6 +7580,7 @@
 
 ## Unknown
 
+* 【2025-06-17】[vanshb03 / Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships) - Collection of Summer 2026 tech internships!
 * 【2025-06-01】[geerlingguy / mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 * 【2025-05-31】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 * 【2025-05-30】[AlexanderZhou01 / China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
