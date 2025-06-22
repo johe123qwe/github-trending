@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-06-22】[microsoft / edit](https://github.com/microsoft/edit) - We all edit.
 * 【2025-06-19】[cloudflare / ai](https://github.com/cloudflare/ai) - 
 * 【2025-06-19】[firebase / genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
 * 【2025-06-18】[php / frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
