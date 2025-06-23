@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2025-06-23】[ghostty-org / ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+* 【2025-06-23】[HarbourMasters / SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) - 
+* 【2025-06-23】[isledecomp / isle-portable](https://github.com/isledecomp/isle-portable) - A portable version of LEGO Island (1997)
 * 【2025-06-22】[microsoft / edit](https://github.com/microsoft/edit) - We all edit.
 * 【2025-06-19】[cloudflare / ai](https://github.com/cloudflare/ai) - 
 * 【2025-06-19】[firebase / genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
@@ -1602,6 +1605,7 @@
 
 ## Java
 
+* 【2025-06-23】[mafik / echo](https://github.com/mafik/echo) - Time travelling recorder for Android.
 * 【2025-06-20】[alibaba / fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics.
 * 【2025-06-19】[pixelsdb / pixels](https://github.com/pixelsdb/pixels) - An efficient storage and compute engine for both on-prem and cloud-native data analytics.
 * 【2025-06-08】[GeyserMC / Hydraulic](https://github.com/GeyserMC/Hydraulic) - A companion mod to Geyser which allows for Bedrock players to join modded Minecraft: Java Edition servers.
@@ -2046,6 +2050,7 @@
 
 ## Python
 
+* 【2025-06-23】[subzeroid / instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2025 with HikerAPI SaaS
 * 【2025-06-21】[kijai / ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 * 【2025-06-20】[hiyouga / EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
 * 【2025-06-20】[dottxt-ai / outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
@@ -4032,6 +4037,7 @@
 
 ## Go
 
+* 【2025-06-23】[kitops-ml / kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
 * 【2025-06-21】[psviderski / uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 * 【2025-06-19】[Ingenimax / agent-sdk-go](https://github.com/Ingenimax/agent-sdk-go) - 
 * 【2025-06-18】[github / github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
