@@ -3348,6 +3348,7 @@
 
 ## Javascript
 
+* 【2025-06-27】[upstash / context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 * 【2025-06-21】[franceking1 / Flash-Md-V2](https://github.com/franceking1/Flash-Md-V2) - Feel Free To Use FLASH-MD, Remember To STAR🌟 The Repo before Forking
 * 【2025-06-21】[sonnylazuardi / cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) - Cursor Talk To Figma MCP
 * 【2025-06-17】[rcourtman / Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
