@@ -3353,6 +3353,7 @@
 
 ## Javascript
 
+* 【2025-06-29】[danielmiessler / Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 * 【2025-06-28】[extesy / hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
 * 【2025-06-27】[upstash / context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 * 【2025-06-21】[franceking1 / Flash-Md-V2](https://github.com/franceking1/Flash-Md-V2) - Feel Free To Use FLASH-MD, Remember To STAR🌟 The Repo before Forking
