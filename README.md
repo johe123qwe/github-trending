@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-06-30】[aldinokemal / go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
 * 【2025-06-29】[octra-labs / wallet-gen](https://github.com/octra-labs/wallet-gen) - 
 * 【2025-06-29】[jnsahaj / tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 * 【2025-06-29】[zyronon / typing-word](https://github.com/zyronon/typing-word) - 在网页上背单词
@@ -4064,6 +4065,7 @@
 
 ## Go
 
+* 【2025-06-30】[bootdotdev / bootdev](https://github.com/bootdotdev/bootdev) - A CLI used to complete coding challenges and lessons on Boot.dev
 * 【2025-06-29】[Dyneteq / reconya](https://github.com/Dyneteq/reconya) - Network reconnaissance and asset discovery tool
 * 【2025-06-29】[blampe / rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
 * 【2025-06-25】[oras-project / oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
@@ -5696,6 +5698,7 @@
 
 ## C#
 
+* 【2025-06-30】[TheAirBlow / HyperSploit](https://github.com/TheAirBlow/HyperSploit) - Bypasses HyperOS restrictions on bootloader unlocking
 * 【2025-06-29】[justinpbarnett / unity-mcp](https://github.com/justinpbarnett/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 * 【2025-06-21】[syncfusion / maui-toolkit](https://github.com/syncfusion/maui-toolkit) - Syncfusion Toolkit for .NET MAUI offers high-quality UI controls to help you build rich, high-performance applications for iOS, Android, macOS, and Windows from a single codebase
 * 【2025-06-20】[CoderGamester / mcp-unity](https://github.com/CoderGamester/mcp-unity) - MCP Server to integrate Unity Editor game engine with different AI Model clients (e.g. Claude Desktop, Windsurf, Cursor)
@@ -6267,6 +6270,7 @@
 
 ## Html
 
+* 【2025-06-30】[vimichael / make-windows-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
 * 【2025-06-28】[yuzono / manga-repo](https://github.com/yuzono/manga-repo) - Extensions for Komikku / Mihon & forks.
 * 【2025-06-11】[novitechie / jetbra](https://github.com/novitechie/jetbra) - 
 * 【2025-06-10】[lowcoder-org / lowcoder](https://github.com/lowcoder-org/lowcoder) - 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
@@ -6859,6 +6863,7 @@
 
 ## Css
 
+* 【2025-06-30】[leanprover-community / leanprover-community.github.io](https://github.com/leanprover-community/leanprover-community.github.io) - Hosts the website for mathlib and other Lean community infrastructure.
 * 【2025-06-26】[Wombosvideo / tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) - TailwindCSS v4.0 compatible replacement for `tailwindcss-animate`
 * 【2025-06-26】[civilblur / mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 * 【2025-06-20】[keploy / student-program](https://github.com/keploy/student-program) - 
