@@ -4077,6 +4077,7 @@
 
 ## Go
 
+* 【2025-07-06】[qichiyuhub / rule](https://github.com/qichiyuhub/rule) - Clash、Sing-box、等分流规则
 * 【2025-07-04】[yusing / godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
 * 【2025-07-03】[go-dev-frame / sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
 * 【2025-07-03】[hypermodeinc / ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory-bound Go cache
@@ -4615,6 +4616,7 @@
 
 ## C
 
+* 【2025-07-06】[dev-Ali2008 / xanite](https://github.com/dev-Ali2008/xanite) - Xanite
 * 【2025-07-02】[revk / ESP32-Faikin](https://github.com/revk/ESP32-Faikin) - ESP32 based module to control Daikin aircon units
 * 【2025-06-27】[Safe3 / uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF.
 * 【2025-06-26】[rxi / microui](https://github.com/rxi/microui) - A tiny immediate-mode UI library
@@ -5717,6 +5719,7 @@
 
 ## C#
 
+* 【2025-07-06】[neelabo / NeeView](https://github.com/neelabo/NeeView) - An image viewer that allows you to browse images in folders and compressed files like a book. Powerful customization is available.
 * 【2025-07-05】[microsoft / referencesource](https://github.com/microsoft/referencesource) - Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
 * 【2025-07-05】[allenai / ai2thor](https://github.com/allenai/ai2thor) - An open-source platform for Visual AI.
 * 【2025-07-02】[9p4 / jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
@@ -6885,6 +6888,7 @@
 
 ## Css
 
+* 【2025-07-06】[myfreeer / cppreference2mshelp](https://github.com/myfreeer/cppreference2mshelp) - cppreference.com html archive converter to microsoft help (for Visual Studio 2012+) and chm help (for Windows)
 * 【2025-07-05】[microsoft / mvp](https://github.com/microsoft/mvp) - Microsoft MVP Program GitHub Repository
 * 【2025-07-05】[microsoft / TypeSearch](https://github.com/microsoft/TypeSearch) - 
 * 【2025-07-05】[microsoft / ngconf2015demo](https://github.com/microsoft/ngconf2015demo) - TodoMVC application demo for ng-conf 2015
