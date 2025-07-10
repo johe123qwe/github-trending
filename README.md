@@ -2075,6 +2075,7 @@
 
 ## Python
 
+* 【2025-07-10】[D4Vinci / Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 * 【2025-07-09】[awslabs / mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
 * 【2025-07-09】[coleam00 / ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass) - Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!
 * 【2025-07-08】[tubearchivist / tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
