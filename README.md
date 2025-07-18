@@ -2085,6 +2085,8 @@
 
 ## Python
 
+* 【2025-07-18】[aliasrobotics / cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
+* 【2025-07-18】[maxdorninger / MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 * 【2025-07-16】[mindverse / Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 * 【2025-07-16】[philippemerle / KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 * 【2025-07-16】[yandex-research / tabm](https://github.com/yandex-research/tabm) - (ICLR 2025) TabM: Advancing Tabular Deep Learning With Parameter-Efficient Ensembling
@@ -7766,6 +7768,7 @@
 
 ## Unknown
 
+* 【2025-07-18】[cursor / cursor](https://github.com/cursor/cursor) - The AI Code Editor
 * 【2025-07-15】[MoonshotAI / Kimi-VL](https://github.com/MoonshotAI/Kimi-VL) - Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities
 * 【2025-07-12】[arcprize / ARC-AGI-2](https://github.com/arcprize/ARC-AGI-2) - 
 * 【2025-07-03】[SimplifyJobs / Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Collection of Summer 2026 tech internships!
