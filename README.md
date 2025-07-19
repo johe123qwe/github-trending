@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-07-19】[bknd-io / bknd](https://github.com/bknd-io/bknd) - Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
 * 【2025-07-16】[aws / amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 * 【2025-07-16】[nicklockwood / SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
 * 【2025-07-14】[TomBursch / kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.
@@ -3405,6 +3406,7 @@
 
 ## Javascript
 
+* 【2025-07-19】[MarSeventh / CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare (Image hosting/File storage/Cloud drive) / 基于 CloudFlare 的开源文件托管解决方案（图床/文件床/网盘）
 * 【2025-07-17】[phcode-dev / phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
 * 【2025-07-13】[Parcoil / Sparkle](https://github.com/Parcoil/Sparkle) - Ultimate Windows Optimizer
 * 【2025-07-11】[elastic / mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) - 
@@ -5253,6 +5255,8 @@
 
 ## C++
 
+* 【2025-07-19】[deepseek-ai / DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) - DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+* 【2025-07-19】[ungive / discord-music-presence](https://github.com/ungive/discord-music-presence) - The Discord music status that works with any media player
 * 【2025-07-16】[sonicdcer / MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) - Recompilation of MarioKart 64
 * 【2025-07-11】[lraton / FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
 * 【2025-07-07】[LeagueToolkit / cslol-manager](https://github.com/LeagueToolkit/cslol-manager) - 
@@ -5776,6 +5780,7 @@
 
 ## C#
 
+* 【2025-07-19】[Azure / azure-mcp](https://github.com/Azure/azure-mcp) - The Azure MCP Server, bringing the power of Azure to your agents.
 * 【2025-07-16】[Kyome22 / RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
 * 【2025-07-16】[TheRobotStudio / HOPEJr](https://github.com/TheRobotStudio/HOPEJr) - HOPEJr_open-source_DIY_Humanoid_Robot_with_dexterous_hands
 * 【2025-07-15】[ChangemakerStudios / Papercut-SMTP](https://github.com/ChangemakerStudios/Papercut-SMTP) - Papercut SMTP -- The Simple Desktop Email Server
@@ -6960,6 +6965,8 @@
 
 ## Css
 
+* 【2025-07-19】[linera-io / linera-documentation](https://github.com/linera-io/linera-documentation) - 
+* 【2025-07-19】[LeelaChessZero / lczero.org](https://github.com/LeelaChessZero/lczero.org) - A website (will be lczero.org)
 * 【2025-07-16】[brody192 / vite-react-template](https://github.com/brody192/vite-react-template) - 
 * 【2025-07-11】[jensimmons / cssremedy](https://github.com/jensimmons/cssremedy) - Start your project with a remedy for the technical debt of CSS.
 * 【2025-07-09】[tanabe / markdown-live-preview](https://github.com/tanabe/markdown-live-preview) - markdown editor with live preview
