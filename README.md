@@ -3431,6 +3431,7 @@
 
 ## Javascript
 
+* 【2025-07-30】[hotheadhacker / no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 * 【2025-07-29】[zumerlab / snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures HTML elements to images with exceptional speed and accuracy.
 * 【2025-07-29】[zed-industries / zed-fonts](https://github.com/zed-industries/zed-fonts) - The Zed Mono and Sans typefaces, custom built from Iosevka
 * 【2025-07-29】[eoao / cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱 临时邮箱 邮件发送 mail
