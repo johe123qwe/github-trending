@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-08-03】[flydelabs / flyde](https://github.com/flydelabs/flyde) - Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.
 * 【2025-08-01】[dyad-sh / dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
 * 【2025-08-01】[playcanvas / editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
 * 【2025-08-01】[TideDra / zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily) - Recommend new arxiv papers of your interest daily according to your Zotero libarary.
@@ -1645,6 +1646,8 @@
 
 ## Java
 
+* 【2025-08-03】[Wurst-Imperium / Wurst7](https://github.com/Wurst-Imperium/Wurst7) - Minecraft Wurst Hacked Client v7
+* 【2025-08-03】[openrocket / openrocket](https://github.com/openrocket/openrocket) - Model-rocketry aerodynamics and trajectory simulation software
 * 【2025-08-02】[OWASP-Benchmark / BenchmarkJava](https://github.com/OWASP-Benchmark/BenchmarkJava) - OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually expl…
 * 【2025-07-31】[gravitee-io / gravitee-api-management](https://github.com/gravitee-io/gravitee-api-management) - Gravitee.io - OpenSource API Management
 * 【2025-07-28】[NemProject / nem](https://github.com/NemProject/nem) - number go up 💹
@@ -3443,6 +3446,7 @@
 
 ## Javascript
 
+* 【2025-08-03】[crocodilestick / Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 * 【2025-08-02】[google / earthengine-api](https://github.com/google/earthengine-api) - Python and JavaScript bindings for calling the Earth Engine API.
 * 【2025-07-31】[viatsko / awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 * 【2025-07-30】[hotheadhacker / no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
@@ -5845,6 +5849,7 @@
 
 ## C#
 
+* 【2025-08-03】[CoplayDev / unity-mcp](https://github.com/CoplayDev/unity-mcp) - A Unity MCP server that allows MCP clients like Claude Desktop or Cursor to perform Unity Editor actions.
 * 【2025-08-01】[Arcenox-co / TickerQ](https://github.com/Arcenox-co/TickerQ) - TickerQ is a fast, reflection-free background task scheduler for .NET — built with source generators, EF Core integration, cron + time-based execution, and a real-time dashboard.
 * 【2025-08-01】[PixiEditor / PixiEditor](https://github.com/PixiEditor/PixiEditor) - PixiEditor is a Universal Editor for all your 2D needs
 * 【2025-07-31】[Luca3317 / TMPEffects](https://github.com/Luca3317/TMPEffects) - Easily animate Unity text and apply other effects with custom tags
@@ -7857,6 +7862,7 @@
 
 ## Unknown
 
+* 【2025-08-03】[Kimentanm / aptv](https://github.com/Kimentanm/aptv) - 📺 A tool for playing m3u8 file
 * 【2025-07-31】[crescentpartha / CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers) - A collection of programming CheatSheets for developers to boost your productivity and quick review to remember while working.
 * 【2025-07-31】[MuriithiEric / July2025Cohort-Hackathon1](https://github.com/MuriithiEric/July2025Cohort-Hackathon1) - 
 * 【2025-07-30】[omkarcloud / google-maps-scraper](https://github.com/omkarcloud/google-maps-scraper) - 👋 HOLA 👋 HOLA 👋 HOLA ! ENJOY OUR GOOGLE MAPS SCRAPER 🚀 TO EFFORTLESSLY EXTRACT DATA SUCH AS NAMES, ADDRESSES, PHONE NUMBERS, REVIEWS, WEBSITES, AND RATINGS FROM GOOGLE MAPS WITH EASE! 🤖
