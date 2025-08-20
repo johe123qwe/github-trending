@@ -7,6 +7,11 @@
 
 ## All language
 
+* 【2025-08-20】[moeru-ai / airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+* 【2025-08-20】[Leantime / leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+* 【2025-08-20】[laude-institute / terminal-bench](https://github.com/laude-institute/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal
+* 【2025-08-20】[epicenter-so / epicenter](https://github.com/epicenter-so/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
+* 【2025-08-20】[ikuaitu / vue-fabric-editor](https://github.com/ikuaitu/vue-fabric-editor) - 快图设计-基于fabric.js和Vue的开源图片编辑器，可自定义字体、素材、设计模板。fabric.js and Vue based image editor, can customize fonts, materials, design templates.
 * 【2025-08-19】[imsyy / SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
 * 【2025-08-18】[bytebot-ai / bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 * 【2025-08-16】[IBM / mcp-context-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
@@ -2132,6 +2137,7 @@
 
 ## Python
 
+* 【2025-08-20】[HKUDS / AI-Researcher](https://github.com/HKUDS/AI-Researcher) - "AI-Researcher: Autonomous Scientific Innovation"
 * 【2025-08-19】[tensorlakeai / tensorlake](https://github.com/tensorlakeai/tensorlake) - Tensorlake is a Document Ingestion API and a serverless platform for building data processing and orchestration APIs
 * 【2025-08-19】[portiaAI / portia-sdk-python](https://github.com/portiaAI/portia-sdk-python) - Portia Labs Python SDK for building agentic workflows.
 * 【2025-08-17】[HunxByts / GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
@@ -3489,6 +3495,7 @@
 
 ## Javascript
 
+* 【2025-08-20】[YosemiteCrew / Yosemite-Crew](https://github.com/YosemiteCrew/Yosemite-Crew) - Open source operating system for animal health
 * 【2025-08-16】[grab / cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - CTTF: MCP integration between Cursor AI and Figma, allowing Cursor to communicate with Figma like agentic ai for reading designs and modifying them programmatically.
 * 【2025-08-16】[GoogleCloudPlatform / cloud-run-mcp](https://github.com/GoogleCloudPlatform/cloud-run-mcp) - MCP server to deploy apps to Cloud Run
 * 【2025-08-13】[mikechambers / adb-mcp](https://github.com/mikechambers/adb-mcp) - 
@@ -4222,6 +4229,7 @@
 
 ## Go
 
+* 【2025-08-20】[isaacphi / mcp-language-server](https://github.com/isaacphi/mcp-language-server) - mcp-language-server gives MCP enabled clients access semantic tools like get definition, references, rename, and diagnostics.
 * 【2025-08-18】[stacklok / toolhive](https://github.com/stacklok/toolhive) - ToolHive makes deploying MCP servers easy, secure and fun
 * 【2025-08-14】[hashicorp / terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server) - The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development.
 * 【2025-08-13】[mudler / LocalAGI](https://github.com/mudler/LocalAGI) - LocalAGI is a powerful, self-hostable AI Agent platform designed for maximum privacy and flexibility. A complete drop-in replacement for OpenAI's Responses APIs with advanced agentic capabilities. No clouds. No data leaks. Just pure local AI that works on consumer-grade hardware (CPU and GPU).
@@ -5388,6 +5396,7 @@
 
 ## C++
 
+* 【2025-08-20】[ROCm / rocm-systems](https://github.com/ROCm/rocm-systems) - super repo for rocm systems projects
 * 【2025-08-16】[PanosK92 / SpartanEngine](https://github.com/PanosK92/SpartanEngine) - A game engine with an emphasis on real-time cutting-edge solutions
 * 【2025-08-07】[flashinfer-ai / flashinfer](https://github.com/flashinfer-ai/flashinfer) - FlashInfer: Kernel Library for LLM Serving
 * 【2025-08-07】[abdularis / LAN-Share](https://github.com/abdularis/LAN-Share) - Cross platform LAN File transfer application built with Qt C++ framework
@@ -5926,6 +5935,7 @@
 
 ## C#
 
+* 【2025-08-20】[microsoftgraph / msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) - Powershell SDK for Microsoft Graph
 * 【2025-08-19】[katboi01 / UmaViewer](https://github.com/katboi01/UmaViewer) - Asset Viewer for Uma Musume
 * 【2025-08-15】[builtbybel / CrapFixer](https://github.com/builtbybel/CrapFixer) - Cr*ap Fixer
 * 【2025-08-12】[IvanMurzak / Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - MCP Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or others.
