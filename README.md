@@ -7143,6 +7143,7 @@
 
 ## Css
 
+* 【2025-08-21】[Nayanika1402 / RuRal-ReTreats](https://github.com/Nayanika1402/RuRal-ReTreats) - RuralRetreats is a unique website designed to connect travelers with the charm of rural life.
 * 【2025-08-19】[Parnab03 / WallGodds](https://github.com/Parnab03/WallGodds) - A modern wallpaper website offering high-quality wallpapers for mobile, tablet, and desktop devices. Features include user uploads, categorization, and profile management.
 * 【2025-08-08】[keshikan / DSEG](https://github.com/keshikan/DSEG) - 7-segment and 14-segment font 7セグ・14セグフォント
 * 【2025-08-07】[vinceliuice / WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
