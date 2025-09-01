@@ -5457,6 +5457,7 @@
 
 ## C++
 
+* 【2025-09-01】[underpig1 / octos](https://github.com/underpig1/octos) - Create and share web-based interactive, animated wallpapers on Windows 🚀 Available on the Microsoft Store
 * 【2025-08-30】[unitreerobotics / unitree_ros2](https://github.com/unitreerobotics/unitree_ros2) - 
 * 【2025-08-24】[2swap / swaptube](https://github.com/2swap/swaptube) - youtube video renderer
 * 【2025-08-20】[ROCm / rocm-systems](https://github.com/ROCm/rocm-systems) - super repo for rocm systems projects
