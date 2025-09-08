@@ -3555,6 +3555,7 @@
 
 ## Javascript
 
+* 【2025-09-08】[mindcraft-bots / mindcraft](https://github.com/mindcraft-bots/mindcraft) - Minecraft AI with LLMs+Mineflayer
 * 【2025-09-06】[6Kmfi6HP / EDtunnel](https://github.com/6Kmfi6HP/EDtunnel) - EDtunnel 是一个基于 Cloudflare Workers 和 Pages 的代理工具，支持多种协议和配置选项。 EDtunnel is a proxy tool based on Cloudflare Workers and Pages, supporting multiple protocols and configuration options.
 * 【2025-09-06】[devxprite / infoooze](https://github.com/devxprite/infoooze) - A OSINT tool which helps you to quickly find information effectively. All you need is to input and it will take take care of rest.
 * 【2025-09-04】[bcanseco / github-contribution-graph-action](https://github.com/bcanseco/github-contribution-graph-action) - 🙈 This GitHub action will automatically push empty commits to one of your repositories.
@@ -6031,6 +6032,7 @@
 
 ## C#
 
+* 【2025-09-08】[builtbybel / Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
 * 【2025-09-07】[immisterio / Lampac](https://github.com/immisterio/Lampac) - 
 * 【2025-09-05】[teelur / budget-board](https://github.com/teelur/budget-board) - A simple app for tracking monthly spending and working towards financial goals.
 * 【2025-09-04】[jbogard / ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - With Razor Pages
