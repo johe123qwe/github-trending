@@ -2174,6 +2174,7 @@
 
 ## Python
 
+* 【2025-09-11】[sentient-agi / ROMA](https://github.com/sentient-agi/ROMA) - Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
 * 【2025-09-10】[NEKOparapa / AiNiee](https://github.com/NEKOparapa/AiNiee) - 一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，Srt Vtt Lrc字幕，Word MD文档等等复杂长文本。
 * 【2025-09-08】[coderamp-labs / gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 * 【2025-09-07】[NVIDIA / TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) - A unified library of state-of-the-art model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM or TensorRT to optimize inference speed.
@@ -5501,6 +5502,7 @@
 
 ## C++
 
+* 【2025-09-11】[ashtf8 / PocketMage_PDA](https://github.com/ashtf8/PocketMage_PDA) - An E-Ink PDA device using the ESP32 S3.
 * 【2025-09-07】[MrNeRF / LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio) - LichtFeld Studio: Where reality and the digital world blend.
 * 【2025-09-01】[ITotalJustice / sphaira](https://github.com/ITotalJustice/sphaira) - A homebrew menu for the Nintendo Switch
 * 【2025-09-01】[underpig1 / octos](https://github.com/underpig1/octos) - Create and share web-based interactive, animated wallpapers on Windows 🚀 Available on the Microsoft Store
@@ -6045,6 +6047,7 @@
 
 ## C#
 
+* 【2025-09-11】[Project-Babble / Baballonia](https://github.com/Project-Babble/Baballonia) - Repo for the new Babble App, free and open eye and face tracking for social VR
 * 【2025-09-10】[Alex-Rachel / TEngine](https://github.com/Alex-Rachel/TEngine) - Unity框架解决方案-支持HybridCLR(最好的次时代热更)、Obfuz混淆代码加固与YooAssets(优秀商业级资源框架)。
 * 【2025-09-09】[adospace / reactorui-maui](https://github.com/adospace/reactorui-maui) - MauiReactor is a MVU UI framework built on top of .NET MAUI
 * 【2025-09-08】[builtbybel / Flyoobe](https://github.com/builtbybel/Flyoobe) - Fly through your Windows 11 setup 🐝
@@ -8095,6 +8098,7 @@
 
 ## Unknown
 
+* 【2025-09-11】[karminski / one-small-step](https://github.com/karminski/one-small-step) - 这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成。
 * 【2025-09-10】[emarco177 / langchain-course](https://github.com/emarco177/langchain-course) - 
 * 【2025-09-06】[mrsaeeddev / free-ai-resources](https://github.com/mrsaeeddev/free-ai-resources) - 🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!
 * 【2025-09-06】[twelve-factor / twelve-factor](https://github.com/twelve-factor/twelve-factor) - The Twelve-Factor Manifesto
