@@ -8106,6 +8106,7 @@
 
 ## Unknown
 
+* 【2025-09-13】[vanshb03 / New-Grad-2026](https://github.com/vanshb03/New-Grad-2026) - 2025 & 2026 New grad full-time roles in SWE, Quant, and PM.
 * 【2025-09-12】[iam-veeramalla / Kubernetes-Zero-to-Hero](https://github.com/iam-veeramalla/Kubernetes-Zero-to-Hero) - Creating this repo with an intent to make Kubernetes easy for begineers. This is a work-in-progress repo.
 * 【2025-09-11】[karminski / one-small-step](https://github.com/karminski/one-small-step) - 这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成。
 * 【2025-09-10】[emarco177 / langchain-course](https://github.com/emarco177/langchain-course) - 
