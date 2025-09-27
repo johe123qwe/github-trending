@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2025-09-27】[modelcontextprotocol / typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
+* 【2025-09-27】[imputnet / helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
+* 【2025-09-27】[ai-dynamo / dynamo](https://github.com/ai-dynamo/dynamo) - A Datacenter Scale Distributed Inference Serving Framework
 * 【2025-09-26】[ericciarla / trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI
 * 【2025-09-26】[google-gemini / gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 * 【2025-09-25】[coinbase / x402](https://github.com/coinbase/x402) - A payments protocol for the internet. Built on HTTP.
@@ -1717,6 +1720,7 @@
 
 ## Java
 
+* 【2025-09-27】[apache / fesod](https://github.com/apache/fesod) - Fast. Easy. Done. Processing Excels without worrying about large files causing OOM.
 * 【2025-09-26】[apache / sedona](https://github.com/apache/sedona) - A cluster computing framework for processing large-scale geospatial data
 * 【2025-09-24】[Jigsaw-Code / Intra](https://github.com/Jigsaw-Code/Intra) - An experimental tool that allows you to test new DNS-over-HTTPS services on Android
 * 【2025-09-08】[GoogleCloudPlatform / bank-of-anthos](https://github.com/GoogleCloudPlatform/bank-of-anthos) - Retail banking sample application showcasing Kubernetes and Google Cloud
@@ -2198,6 +2202,7 @@
 
 ## Python
 
+* 【2025-09-27】[Tencent-Hunyuan / Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
 * 【2025-09-26】[Wirasm / PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering
 * 【2025-09-25】[StanfordVL / BEHAVIOR-1K](https://github.com/StanfordVL/BEHAVIOR-1K) - BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https://discord.gg/bccR5vGFEx
 * 【2025-09-25】[Klavis-AI / klavis](https://github.com/Klavis-AI/klavis) - Klavis AI (YC X25): MCP integration layers that let AI agents use thousands of tools reliably.
@@ -3601,6 +3606,7 @@
 
 ## Javascript
 
+* 【2025-09-27】[perplexityai / modelcontextprotocol](https://github.com/perplexityai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 * 【2025-09-25】[asterdex / api-docs](https://github.com/asterdex/api-docs) - 
 * 【2025-09-22】[andrepimenta / claude-code-chat](https://github.com/andrepimenta/claude-code-chat) - Beautiful Claude Code Chat Interface for VS Code
 * 【2025-09-17】[httptoolkit / frida-interception-and-unpinning](https://github.com/httptoolkit/frida-interception-and-unpinning) - Frida scripts to directly MitM all HTTPS traffic from a target mobile application
@@ -6725,6 +6731,7 @@
 
 ## Html
 
+* 【2025-09-27】[dsc-jssstu / CamPhish](https://github.com/dsc-jssstu/CamPhish) - 
 * 【2025-09-26】[owickstrom / the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 * 【2025-09-26】[dinguschan-owo / Helios](https://github.com/dinguschan-owo/Helios) - Helios is an COMPLETELY UNBLOCKABLE proxy with tabs that can be static hosted, can be run locally, and is html css js only! This is (as far as i've found) the only true UNBLOCKABLE only HTML proxy that works with any blocking software! Plus its open sauce so you can take this code and build your own proxy! (⭐ PLEASE star if you fork! ⭐)
 * 【2025-09-25】[PhoenixPE / PhoenixPE](https://github.com/PhoenixPE/PhoenixPE) - PhoenixPE allows you to create a customized Rescue/Recovery Environment based on Win10/Win11.
