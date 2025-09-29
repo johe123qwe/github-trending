@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-09-29】[Done-0 / fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
 * 【2025-09-28】[rapid7 / metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 * 【2025-09-27】[modelcontextprotocol / typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official TypeScript SDK for Model Context Protocol servers and clients
 * 【2025-09-27】[imputnet / helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
@@ -2203,6 +2204,7 @@
 
 ## Python
 
+* 【2025-09-29】[THUDM / slime](https://github.com/THUDM/slime) - slime is an LLM post-training framework for RL Scaling.
 * 【2025-09-28】[elliottech / lighter-python](https://github.com/elliottech/lighter-python) - Public Python SDK for Lighter
 * 【2025-09-27】[Tencent-Hunyuan / Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) - From Images to High-Fidelity 3D Assets with Production-Ready PBR Material
 * 【2025-09-26】[Wirasm / PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) - Prompts, workflows and more for agentic engineering
@@ -4365,6 +4367,7 @@
 
 ## Go
 
+* 【2025-09-29】[eduardolat / pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾
 * 【2025-09-25】[base / node](https://github.com/base/node) - Everything required to run your own Base node
 * 【2025-09-15】[tbphp / gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 * 【2025-09-14】[docker / mcp-registry](https://github.com/docker/mcp-registry) - Official Docker MCP registry
@@ -5560,6 +5563,7 @@
 
 ## C++
 
+* 【2025-09-29】[mhogomchungu / media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 * 【2025-09-28】[luanti-org / luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 * 【2025-09-25】[Byrom90 / XeUnshackle](https://github.com/Byrom90/XeUnshackle) - Custom Xbox 360 app designed to be used with the Xbox360BadUpdate exploit. Applies a set of HV/Kernel patches & loads the Dashlaunch system module (launch.xex).
 * 【2025-09-15】[skift-org / skift](https://github.com/skift-org/skift) - 🥑 A modern delightful operating system
@@ -6109,6 +6113,7 @@
 
 ## C#
 
+* 【2025-09-29】[builtbybel / xd-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) - The successor to xp-AntiSpy, designed for the modern Windows experience
 * 【2025-09-28】[k1tbyte / Wemod-Patcher](https://github.com/k1tbyte/Wemod-Patcher) - WeMod patcher allows you to get some WeMod Pro features absolutely free
 * 【2025-09-28】[IAmParadox27 / jellyfin-plugin-home-sections](https://github.com/IAmParadox27/jellyfin-plugin-home-sections) - Add server provided home sections to your Jellyfin instance
 * 【2025-09-25】[avestura / EyesGuard](https://github.com/avestura/EyesGuard) - 👀 Windows Application for protecting your eyes
