@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-10-05】[aandrew-me / ytDownloader](https://github.com/aandrew-me/ytDownloader) - Desktop App for downloading Videos and Audios from hundreds of sites
 * 【2025-10-04】[paaatrick / playball](https://github.com/paaatrick/playball) - Watch MLB games from the comfort of your own terminal
 * 【2025-10-04】[glide-browser / glide](https://github.com/glide-browser/glide) - An extensible and keyboard-focused web browser
 * 【2025-10-03】[microsoft / agent-framework](https://github.com/microsoft/agent-framework) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
@@ -3629,6 +3630,7 @@
 
 ## Javascript
 
+* 【2025-10-05】[paperwm / PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for GNOME Shell
 * 【2025-10-04】[yep-yogesh / Guessync](https://github.com/yep-yogesh/Guessync) - A full-stack, real-time multiplayer music guessing game built with React, Firebase Auth, Socket.IO, MongoDB, and Vite. Integrated with Spotify, YouTube, and GeminiAI to enable AI-powered hints, audio playback and fuzzy-matched answers.
 * 【2025-10-02】[Coding-Solo / godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
 * 【2025-09-30】[gkjohnson / three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh) - A BVH implementation to speed up raycasting and enable spatial queries against three.js meshes.
@@ -7398,6 +7400,7 @@
 
 ## Css
 
+* 【2025-10-05】[Gonzalo-D-Sales / obsidian-velocity](https://github.com/Gonzalo-D-Sales/obsidian-velocity) - A radically modern theme for Obsidian.
 * 【2025-10-03】[supabase / supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, query pgvector.
 * 【2025-10-03】[neeraj542 / Personal-Finance-Tracker](https://github.com/neeraj542/Personal-Finance-Tracker) - The Personal Finance Tracker is a web application designed to help individuals manage their finances effectively. It provides a user-friendly interface for tracking income and expenses, setting financial goals, and monitoring budget limits.
 * 【2025-09-28】[bahamas10 / ysap](https://github.com/bahamas10/ysap) - You Suck at Programming - Dave Eddy
