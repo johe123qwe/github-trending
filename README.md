@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-10-11】[QwenLM / Qwen3-VL](https://github.com/QwenLM/Qwen3-VL) - Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
 * 【2025-10-10】[supermemoryai / supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 * 【2025-10-10】[coze-dev / coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 * 【2025-10-09】[google / computer-use-preview](https://github.com/google/computer-use-preview) - 
@@ -2231,6 +2232,8 @@
 
 ## Python
 
+* 【2025-10-11】[Ksuriuri / index-tts-vllm](https://github.com/Ksuriuri/index-tts-vllm) - Added vLLM support to IndexTTS for faster inference.
+* 【2025-10-11】[OpenRLHF / OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework based on Ray (PPO & GRPO & REINFORCE++ & vLLM & Ray & Dynamic Sampling & Async Agentic RL)
 * 【2025-10-10】[intruder-io / autoswagger](https://github.com/intruder-io/autoswagger) - Autoswagger by Intruder - detect API auth weaknesses
 * 【2025-10-09】[google / langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 * 【2025-10-09】[sapientinc / HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
