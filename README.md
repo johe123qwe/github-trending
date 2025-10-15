@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2025-10-15】[langchain-ai / langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+* 【2025-10-15】[enactic / openarm](https://github.com/enactic/openarm) - A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.
+* 【2025-10-15】[czlonkowski / n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 * 【2025-10-15】[volcengine / MineContext](https://github.com/volcengine/MineContext) - MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
 * 【2025-10-14】[chili-chips-ba / wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga) - Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!
 * 【2025-10-13】[nitrojs / nitro](https://github.com/nitrojs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
@@ -2237,6 +2240,7 @@
 
 ## Python
 
+* 【2025-10-15】[Junyi-99 / ChatGPT-API-Scanner](https://github.com/Junyi-99/ChatGPT-API-Scanner) - Scan GitHub for available OpenAI API Keys
 * 【2025-10-13】[harvard-edge / cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
 * 【2025-10-12】[LuckyOne7777 / ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 * 【2025-10-11】[Ksuriuri / index-tts-vllm](https://github.com/Ksuriuri/index-tts-vllm) - Added vLLM support to IndexTTS for faster inference.
@@ -3658,6 +3662,7 @@
 
 ## Javascript
 
+* 【2025-10-15】[Wei-Shaw / claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 * 【2025-10-14】[pickle-com / glass](https://github.com/pickle-com/glass) - Digital Mind Extension
 * 【2025-10-13】[renmu123 / biliLive-tools](https://github.com/renmu123/biliLive-tools) - 直播一站式处理工具，支持直播录制&视频处理&弹幕处理&录播姬自动上传
 * 【2025-10-12】[scribeocr / scribeocr](https://github.com/scribeocr/scribeocr) - Web interface for recognizing text, proofreading OCR, and creating fully-digitized documents.
@@ -4428,6 +4433,9 @@
 
 ## Go
 
+* 【2025-10-15】[vxcontrol / pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+* 【2025-10-15】[docker / model-runner](https://github.com/docker/model-runner) - Docker Model Runner
+* 【2025-10-15】[asternic / wuzapi](https://github.com/asternic/wuzapi) - Simple RESTful API for WhatsApp in Golang (using the Whatsmeow multi device library)
 * 【2025-10-12】[OffchainLabs / prysm](https://github.com/OffchainLabs/prysm) - Go implementation of Ethereum proof of stake
 * 【2025-10-01】[charlie0129 / batt](https://github.com/charlie0129/batt) - Control and limit battery charging on Apple Silicon MacBooks.
 * 【2025-09-30】[dbos-inc / dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) - Durable Workflow Orchestration with Golang and Postgres
@@ -5013,6 +5021,7 @@
 
 ## C
 
+* 【2025-10-15】[jetkvm / kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 * 【2025-10-07】[landley / toybox](https://github.com/landley/toybox) - toybox
 * 【2025-10-06】[Cairo-Dock / cairo-dock-core](https://github.com/Cairo-Dock/cairo-dock-core) - Core part of Cairo-Dock project.
 * 【2025-10-04】[DanielSant0s / AthenaEnv](https://github.com/DanielSant0s/AthenaEnv) - A complete Javascript environment for creating homebrew applications and games on PlayStation 2.
@@ -6190,6 +6199,7 @@
 
 ## C#
 
+* 【2025-10-15】[morkt / GARbro](https://github.com/morkt/GARbro) - Visual Novels resource browser
 * 【2025-10-10】[DearVa / Everywhere](https://github.com/DearVa/Everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 * 【2025-09-30】[BrighterCommand / Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
 * 【2025-09-29】[builtbybel / xd-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) - The successor to xp-AntiSpy, designed for the modern Windows experience
@@ -7446,6 +7456,7 @@
 
 ## Css
 
+* 【2025-10-15】[wso2 / docs-is](https://github.com/wso2/docs-is) - 
 * 【2025-10-14】[egoist / hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 * 【2025-10-14】[yesiamrajeev / Hacktoberfest2025-Portfolio](https://github.com/yesiamrajeev/Hacktoberfest2025-Portfolio) - Star˗ˏˋ ★ ˎˊ˗ this repo......... contribute to following repos as this repo is excluded................................ 1st) https://github.com/yesiamrajeev/FaceDetection_Prototype3 2nd)https://github.com/yesiamrajeev/Hacktoberfest2025-Pixelated-Draw
 * 【2025-10-12】[zen-browser / theme-store](https://github.com/zen-browser/theme-store) - 🎨 Theme repository for @zen-browser!
@@ -8281,6 +8292,7 @@
 
 ## Unknown
 
+* 【2025-10-15】[github / copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 * 【2025-10-13】[Fl4sh9174 / Switch-Ultrawide-Mods](https://github.com/Fl4sh9174/Switch-Ultrawide-Mods) - 
 * 【2025-10-10】[kirodotdev / Kiro](https://github.com/kirodotdev/Kiro) - Kiro is an agentic IDE that works alongside you from prototype to production.
 * 【2025-10-09】[filipecalegario / awesome-vibe-coding](https://github.com/filipecalegario/awesome-vibe-coding) - A curated list of vibe coding references, collaborating with AI to write code.
