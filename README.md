@@ -2240,6 +2240,9 @@
 
 ## Python
 
+* 【2025-10-17】[gyoridavid / ai_agents_az](https://github.com/gyoridavid/ai_agents_az) - 
+* 【2025-10-17】[0x4m4 / hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) - HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
+* 【2025-10-17】[exislow / tidal-dl-ng](https://github.com/exislow/tidal-dl-ng) - Multithreaded TIDAL Media Downloader Next Generation! Up to HiRes Lossless / TIDAL MAX 24-bit, 192 kHz.
 * 【2025-10-16】[shiyu-coder / Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
 * 【2025-10-15】[Junyi-99 / ChatGPT-API-Scanner](https://github.com/Junyi-99/ChatGPT-API-Scanner) - Scan GitHub for available OpenAI API Keys
 * 【2025-10-13】[harvard-edge / cs249r_book](https://github.com/harvard-edge/cs249r_book) - Introduction to Machine Learning Systems
@@ -4437,6 +4440,7 @@
 
 ## Go
 
+* 【2025-10-17】[ZenPrivacy / zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 * 【2025-10-16】[kubeflow / trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and Fine-Tuning on Kubernetes
 * 【2025-10-15】[vxcontrol / pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 * 【2025-10-15】[docker / model-runner](https://github.com/docker/model-runner) - Docker Model Runner
@@ -5026,6 +5030,7 @@
 
 ## C
 
+* 【2025-10-17】[duixcom / Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 * 【2025-10-15】[jetkvm / kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 * 【2025-10-07】[landley / toybox](https://github.com/landley/toybox) - toybox
 * 【2025-10-06】[Cairo-Dock / cairo-dock-core](https://github.com/Cairo-Dock/cairo-dock-core) - Core part of Cairo-Dock project.
