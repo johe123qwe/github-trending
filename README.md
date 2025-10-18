@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2025-10-18】[anthropics / claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+* 【2025-10-18】[ThinkInAIXYZ / deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 * 【2025-10-18】[HuLaSpark / HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3.0版本重磅发布，敬请期待🎉
 * 【2025-10-15】[langchain-ai / langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 * 【2025-10-15】[enactic / openarm](https://github.com/enactic/openarm) - A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.
@@ -3667,6 +3669,8 @@
 
 ## Javascript
 
+* 【2025-10-18】[xixu-me / Xget](https://github.com/xixu-me/Xget) - Ultra-high-performance, secure, all-in-one acceleration engine for developer resources whose performance far surpasses traditional accelerators, delivering a unified, efficient acceleration experience across multiple platforms | 超高性能、安全的一站式开发者资源加速引擎，其性能远超传统加速器，提供跨多个平台的统一高效的加速体验，涵盖代码储存库、包管理、AI 推理 API、容器镜像、模型及数据集等
+* 【2025-10-18】[handlebars-lang / handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
 * 【2025-10-16】[carboneio / carbone](https://github.com/carboneio/carbone) - Fast and simple report generator, from JSON to pdf, xslx, docx, odt...
 * 【2025-10-16】[DmytroVasin / DrawPen](https://github.com/DmytroVasin/DrawPen) - DrawPen is a simple screen annotation. Available on macOS, Windows & Linux.
 * 【2025-10-16】[open-domains / register](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
@@ -4441,6 +4445,7 @@
 
 ## Go
 
+* 【2025-10-18】[qualifire-dev / rogue](https://github.com/qualifire-dev/rogue) - Agents testing framework made easy
 * 【2025-10-17】[ZenPrivacy / zen-desktop](https://github.com/ZenPrivacy/zen-desktop) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux
 * 【2025-10-16】[kubeflow / trainer](https://github.com/kubeflow/trainer) - Distributed AI Model Training and Fine-Tuning on Kubernetes
 * 【2025-10-15】[vxcontrol / pentagi](https://github.com/vxcontrol/pentagi) - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
@@ -5031,6 +5036,7 @@
 
 ## C
 
+* 【2025-10-18】[DreamMaoMao / mangowc](https://github.com/DreamMaoMao/mangowc) - wayland compositor base wlroots and scenefx(dwl but no suckless)
 * 【2025-10-17】[duixcom / Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 * 【2025-10-15】[jetkvm / kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 * 【2025-10-07】[landley / toybox](https://github.com/landley/toybox) - toybox
@@ -6210,6 +6216,7 @@
 
 ## C#
 
+* 【2025-10-18】[Unity-Technologies / com.unity.toonshader](https://github.com/Unity-Technologies/com.unity.toonshader) - Unity Toon Shader
 * 【2025-10-15】[morkt / GARbro](https://github.com/morkt/GARbro) - Visual Novels resource browser
 * 【2025-10-10】[DearVa / Everywhere](https://github.com/DearVa/Everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 * 【2025-09-30】[BrighterCommand / Brighter](https://github.com/BrighterCommand/Brighter) - A framework for building messaging apps with .NET and C#.
@@ -7468,6 +7475,7 @@
 
 ## Css
 
+* 【2025-10-18】[avinash201199 / My-Gallery-4u](https://github.com/avinash201199/My-Gallery-4u) - Photography website
 * 【2025-10-15】[wso2 / docs-is](https://github.com/wso2/docs-is) - 
 * 【2025-10-14】[egoist / hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 * 【2025-10-14】[yesiamrajeev / Hacktoberfest2025-Portfolio](https://github.com/yesiamrajeev/Hacktoberfest2025-Portfolio) - Star˗ˏˋ ★ ˎˊ˗ this repo......... contribute to following repos as this repo is excluded................................ 1st) https://github.com/yesiamrajeev/FaceDetection_Prototype3 2nd)https://github.com/yesiamrajeev/Hacktoberfest2025-Pixelated-Draw
