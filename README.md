@@ -7513,6 +7513,7 @@
 
 ## Css
 
+* 【2025-10-29】[n00bcodr / Jellyfish](https://github.com/n00bcodr/Jellyfish) - Jellyfin Theme inspired by Flow, Zesty and Ultrachromic
 * 【2025-10-27】[elifouts / Dotfiles](https://github.com/elifouts/Dotfiles) - My Hyprland Dotfiles For Arch!
 * 【2025-10-24】[amnweb / yasb-themes](https://github.com/amnweb/yasb-themes) - 🎨 Theme repository for YASB.
 * 【2025-10-24】[Matt-FTW / dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config
