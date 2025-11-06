@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2025-11-06】[ad-on-is / rachoon](https://github.com/ad-on-is/rachoon) - 🦝 Rachoon — A self-hostable way to handle invoices
+* 【2025-11-06】[KotatsuApp / Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
+* 【2025-11-06】[GuMengYu / music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格pc音乐播放器
 * 【2025-11-05】[GoogleCloudPlatform / vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
 * 【2025-11-04】[mudler / edgevpn](https://github.com/mudler/edgevpn) - ⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
 * 【2025-11-03】[sst / opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
@@ -2264,6 +2267,7 @@
 
 ## Python
 
+* 【2025-11-06】[usestrix / strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
 * 【2025-11-02】[Pipelex / pipelex](https://github.com/Pipelex/pipelex) - Pipelex: open-source language for AI Agents to create and run repeatable AI workflows
 * 【2025-11-01】[unitreerobotics / unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) - This is a repository for reinforcement learning implementation for Unitree robots, based on IsaacLab.
 * 【2025-10-31】[langchain-ai / deepagents](https://github.com/langchain-ai/deepagents) - 
@@ -4494,6 +4498,7 @@
 
 ## Go
 
+* 【2025-11-06】[ayn2op / discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 * 【2025-11-03】[raghavyuva / nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
 * 【2025-11-02】[abenz1267 / elephant](https://github.com/abenz1267/elephant) - 
 * 【2025-10-29】[trpc-group / trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - trpc-agent-go is a powerful Go framework for building intelligent agent systems using large language models (LLMs) and tools.
@@ -5094,6 +5099,7 @@
 
 ## C
 
+* 【2025-11-06】[xodiosx / XoDos](https://github.com/xodiosx/XoDos) - 
 * 【2025-11-03】[vtereshkov / umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 * 【2025-11-01】[drh / lcc](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler
 * 【2025-10-20】[johnfanv2 / LenovoLegionLinux](https://github.com/johnfanv2/LenovoLegionLinux) - Driver and tools for controlling Lenovo Legion laptops in Linux including fan control and power mode.
@@ -6921,6 +6927,7 @@
 
 ## Html
 
+* 【2025-11-06】[ovh / docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
 * 【2025-11-05】[LangbaseInc / langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 * 【2025-11-04】[hillelkingqt / GeminiDesk](https://github.com/hillelkingqt/GeminiDesk) - An unofficial Electron-based Gemini Desktop App for Google Gemini – clean, fast, and always accessible.
 * 【2025-11-02】[github / personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
@@ -8397,6 +8404,7 @@
 
 ## Unknown
 
+* 【2025-11-06】[reqable / reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 * 【2025-11-05】[kakoni / awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
 * 【2025-11-01】[seapear / AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) - A repository that helps users get affinity software working on GNU/Linux 🐧
 * 【2025-11-01】[PCJones / usenet-guide](https://github.com/PCJones/usenet-guide) - Ein deutscher Einsteiger-Guide für das Usenet
