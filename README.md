@@ -6927,6 +6927,7 @@
 
 ## Html
 
+* 【2025-11-07】[Max-Eee / NeoPass](https://github.com/Max-Eee/NeoPass) - Your Essential Exam Companion for the Iamneo Portal & NPTEL Exams Disguised as NeoExamShield bypass
 * 【2025-11-06】[ovh / docs](https://github.com/ovh/docs) - Official repository containing all docs & guides of OVH Group
 * 【2025-11-05】[LangbaseInc / langui](https://github.com/LangbaseInc/langui) - UI for your AI. Open Source Tailwind components tailored for your GPT, generative AI, and LLM projects.
 * 【2025-11-04】[hillelkingqt / GeminiDesk](https://github.com/hillelkingqt/GeminiDesk) - An unofficial Electron-based Gemini Desktop App for Google Gemini – clean, fast, and always accessible.
