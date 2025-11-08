@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2025-11-08】[TodePond / GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
+* 【2025-11-08】[jamwithai / arxiv-paper-curator](https://github.com/jamwithai/arxiv-paper-curator) - 
 * 【2025-11-07】[antiwork / gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
 * 【2025-11-07】[coder / code-server](https://github.com/coder/code-server) - VS Code in the browser
 * 【2025-11-06】[ad-on-is / rachoon](https://github.com/ad-on-is/rachoon) - 🦝 Rachoon — A self-hostable way to handle invoices
@@ -2269,6 +2271,8 @@
 
 ## Python
 
+* 【2025-11-08】[google-deepmind / mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie) - A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
+* 【2025-11-08】[AI-Hypercomputer / maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant and scalable Jax LLM!
 * 【2025-11-08】[droidrun / droidrun](https://github.com/droidrun/droidrun) - 
 * 【2025-11-07】[JerBouma / FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
 * 【2025-11-07】[langchain-ai / langgraph-swarm-py](https://github.com/langchain-ai/langgraph-swarm-py) - For your multi-agent needs
@@ -3714,6 +3718,7 @@
 
 ## Javascript
 
+* 【2025-11-08】[leukipp / touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.
 * 【2025-11-05】[meodai / color-names](https://github.com/meodai/color-names) - Large list of handpicked color names 🌈
 * 【2025-11-02】[reisxd / TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.
 * 【2025-10-31】[aldenhallak / fishes](https://github.com/aldenhallak/fishes) - 
@@ -4503,6 +4508,10 @@
 
 ## Go
 
+* 【2025-11-08】[google / adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+* 【2025-11-08】[lin-snow / Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
+* 【2025-11-08】[coze-dev / coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
+* 【2025-11-08】[beclab / Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 * 【2025-11-06】[ayn2op / discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 * 【2025-11-03】[raghavyuva / nixopus](https://github.com/raghavyuva/nixopus) - Open Source Alternative to vercel, heroku, netlify with simplified workflows
 * 【2025-11-02】[abenz1267 / elephant](https://github.com/abenz1267/elephant) - 
@@ -7568,6 +7577,7 @@
 
 ## Css
 
+* 【2025-11-08】[Au5-ai / Au5](https://github.com/Au5-ai/Au5) - Self-hosted real-time meeting note tacker for google meet.
 * 【2025-11-07】[GregTech-Odyssey / GregTech-Odyssey](https://github.com/GregTech-Odyssey/GregTech-Odyssey) - 
 * 【2025-10-29】[n00bcodr / Jellyfish](https://github.com/n00bcodr/Jellyfish) - Jellyfin Theme inspired by Flow, Zesty and Ultrachromic
 * 【2025-10-27】[elifouts / Dotfiles](https://github.com/elifouts/Dotfiles) - My Hyprland Dotfiles For Arch!
@@ -8412,6 +8422,7 @@
 
 ## Unknown
 
+* 【2025-11-08】[Lets-DevOps / awesome-learning](https://github.com/Lets-DevOps/awesome-learning) - A curated list for DevOps learning resources. Join the slack channel to discuss more.
 * 【2025-11-07】[MoonshotAI / Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 * 【2025-11-06】[reqable / reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
 * 【2025-11-05】[kakoni / awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
