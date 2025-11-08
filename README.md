@@ -2269,6 +2269,7 @@
 
 ## Python
 
+* 【2025-11-08】[droidrun / droidrun](https://github.com/droidrun/droidrun) - 
 * 【2025-11-07】[JerBouma / FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
 * 【2025-11-07】[langchain-ai / langgraph-swarm-py](https://github.com/langchain-ai/langgraph-swarm-py) - For your multi-agent needs
 * 【2025-11-06】[usestrix / strix](https://github.com/usestrix/strix) - ✨ Open-source AI hackers for your apps 👨🏻‍💻
