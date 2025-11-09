@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-11-09】[HyDE-Project / HyDE](https://github.com/HyDE-Project/HyDE) - HyDE, your Development Environment 🖥️💻
 * 【2025-11-08】[TodePond / GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 * 【2025-11-08】[jamwithai / arxiv-paper-curator](https://github.com/jamwithai/arxiv-paper-curator) - 
 * 【2025-11-07】[antiwork / gumroad](https://github.com/antiwork/gumroad) - Sell stuff and see what sticks
@@ -2271,6 +2272,8 @@
 
 ## Python
 
+* 【2025-11-09】[OpenHands / OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+* 【2025-11-09】[mozilla-ai / any-llm](https://github.com/mozilla-ai/any-llm) - Communicate with an LLM provider using a single interface
 * 【2025-11-08】[google-deepmind / mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie) - A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
 * 【2025-11-08】[AI-Hypercomputer / maxtext](https://github.com/AI-Hypercomputer/maxtext) - A simple, performant and scalable Jax LLM!
 * 【2025-11-08】[droidrun / droidrun](https://github.com/droidrun/droidrun) - 
@@ -3718,6 +3721,7 @@
 
 ## Javascript
 
+* 【2025-11-09】[kanoqwq / UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS) - A functional tools for zte devices (F50 | U30 Air)
 * 【2025-11-08】[leukipp / touchkio](https://github.com/leukipp/touchkio) - Home Assistant Touch Panel Kiosk application for a Linux device (e.g. Raspberry Pi) with Touch Display.
 * 【2025-11-05】[meodai / color-names](https://github.com/meodai/color-names) - Large list of handpicked color names 🌈
 * 【2025-11-02】[reisxd / TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV.
@@ -4508,6 +4512,7 @@
 
 ## Go
 
+* 【2025-11-09】[kimdre / doco-cd](https://github.com/kimdre/doco-cd) - Docker Compose Continuous Deployment
 * 【2025-11-08】[google / adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 * 【2025-11-08】[lin-snow / Ech0](https://github.com/lin-snow/Ech0) - Ech0 - 面向个人的新一代开源、自托管、专注思想流动的轻量级联邦发布平台
 * 【2025-11-08】[coze-dev / coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to monitoring.
@@ -5113,6 +5118,7 @@
 
 ## C
 
+* 【2025-11-09】[NMminer1024 / NMMiner](https://github.com/NMminer1024/NMMiner) - A tiny BTC miner base on esp32 series，I'd rather call it BTC lottery
 * 【2025-11-06】[xodiosx / XoDos](https://github.com/xodiosx/XoDos) - 
 * 【2025-11-03】[vtereshkov / umka-lang](https://github.com/vtereshkov/umka-lang) - Umka: a statically typed embeddable scripting language
 * 【2025-11-01】[drh / lcc](https://github.com/drh/lcc) - The lcc retargetable ANSI C compiler
