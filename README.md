@@ -6321,6 +6321,7 @@
 
 ## C#
 
+* 【2025-11-11】[PatrickSt1991 / Samsung-Jellyfin-Installer](https://github.com/PatrickSt1991/Samsung-Jellyfin-Installer) - One-click install of Jellyfin on your Samsung TV — fully compatible with all Tizen versions!
 * 【2025-11-11】[genaray / Arch](https://github.com/genaray/Arch) - A high-performance C# based Archetype & Chunks Entity Component System (ECS) with optional multithreading.
 * 【2025-11-03】[ZehsTeam / REPOLib](https://github.com/ZehsTeam/REPOLib) - Library for adding content to R.E.P.O.
 * 【2025-10-31】[builtbybel / FlyOOBE](https://github.com/builtbybel/FlyOOBE) - Fly through your Windows 11 setup 🐝
