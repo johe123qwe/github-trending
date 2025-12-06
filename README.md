@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-12-06】[microsoft / VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 * 【2025-12-05】[sinelaw / fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
 * 【2025-12-05】[basecamp / fizzy](https://github.com/basecamp/fizzy) - Kanban as it should be. Not as it has been.
 * 【2025-12-05】[DayuanJiang / next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
