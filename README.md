@@ -8478,6 +8478,7 @@
 
 ## Unknown
 
+* 【2025-12-07】[byJoey / cfnew](https://github.com/byJoey/cfnew) - 
 * 【2025-12-06】[agucova / awesome-esp](https://github.com/agucova/awesome-esp) - 📶 A curated list of awesome ESP8266/32 projects and code
 * 【2025-11-12】[datawhalechina / team-learning](https://github.com/datawhalechina/team-learning) - 主要展示Datawhale的组队学习计划。
 * 【2025-11-08】[Lets-DevOps / awesome-learning](https://github.com/Lets-DevOps/awesome-learning) - A curated list for DevOps learning resources. Join the slack channel to discuss more.
