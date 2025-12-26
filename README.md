@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2025-12-26】[flowsurface-rs / flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 * 【2025-12-24】[apurvsinghgautam / robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 * 【2025-12-24】[facebookresearch / dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3
 * 【2025-12-24】[safety-research / bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
@@ -2329,6 +2330,8 @@
 
 ## Python
 
+* 【2025-12-26】[HKUDS / VideoRAG](https://github.com/HKUDS/VideoRAG) - [KDD'2026] "VideoRAG: Chat with Your Videos"
+* 【2025-12-26】[laude-institute / harbor](https://github.com/laude-institute/harbor) - Harbor is a framework for running agent evaluations and creating and using RL environments.
 * 【2025-12-25】[OpenDCAI / DataFlow](https://github.com/OpenDCAI/DataFlow) - Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 * 【2025-12-24】[zai-org / GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 * 【2025-12-22】[vllm-project / vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
