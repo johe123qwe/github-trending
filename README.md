@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2025-12-31】[afkarxyz / SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+* 【2025-12-31】[google-gemini / computer-use-preview](https://github.com/google-gemini/computer-use-preview) - 
 * 【2025-12-30】[timescale / pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 * 【2025-12-29】[tw93 / Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 * 【2025-12-28】[Sergeydigl3 / zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) - (NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
@@ -2336,6 +2338,7 @@
 
 ## Python
 
+* 【2025-12-31】[meizhong986 / WhisperJAV](https://github.com/meizhong986/WhisperJAV) - 
 * 【2025-12-30】[tencent-ailab / SongGeneration](https://github.com/tencent-ailab/SongGeneration) - The official code repository for LeVo: High-Quality Song Generation with Multi-Preference Alignment
 * 【2025-12-29】[pchalasani / claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 * 【2025-12-29】[mampfes / hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules
@@ -4628,6 +4631,7 @@
 
 ## Go
 
+* 【2025-12-31】[dundee / gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 * 【2025-12-30】[cexll / myclaude](https://github.com/cexll/myclaude) - Claude Code and Codex orchestration workflow
 * 【2025-12-30】[rishikanthc / Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 * 【2025-12-29】[oxc-project / tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
