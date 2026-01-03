@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2026-01-03】[beancount / beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
+* 【2026-01-03】[maplibre / maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 * 【2026-01-01】[awslabs / amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples) - Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.
 * 【2026-01-01】[HQarroum / docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 * 【2026-01-01】[Polymarket / agents](https://github.com/Polymarket/agents) - Trade autonomously on Polymarket using AI Agents
@@ -2342,6 +2344,7 @@
 
 ## Python
 
+* 【2026-01-03】[absadiki / whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) - Free, open source and cross-platform app to decrypt, read and view the Whatsapp msgstore.db database
 * 【2026-01-02】[QwenLM / Qwen-Image](https://github.com/QwenLM/Qwen-Image) - Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.
 * 【2025-12-31】[meizhong986 / WhisperJAV](https://github.com/meizhong986/WhisperJAV) - 
 * 【2025-12-30】[tencent-ailab / SongGeneration](https://github.com/tencent-ailab/SongGeneration) - The official code repository for LeVo: High-Quality Song Generation with Multi-Preference Alignment
@@ -3829,6 +3832,7 @@
 
 ## Javascript
 
+* 【2026-01-03】[heyitsnoah / claudesidian](https://github.com/heyitsnoah/claudesidian) - 
 * 【2026-01-02】[mrrfv / cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) - Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
 * 【2026-01-02】[cameroncooke / XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
 * 【2026-01-01】[sismics / docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
