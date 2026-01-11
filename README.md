@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-01-11】[frankbria / ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 * 【2026-01-10】[obra / superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 * 【2026-01-09】[NVlabs / alpasim](https://github.com/NVlabs/alpasim) - 
 * 【2026-01-08】[NevaMind-AI / memU](https://github.com/NevaMind-AI/memU) - Memory infrastructure for LLMs and AI agents
@@ -1836,6 +1837,7 @@
 
 ## Java
 
+* 【2026-01-11】[TrackerControl / tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
 * 【2026-01-10】[iflytek / astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 * 【2026-01-08】[OpenAEV-Platform / openaev](https://github.com/OpenAEV-Platform/openaev) - Open Adversarial Exposure Validation Platform
 * 【2026-01-06】[google / copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
@@ -4667,6 +4669,8 @@
 
 ## Go
 
+* 【2026-01-11】[the-dev-tools / dev-tools](https://github.com/the-dev-tools/dev-tools) - Local-first API testing that goes from HAR file to GitHub Actions in 60 seconds.
+* 【2026-01-11】[badtuxx / girus-cli](https://github.com/badtuxx/girus-cli) - 
 * 【2026-01-06】[abhinavxd / libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted customer support desk. Single binary app.
 * 【2026-01-04】[johannesboyne / gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 * 【2026-01-02】[autobrr / qui](https://github.com/autobrr/qui) - Modern alternative webUI for qBittorrent, with multi-instance support. Written in Go/React.
@@ -5944,6 +5948,7 @@
 
 ## C++
 
+* 【2026-01-11】[xxnuo / MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
 * 【2026-01-10】[livinamuk / Hell2025](https://github.com/livinamuk/Hell2025) - 
 * 【2026-01-08】[UPBGE / upbge](https://github.com/UPBGE/upbge) - UPBGE, the best integrated game engine in Blender
 * 【2026-01-06】[realsenseai / librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
@@ -8700,6 +8705,7 @@
 
 ## Unknown
 
+* 【2026-01-11】[kiloreux / awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources
 * 【2026-01-09】[samuelmarina / is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 * 【2026-01-06】[anthropics / claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 * 【2026-01-04】[kepano / kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
