@@ -2364,6 +2364,9 @@
 
 ## Python
 
+* 【2026-01-19】[The-Pocket / PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
+* 【2026-01-19】[ComposioHQ / awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+* 【2026-01-19】[yusufkaraaslan / Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 * 【2026-01-18】[NVlabs / PyCuVSLAM](https://github.com/NVlabs/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
 * 【2026-01-18】[freemocap / freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
 * 【2026-01-17】[OpenBMB / VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
@@ -5974,6 +5977,7 @@
 
 ## C++
 
+* 【2026-01-19】[quickshell-mirror / quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 * 【2026-01-17】[Crementif / BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
 * 【2026-01-16】[1q23lyc45 / KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
 * 【2026-01-15】[subsurface / subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
@@ -7882,6 +7886,7 @@
 
 ## Css
 
+* 【2026-01-19】[alb-uss / SECMON](https://github.com/alb-uss/SECMON) - SECMON is a web-based tool for the automation of infosec watching and vulnerability management with a web interface.
 * 【2026-01-18】[simple-login / website](https://github.com/simple-login/website) - SimpleLogin website - https://simplelogin.io
 * 【2026-01-18】[SwordPuffin / Rewaita](https://github.com/SwordPuffin/Rewaita) - Bring color to Adwaita
 * 【2026-01-17】[StylishThemes / GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - Dark GitHub style
@@ -8745,6 +8750,7 @@
 
 ## Unknown
 
+* 【2026-01-19】[ycccccccy / echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
 * 【2026-01-17】[travisvn / awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 * 【2026-01-16】[obra / superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
 * 【2026-01-12】[mithi / robotics-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
