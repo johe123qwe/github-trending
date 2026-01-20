@@ -1843,6 +1843,7 @@
 
 ## Java
 
+* 【2026-01-20】[gaul / s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 * 【2026-01-15】[nroduit / Weasis](https://github.com/nroduit/Weasis) - Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.
 * 【2026-01-11】[TrackerControl / tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
 * 【2026-01-10】[iflytek / astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
@@ -2364,6 +2365,8 @@
 
 ## Python
 
+* 【2026-01-20】[verygoodplugins / automem](https://github.com/verygoodplugins/automem) - AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:
+* 【2026-01-20】[thu-ml / tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library.
 * 【2026-01-19】[The-Pocket / PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 * 【2026-01-19】[ComposioHQ / awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 * 【2026-01-19】[yusufkaraaslan / Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
@@ -5330,6 +5333,7 @@
 
 ## C
 
+* 【2026-01-20】[voidtools / voidImageViewer](https://github.com/voidtools/voidImageViewer) - Lightweight image viewer for Windows with animated GIF/WEBP support
 * 【2026-01-17】[ValveSoftware / wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
 * 【2026-01-15】[shorepine / tulipcc](https://github.com/shorepine/tulipcc) - The Tulip Creative Computer - a portable Python synthesizer for music and graphics
 * 【2026-01-06】[HermanChen / mpp](https://github.com/HermanChen/mpp) - Rockchip MPP(Media Process Platfrom)
