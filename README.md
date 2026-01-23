@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-01-23】[nexmoe / VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 * 【2026-01-22】[remotion-dev / remotion](https://github.com/remotion-dev/remotion) - 🎥 Make videos programmatically with React
 * 【2026-01-22】[virattt / dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 * 【2026-01-21】[tambo-ai / tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
