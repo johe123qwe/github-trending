@@ -1849,6 +1849,7 @@
 
 ## Java
 
+* 【2026-01-24】[agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent-Oriented Programming for Building LLM Applications
 * 【2026-01-20】[gaul / s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
 * 【2026-01-15】[nroduit / Weasis](https://github.com/nroduit/Weasis) - Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.
 * 【2026-01-11】[TrackerControl / tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
@@ -2371,6 +2372,8 @@
 
 ## Python
 
+* 【2026-01-24】[business-science / ai-data-science-team](https://github.com/business-science/ai-data-science-team) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
+* 【2026-01-24】[AI4Finance-Foundation / FinRL-Trading](https://github.com/AI4Finance-Foundation/FinRL-Trading) - For trading. Please star.
 * 【2026-01-23】[ruvnet / wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
 * 【2026-01-21】[karpathy / nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 * 【2026-01-20】[verygoodplugins / automem](https://github.com/verygoodplugins/automem) - AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:
@@ -3890,6 +3893,8 @@
 
 ## Javascript
 
+* 【2026-01-24】[apinanaivot / IKEA-3D-Model-Download-Button](https://github.com/apinanaivot/IKEA-3D-Model-Download-Button) - Adds ability to download models from IKEA website
+* 【2026-01-24】[lackeyjb / playwright-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 * 【2026-01-22】[databricks-industry-solutions / pixels](https://github.com/databricks-industry-solutions/pixels) - Facilitates simple large scale processing of HLS Medical images, documents, zip files. OHIF Viewer, 2 segmentation models and interactive learning.
 * 【2026-01-18】[alam00000 / bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 * 【2026-01-15】[fex-team / kityminder](https://github.com/fex-team/kityminder) - 百度脑图
@@ -4706,6 +4711,7 @@
 
 ## Go
 
+* 【2026-01-24】[getarcaneapp / arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 * 【2026-01-22】[kubernetes-sigs / agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
 * 【2026-01-17】[kubernetes-sigs / ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
 * 【2026-01-15】[loong / go-concurrency-exercises](https://github.com/loong/go-concurrency-exercises) - Hands on exercises with real-life examples to study and practice Go concurrency patterns. Test-cases are provided to verify your answers.
@@ -6594,6 +6600,7 @@
 
 ## C#
 
+* 【2026-01-24】[microsoft / winappCli](https://github.com/microsoft/winappCli) - winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app framework.
 * 【2026-01-17】[dotnet / XAMLStudio](https://github.com/dotnet/XAMLStudio) - XAML Studio is a rapid prototyping tool for WinUI-based XAML that can then be easily copied into Visual Studio!
 * 【2026-01-17】[RawAccelOfficial / rawaccel](https://github.com/RawAccelOfficial/rawaccel) - kernel mode mouse accel
 * 【2026-01-15】[XKaguya / LenovoLegionToolkit](https://github.com/XKaguya/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
