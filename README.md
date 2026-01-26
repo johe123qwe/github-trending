@@ -3895,6 +3895,9 @@
 
 ## Javascript
 
+* 【2026-01-26】[evolus / pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
+* 【2026-01-26】[linuxmint / cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
+* 【2026-01-26】[yctimlin / mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - 
 * 【2026-01-24】[apinanaivot / IKEA-3D-Model-Download-Button](https://github.com/apinanaivot/IKEA-3D-Model-Download-Button) - Adds ability to download models from IKEA website
 * 【2026-01-24】[lackeyjb / playwright-skill](https://github.com/lackeyjb/playwright-skill) - Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.
 * 【2026-01-22】[databricks-industry-solutions / pixels](https://github.com/databricks-industry-solutions/pixels) - Facilitates simple large scale processing of HLS Medical images, documents, zip files. OHIF Viewer, 2 segmentation models and interactive learning.
@@ -4713,6 +4716,7 @@
 
 ## Go
 
+* 【2026-01-26】[TecharoHQ / anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 * 【2026-01-25】[githubnext / gh-aw](https://github.com/githubnext/gh-aw) - GitHub Agentic Workflows
 * 【2026-01-24】[getarcaneapp / arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 * 【2026-01-22】[kubernetes-sigs / agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
@@ -5352,6 +5356,7 @@
 
 ## C
 
+* 【2026-01-26】[geo-tp / ESP32-Bus-Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate) - A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol
 * 【2026-01-23】[X11Libre / xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 * 【2026-01-23】[sqfmi / Watchy](https://github.com/sqfmi/Watchy) - Watchy - An Open Source E-Ink Smartwatch
 * 【2026-01-20】[voidtools / voidImageViewer](https://github.com/voidtools/voidImageViewer) - Lightweight image viewer for Windows with animated GIF/WEBP support
@@ -6603,6 +6608,8 @@
 
 ## C#
 
+* 【2026-01-26】[andrewmd5 / Borderless-Gaming](https://github.com/andrewmd5/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
+* 【2026-01-26】[ModernFlyouts-Community / ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
 * 【2026-01-24】[microsoft / winappCli](https://github.com/microsoft/winappCli) - winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app framework.
 * 【2026-01-17】[dotnet / XAMLStudio](https://github.com/dotnet/XAMLStudio) - XAML Studio is a rapid prototyping tool for WinUI-based XAML that can then be easily copied into Visual Studio!
 * 【2026-01-17】[RawAccelOfficial / rawaccel](https://github.com/RawAccelOfficial/rawaccel) - kernel mode mouse accel
