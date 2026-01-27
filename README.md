@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-01-27】[badlogic / pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 * 【2026-01-26】[Psiphon-Inc / conduit](https://github.com/Psiphon-Inc/conduit) - Conduit Client
 * 【2026-01-23】[OpenBMB / UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 * 【2026-01-23】[lyogavin / airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
@@ -1850,6 +1851,7 @@
 
 ## Java
 
+* 【2026-01-27】[Vineflower / vineflower](https://github.com/Vineflower/vineflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler.
 * 【2026-01-25】[jarvis2f / telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 * 【2026-01-24】[agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent-Oriented Programming for Building LLM Applications
 * 【2026-01-20】[gaul / s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
@@ -3895,6 +3897,7 @@
 
 ## Javascript
 
+* 【2026-01-27】[anomalyco / opencode-anthropic-auth](https://github.com/anomalyco/opencode-anthropic-auth) - 
 * 【2026-01-26】[evolus / pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 * 【2026-01-26】[linuxmint / cinnamon](https://github.com/linuxmint/cinnamon) - A Linux desktop featuring a traditional layout, built from modern technology and introducing brand new innovative features.
 * 【2026-01-26】[yctimlin / mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - 
@@ -4716,6 +4719,7 @@
 
 ## Go
 
+* 【2026-01-27】[elC0mpa / aws-doctor](https://github.com/elC0mpa/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal. 🩺 ☁️
 * 【2026-01-26】[TecharoHQ / anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 * 【2026-01-25】[githubnext / gh-aw](https://github.com/githubnext/gh-aw) - GitHub Agentic Workflows
 * 【2026-01-24】[getarcaneapp / arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -6007,6 +6011,7 @@
 
 ## C++
 
+* 【2026-01-27】[N64Recomp / N64Recomp](https://github.com/N64Recomp/N64Recomp) - Tool to statically recompile N64 games into native executables
 * 【2026-01-22】[KhronosGroup / SPIRV-Tools](https://github.com/KhronosGroup/SPIRV-Tools) - 
 * 【2026-01-19】[quickshell-mirror / quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 * 【2026-01-17】[Crementif / BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
@@ -8790,6 +8795,8 @@
 
 ## Unknown
 
+* 【2026-01-27】[weitianxin / Awesome-Agentic-Reasoning](https://github.com/weitianxin/Awesome-Agentic-Reasoning) - A curated list of papers and resources based on the survey "Agentic Reasoning for Large Language Models"
+* 【2026-01-27】[cosai-oasis / ws4-secure-design-agentic-systems](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems) - Repository for CoSAI Workstream 4, Secure Design Patterns for Agentic Systems
 * 【2026-01-22】[johnjago / awesome-free-software](https://github.com/johnjago/awesome-free-software) - Curated list of open-source, free as in freedom software.
 * 【2026-01-22】[Makememo / MemoAI](https://github.com/Makememo/MemoAI) - MemoAI Video to translated text, subtitles and notes made easy.
 * 【2026-01-19】[ycccccccy / echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
