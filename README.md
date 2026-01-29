@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2026-01-29】[moltbot / moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+* 【2026-01-29】[modelcontextprotocol / ext-apps](https://github.com/modelcontextprotocol/ext-apps) - Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 * 【2026-01-28】[MoonshotAI / kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi Code CLI is your next CLI agent.
 * 【2026-01-28】[lobehub / lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 * 【2026-01-28】[ran-j / PS2Recomp](https://github.com/ran-j/PS2Recomp) - Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
@@ -6620,6 +6622,7 @@
 
 ## C#
 
+* 【2026-01-29】[Facepunch / sbox-public](https://github.com/Facepunch/sbox-public) - s&box is a modern game engine, built on Valve's Source 2 and the latest .NET technology, it provides a modern intuitive editor for creating games
 * 【2026-01-26】[andrewmd5 / Borderless-Gaming](https://github.com/andrewmd5/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
 * 【2026-01-26】[ModernFlyouts-Community / ModernFlyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
 * 【2026-01-24】[microsoft / winappCli](https://github.com/microsoft/winappCli) - winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app framework.
@@ -7280,6 +7283,7 @@
 
 ## Html
 
+* 【2026-01-29】[adongwanai / AgentGuide](https://github.com/adongwanai/AgentGuide) - https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成
 * 【2026-01-25】[sinavm / sinavm](https://github.com/sinavm/sinavm) - مواقعی که اینترنت ملی و محدود است، بدون نیاز به وی پی ان می‌توانید به محتوای کانال‌ها و کانفیگ‌های فیلترشکن دسترسی پیدا کنید
 * 【2026-01-23】[Jeffallan / claude-skills](https://github.com/Jeffallan/claude-skills) - 65 Specialized Skills for Full-Stack Developers - Transform Claude Code into your expert pair programmer
 * 【2026-01-17】[rickstaa / awesome-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.
