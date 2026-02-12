@@ -4781,6 +4781,7 @@
 
 ## Go
 
+* 【2026-02-12】[asheshgoplani / agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 * 【2026-02-09】[ramonvermeulen / whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 * 【2026-02-05】[github / gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 * 【2026-02-03】[steveyegge / beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
