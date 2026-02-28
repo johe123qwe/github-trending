@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2026-02-28】[NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent) - 
+* 【2026-02-28】[superset-sh / superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+* 【2026-02-28】[datagouv / datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
 * 【2026-02-28】[ruvnet / ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 * 【2026-02-26】[farion1231 / cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 * 【2026-02-25】[katanemo / plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
@@ -2445,6 +2448,7 @@
 
 ## Python
 
+* 【2026-02-28】[ginobefun / agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版
 * 【2026-02-27】[bytedance / trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 * 【2026-02-27】[4thfever / cultivation-world-simulator](https://github.com/4thfever/cultivation-world-simulator) - 基于 AI Agent 工作流的修仙世界模拟器，旨在还原智能、开放的仙侠世界。| An open-source Cultivation World Simulator using Agentic Workflow to create a dynamic, emerging Xianxia world.
 * 【2026-02-27】[agentscope-ai / agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
