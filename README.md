@@ -4874,6 +4874,7 @@
 
 ## Go
 
+* 【2026-03-06】[Ed1s0nZ / CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
 * 【2026-03-03】[acepanel / panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
 * 【2026-02-28】[DanielLavrushin / b4](https://github.com/DanielLavrushin/b4) - Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems.
 * 【2026-02-26】[rapidaai / voice-ai](https://github.com/rapidaai/voice-ai) - Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability.
