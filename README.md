@@ -4027,6 +4027,7 @@
 
 ## Javascript
 
+* 【2026-03-07】[jarrodwatts / claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 * 【2026-03-05】[SynkraAI / aiox-core](https://github.com/SynkraAI/aiox-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 * 【2026-03-04】[obsidianmd / obsidian-translations](https://github.com/obsidianmd/obsidian-translations) - Help translate Obsidian into your language.
 * 【2026-03-03】[tiagozip / cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
