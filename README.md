@@ -2459,6 +2459,7 @@
 
 ## Python
 
+* 【2026-03-08】[teng-lin / notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM
 * 【2026-03-05】[microsoft / apm](https://github.com/microsoft/apm) - Agent Package Manager
 * 【2026-03-04】[Aider-AI / aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 * 【2026-03-04】[NVIDIA-NeMo / Megatron-Bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge) - Training library for Megatron-based models with bidirectional Hugging Face conversion capability
