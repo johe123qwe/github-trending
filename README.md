@@ -4040,6 +4040,7 @@
 
 ## Javascript
 
+* 【2026-03-13】[libaxuan / cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free claude-sonnet-4.6 | cursor不倒我不倒🙏 ❌ 不支持 tools / function calling / MCP
 * 【2026-03-12】[covibes / zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.
 * 【2026-03-09】[technomancer702 / nodecast-tv](https://github.com/technomancer702/nodecast-tv) - A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly.
 * 【2026-03-08】[apify / agent-skills](https://github.com/apify/agent-skills) - Collection of Apify Agent Skills
@@ -7540,6 +7541,7 @@
 
 ## Html
 
+* 【2026-03-13】[kepano / defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
 * 【2026-03-11】[mhattingpete / claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - Claude Code Skills for software engineering workflows - Git automation, testing, and code review
 * 【2026-03-05】[wilsonzlin / fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 * 【2026-03-03】[PanSalut / Koffan](https://github.com/PanSalut/Koffan) - Free selfhosted groceries list for families and shared households
@@ -9082,6 +9084,7 @@
 
 ## Unknown
 
+* 【2026-03-13】[OWASP / wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 * 【2026-03-12】[Shichun-Liu / Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
 * 【2026-03-10】[kepano / obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 * 【2026-03-09】[00quebec / Synthid-Bypass](https://github.com/00quebec/Synthid-Bypass) - Ai safety research showing a working bypass to Google's synthid on Nano Banana Pro
