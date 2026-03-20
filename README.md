@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-03-20】[vas3k / TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
 * 【2026-03-19】[opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 * 【2026-03-19】[mobile-dev-inc / Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
 * 【2026-03-18】[newton-physics / newton](https://github.com/newton-physics/newton) - An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
@@ -2477,6 +2478,7 @@
 
 ## Python
 
+* 【2026-03-20】[BiFangKNT / mtga](https://github.com/BiFangKNT/mtga) - 基于本地代理的方式，绕过 IDE 的固定模型服务商限制
 * 【2026-03-18】[am-will / codex-skills](https://github.com/am-will/codex-skills) - 
 * 【2026-03-18】[plastic-labs / honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 * 【2026-03-17】[financial-datasets / mcp-server](https://github.com/financial-datasets/mcp-server) - An MCP server for interacting with the Financial Datasets stock market API.
@@ -4923,6 +4925,7 @@
 
 ## Go
 
+* 【2026-03-20】[masterking32 / MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, SOCKS5 multiplexing, resolver load balancing, and high packet-loss stability.
 * 【2026-03-19】[entireio / cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
 * 【2026-03-18】[certimate-go / certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
 * 【2026-03-18】[perses / perses](https://github.com/perses/perses) - The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come!
@@ -8249,6 +8252,7 @@
 
 ## Css
 
+* 【2026-03-20】[knadh / oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.
 * 【2026-03-18】[diinki / linux-retroism](https://github.com/diinki/linux-retroism) - A 1990's Retro linux-rice for Hyprland or Sway, based on Quickshell.
 * 【2026-03-11】[crimethinc / website](https://github.com/crimethinc/website) - Ruby on Rails app that powers crimethinc.com
 * 【2026-03-10】[app-generator / app-generator](https://github.com/app-generator/app-generator) - Free DevTools, DB Tools, CSV Processors, Apps, and Dashboards | App-Generator.dev
