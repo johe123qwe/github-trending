@@ -1933,6 +1933,7 @@
 
 ## Java
 
+* 【2026-03-23】[Snailclimb / interview-guide](https://github.com/Snailclimb/interview-guide) - 基于 Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。
 * 【2026-03-22】[navinreddy20 / Javacode](https://github.com/navinreddy20/Javacode) - 
 * 【2026-03-18】[mit-cml / appinventor-sources](https://github.com/mit-cml/appinventor-sources) - MIT App Inventor Public Open Source
 * 【2026-03-16】[NightscoutFoundation / xDrip](https://github.com/NightscoutFoundation/xDrip) - Nightscout version of xDrip+
@@ -4931,6 +4932,7 @@
 
 ## Go
 
+* 【2026-03-23】[supabase / cli](https://github.com/supabase/cli) - Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.
 * 【2026-03-22】[modu-ai / moai-adk](https://github.com/modu-ai/moai-adk) - MoAI - Agentic Development Kit
 * 【2026-03-20】[masterking32 / MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, SOCKS5 multiplexing, resolver load balancing, and high packet-loss stability.
 * 【2026-03-19】[entireio / cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
@@ -9140,6 +9142,7 @@
 
 ## Unknown
 
+* 【2026-03-23】[TaoWangzj / Awesome-Face-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) - A comprehensive list of recources (papers, repositories etc.) about face restoration methods.
 * 【2026-03-17】[WangRongsheng / awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 * 【2026-03-15】[KalyanKS-NLP / llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of 120+ LLM libraries category wise.
 * 【2026-03-13】[OWASP / wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
