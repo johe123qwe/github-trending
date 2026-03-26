@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-03-26】[letta-ai / claude-subconscious](https://github.com/letta-ai/claude-subconscious) - Give Claude Code a subconscious
 * 【2026-03-24】[pascalorg / editor](https://github.com/pascalorg/editor) - 
 * 【2026-03-24】[mvanhorn / last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 * 【2026-03-20】[vas3k / TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
