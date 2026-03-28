@@ -4949,6 +4949,7 @@
 
 ## Go
 
+* 【2026-03-28】[runkids / skillshare](https://github.com/runkids/skillshare) - 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more
 * 【2026-03-27】[basecamp / basecamp-cli](https://github.com/basecamp/basecamp-cli) - Basecamp CLI and Agent Skills
 * 【2026-03-27】[harness / harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 * 【2026-03-27】[Agent-Field / agentfield](https://github.com/Agent-Field/agentfield) - Framework for AI Backend. Build and run AI agents like microservices - scalable, observable, and identity-aware from day one.
@@ -6938,6 +6939,7 @@
 
 ## C#
 
+* 【2026-03-28】[SirDiabo / N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher) - A Launcher that Downloads and Updates N64 Recompilations
 * 【2026-03-22】[github / gh-gei](https://github.com/github/gh-gei) - Migration CLI for GitHub to GitHub migrations
 * 【2026-03-18】[MobiFlight / MobiFlight-Connector](https://github.com/MobiFlight/MobiFlight-Connector) - MobiFlight is an open source project that allows you to create your own home cockpit for your favorite flight simulator in a flexible, affordable and extremely user-friendly way.
 * 【2026-03-11】[Devolutions / UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
