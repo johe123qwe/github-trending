@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-03-31】[Dimillian / Skills](https://github.com/Dimillian/Skills) - My Codex Skills
 * 【2026-03-29】[luongnv89 / claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 * 【2026-03-27】[SakanaAI / AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 * 【2026-03-26】[Yeachan-Heo / oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
@@ -1939,6 +1940,8 @@
 
 ## Java
 
+* 【2026-03-31】[maxwai / NClientV3](https://github.com/maxwai/NClientV3) - An unofficial NHentai android client
+* 【2026-03-31】[iflytek / astron-rpa](https://github.com/iflytek/astron-rpa) - Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
 * 【2026-03-30】[anddea / revanced-patches](https://github.com/anddea/revanced-patches) - 🧩 Patches for ReVanced
 * 【2026-03-30】[databricks / databricks-sdk-java](https://github.com/databricks/databricks-sdk-java) - Databricks SDK for Java
 * 【2026-03-29】[JingMatrix / Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
@@ -2489,6 +2492,7 @@
 
 ## Python
 
+* 【2026-03-31】[SkyworkAI / Matrix-Game](https://github.com/SkyworkAI/Matrix-Game) - Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory
 * 【2026-03-27】[trailofbits / skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 * 【2026-03-27】[ruc-datalab / DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze) - DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！
 * 【2026-03-27】[SolaceLabs / solace-agent-mesh](https://github.com/SolaceLabs/solace-agent-mesh) - An event-driven framework designed to build and orchestrate multi-agent AI systems. It enables seamless integration of AI agents with real-world data sources and systems, facilitating complex, multi-step workflows.
@@ -4081,6 +4085,9 @@
 
 ## Javascript
 
+* 【2026-03-31】[ChrisWiles / claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
+* 【2026-03-31】[Dispatcharr / Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) - 
+* 【2026-03-31】[idinging / freemail](https://github.com/idinging/freemail) - Cloudflare 域名邮箱系统 临时邮箱系统 domain mail tempmail
 * 【2026-03-27】[figma / mcp-server-guide](https://github.com/figma/mcp-server-guide) - A guide on how to use the Figma MCP server
 * 【2026-03-27】[breschio / drawbridge](https://github.com/breschio/drawbridge) - Design editor for Claude Code and Cursor. "Figma Comments" for the browser, are sent directly to Claude Code and Cursor as prompts.
 * 【2026-03-25】[badrisnarayanan / antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) - Proxy that exposes Antigravity provided claude / gemini models, so we can use them in Claude Code and OpenClaw (Clawdbot)
@@ -5635,6 +5642,7 @@
 
 ## C
 
+* 【2026-03-31】[LNH-team / pico-launcher](https://github.com/LNH-team/pico-launcher) - Rom browser frontend for Pico Loader.
 * 【2026-03-29】[lambertjamesd / n64brew2025](https://github.com/lambertjamesd/n64brew2025) - Our team entry for the 2025 brew game jam
 * 【2026-03-29】[HighCodeh / TentacleOS](https://github.com/HighCodeh/TentacleOS) - Firmware High Boy
 * 【2026-03-27】[LedgerHQ / ledger-secure-sdk](https://github.com/LedgerHQ/ledger-secure-sdk) - Device app kit
@@ -6947,6 +6955,9 @@
 
 ## C#
 
+* 【2026-03-31】[Timmoth / RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
+* 【2026-03-31】[builtbybel / Winslopr](https://github.com/builtbybel/Winslopr) - Windows Slop Remover
+* 【2026-03-31】[microsoft / aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
 * 【2026-03-30】[rajko-horvat / OpenCiv1](https://github.com/rajko-horvat/OpenCiv1) - Open source rewrite of the original Civilization 1 Game designed by Sid Meier and Bruce Shelley in year 1991
 * 【2026-03-30】[Altinn / altinn-studio](https://github.com/Altinn/altinn-studio) - Next generation open source Altinn platform and applications.
 * 【2026-03-28】[SirDiabo / N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher) - A Launcher that Downloads and Updates N64 Recompilations
@@ -7630,6 +7641,7 @@
 
 ## Html
 
+* 【2026-03-31】[Systems-Modeling / SysML-v2-Release](https://github.com/Systems-Modeling/SysML-v2-Release) - The latest incremental release of SysML v2. Start here.
 * 【2026-03-27】[OCA / server-backend](https://github.com/OCA/server-backend) - 
 * 【2026-03-26】[itskovacs / trip](https://github.com/itskovacs/trip) - 🗺️ Minimalist POI Map Tracker and Trip Planner. Self-hosted.
 * 【2026-03-22】[QiuSimons / luci-app-daed](https://github.com/QiuSimons/luci-app-daed) - 
@@ -9186,6 +9198,9 @@
 
 ## Unknown
 
+* 【2026-03-31】[Kavex / GameDev-Resources](https://github.com/Kavex/GameDev-Resources) - 🎮 🎲 A wonderful list of Game Development resources.
+* 【2026-03-31】[antonbabenko / terraform-skill](https://github.com/antonbabenko/terraform-skill) - The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns
+* 【2026-03-31】[Leey21 / awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) - Elevate your AI research writing, no more tedious polishing ✨
 * 【2026-03-23】[TaoWangzj / Awesome-Face-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) - A comprehensive list of recources (papers, repositories etc.) about face restoration methods.
 * 【2026-03-17】[WangRongsheng / awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
 * 【2026-03-15】[KalyanKS-NLP / llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of 120+ LLM libraries category wise.
