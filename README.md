@@ -6977,6 +6977,7 @@
 
 ## C#
 
+* 【2026-04-04】[dotnet / skills](https://github.com/dotnet/skills) - Repository for skills to assist AI coding agents with .NET and C#
 * 【2026-03-31】[Timmoth / RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab.
 * 【2026-03-31】[builtbybel / Winslopr](https://github.com/builtbybel/Winslopr) - Windows Slop Remover
 * 【2026-03-31】[microsoft / aspire](https://github.com/microsoft/aspire) - Aspire is the tool for code-first, extensible, observable dev and deploy.
