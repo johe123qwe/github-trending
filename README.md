@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-04-10】[multica-ai / multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 * 【2026-04-07】[forrestchang / andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - 
 * 【2026-04-06】[tobi / qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 * 【2026-04-06】[NVIDIA / personaplex](https://github.com/NVIDIA/personaplex) - PersonaPlex code.
@@ -2503,6 +2504,7 @@
 
 ## Python
 
+* 【2026-04-10】[FloatingPragma / observer-patch-holography](https://github.com/FloatingPragma/observer-patch-holography) - OPH is an active research program aiming to construct a fundamental theory of physics from observer consistency.
 * 【2026-04-09】[z-lab / dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 * 【2026-04-07】[NVIDIA-NeMo / DataDesigner](https://github.com/NVIDIA-NeMo/DataDesigner) - 🎨 NeMo Data Designer: Generate high-quality synthetic data from scratch or from seed data.
 * 【2026-04-06】[HKUDS / DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: Agent-Native Personalized Learning Assistant"
@@ -4105,6 +4107,9 @@
 
 ## Javascript
 
+* 【2026-04-10】[jo-inc / camofox-browser](https://github.com/jo-inc/camofox-browser) - Headless browser automation server for AI agents to visit sites that are usually blocked
+* 【2026-04-10】[lazaroagomez / BeatDock](https://github.com/lazaroagomez/BeatDock) - 🎵 Free, open-source, self-hosted Discord music bot with slash commands and Docker deployment. Features YouTube playback, queue management, and multilingual support.
+* 【2026-04-10】[Haleclipse / CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) - Codex Desktop App - Cross-platform Rebuild
 * 【2026-04-08】[Anil-matcha / Open-Higgsfield-AI](https://github.com/Anil-matcha/Open-Higgsfield-AI) - Open-source alternative to Higgsfield AI — Free AI image generation & cinema studio with 20+ models (Flux, SDXL, Midjourney, Ideogram). Self-hosted, customizable, MIT licensed.
 * 【2026-04-08】[foxhui / WebAI2API](https://github.com/foxhui/WebAI2API) - WebAI2API: 基于 Camoufox 的网页 AI 转 API 工具，支持 LMArena/Gemini等，多窗口并发与账号隔离。 | Web AI to OpenAI API via Camoufox. Supports LMArena/Gemini and more, multi-window concurrency & account isolation.
 * 【2026-04-07】[levnikolaevich / claude-code-skills](https://github.com/levnikolaevich/claude-code-skills) - Plugin suite + bundled MCP servers for Claude Code. Full delivery lifecycle: Agile pipeline with multi-model AI review, project bootstrap, documentation generation, codebase audits, performance optimization, community workflows. Includes hex-line (hash-verified editing), hex-graph (code knowledge graph), and hex-ssh (remote SSH) MCP servers.
@@ -7685,6 +7690,7 @@
 
 ## Html
 
+* 【2026-04-10】[gn-math / gn-math-DONTDMCA](https://github.com/gn-math/gn-math-DONTDMCA) - PLEASE DO NOT DMCA THIS, NO GAME ASSETS ARE HOSTED HERE
 * 【2026-04-06】[mergisi / awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) - 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours!
 * 【2026-04-03】[nirholas / XActions](https://github.com/nirholas/XActions) - ⚡ The Complete X/Twitter Automation Toolkit — Scrapers, MCP server for AI agents (Claude/GPT), CLI, browser scripts. No API fees. Open source. Unfollow people who don't follow back. Monitor real-time analytics. Auto follow, like, comment, scrape, without API.
 * 【2026-03-31】[Systems-Modeling / SysML-v2-Release](https://github.com/Systems-Modeling/SysML-v2-Release) - The latest incremental release of SysML v2. Start here.
