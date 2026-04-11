@@ -6368,6 +6368,7 @@
 
 ## C++
 
+* 【2026-04-11】[Euro-Office / desktop-apps](https://github.com/Euro-Office/desktop-apps) - 
 * 【2026-04-08】[google / jsir](https://github.com/google/jsir) - Next-generation JavaScript analysis tooling
 * 【2026-04-01】[doodlum / skyrim-community-shaders](https://github.com/doodlum/skyrim-community-shaders) - Community-driven advanced graphics modifications for AE, SE and VR.
 * 【2026-04-01】[solvespace / solvespace](https://github.com/solvespace/solvespace) - Parametric 2d/3d CAD
