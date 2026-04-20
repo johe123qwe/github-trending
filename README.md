@@ -5029,6 +5029,7 @@
 
 ## Go
 
+* 【2026-04-20】[HexmosTech / git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Unlimited AI Code Reviews That Run on Commit
 * 【2026-04-19】[tphakala / birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
 * 【2026-04-17】[oisee / vibing-steampunk](https://github.com/oisee/vibing-steampunk) - vs-punk: ADT to MCP bridge - Vibe code in ABAP / AMDP
 * 【2026-04-13】[cirruslabs / orchard](https://github.com/cirruslabs/orchard) - Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
