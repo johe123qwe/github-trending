@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-04-20】[koala73 / worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 * 【2026-04-19】[Fincept-Corporation / FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 * 【2026-04-18】[thunderbird / thunderbolt](https://github.com/thunderbird/thunderbolt) - AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
 * 【2026-04-18】[aaddrick / claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Debian-based Linux distributions
@@ -2522,6 +2523,7 @@
 
 ## Python
 
+* 【2026-04-20】[alexzhang13 / rlm](https://github.com/alexzhang13/rlm) - General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.
 * 【2026-04-19】[barry-far / V2ray-Config](https://github.com/barry-far/V2ray-Config) - Free V2ray Configs, Updating Every 15 minutes. 🚀🌐
 * 【2026-04-19】[sngyai / Sequoia-X](https://github.com/sngyai/Sequoia-X) - A股自动选股程序，实现了海龟交易法则、缠中说禅牛市买点，以及其他若干种技术形态
 * 【2026-04-17】[nv-tlabs / lyra](https://github.com/nv-tlabs/lyra) - Project Lyra: Open Generative 3D World Models
@@ -4135,6 +4137,7 @@
 
 ## Javascript
 
+* 【2026-04-20】[bugbasesecurity / pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot) - Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline pentesting workflows.
 * 【2026-04-18】[prem-k-r / MaterialYouNewTab](https://github.com/prem-k-r/MaterialYouNewTab) - MY NewTab: A Simple New Tab (browser's home page) inspired with Google's 'Material You' design
 * 【2026-04-18】[firebase / agent-skills](https://github.com/firebase/agent-skills) - Agent Skills for Firebase
 * 【2026-04-17】[cursor / plugins](https://github.com/cursor/plugins) - Cursor plugin specification and official plugins
@@ -5029,6 +5032,8 @@
 
 ## Go
 
+* 【2026-04-20】[basecamp / once](https://github.com/basecamp/once) - Easy self-hosting for Docker-based web apps
+* 【2026-04-20】[Diniboy1123 / usque](https://github.com/Diniboy1123/usque) - Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.
 * 【2026-04-20】[HexmosTech / git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Unlimited AI Code Reviews That Run on Commit
 * 【2026-04-19】[tphakala / birdnet-go](https://github.com/tphakala/birdnet-go) - Realtime BirdNET soundscape analyzer
 * 【2026-04-17】[oisee / vibing-steampunk](https://github.com/oisee/vibing-steampunk) - vs-punk: ADT to MCP bridge - Vibe code in ABAP / AMDP
@@ -5727,6 +5732,7 @@
 
 ## C
 
+* 【2026-04-20】[Zaneham / BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA compiler targeting multiple GPU architectures. Compiles .cu to AMD and Tenstorrent GPU's
 * 【2026-04-19】[iczelia / bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
 * 【2026-04-17】[Filoppi / Luma-Framework](https://github.com/Filoppi/Luma-Framework) - Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki/Mods-List
 * 【2026-04-14】[bellard / mquickjs](https://github.com/bellard/mquickjs) - Public repository of the Micro QuickJS Javascript Engine
