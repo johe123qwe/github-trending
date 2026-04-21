@@ -5032,6 +5032,7 @@
 
 ## Go
 
+* 【2026-04-21】[ParsaKSH / spoof-tunnel](https://github.com/ParsaKSH/spoof-tunnel) - client-server tunnel with IP-Spoofing
 * 【2026-04-20】[basecamp / once](https://github.com/basecamp/once) - Easy self-hosting for Docker-based web apps
 * 【2026-04-20】[Diniboy1123 / usque](https://github.com/Diniboy1123/usque) - Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.
 * 【2026-04-20】[HexmosTech / git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Unlimited AI Code Reviews That Run on Commit
