@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-04-24】[higress-group / higress](https://github.com/higress-group/higress) - 🤖 AI Gateway | AI Native API Gateway
 * 【2026-04-23】[huggingface / ml-intern](https://github.com/huggingface/ml-intern) - 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 * 【2026-04-23】[mksglu / context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
 * 【2026-04-22】[vercel-labs / skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
@@ -4145,6 +4146,7 @@
 
 ## Javascript
 
+* 【2026-04-24】[linagora / twake-drive](https://github.com/linagora/twake-drive) - Twake Drive Web App
 * 【2026-04-23】[Mathieu2301 / TradingView-API](https://github.com/Mathieu2301/TradingView-API) - 📈 Get real-time stocks from TradingView
 * 【2026-04-23】[XCQ0607 / lxserver](https://github.com/XCQ0607/lxserver) - LX Music 数据同步服务端，同时支持了部分lx-music-desktop的网页端实现。
 * 【2026-04-23】[microsoft / power-platform-skills](https://github.com/microsoft/power-platform-skills) - A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.
@@ -5044,6 +5046,8 @@
 
 ## Go
 
+* 【2026-04-24】[operacle / checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.
+* 【2026-04-24】[gastownhall / beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 * 【2026-04-21】[guohuiyuan / go-music-dl](https://github.com/guohuiyuan/go-music-dl) - 一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：1074285005
 * 【2026-04-21】[ParsaKSH / spoof-tunnel](https://github.com/ParsaKSH/spoof-tunnel) - client-server tunnel with IP-Spoofing
 * 【2026-04-20】[basecamp / once](https://github.com/basecamp/once) - Easy self-hosting for Docker-based web apps
@@ -5746,6 +5750,7 @@
 
 ## C
 
+* 【2026-04-24】[m5stack / StackChan](https://github.com/m5stack/StackChan) - StackChan open source!
 * 【2026-04-21】[Mbed-TLS / TF-PSA-Crypto](https://github.com/Mbed-TLS/TF-PSA-Crypto) - Reference implementation of the PSA Cryptography API
 * 【2026-04-20】[Zaneham / BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA compiler targeting multiple GPU architectures. Compiles .cu to AMD and Tenstorrent GPU's
 * 【2026-04-19】[iczelia / bzip3](https://github.com/iczelia/bzip3) - A better and stronger spiritual successor to BZip2.
@@ -7076,6 +7081,7 @@
 
 ## C#
 
+* 【2026-04-24】[Facepunch / Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
 * 【2026-04-23】[AgOpenGPS-Official / AgOpenGPS](https://github.com/AgOpenGPS-Official/AgOpenGPS) - Ag Precision Mapping, Section Control and Guidance Software
 * 【2026-04-21】[BasisVR / Basis](https://github.com/BasisVR/Basis) - Basis is an open-source social framework for VR and Desktop usage.
 * 【2026-04-19】[Seafoam-Labs / Shelly-ALPM](https://github.com/Seafoam-Labs/Shelly-ALPM) - Pacman alternative for ArchLinux, designed with you in mind.
