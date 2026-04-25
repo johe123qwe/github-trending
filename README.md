@@ -7777,6 +7777,7 @@
 
 ## Html
 
+* 【2026-04-25】[CoolDude2349 / Offline-HTML-Games-Pack](https://github.com/CoolDude2349/Offline-HTML-Games-Pack) - 300 offline HTML games, each on a single file
 * 【2026-04-22】[pedrohcgs / claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) - A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.
 * 【2026-04-17】[xindoo / agentic-design-patterns](https://github.com/xindoo/agentic-design-patterns) - 谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。
 * 【2026-04-16】[microsoft / zerotrustassessment](https://github.com/microsoft/zerotrustassessment) - Repository for the Zero Trust Assessment project
