@@ -7132,6 +7132,7 @@
 
 ## C#
 
+* 【2026-05-04】[voidstrap / Voidstrap](https://github.com/voidstrap/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.
 * 【2026-05-03】[Facepunch / sbox-scenestaging](https://github.com/Facepunch/sbox-scenestaging) - A staging area for the scene system
 * 【2026-05-02】[erikdarlingdata / PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor) - Free, open-source SQL Server performance monitoring — 32 collectors, real-time alerts, graphical plan viewer, MCP server for AI analysis. Supports SQL 2016-2025, Azure SQL, AWS RDS.
 * 【2026-04-29】[Facepunch / sandbox](https://github.com/Facepunch/sandbox) - Sandbox mode for s&box
