@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-05-06】[bwya77 / vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
 * 【2026-05-03】[Hmbown / DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 * 【2026-04-29】[warpdotdev / warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 * 【2026-04-29】[1jehuang / jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
@@ -1977,6 +1978,8 @@
 
 ## Java
 
+* 【2026-05-06】[AidanPark / openclaw-android](https://github.com/AidanPark/openclaw-android) - Run OpenClaw on Android with a single command — no proot, no Linux
+* 【2026-05-06】[deltachat / deltachat-android](https://github.com/deltachat/deltachat-android) - Decentralized private messenger with chat-shared tools and games for Android
 * 【2026-05-03】[ljeng / cheat-sheet](https://github.com/ljeng/cheat-sheet) - Knowledge base for software engineers and research engineers
 * 【2026-05-03】[j-shelfwood / voxy-neoforge](https://github.com/j-shelfwood/voxy-neoforge) - Unofficial NeoForge 1.21.1 port of Voxy (LOD mod) by MCRcortex - Community maintained
 * 【2026-05-02】[LiteLDev / LeviLaunchroid](https://github.com/LiteLDev/LeviLaunchroid) - A launcher designed for Minecraft Bedrock Edition on Android
@@ -2544,6 +2547,8 @@
 
 ## Python
 
+* 【2026-05-06】[CloakHQ / CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+* 【2026-05-06】[ahujasid / ableton-mcp](https://github.com/ahujasid/ableton-mcp) - 
 * 【2026-05-04】[raullenchai / Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) - The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.
 * 【2026-05-04】[alexgreensh / token-optimizer](https://github.com/alexgreensh/token-optimizer) - Find the ghost tokens. Fix them. Survive compaction. Avoid context quality decay.
 * 【2026-05-03】[hiddify / Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager) - Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protocols to circumvent filtering plus the telegram proxy.
@@ -5798,6 +5803,7 @@
 
 ## C
 
+* 【2026-05-06】[ClusterM / wg-obfuscator](https://github.com/ClusterM/wg-obfuscator) - WireGuard Obfuscator - simple obfuscator for WireGuard. Useful if your ISP/government blocks WireGuard traffic.
 * 【2026-05-04】[NetHack / NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
 * 【2026-04-29】[WeebLabs / DSPi](https://github.com/WeebLabs/DSPi) - A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350). Official Discord: https://discord.gg/RCyqxAQ5xS
 * 【2026-04-29】[open-telemetry / opentelemetry-ebpf-instrumentation](https://github.com/open-telemetry/opentelemetry-ebpf-instrumentation) - 
@@ -7138,6 +7144,8 @@
 
 ## C#
 
+* 【2026-05-06】[mcp-servers-for-revit / mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project
+* 【2026-05-06】[PCL-Community / PCL-CE](https://github.com/PCL-Community/PCL-CE) - PCL 社区版 由社区开发者维护与管理
 * 【2026-05-04】[Aether-Tools / CustomizePlus](https://github.com/Aether-Tools/CustomizePlus) - Dalamud plugin designed to give you better control over your Final Fantasy XIV character appearance.
 * 【2026-05-04】[voidstrap / Voidstrap](https://github.com/voidstrap/Voidstrap) - Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.
 * 【2026-05-03】[Facepunch / sbox-scenestaging](https://github.com/Facepunch/sbox-scenestaging) - A staging area for the scene system
