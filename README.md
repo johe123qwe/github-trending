@@ -5101,6 +5101,7 @@
 
 ## Go
 
+* 【2026-05-10】[microsoft / waza](https://github.com/microsoft/waza) - CLI / Framework for Agent Skills - create, test, measure and improve skill quality and effectiveness
 * 【2026-05-07】[MercuryTechnologies / mercury-cli](https://github.com/MercuryTechnologies/mercury-cli) - 
 * 【2026-05-06】[bjarneo / cliamp](https://github.com/bjarneo/cliamp) - cliamp - Terminal music player inspired by winamp
 * 【2026-05-04】[pranshuparmar / witr](https://github.com/pranshuparmar/witr) - Why is this running?
@@ -5819,6 +5820,7 @@
 
 ## C
 
+* 【2026-05-10】[facebook / openzl](https://github.com/facebook/openzl) - A novel data compression framework
 * 【2026-05-09】[califio / publications](https://github.com/califio/publications) - Publications from Calif
 * 【2026-05-06】[ClusterM / wg-obfuscator](https://github.com/ClusterM/wg-obfuscator) - WireGuard Obfuscator - simple obfuscator for WireGuard. Useful if your ISP/government blocks WireGuard traffic.
 * 【2026-05-04】[NetHack / NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
@@ -6517,6 +6519,7 @@
 
 ## C++
 
+* 【2026-05-10】[gazebosim / gz-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator. The latest version of Gazebo.
 * 【2026-05-09】[PRBonn / rko_lio](https://github.com/PRBonn/rko_lio) - A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling
 * 【2026-05-06】[awalol / DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
 * 【2026-05-01】[sirius-db / sirius](https://github.com/sirius-db/sirius) - 
