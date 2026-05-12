@@ -2558,6 +2558,7 @@
 
 ## Python
 
+* 【2026-05-12】[openinterpreter / open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 * 【2026-05-11】[jwadow / kiro-gateway](https://github.com/jwadow/kiro-gateway) - 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client.
 * 【2026-05-11】[ylytdeng / wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
 * 【2026-05-11】[wanshuiyin / Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) - ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
@@ -6530,6 +6531,8 @@
 
 ## C++
 
+* 【2026-05-12】[encounter / aurora](https://github.com/encounter/aurora) - A source-level GameCube & Wii compatibility layer
+* 【2026-05-12】[zeldaret / tww](https://github.com/zeldaret/tww) - Decompilation of The Legend of Zelda: The Wind Waker
 * 【2026-05-10】[gazebosim / gz-sim](https://github.com/gazebosim/gz-sim) - Open source robotics simulator. The latest version of Gazebo.
 * 【2026-05-09】[PRBonn / rko_lio](https://github.com/PRBonn/rko_lio) - A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling
 * 【2026-05-06】[awalol / DS5Dongle](https://github.com/awalol/DS5Dongle) - Turn your Pico 2 W into a DualSense 5 dongle.
@@ -7177,6 +7180,8 @@
 
 ## C#
 
+* 【2026-05-12】[Greedeks / GTweak](https://github.com/Greedeks/GTweak) - Portable Tool for an Ideal Windows Setup
+* 【2026-05-12】[microsoft / Power-CAT-Copilot-Studio-Kit](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) - 
 * 【2026-05-09】[Alchyr / BaseLib-StS2](https://github.com/Alchyr/BaseLib-StS2) - Mod for Slay the Spire 2 to standardize content additions
 * 【2026-05-07】[Pronwan / rustplus-desktop](https://github.com/Pronwan/rustplus-desktop) - Rust+ Desktop App (unofficial)
 * 【2026-05-06】[mcp-servers-for-revit / mcp-servers-for-revit](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit) - 🔥💧🤖 Sparx fork of the mcp-servers-for-revit/revit-mcp project
@@ -9464,6 +9469,7 @@
 
 ## Unknown
 
+* 【2026-05-12】[ParthJadhav / app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots) - end to end app store screenshot creation using AI
 * 【2026-05-09】[vinegarhq / sober](https://github.com/vinegarhq/sober) - Runtime for Roblox on Linux
 * 【2026-05-06】[jim-schwoebel / awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 🤖 A comprehensive list of 1,500+ resources and tools related to AI agents.
 * 【2026-05-04】[VoltAgent / awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
