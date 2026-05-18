@@ -2570,6 +2570,8 @@
 
 ## Python
 
+* 【2026-05-18】[mattzh72 / articraft](https://github.com/mattzh72/articraft) - An Agentic System for Scalable Articulated 3D Asset Generation
+* 【2026-05-18】[zinja-coder / jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server) - MCP server for JADX-AI Plugin
 * 【2026-05-17】[Andyyyy64 / whichllm](https://github.com/Andyyyy64/whichllm) - Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.
 * 【2026-05-17】[GuDong2003 / xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) - 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
 * 【2026-05-16】[PurpleAILAB / Decepticon](https://github.com/PurpleAILAB/Decepticon) - Autonomous Hacking Agent for Red Team
@@ -4222,6 +4224,8 @@
 
 ## Javascript
 
+* 【2026-05-18】[truelockmc / streambert](https://github.com/truelockmc/streambert) - A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
+* 【2026-05-18】[anubhavxdev / Event-management-system-main](https://github.com/anubhavxdev/Event-management-system-main) - Full-stack event management system with QR ticketing, real-time check-ins, organizer dashboards, and role-based access. Stack: Node.js · React · MongoDB · Socket.IO · Tailwind CSS
 * 【2026-05-17】[jackwener / OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.
 * 【2026-05-17】[viru0909-dev / nyay-setu-working](https://github.com/viru0909-dev/nyay-setu-working) - Digitalization of Judiciary System
 * 【2026-05-17】[pdone / lx-music-source](https://github.com/pdone/lx-music-source) - 洛雪音乐源
@@ -5146,6 +5150,9 @@
 
 ## Go
 
+* 【2026-05-18】[wesm / agentsview](https://github.com/wesm/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and 14 other agents. Also: 100x faster replacement for ccusage!
+* 【2026-05-18】[hkdb / aerion](https://github.com/hkdb/aerion) - An Open Source Lightweight E-Mail Client
+* 【2026-05-18】[haierkeys / fast-note-sync-service](https://github.com/haierkeys/fast-note-sync-service) - High-performance, low-latency note synchronization, online management, and remote REST API service platform.
 * 【2026-05-17】[bruin-data / dac](https://github.com/bruin-data/dac) - DaC is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards.
 * 【2026-05-17】[sleuth-io / sx](https://github.com/sleuth-io/sx) - sx is a package manager for AI coding assistants
 * 【2026-05-17】[kernel / kernel-images](https://github.com/kernel/kernel-images) - Browsers-as-a-service for automations and web agents
@@ -9522,6 +9529,8 @@
 
 ## Unknown
 
+* 【2026-05-18】[yvoronoy / awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
+* 【2026-05-18】[tmylla / Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) - An overview of LLMs for cybersecurity.
 * 【2026-05-17】[bendc / frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
 * 【2026-05-16】[hyperspaceai / agi](https://github.com/hyperspaceai/agi) - The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, share experiments via P2P gossip, and push breakthroughs here. Fully peer-to-peer. Join from your browser or CLI.
 * 【2026-05-14】[caramaschiHG / awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) - 🤖 The most comprehensive list of AI agents, frameworks & tools in 2026. 300+ resources · 20+ categories · Updated monthly.
