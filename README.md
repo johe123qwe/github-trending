@@ -4238,6 +4238,7 @@
 
 ## Javascript
 
+* 【2026-05-22】[mnfst / awesome-free-llm-apis](https://github.com/mnfst/awesome-free-llm-apis) - List of Permanent Free LLM API (API Keys)
 * 【2026-05-21】[fbsamples / whatsapp-business-jaspers-market](https://github.com/fbsamples/whatsapp-business-jaspers-market) - Sample Whatsapp App - Jasper's Market
 * 【2026-05-20】[rohitg00 / pro-workflow](https://github.com/rohitg00/pro-workflow) - Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.
 * 【2026-05-18】[truelockmc / streambert](https://github.com/truelockmc/streambert) - A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
