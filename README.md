@@ -8674,6 +8674,7 @@
 
 ## Css
 
+* 【2026-05-23】[zarazhangrui / codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 * 【2026-05-22】[MicrosoftDocs / mslearn-interact-with-data-blazor-web-apps](https://github.com/MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps) - Sample repo for Interact with Data for Blazor Web Apps Learn Module
 * 【2026-05-16】[adobe / adobe.github.com](https://github.com/adobe/adobe.github.com) - Adobe central hub for open source
 * 【2026-05-15】[rust-lang / const-eval](https://github.com/rust-lang/const-eval) - home for proposals in and around compile-time function evaluation
