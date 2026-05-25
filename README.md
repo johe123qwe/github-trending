@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2026-05-25】[affaan-m / ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+* 【2026-05-25】[Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 * 【2026-05-24】[anthropics / knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 * 【2026-05-24】[earendil-works / pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 * 【2026-05-24】[manaflow-ai / cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
@@ -2014,6 +2016,8 @@
 
 ## Java
 
+* 【2026-05-25】[AuthMe / AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
+* 【2026-05-25】[github / copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 * 【2026-05-23】[microsoft / copilot-for-eclipse](https://github.com/microsoft/copilot-for-eclipse) - GitHub Copilot plugin for Eclipse IDE
 * 【2026-05-22】[ArcadeData / arcadedb](https://github.com/ArcadeData/arcadedb) - ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.
 * 【2026-05-19】[mubashardev / WaEnhancerX](https://github.com/mubashardev/WaEnhancerX) - 1. Wa Enhancer X | WhatsApp tools for Android
@@ -2587,6 +2591,7 @@
 
 ## Python
 
+* 【2026-05-25】[st-tech / ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) - A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
 * 【2026-05-24】[bleachbit / bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
 * 【2026-05-24】[elder-plinius / OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) - OBLITERATE THE CHAINS THAT BIND YOU
 * 【2026-05-22】[facebookresearch / sam3](https://github.com/facebookresearch/sam3) - The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -5181,6 +5186,7 @@
 
 ## Go
 
+* 【2026-05-25】[openclaw / gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 * 【2026-05-24】[mvanhorn / cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
 * 【2026-05-21】[cinar / indicator](https://github.com/cinar/indicator) - Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀
 * 【2026-05-21】[luckyPipewrench / pipelock](https://github.com/luckyPipewrench/pipelock) - Open-source AI agent firewall for MCP security: agent egress control, DLP, SSRF, and prompt injection defense.
@@ -7279,6 +7285,9 @@
 
 ## C#
 
+* 【2026-05-25】[MiniMax-AI / skills](https://github.com/MiniMax-AI/skills) - 
+* 【2026-05-25】[Polytoria / polytoria-game](https://github.com/Polytoria/polytoria-game) - Polytoria, a multiplayer gaming platform built with Godot and .NET
+* 【2026-05-25】[ed0ard / CS2-Bot-Improver](https://github.com/ed0ard/CS2-Bot-Improver) - CS2-Bot-Improver is a plugin for Counter-Strike 2 that improves bots' aim, movement, nade throwing, personalities, strategies, etc. Aims to enhance your experience when playing against bots offline or with friends. It can be installed on both clients and servers.
 * 【2026-05-22】[iOfficeAI / OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
 * 【2026-05-22】[velopack / velopack](https://github.com/velopack/velopack) - Installer and automatic update framework for cross-platform desktop applications
 * 【2026-05-20】[ss14Starlight / space-station-14](https://github.com/ss14Starlight/space-station-14) - An open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14
@@ -7996,6 +8005,7 @@
 
 ## Html
 
+* 【2026-05-25】[whale-Yd00 / freeapp](https://github.com/whale-Yd00/freeapp) - 一个ai聊天项目
 * 【2026-05-23】[OCA / stock-logistics-warehouse](https://github.com/OCA/stock-logistics-warehouse) - Odoo Warehouse Management Addons
 * 【2026-05-22】[majiayu000 / claude-skill-registry](https://github.com/majiayu000/claude-skill-registry) - The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app
 * 【2026-05-22】[janavipandole / Cara](https://github.com/janavipandole/Cara) - E-Commerce Website is a modern, responsive, and fully functional online shopping platform built to deliver a smooth and user-friendly experience. This project allows users to browse products, add them to cart, and securely checkout. It features a clean UI, product search, categories, and order management.
@@ -9584,6 +9594,7 @@
 
 ## Unknown
 
+* 【2026-05-25】[anthropics / claude-plugins-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
 * 【2026-05-19】[android / skills](https://github.com/android/skills) - 
 * 【2026-05-18】[yvoronoy / awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 * 【2026-05-18】[tmylla / Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity) - An overview of LLMs for cybersecurity.
