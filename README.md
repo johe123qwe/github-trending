@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-05-27】[iii-hq / iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 * 【2026-05-26】[Open-Dev-Society / OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 * 【2026-05-25】[affaan-m / ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 * 【2026-05-25】[Leonxlnx / taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
@@ -4258,6 +4259,7 @@
 
 ## Javascript
 
+* 【2026-05-27】[zarazhangrui / frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 * 【2026-05-26】[calesthio / Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 * 【2026-05-26】[KoStard / forgecad-public-kit](https://github.com/KoStard/forgecad-public-kit) - Public companion kit for ForgeCAD: examples, agent skills, docs links, and issue tracking. The hosted CAD app and core source live elsewhere.
 * 【2026-05-24】[nikkinikki-org / OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) - Transparent Proxy with Mihomo on OpenWrt.
@@ -5191,6 +5193,8 @@
 
 ## Go
 
+* 【2026-05-27】[kulikov0 / whitelist-bypass](https://github.com/kulikov0/whitelist-bypass) - 
+* 【2026-05-27】[james-6-23 / codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
 * 【2026-05-26】[lich0821 / ccNexus](https://github.com/lich0821/ccNexus) - Intelligent API gateway for Claude Code and Codex CLI - rotate endpoints, monitor usage, and seamlessly integrate OpenAI, Gemini, and other platforms.
 * 【2026-05-25】[openclaw / gogcli](https://github.com/openclaw/gogcli) - Google Workspace in your terminal.
 * 【2026-05-24】[mvanhorn / cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
@@ -6637,6 +6641,7 @@
 
 ## C++
 
+* 【2026-05-27】[simplefoc / Arduino-FOC](https://github.com/simplefoc/Arduino-FOC) - Arduino FOC for BLDC and Stepper motors - Arduino Based Field Oriented Control Algorithm Library
 * 【2026-05-24】[jtenniswood / espcontrol](https://github.com/jtenniswood/espcontrol) - Esphome based smart home control panel
 * 【2026-05-24】[ShizCalev / MGSHDFix](https://github.com/ShizCalev/MGSHDFix) - A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.
 * 【2026-05-23】[JACoders / OpenJK](https://github.com/JACoders/OpenJK) - Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by Raven Software
@@ -8012,6 +8017,7 @@
 
 ## Html
 
+* 【2026-05-27】[revfactory / harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 * 【2026-05-25】[whale-Yd00 / freeapp](https://github.com/whale-Yd00/freeapp) - 一个ai聊天项目
 * 【2026-05-23】[OCA / stock-logistics-warehouse](https://github.com/OCA/stock-logistics-warehouse) - Odoo Warehouse Management Addons
 * 【2026-05-22】[majiayu000 / claude-skill-registry](https://github.com/majiayu000/claude-skill-registry) - The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app
@@ -9601,6 +9607,7 @@
 
 ## Unknown
 
+* 【2026-05-27】[KimYx0207 / AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - Claude Code + OpenClaw + Codex 中文教程 | 36篇完整教程 | 18万字 | 三线学习路径 | 小白到企业实战
 * 【2026-05-25】[anthropics / claude-plugins-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
 * 【2026-05-19】[android / skills](https://github.com/android/skills) - 
 * 【2026-05-18】[yvoronoy / awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
