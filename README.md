@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-05-28】[OpenMOSS / MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS) - MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
 * 【2026-05-28】[Chachamaru127 / claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) - Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
 * 【2026-05-27】[iii-hq / iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 * 【2026-05-26】[Open-Dev-Society / OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
@@ -2595,6 +2596,9 @@
 
 ## Python
 
+* 【2026-05-28】[microsoft / RAMPART](https://github.com/microsoft/RAMPART) - A pytest-native safety and security testing framework for agentic AI applications
+* 【2026-05-28】[ariadng / metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server) - Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform
+* 【2026-05-28】[adithya-s-k / omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
 * 【2026-05-26】[francescopace / espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.
 * 【2026-05-25】[st-tech / ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver) - A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
 * 【2026-05-24】[bleachbit / bleachbit](https://github.com/bleachbit/bleachbit) - BleachBit system cleaner for Windows and Linux
@@ -5194,6 +5198,7 @@
 
 ## Go
 
+* 【2026-05-28】[kenn-io / roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 * 【2026-05-28】[Infisical / agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 * 【2026-05-27】[kulikov0 / whitelist-bypass](https://github.com/kulikov0/whitelist-bypass) - 
 * 【2026-05-27】[james-6-23 / codex2api](https://github.com/james-6-23/codex2api) - Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目
@@ -8019,6 +8024,8 @@
 
 ## Html
 
+* 【2026-05-28】[rebane2001 / xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
+* 【2026-05-28】[S3DFX-CYBER / GSoC-Org-Finder-](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) - Find your perfect GSoC 2026 organization- filter all 184 selected orgs by your tech stack, language, and domain. No install needed.
 * 【2026-05-28】[lijigang / ljg-skills](https://github.com/lijigang/ljg-skills) - 
 * 【2026-05-27】[revfactory / harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 * 【2026-05-25】[whale-Yd00 / freeapp](https://github.com/whale-Yd00/freeapp) - 一个ai聊天项目
@@ -8717,6 +8724,7 @@
 
 ## Css
 
+* 【2026-05-28】[AumGupta / abyss-jellyfin](https://github.com/AumGupta/abyss-jellyfin) - Minimal Dark Theme for Jellyfin [Customisable]
 * 【2026-05-23】[zarazhangrui / codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 * 【2026-05-22】[MicrosoftDocs / mslearn-interact-with-data-blazor-web-apps](https://github.com/MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps) - Sample repo for Interact with Data for Blazor Web Apps Learn Module
 * 【2026-05-16】[adobe / adobe.github.com](https://github.com/adobe/adobe.github.com) - Adobe central hub for open source
