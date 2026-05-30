@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-05-30】[FareedKhan-dev / train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) - A straightforward method for training your LLM, from downloading data to generating text.
 * 【2026-05-29】[run-llama / liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 * 【2026-05-29】[galilai-group / stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) - A platform for reproducible world model research and evaluation
 * 【2026-05-29】[Biohub / esm](https://github.com/Biohub/esm) - 
@@ -2023,6 +2024,8 @@
 
 ## Java
 
+* 【2026-05-30】[stone-alex / EliteIntel](https://github.com/stone-alex/EliteIntel) - LLM side-kick and data analyst for Elite Dangerous
+* 【2026-05-30】[jqwik-team / jqwik](https://github.com/jqwik-team/jqwik) - Property-Based Testing on the JUnit Platform
 * 【2026-05-29】[OtterMind / Chat2DB](https://github.com/OtterMind/Chat2DB) - AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 * 【2026-05-26】[Stonewuu / ai-fusion-video](https://github.com/Stonewuu/ai-fusion-video) - 【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台
 * 【2026-05-25】[AuthMe / AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
@@ -4271,6 +4274,7 @@
 
 ## Javascript
 
+* 【2026-05-30】[JiyaBatra / CODEVIBE-](https://github.com/JiyaBatra/CODEVIBE-) - CodeVibe is an interactive learning platform designed to help beginners understand programming through simple lessons and hands-on practice. It includes structured course sections, coding examples, and a built-in HTML compiler that lets users write and test code directly in the browser, making learning web development practical, engaging.
 * 【2026-05-29】[hitesh-kumar123 / Travel-Plans-](https://github.com/hitesh-kumar123/Travel-Plans-) - PackGo: Your ultimate travel companion. Built with React, Redux, Node.js & MongoDB to seamlessly plan trips, track budgets, check weather, and organize bookings in one intuitive dashboard.
 * 【2026-05-27】[zarazhangrui / frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
 * 【2026-05-26】[calesthio / Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
@@ -8733,6 +8737,7 @@
 
 ## Css
 
+* 【2026-05-30】[katorlys / rweb.site](https://github.com/katorlys/rweb.site) - Free `rweb.site` subdomain for personal websites, open-source projects and more.
 * 【2026-05-28】[AumGupta / abyss-jellyfin](https://github.com/AumGupta/abyss-jellyfin) - Minimal Dark Theme for Jellyfin [Customisable]
 * 【2026-05-23】[zarazhangrui / codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) - A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders.
 * 【2026-05-22】[MicrosoftDocs / mslearn-interact-with-data-blazor-web-apps](https://github.com/MicrosoftDocs/mslearn-interact-with-data-blazor-web-apps) - Sample repo for Interact with Data for Blazor Web Apps Learn Module
@@ -9627,6 +9632,7 @@
 
 ## Unknown
 
+* 【2026-05-30】[EmergenceAI / Emergence-World](https://github.com/EmergenceAI/Emergence-World) - Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.
 * 【2026-05-27】[KimYx0207 / AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - Claude Code + OpenClaw + Codex 中文教程 | 36篇完整教程 | 18万字 | 三线学习路径 | 小白到企业实战
 * 【2026-05-25】[anthropics / claude-plugins-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
 * 【2026-05-19】[android / skills](https://github.com/android/skills) - 
