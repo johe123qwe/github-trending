@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-06-02】[chopratejas / headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 * 【2026-06-01】[dmtrKovalenko / fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
 * 【2026-05-31】[nesquena / hermes-webui](https://github.com/nesquena/hermes-webui) - Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 * 【2026-05-31】[nicobailon / pi-subagents](https://github.com/nicobailon/pi-subagents) - Pi extension for async subagent delegation with truncation, artifacts, and session sharing
@@ -2606,6 +2607,7 @@
 
 ## Python
 
+* 【2026-06-02】[datalab-to / surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 * 【2026-05-29】[zakirkun / deep-eye](https://github.com/zakirkun/deep-eye) - Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerability types, and produces professional reports with compliance mapping.
 * 【2026-05-29】[ai-boost / awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 * 【2026-05-29】[NVlabs / Eagle](https://github.com/NVlabs/Eagle) - Eagle: Frontier Vision-Language Models with Data-Centric Strategies
@@ -4277,6 +4279,8 @@
 
 ## Javascript
 
+* 【2026-06-02】[orangecoding / fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - [F]ind [R]eal [E]state [D]amn Eas[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Gesucht and instantly delivers the results to you via Slack, Telegram, Email, Discord or ntfy, so you can focus on the more important things in life ;)
+* 【2026-06-02】[xuanyustudio / LocalMiniDrama](https://github.com/xuanyustudio/LocalMiniDrama) - 🎬 seedance2接入 开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线
 * 【2026-06-01】[microsoft / skills-for-copilot-studio](https://github.com/microsoft/skills-for-copilot-studio) - A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI-powered skills. Suited for Claude Code, GitHub Copilot CLI, and more.
 * 【2026-05-31】[SandeepVashishtha / Eventra](https://github.com/SandeepVashishtha/Eventra) - Eventra is a comprehensive event management system that empowers organizers to create, manage, and track events seamlessly. Built with a modern tech stack featuring React frontend and Spring Boot backend, Eventra provides everything needed to run successful events from creation to post-event analytics.
 * 【2026-05-30】[JiyaBatra / CODEVIBE-](https://github.com/JiyaBatra/CODEVIBE-) - CodeVibe is an interactive learning platform designed to help beginners understand programming through simple lessons and hands-on practice. It includes structured course sections, coding examples, and a built-in HTML compiler that lets users write and test code directly in the browser, making learning web development practical, engaging.
@@ -5215,6 +5219,7 @@
 
 ## Go
 
+* 【2026-06-02】[sartoopjj / thefeed](https://github.com/sartoopjj/thefeed) - DNS-based feed reader for Telegram channels and public X accounts. Designed for environments where only DNS queries work.
 * 【2026-06-01】[charmbracelet / soft-serve](https://github.com/charmbracelet/soft-serve) - The mighty, self-hostable Git server for the command line🍦
 * 【2026-05-31】[Panonim / dynacat](https://github.com/Panonim/dynacat) - Dynacat is a dashboard focused on dynamic reloading and easy integrity with external applications.
 * 【2026-05-31】[superplanehq / superplane](https://github.com/superplanehq/superplane) - The open source control plane for platform engineering.
@@ -5959,6 +5964,7 @@
 
 ## C
 
+* 【2026-06-02】[qualcomm-linux / kernel](https://github.com/qualcomm-linux/kernel) - Linux Kernel for QLI mainline
 * 【2026-06-01】[wolfSSL / wolfCOSE](https://github.com/wolfSSL/wolfCOSE) - A fast, portable, and lightweight COSE + CBOR implementation for embedded systems. Supports PQC, FIPS 140-3, DO-178, and MISRA C. Powered by wolfSSL.
 * 【2026-06-01】[kristapsdz / openrsync](https://github.com/kristapsdz/openrsync) - BSD-licensed implementation of rsync
 * 【2026-06-01】[HarbourMasters / Ghostship](https://github.com/HarbourMasters/Ghostship) - 
@@ -6671,6 +6677,8 @@
 
 ## C++
 
+* 【2026-06-02】[CopterExpress / clover](https://github.com/CopterExpress/clover) - ROS-based framework and RPi image to control PX4-powered drones 🍀
+* 【2026-06-02】[aenu1 / aps3e](https://github.com/aenu1/aps3e) - An experimental Android PS3 emulator, ported and optimized based on RPCS3.
 * 【2026-05-27】[simplefoc / Arduino-FOC](https://github.com/simplefoc/Arduino-FOC) - Arduino FOC for BLDC and Stepper motors - Arduino Based Field Oriented Control Algorithm Library
 * 【2026-05-24】[jtenniswood / espcontrol](https://github.com/jtenniswood/espcontrol) - Esphome based smart home control panel
 * 【2026-05-24】[ShizCalev / MGSHDFix](https://github.com/ShizCalev/MGSHDFix) - A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.
@@ -7327,6 +7335,7 @@
 
 ## C#
 
+* 【2026-06-02】[Dailin521 / codex-provider-sync](https://github.com/Dailin521/codex-provider-sync) - Synchronize Codex session provider metadata across rollout files and SQLite state.
 * 【2026-06-02】[openutau / OpenUtau](https://github.com/openutau/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 * 【2026-06-01】[PizzaLovers007 / AdofaiTweaks](https://github.com/PizzaLovers007/AdofaiTweaks) - Helpful tweaks for A Dance of Fire and Ice
 * 【2026-05-29】[SirDiabo / GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - A Launcher that Downloads and Updates Applications from Github Releases
@@ -8050,6 +8059,7 @@
 
 ## Html
 
+* 【2026-06-02】[googleprojectzero / 0days-in-the-wild](https://github.com/googleprojectzero/0days-in-the-wild) - Repository for information about 0-days exploited in-the-wild.
 * 【2026-05-28】[rebane2001 / xikipedia](https://github.com/rebane2001/xikipedia) - Wikipedia as a social media feed
 * 【2026-05-28】[S3DFX-CYBER / GSoC-Org-Finder-](https://github.com/S3DFX-CYBER/GSoC-Org-Finder-) - Find your perfect GSoC 2026 organization- filter all 184 selected orgs by your tech stack, language, and domain. No install needed.
 * 【2026-05-28】[lijigang / ljg-skills](https://github.com/lijigang/ljg-skills) - 
@@ -9646,6 +9656,7 @@
 
 ## Unknown
 
+* 【2026-06-02】[eeeeeeeeee-code / POC](https://github.com/eeeeeeeeee-code/POC) - 备份的漏洞库，3月开始我们来维护
 * 【2026-05-30】[EmergenceAI / Emergence-World](https://github.com/EmergenceAI/Emergence-World) - Emergence World: A world designed to reveal what no benchmark can: emergent intelligence.
 * 【2026-05-27】[KimYx0207 / AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) - Claude Code + OpenClaw + Codex 中文教程 | 36篇完整教程 | 18万字 | 三线学习路径 | 小白到企业实战
 * 【2026-05-25】[anthropics / claude-plugins-community](https://github.com/anthropics/claude-plugins-community) - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
