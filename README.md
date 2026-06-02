@@ -7327,6 +7327,7 @@
 
 ## C#
 
+* 【2026-06-02】[openutau / OpenUtau](https://github.com/openutau/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 * 【2026-06-01】[PizzaLovers007 / AdofaiTweaks](https://github.com/PizzaLovers007/AdofaiTweaks) - Helpful tweaks for A Dance of Fire and Ice
 * 【2026-05-29】[SirDiabo / GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - A Launcher that Downloads and Updates Applications from Github Releases
 * 【2026-05-25】[MiniMax-AI / skills](https://github.com/MiniMax-AI/skills) - 
