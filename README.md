@@ -2607,6 +2607,7 @@
 
 ## Python
 
+* 【2026-06-03】[HKUDS / Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 * 【2026-06-02】[datalab-to / surya](https://github.com/datalab-to/surya) - OCR, layout analysis, reading order, table recognition in 90+ languages
 * 【2026-05-29】[zakirkun / deep-eye](https://github.com/zakirkun/deep-eye) - Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, OpenRouter, LiteLLM, LM Studio) for intelligent payload generation, scans targets for 45+ vulnerability types, and produces professional reports with compliance mapping.
 * 【2026-05-29】[ai-boost / awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
