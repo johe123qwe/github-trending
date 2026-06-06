@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-06-06】[withastro / flue](https://github.com/withastro/flue) - The sandbox agent framework.
 * 【2026-06-05】[Panniantong / Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 * 【2026-06-05】[MemPalace / mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 * 【2026-06-04】[NVIDIA / cosmos](https://github.com/NVIDIA/cosmos) - NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.
