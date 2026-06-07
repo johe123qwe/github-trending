@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2026-06-07】[RyanCodrai / turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
+* 【2026-06-07】[refactoringhq / tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
+* 【2026-06-07】[microsoft / pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution
 * 【2026-06-06】[microsoft / mxc](https://github.com/microsoft/mxc) - Policy-driven, layered isolation and containment
 * 【2026-06-06】[withastro / flue](https://github.com/withastro/flue) - The sandbox agent framework.
 * 【2026-06-05】[Panniantong / Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
@@ -2613,6 +2616,8 @@
 
 ## Python
 
+* 【2026-06-07】[SudoHopeX / KaliGPT](https://github.com/SudoHopeX/KaliGPT) - KaliGPT: an Agentic AI (built with Gemini, ChatGPT, Ollama, OpenRouter Models) fine tuned for ethical hackers & students in offensive security making workflows smarter, faster, and more accessible.
+* 【2026-06-07】[moorcheh-ai / memanto](https://github.com/moorcheh-ai/memanto) - Memory that AI Agents Love!
 * 【2026-06-06】[NKUCS-ICU / NKUCS.ICU](https://github.com/NKUCS-ICU/NKUCS.ICU) - 南开大学计网经验指北 | A website for courses of Major Computer Science | NKUCS DOCX | Since 2021
 * 【2026-06-04】[unilabsim / UniLab](https://github.com/unilabsim/UniLab) - UniLab: A Heterogeneous Architecture for Robot RL Beyond GPU-Dominant Paradigms
 * 【2026-06-03】[interviewstreet / hiring-agent](https://github.com/interviewstreet/hiring-agent) - AI agent to evaluate and score resumes.
@@ -4289,6 +4294,7 @@
 
 ## Javascript
 
+* 【2026-06-07】[NomaDamas / k-skill](https://github.com/NomaDamas/k-skill) - 한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등...
 * 【2026-06-06】[Gracker / SmartPerfetto](https://github.com/Gracker/SmartPerfetto) - use ai analysis Performance issue with perfetto
 * 【2026-06-06】[ritesh-1918 / HELPDESK.AI](https://github.com/ritesh-1918/HELPDESK.AI) - A full-stack AI helpdesk platform that uses machine learning, NLP, and OCR to automatically analyze support requests, detect similar incidents, and help teams resolve technical issues faster.
 * 【2026-06-05】[santifer / career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
@@ -5237,6 +5243,7 @@
 
 ## Go
 
+* 【2026-06-07】[multigres / multigres](https://github.com/multigres/multigres) - Vitess for Postgres
 * 【2026-06-05】[podman-container-tools / buildah](https://github.com/podman-container-tools/buildah) - A tool that facilitates building OCI images.
 * 【2026-06-04】[podman-container-tools / podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 * 【2026-06-03】[cisco-ai-defense / defenseclaw](https://github.com/cisco-ai-defense/defenseclaw) - Security Governance for Agentic AI
@@ -5985,6 +5992,7 @@
 
 ## C
 
+* 【2026-06-07】[kaansenol5 / VibeOS](https://github.com/kaansenol5/VibeOS) - A completely vibecoded operating system targeting Aarch64
 * 【2026-06-05】[xarray / osgverse](https://github.com/xarray/osgverse) - osgVerse, a complete 3d engine solution based on OpenSceneGraph. It supports OpenGL/OpenGLES/Vulkan/DirectX/Metal backends, and also works on modern browsers using WASM.
 * 【2026-06-03】[zanfranceschi / rinha-de-backend-2026](https://github.com/zanfranceschi/rinha-de-backend-2026) - Rinha de Backend - Quarta Edição: Detecção de Fraude com Busca Vetorial
 * 【2026-06-03】[21cncstudio / project_aura](https://github.com/21cncstudio/project_aura) - ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant
@@ -6701,6 +6709,7 @@
 
 ## C++
 
+* 【2026-06-07】[cifertech / ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
 * 【2026-06-05】[ElyPrismLauncher / Launcher](https://github.com/ElyPrismLauncher/Launcher) - This fork of Prism Launcher adds integrated support for Ely.by accounts.
 * 【2026-06-02】[CopterExpress / clover](https://github.com/CopterExpress/clover) - ROS-based framework and RPi image to control PX4-powered drones 🍀
 * 【2026-06-02】[aenu1 / aps3e](https://github.com/aenu1/aps3e) - An experimental Android PS3 emulator, ported and optimized based on RPCS3.
@@ -9687,6 +9696,7 @@
 
 ## Unknown
 
+* 【2026-06-07】[microsoft / Dataverse-skills](https://github.com/microsoft/Dataverse-skills) - Microsoft Dataverse skills for AI coding agents. Wraps the Dataverse MCP server, Dataverse CLI, Python SDK, and PAC CLI behind specialist skills for building, querying, deploying, and administering Dataverse environments.
 * 【2026-06-06】[phuryn / pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 * 【2026-06-05】[Orsoniks / scavgame-locale](https://github.com/Orsoniks/scavgame-locale) - Locale stuff for the scav game
 * 【2026-06-05】[VoltAgent / awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
