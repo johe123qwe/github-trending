@@ -9731,6 +9731,7 @@
 
 ## Unknown
 
+* 【2026-06-12】[openfootball / worldcup.json](https://github.com/openfootball/worldcup.json) - Free open public domain football data for the world cups (national teams & clubs) in JSON incl. Canada/USA/Mexico 2026, USA 2025, Qatar 2022, Russia 2018 and more - No API key required ;-)
 * 【2026-06-10】[alchaincyf / hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 * 【2026-06-10】[alchaincyf / zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
 * 【2026-06-10】[greptileai / skills](https://github.com/greptileai/skills) - Agent skill for checking PR review comments, status checks, and description completeness
