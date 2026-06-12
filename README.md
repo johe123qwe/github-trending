@@ -2625,6 +2625,7 @@
 
 ## Python
 
+* 【2026-06-12】[shuvonsec / claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes, autonomous hunting, and report generation. All inside Claude Code.
 * 【2026-06-11】[LLMQuant / quant-mind](https://github.com/LLMQuant/quant-mind) - QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance.
 * 【2026-06-10】[Sumanth077 / Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) - A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.
 * 【2026-06-08】[alistaitsacle / free-llm-api-keys](https://github.com/alistaitsacle/free-llm-api-keys) - Free LLM API keys for GPT-5.5, Claude, DeepSeek, Gemini, Grok — copy, paste, use. Updated 3-5x daily. No credit card needed.
@@ -5260,6 +5261,7 @@
 
 ## Go
 
+* 【2026-06-12】[YuJunZhiXue / qwen2API](https://github.com/YuJunZhiXue/qwen2API) - A project converting the Qwen web page to an API.
 * 【2026-06-11】[larksuite / cli](https://github.com/larksuite/cli) - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.
 * 【2026-06-10】[kunchenguid / no-mistakes](https://github.com/kunchenguid/no-mistakes) - git push no-mistakes
 * 【2026-06-10】[kai-scheduler / KAI-Scheduler](https://github.com/kai-scheduler/KAI-Scheduler) - KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
@@ -6015,6 +6017,7 @@
 
 ## C
 
+* 【2026-06-12】[DynamoRIO / dynamorio](https://github.com/DynamoRIO/dynamorio) - Dynamic Instrumentation Tool Platform
 * 【2026-06-10】[PlummersSoftwareLLC / retropad](https://github.com/PlummersSoftwareLLC/retropad) - 
 * 【2026-06-09】[InterceptSuite / ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
 * 【2026-06-09】[vayun-mathur / Modern-Apps](https://github.com/vayun-mathur/Modern-Apps) - A full mobile ecosystem of 19 apps
@@ -6735,6 +6738,8 @@
 
 ## C++
 
+* 【2026-06-12】[react / react-native](https://github.com/react/react-native) - A framework for building native applications using React
+* 【2026-06-12】[Natfii / UnrealClaude](https://github.com/Natfii/UnrealClaude) - Claude Code CLI integration for Unreal Engine 5.7 - Get AI coding assistance with built-in UE5.7 documentation context directly in the editor.
 * 【2026-06-10】[ChiR24 / Unreal_mcp](https://github.com/ChiR24/Unreal_mcp) - A comprehensive Model Context Protocol (MCP) server that enables AI assistants to control Unreal Engine through the native C++ Automation Bridge plugin. Built with TypeScript and C++.
 * 【2026-06-09】[strukturag / libheif](https://github.com/strukturag/libheif) - libheif is an HEIF and AVIF file format decoder and encoder.
 * 【2026-06-07】[cifertech / ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless offensive and defensive toolkit powered by an ESP32
@@ -8126,6 +8131,7 @@
 
 ## Html
 
+* 【2026-06-12】[evolution-foundation / evo-crm-community](https://github.com/evolution-foundation/evo-crm-community) - Open source and self-hosted AI-powered customer service platform. Single-tenant, no multi-account, no per-user charges — you run the complete stack on your server.
 * 【2026-06-10】[Euro-Office / web-apps](https://github.com/Euro-Office/web-apps) - 
 * 【2026-06-10】[akiralereal / iptv](https://github.com/akiralereal/iptv) - 基于 Docker 的 IPTV 直播源管理与分发系统：可视化后台、咪咕源抓取（含体育赛事/EPG），支持外部源管理与 m3u txt 订阅；内置纬来体育、Red Bull、4K 卫视及港澳台等，开箱即用。
 * 【2026-06-08】[averygan / reclip](https://github.com/averygan/reclip) - Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.
@@ -9731,6 +9737,7 @@
 
 ## Unknown
 
+* 【2026-06-12】[google / agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 * 【2026-06-12】[openfootball / worldcup.json](https://github.com/openfootball/worldcup.json) - Free open public domain football data for the world cups (national teams & clubs) in JSON incl. Canada/USA/Mexico 2026, USA 2025, Qatar 2022, Russia 2018 and more - No API key required ;-)
 * 【2026-06-10】[alchaincyf / hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 * 【2026-06-10】[alchaincyf / zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) - 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
