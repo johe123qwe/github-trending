@@ -2044,6 +2044,7 @@
 
 ## Java
 
+* 【2026-06-13】[matevip / mateclaw](https://github.com/matevip/mateclaw) - 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.
 * 【2026-06-11】[primefaces / primefaces](https://github.com/primefaces/primefaces) - Ultimate Component Suite for Jakarta Faces
 * 【2026-06-03】[bethington / ghidra-mcp](https://github.com/bethington/ghidra-mcp) - Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.
 * 【2026-05-30】[stone-alex / EliteIntel](https://github.com/stone-alex/EliteIntel) - LLM side-kick and data analyst for Elite Dangerous
@@ -2625,6 +2626,7 @@
 
 ## Python
 
+* 【2026-06-13】[py-pdf / pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 * 【2026-06-12】[shuvonsec / claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty) - AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes, autonomous hunting, and report generation. All inside Claude Code.
 * 【2026-06-11】[LLMQuant / quant-mind](https://github.com/LLMQuant/quant-mind) - QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance.
 * 【2026-06-10】[Sumanth077 / Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) - A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.
@@ -4310,6 +4312,7 @@
 
 ## Javascript
 
+* 【2026-06-13】[openai / codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 * 【2026-06-11】[rohitg00 / k8sgames](https://github.com/rohitg00/k8sgames) - Learn Kubernetes by playing. Deploy pods, fix CrashLoopBackOff, type real kubectl commands: 3D browser game, no install needed.
 * 【2026-06-08】[y13sint / FreeQwenApi](https://github.com/y13sint/FreeQwenApi) - Локальный API-прокси для Qwen AI с поддержкой сохранения контекста диалогов и управления сессиями через REST API
 * 【2026-06-07】[NomaDamas / k-skill](https://github.com/NomaDamas/k-skill) - 한국인을 위한 스킬 모음집 - SRT, KTX, 카카오톡, 한글과컴퓨터, 날씨, 미세먼지, 법령, 주식정보, 조선왕조실록, KBO, K-리그, LCK, 특허 검색, 토스 증권, 맞춤법 검사, 중고차 가격, 쿠팡, 네이버 블로그, 다이소, 올리브영, 택배 송장 조회 등등...
@@ -6738,6 +6741,8 @@
 
 ## C++
 
+* 【2026-06-13】[GensokyoClub / th06](https://github.com/GensokyoClub/th06) - Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1.02h)
+* 【2026-06-13】[kevinpbuckley / VibeUE](https://github.com/kevinpbuckley/VibeUE) - Unreal Engine Vibe Coding tool
 * 【2026-06-12】[react / react-native](https://github.com/react/react-native) - A framework for building native applications using React
 * 【2026-06-12】[Natfii / UnrealClaude](https://github.com/Natfii/UnrealClaude) - Claude Code CLI integration for Unreal Engine 5.7 - Get AI coding assistance with built-in UE5.7 documentation context directly in the editor.
 * 【2026-06-10】[ChiR24 / Unreal_mcp](https://github.com/ChiR24/Unreal_mcp) - A comprehensive Model Context Protocol (MCP) server that enables AI assistants to control Unreal Engine through the native C++ Automation Bridge plugin. Built with TypeScript and C++.
@@ -8131,6 +8136,8 @@
 
 ## Html
 
+* 【2026-06-13】[hmislk / hmis](https://github.com/hmislk/hmis) - This is an Open Source Java EE based Hospital Information Management System
+* 【2026-06-13】[0Chencc / clawgod](https://github.com/0Chencc/clawgod) - This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect
 * 【2026-06-12】[evolution-foundation / evo-crm-community](https://github.com/evolution-foundation/evo-crm-community) - Open source and self-hosted AI-powered customer service platform. Single-tenant, no multi-account, no per-user charges — you run the complete stack on your server.
 * 【2026-06-10】[Euro-Office / web-apps](https://github.com/Euro-Office/web-apps) - 
 * 【2026-06-10】[akiralereal / iptv](https://github.com/akiralereal/iptv) - 基于 Docker 的 IPTV 直播源管理与分发系统：可视化后台、咪咕源抓取（含体育赛事/EPG），支持外部源管理与 m3u txt 订阅；内置纬来体育、Red Bull、4K 卫视及港澳台等，开箱即用。
