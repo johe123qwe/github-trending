@@ -4316,6 +4316,7 @@
 
 ## Javascript
 
+* 【2026-06-15】[js-org / js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
 * 【2026-06-14】[sigalor / whatsapp-web-reveng](https://github.com/sigalor/whatsapp-web-reveng) - Reverse engineering WhatsApp Web.
 * 【2026-06-13】[openai / codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 * 【2026-06-11】[rohitg00 / k8sgames](https://github.com/rohitg00/k8sgames) - Learn Kubernetes by playing. Deploy pods, fix CrashLoopBackOff, type real kubectl commands: 3D browser game, no install needed.
