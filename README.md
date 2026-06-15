@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-06-15】[teslamate-org / teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
 * 【2026-06-14】[Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots) - Introduction to Autonomous Robots
 * 【2026-06-11】[NVIDIA / SkillSpector](https://github.com/NVIDIA/SkillSpector) - Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.
 * 【2026-06-11】[kenn-io / agentsview](https://github.com/kenn-io/agentsview) - Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!
@@ -2045,6 +2046,7 @@
 
 ## Java
 
+* 【2026-06-15】[JanssenProject / jans](https://github.com/JanssenProject/jans) - The Janssen Project is a home for open source IAM components, featuring Auth Server (OAuth/OpenID), Agama low-code identity orchestration, and the Cedarling policy decision point. The "Janssen Server" distributions bundle IAM components under one control plane.
 * 【2026-06-14】[ls1intum / Artemis](https://github.com/ls1intum/Artemis) - Artemis - Interactive Learning with Automated Feedback
 * 【2026-06-13】[matevip / mateclaw](https://github.com/matevip/mateclaw) - 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.
 * 【2026-06-11】[primefaces / primefaces](https://github.com/primefaces/primefaces) - Ultimate Component Suite for Jakarta Faces
@@ -6026,6 +6028,8 @@
 
 ## C
 
+* 【2026-06-15】[OSGeo / grass](https://github.com/OSGeo/grass) - GRASS - free and open-source geospatial processing engine
+* 【2026-06-15】[tr4m0ryp / tr4mpass](https://github.com/tr4m0ryp/tr4mpass) - Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).
 * 【2026-06-12】[DynamoRIO / dynamorio](https://github.com/DynamoRIO/dynamorio) - Dynamic Instrumentation Tool Platform
 * 【2026-06-10】[PlummersSoftwareLLC / retropad](https://github.com/PlummersSoftwareLLC/retropad) - 
 * 【2026-06-09】[InterceptSuite / ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
@@ -8853,6 +8857,8 @@
 
 ## Css
 
+* 【2026-06-15】[zhuozhiyongde / Advanced-Mathematics-B-2022-PKU](https://github.com/zhuozhiyongde/Advanced-Mathematics-B-2022-PKU) - 北京大学 2022 年高等数学 B 课程资料、笔记、经验
+* 【2026-06-15】[saucelabs / sauce-docs](https://github.com/saucelabs/sauce-docs) - Documentation for the Sauce Labs Platform
 * 【2026-06-08】[plausible / docs](https://github.com/plausible/docs) - Documentation for Plausible Analytics
 * 【2026-06-01】[SAPTARSHI-coder / EaseMotion-css](https://github.com/SAPTARSHI-coder/EaseMotion-css) - Animation-first CSS framework with reusable UI components, modern effects, and zero dependencies. Lightweight, beginner-friendly, and open-source.
 * 【2026-05-30】[katorlys / rweb.site](https://github.com/katorlys/rweb.site) - Free `rweb.site` subdomain for personal websites, open-source projects and more.
@@ -9750,6 +9756,7 @@
 
 ## Unknown
 
+* 【2026-06-15】[ubikron / Awesome-AI-OSINT](https://github.com/ubikron/Awesome-AI-OSINT) - A list of articles, videos, and tools related to the use of AI for OSINT.
 * 【2026-06-12】[google / agents-cli](https://github.com/google/agents-cli) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
 * 【2026-06-12】[openfootball / worldcup.json](https://github.com/openfootball/worldcup.json) - Free open public domain football data for the world cups (national teams & clubs) in JSON incl. Canada/USA/Mexico 2026, USA 2025, Qatar 2022, Russia 2018 and more - No API key required ;-)
 * 【2026-06-10】[alchaincyf / hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
