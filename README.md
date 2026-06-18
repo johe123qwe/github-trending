@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-06-18】[Infrasys-AI / AISystem](https://github.com/Infrasys-AI/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 * 【2026-06-17】[calesthio / OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 * 【2026-06-16】[Universal-Debloater-Alliance / universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 * 【2026-06-15】[teslamate-org / teslamate](https://github.com/teslamate-org/teslamate) - A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
@@ -8869,6 +8870,7 @@
 
 ## Css
 
+* 【2026-06-18】[tianyaxiang / NavSphere](https://github.com/tianyaxiang/NavSphere) - NavSphere： 一个基于 Github 存储的网址导航程序支持部署至cloudflare，一键部署至 Vercel，数据存储在 Github，零成本搭建一个网站导航！
 * 【2026-06-16】[USRSE / usrse.github.io](https://github.com/USRSE/usrse.github.io) - US RSE umbrella web page
 * 【2026-06-15】[zhuozhiyongde / Advanced-Mathematics-B-2022-PKU](https://github.com/zhuozhiyongde/Advanced-Mathematics-B-2022-PKU) - 北京大学 2022 年高等数学 B 课程资料、笔记、经验
 * 【2026-06-15】[saucelabs / sauce-docs](https://github.com/saucelabs/sauce-docs) - Documentation for the Sauce Labs Platform
