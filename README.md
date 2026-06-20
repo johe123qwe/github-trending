@@ -4334,6 +4334,7 @@
 
 ## Javascript
 
+* 【2026-06-20】[foundryvtt / dnd5e](https://github.com/foundryvtt/dnd5e) - An implementation of the 5th Edition game system for Foundry Virtual Tabletop (http://foundryvtt.com).
 * 【2026-06-19】[react / react](https://github.com/react/react) - The library for web and native user interfaces.
 * 【2026-06-18】[vllm-project / recipes](https://github.com/vllm-project/recipes) - Common recipes to run vLLM
 * 【2026-06-15】[js-org / js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
@@ -5290,6 +5291,7 @@
 
 ## Go
 
+* 【2026-06-20】[Billionmail / BillionMail](https://github.com/Billionmail/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
 * 【2026-06-19】[VersusControl / versus-incident](https://github.com/VersusControl/versus-incident) - Open-source incident management tool with an AI SRE agent that watches your logs, learns normal patterns, and auto-creates incidents — plus webhook alerts, multi-channel notifications, and on-call escalation.
 * 【2026-06-19】[kubearmor / KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening/sandboxing and implementing least-permissive policies made easy leveraging LSMs (LSM-BPF, AppArmor).
 * 【2026-06-19】[voocel / ainovel-cli](https://github.com/voocel/ainovel-cli) - ✨多agent实现全自动AI小说生成
@@ -7442,6 +7444,8 @@
 
 ## C#
 
+* 【2026-06-20】[builtbybel / FluentCleaner](https://github.com/builtbybel/FluentCleaner) - A real WinUI desktop cleaner with terminal control and multi-database support
+* 【2026-06-20】[new-frontiers-14 / frontier-station-14](https://github.com/new-frontiers-14/frontier-station-14) - A 2D multiplayer sandbox survival game set in space. Based off from the cult-classic Space Station 13/14.
 * 【2026-06-19】[shrimqy / Sefirah](https://github.com/shrimqy/Sefirah) - Phone Link / KDE Connect alternative
 * 【2026-06-18】[getsentry / sentry-unity](https://github.com/getsentry/sentry-unity) - Development of Sentry SDK for Unity
 * 【2026-06-18】[microsoft / microsoft-ui-reactor](https://github.com/microsoft/microsoft-ui-reactor) - Reactor is an experimental set of extensions to WinUI
@@ -8891,6 +8895,7 @@
 
 ## Css
 
+* 【2026-06-20】[mariadb-corporation / mariadb-docs](https://github.com/mariadb-corporation/mariadb-docs) - 
 * 【2026-06-18】[tianyaxiang / NavSphere](https://github.com/tianyaxiang/NavSphere) - NavSphere： 一个基于 Github 存储的网址导航程序支持部署至cloudflare，一键部署至 Vercel，数据存储在 Github，零成本搭建一个网站导航！
 * 【2026-06-16】[USRSE / usrse.github.io](https://github.com/USRSE/usrse.github.io) - US RSE umbrella web page
 * 【2026-06-15】[zhuozhiyongde / Advanced-Mathematics-B-2022-PKU](https://github.com/zhuozhiyongde/Advanced-Mathematics-B-2022-PKU) - 北京大学 2022 年高等数学 B 课程资料、笔记、经验
@@ -9792,6 +9797,8 @@
 
 ## Unknown
 
+* 【2026-06-20】[infoslack / awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - A list of web application security
+* 【2026-06-20】[martj42 / international_results](https://github.com/martj42/international_results) - 
 * 【2026-06-18】[github / app](https://github.com/github/app) - The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
 * 【2026-06-18】[zts212653 / cat-cafe-tutorials](https://github.com/zts212653/cat-cafe-tutorials) - 从零搭建 AI 猫猫协作系统 — 一个真实项目的完整复盘
 * 【2026-06-16】[abubakarsiddik31 / claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection) - A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more.
