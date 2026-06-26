@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-06-26】[every-app / open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 * 【2026-06-25】[xbtlin / ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.
 * 【2026-06-25】[mauriceboe / TREK](https://github.com/mauriceboe/TREK) - A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.
 * 【2026-06-24】[stablyai / orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
@@ -2647,6 +2648,7 @@
 
 ## Python
 
+* 【2026-06-26】[NVIDIA-NeMo / Speech](https://github.com/NVIDIA-NeMo/Speech) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 * 【2026-06-23】[aws / agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) - Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
 * 【2026-06-22】[NVIDIA / skills](https://github.com/NVIDIA/skills) - AI agent skills published by NVIDIA
 * 【2026-06-22】[kernalix7 / winpodx](https://github.com/kernalix7/winpodx) - Windows pod system for Linux
