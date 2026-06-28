@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2026-06-28】[Robbyant / lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
+* 【2026-06-28】[altic-dev / FluidVoice](https://github.com/altic-dev/FluidVoice) - FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
 * 【2026-06-27】[Fission-AI / OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 * 【2026-06-26】[every-app / open-seo](https://github.com/every-app/open-seo) - Open source alternative to Semrush and Ahrefs
 * 【2026-06-25】[xbtlin / ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.
@@ -4351,6 +4353,7 @@
 
 ## Javascript
 
+* 【2026-06-28】[earthtojake / text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 * 【2026-06-27】[worldwonderer / oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) - 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程
 * 【2026-06-27】[googleapis / google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
 * 【2026-06-26】[freestylefly / awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
@@ -5317,6 +5320,8 @@
 
 ## Go
 
+* 【2026-06-28】[workweave / router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.
+* 【2026-06-28】[AgentWrapper / agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
 * 【2026-06-23】[kunchenguid / treehouse](https://github.com/kunchenguid/treehouse) - Manage worktrees without managing worktrees.
 * 【2026-06-22】[esengine / DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 * 【2026-06-22】[Layr-Labs / d-inference](https://github.com/Layr-Labs/d-inference) - Private Inference Network on Idle Macs
@@ -6083,6 +6088,7 @@
 
 ## C
 
+* 【2026-06-28】[lcdyk0517 / arkos4clone](https://github.com/lcdyk0517/arkos4clone) - ArkOS for Unofficial Devices
 * 【2026-06-26】[sp00nznet / ps3recomp](https://github.com/sp00nznet/ps3recomp) - Static recompilation runtime libraries for PlayStation 3 titles.
 * 【2026-06-26】[espressif / esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
 * 【2026-06-21】[logicog / RTLPlayground](https://github.com/logicog/RTLPlayground) - A Playground for Firmware development for RTL8372/RTL8373 based 2.5GBit Switches
@@ -7478,6 +7484,7 @@
 
 ## C#
 
+* 【2026-06-28】[space-wizards / RobustToolbox](https://github.com/space-wizards/RobustToolbox) - Robust multiplayer game engine, used by Space Station 14
 * 【2026-06-25】[tui-cs / Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 * 【2026-06-20】[builtbybel / FluentCleaner](https://github.com/builtbybel/FluentCleaner) - A real WinUI desktop cleaner with terminal control and multi-database support
 * 【2026-06-20】[new-frontiers-14 / frontier-station-14](https://github.com/new-frontiers-14/frontier-station-14) - A 2D multiplayer sandbox survival game set in space. Based off from the cult-classic Space Station 13/14.
@@ -8213,6 +8220,8 @@
 
 ## Html
 
+* 【2026-06-28】[DataScienceSpecialization / courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1
+* 【2026-06-28】[meleantonio / awesome-econ-ai-stuff](https://github.com/meleantonio/awesome-econ-ai-stuff) - AI Skills for Economists
 * 【2026-06-25】[op7418 / guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 * 【2026-06-25】[alchaincyf / huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 * 【2026-06-22】[Y-Research-SBU / QuantAgent](https://github.com/Y-Research-SBU/QuantAgent) - Official Repository for QuantAgent
@@ -9837,6 +9846,9 @@
 
 ## Unknown
 
+* 【2026-06-28】[sanbuphy / learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) - Research on Coding Agents
+* 【2026-06-28】[ocaml / opam-repository](https://github.com/ocaml/opam-repository) - Main public package repository for opam, the source package manager of OCaml.
+* 【2026-06-28】[deepseek-ai / awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
 * 【2026-06-27】[K2SOsint / Legendary_OSINT](https://github.com/K2SOsint/Legendary_OSINT) - A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.
 * 【2026-06-27】[nilbuild / design-patterns-for-humans](https://github.com/nilbuild/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 * 【2026-06-26】[vesaaa / vstv](https://github.com/vesaaa/vstv) - VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道，支持国产及常见品牌电视 / 盒子（如 TCL、海信、酷开、华为智慧屏、荣耀、小米电视等）
