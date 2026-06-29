@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2026-06-29】[logto-io / logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+* 【2026-06-29】[Unclecheng-li / VulnClaw](https://github.com/Unclecheng-li/VulnClaw) - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
+* 【2026-06-29】[0xNyk / council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council
 * 【2026-06-28】[Robbyant / lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 * 【2026-06-28】[altic-dev / FluidVoice](https://github.com/altic-dev/FluidVoice) - FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))
 * 【2026-06-27】[Fission-AI / OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
@@ -2062,6 +2065,7 @@
 
 ## Java
 
+* 【2026-06-29】[bytechefhq / bytechef](https://github.com/bytechefhq/bytechef) - Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform.
 * 【2026-06-27】[WuKongOpenSource / Wukong-AICRM](https://github.com/WuKongOpenSource/Wukong-AICRM) - The Open Source Salesforce + ChatGPT Manage Customers. Query Knowledge. Execute Tasks. All Through Conversation.
 * 【2026-06-22】[dromara / ujcms](https://github.com/dromara/ujcms) - Java开源网站内容管理系统(java cms)。使用SpringBoot、MyBatis、Spring Security、Lucene、FreeMarker、TypeScript、Vue3、ElementPlus等技术开发。
 * 【2026-06-18】[redis / docs](https://github.com/redis/docs) - Documentation for Redis, Redis Cloud, and Redis Enterprise
@@ -4353,6 +4357,7 @@
 
 ## Javascript
 
+* 【2026-06-29】[ai-driven-dev / framework](https://github.com/ai-driven-dev/framework) - Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC
 * 【2026-06-28】[earthtojake / text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 * 【2026-06-27】[worldwonderer / oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) - 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程
 * 【2026-06-27】[googleapis / google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
@@ -5320,6 +5325,8 @@
 
 ## Go
 
+* 【2026-06-29】[rilldata / rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents.
+* 【2026-06-29】[pomerium / pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 * 【2026-06-28】[workweave / router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.
 * 【2026-06-28】[AgentWrapper / agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code reviews.
 * 【2026-06-23】[kunchenguid / treehouse](https://github.com/kunchenguid/treehouse) - Manage worktrees without managing worktrees.
@@ -6088,6 +6095,7 @@
 
 ## C
 
+* 【2026-06-29】[vpinball / vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 * 【2026-06-28】[lcdyk0517 / arkos4clone](https://github.com/lcdyk0517/arkos4clone) - ArkOS for Unofficial Devices
 * 【2026-06-26】[sp00nznet / ps3recomp](https://github.com/sp00nznet/ps3recomp) - Static recompilation runtime libraries for PlayStation 3 titles.
 * 【2026-06-26】[espressif / esp-claw](https://github.com/espressif/esp-claw) - ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
@@ -6816,6 +6824,7 @@
 
 ## C++
 
+* 【2026-06-29】[twelvesec / PwnPad](https://github.com/twelvesec/PwnPad) - PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It features a range of challenges that walk users through key hardware security concepts, from PCB design to side-channel attacks.
 * 【2026-06-24】[optiscaler / OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 * 【2026-06-21】[JRickey / BattleShip](https://github.com/JRickey/BattleShip) - A smashin' port for PC, Mac, and Linux!
 * 【2026-06-13】[GensokyoClub / th06](https://github.com/GensokyoClub/th06) - Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1.02h)
@@ -7484,6 +7493,7 @@
 
 ## C#
 
+* 【2026-06-29】[Seralyth / Seralyth-Menu](https://github.com/Seralyth/Seralyth-Menu) - A community driven mod menu for Gorilla Tag with over 1000+ mods
 * 【2026-06-28】[space-wizards / RobustToolbox](https://github.com/space-wizards/RobustToolbox) - Robust multiplayer game engine, used by Space Station 14
 * 【2026-06-25】[tui-cs / Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET
 * 【2026-06-20】[builtbybel / FluentCleaner](https://github.com/builtbybel/FluentCleaner) - A real WinUI desktop cleaner with terminal control and multi-database support
@@ -8220,6 +8230,7 @@
 
 ## Html
 
+* 【2026-06-29】[hasaneyldrm / exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
 * 【2026-06-28】[DataScienceSpecialization / courses](https://github.com/DataScienceSpecialization/courses) - Course materials for the Data Science Specialization: https://www.coursera.org/specialization/jhudatascience/1
 * 【2026-06-28】[meleantonio / awesome-econ-ai-stuff](https://github.com/meleantonio/awesome-econ-ai-stuff) - AI Skills for Economists
 * 【2026-06-25】[op7418 / guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
@@ -9846,6 +9857,7 @@
 
 ## Unknown
 
+* 【2026-06-29】[Fl4sh9174 / Switch-Emulator-Ultrawide-FPS-Mods](https://github.com/Fl4sh9174/Switch-Emulator-Ultrawide-FPS-Mods) - 
 * 【2026-06-28】[sanbuphy / learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) - Research on Coding Agents
 * 【2026-06-28】[ocaml / opam-repository](https://github.com/ocaml/opam-repository) - Main public package repository for opam, the source package manager of OCaml.
 * 【2026-06-28】[deepseek-ai / awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent) - 
