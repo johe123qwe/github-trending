@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2026-06-30】[diegosouzapw / OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
+* 【2026-06-30】[ogulcancelik / herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
+* 【2026-06-30】[facebook / astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
 * 【2026-06-29】[logto-io / logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 * 【2026-06-29】[Unclecheng-li / VulnClaw](https://github.com/Unclecheng-li/VulnClaw) - 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
 * 【2026-06-29】[0xNyk / council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council
@@ -4357,6 +4360,8 @@
 
 ## Javascript
 
+* 【2026-06-30】[pashov / skills](https://github.com/pashov/skills) - Pashov Audit Group Skills
+* 【2026-06-30】[tt-a1i / archify](https://github.com/tt-a1i/archify) - Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export
 * 【2026-06-29】[ai-driven-dev / framework](https://github.com/ai-driven-dev/framework) - Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC
 * 【2026-06-28】[earthtojake / text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
 * 【2026-06-27】[worldwonderer / oh-story-claudecode](https://github.com/worldwonderer/oh-story-claudecode) - 网文/小说写作 skill 包，覆盖长篇与短篇网络小说的扫榜、拆文、写作、去AI味、封面图全流程
@@ -6095,6 +6100,7 @@
 
 ## C
 
+* 【2026-06-30】[fanchmwrt / fanchmwrt](https://github.com/fanchmwrt/fanchmwrt) - An open-source enterprise-grade router system based on OpenWrt.
 * 【2026-06-29】[vpinball / vpinball](https://github.com/vpinball/vpinball) - Visual Pinball
 * 【2026-06-28】[lcdyk0517 / arkos4clone](https://github.com/lcdyk0517/arkos4clone) - ArkOS for Unofficial Devices
 * 【2026-06-26】[sp00nznet / ps3recomp](https://github.com/sp00nznet/ps3recomp) - Static recompilation runtime libraries for PlayStation 3 titles.
@@ -6824,6 +6830,7 @@
 
 ## C++
 
+* 【2026-06-30】[The-Powder-Toy / The-Powder-Toy](https://github.com/The-Powder-Toy/The-Powder-Toy) - Written in C++ and using SDL, The Powder Toy is a desktop version of the classic 'falling sand' physics sandbox, it simulates air pressure and velocity as well as heat.
 * 【2026-06-29】[twelvesec / PwnPad](https://github.com/twelvesec/PwnPad) - PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It features a range of challenges that walk users through key hardware security concepts, from PCB design to side-channel attacks.
 * 【2026-06-24】[optiscaler / OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 * 【2026-06-21】[JRickey / BattleShip](https://github.com/JRickey/BattleShip) - A smashin' port for PC, Mac, and Linux!
@@ -8953,6 +8960,7 @@
 
 ## Css
 
+* 【2026-06-30】[anushkasark08 / The-Lighthouse](https://github.com/anushkasark08/The-Lighthouse) - 
 * 【2026-06-24】[recloudstream / csdocs](https://github.com/recloudstream/csdocs) - 
 * 【2026-06-23】[ConardLi / garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 * 【2026-06-20】[mariadb-corporation / mariadb-docs](https://github.com/mariadb-corporation/mariadb-docs) - 
