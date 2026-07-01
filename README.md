@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-07-01】[CoreBunch / Instatic](https://github.com/CoreBunch/Instatic) - Instatic is a modern self-hosted visual CMS - get it running in 1 minute
 * 【2026-06-30】[diegosouzapw / OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.
 * 【2026-06-30】[ogulcancelik / herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal.
 * 【2026-06-30】[facebook / astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
@@ -5330,6 +5331,7 @@
 
 ## Go
 
+* 【2026-07-01】[palemoky / chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：高性能中国古诗词 API 服务
 * 【2026-06-29】[rilldata / rill](https://github.com/rilldata/rill) - The fastest business intelligence tool for humans and agents.
 * 【2026-06-29】[pomerium / pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 * 【2026-06-28】[workweave / router](https://github.com/workweave/router) - Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.
