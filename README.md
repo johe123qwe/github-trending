@@ -9882,6 +9882,7 @@
 
 ## Unknown
 
+* 【2026-07-03】[ombharatiya / ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide) - AI system design guide for engineers building production AI systems and evals.
 * 【2026-07-01】[yetone / voice-input-src](https://github.com/yetone/voice-input-src) - 
 * 【2026-06-29】[Fl4sh9174 / Switch-Emulator-Ultrawide-FPS-Mods](https://github.com/Fl4sh9174/Switch-Emulator-Ultrawide-FPS-Mods) - 
 * 【2026-06-28】[sanbuphy / learn-coding-agent](https://github.com/sanbuphy/learn-coding-agent) - Research on Coding Agents
