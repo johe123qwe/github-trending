@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2026-07-04】[Zackriya-Solutions / meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.
+* 【2026-07-04】[chthollyphile / folia-major](https://github.com/chthollyphile/folia-major) - 专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器
+* 【2026-07-04】[crynta / terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 * 【2026-07-02】[agentskills / agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 * 【2026-07-01】[togatoga / karukan](https://github.com/togatoga/karukan) - Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine
 * 【2026-07-01】[TencentCloud / CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
@@ -2072,6 +2075,8 @@
 
 ## Java
 
+* 【2026-07-04】[mateaix / mateclaw](https://github.com/mateaix/mateclaw) - 🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.
+* 【2026-07-04】[apache / flink-agents](https://github.com/apache/flink-agents) - Flink Agents is an Agentic AI framework based on Apache Flink
 * 【2026-06-29】[bytechefhq / bytechef](https://github.com/bytechefhq/bytechef) - Open-source platform that unifies AI agent orchestration and workflow automation — autonomy and precision in one platform.
 * 【2026-06-27】[WuKongOpenSource / Wukong-AICRM](https://github.com/WuKongOpenSource/Wukong-AICRM) - The Open Source Salesforce + ChatGPT Manage Customers. Query Knowledge. Execute Tasks. All Through Conversation.
 * 【2026-06-22】[dromara / ujcms](https://github.com/dromara/ujcms) - Java开源网站内容管理系统(java cms)。使用SpringBoot、MyBatis、Spring Security、Lucene、FreeMarker、TypeScript、Vue3、ElementPlus等技术开发。
@@ -2663,6 +2668,7 @@
 
 ## Python
 
+* 【2026-07-04】[microsoft / skills-for-fabric](https://github.com/microsoft/skills-for-fabric) - A collection of skills and MCP systems to enable users of CLI, VSCode, Claude to operate over Microsoft Fabric
 * 【2026-07-03】[NVlabs / ProtoMotions](https://github.com/NVlabs/ProtoMotions) - ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.
 * 【2026-07-01】[virgiliojr94 / book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 * 【2026-07-01】[HKUDS / VideoAgent](https://github.com/HKUDS/VideoAgent) - "VideoAgent: All-in-One Agentic Framework for Video Understanding, Editing, and Remaking"
@@ -4367,6 +4373,7 @@
 
 ## Javascript
 
+* 【2026-07-04】[citrolabs / ego-lite](https://github.com/citrolabs/ego-lite) - The best browser for both you and your AI agents work in parallel.
 * 【2026-07-03】[GargantuaX / gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI image & video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法
 * 【2026-07-02】[elder-plinius / P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) - universal text transformation, translation, mutation, encoding/decoding, and promptcrafting
 * 【2026-07-01】[nadimtuhin / claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer) - Optimize token usage for Claude API calls
@@ -8254,6 +8261,7 @@
 
 ## Html
 
+* 【2026-07-04】[fikrikarim / parlor](https://github.com/fikrikarim/parlor) - On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs entirely on your machine. Powered by Gemma 4 E2B and Kokoro.
 * 【2026-07-03】[matlab / simulink-agentic-toolkit](https://github.com/matlab/simulink-agentic-toolkit) - The Simulink Agentic Toolkit gives your AI agent both the tools and the expertise to work effectively with Simulink and Model-Based Design.
 * 【2026-07-01】[cncf / toc](https://github.com/cncf/toc) - ⚖️ The CNCF Technical Oversight Committee (TOC) is the technical governing body of the CNCF Foundation.
 * 【2026-06-29】[hasaneyldrm / exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) - A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
@@ -9886,6 +9894,7 @@
 
 ## Unknown
 
+* 【2026-07-04】[nyas1 / Material-You-app-list](https://github.com/nyas1/Material-You-app-list) - 🍦 A well organized & frequently updated collection of apps that support material you design.
 * 【2026-07-03】[ombharatiya / ai-system-design-guide](https://github.com/ombharatiya/ai-system-design-guide) - AI system design guide for engineers building production AI systems and evals.
 * 【2026-07-01】[yetone / voice-input-src](https://github.com/yetone/voice-input-src) - 
 * 【2026-06-29】[Fl4sh9174 / Switch-Emulator-Ultrawide-FPS-Mods](https://github.com/Fl4sh9174/Switch-Emulator-Ultrawide-FPS-Mods) - 
