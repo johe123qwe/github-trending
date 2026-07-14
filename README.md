@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2026-07-14】[AIEraDev / Clypra](https://github.com/AIEraDev/Clypra) - A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities
+* 【2026-07-14】[HenryNdubuaku / maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML Research Engineer
 * 【2026-07-13】[OpenCut-app / OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 * 【2026-07-12】[Dicklesworthstone / destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 * 【2026-07-12】[ColeMurray / background-agents](https://github.com/ColeMurray/background-agents) - An open-source background agents coding system
@@ -2681,6 +2683,7 @@
 
 ## Python
 
+* 【2026-07-14】[cactus-compute / needle](https://github.com/cactus-compute/needle) - 26m function call model that runs on incredibly small devices
 * 【2026-07-13】[simonlin1212 / TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock) - A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。
 * 【2026-07-12】[youtubediscord / zapret](https://github.com/youtubediscord/zapret) - Zapret (Запрет обход блокировки Дискорда и Ютуба)
 * 【2026-07-12】[microsoft / TRELLIS.2](https://github.com/microsoft/TRELLIS.2) - Native and Compact Structured Latents for 3D Generation
@@ -4400,6 +4403,7 @@
 
 ## Javascript
 
+* 【2026-07-14】[rpamis / comet](https://github.com/rpamis/comet) - Comet: agent skill harness for turning ideas into evaluated workflows
 * 【2026-07-12】[venera-app / venera-configs](https://github.com/venera-app/venera-configs) - 
 * 【2026-07-10】[ilysenko / codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.
 * 【2026-07-08】[byoungd / up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
@@ -5379,6 +5383,7 @@
 
 ## Go
 
+* 【2026-07-14】[microsoft / agent-framework-go](https://github.com/microsoft/agent-framework-go) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go.
 * 【2026-07-13】[perber / leafwiki](https://github.com/perber/leafwiki) - LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database required.
 * 【2026-07-12】[Mininglamp-OSS / octo-server](https://github.com/Mininglamp-OSS/octo-server) - 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.
 * 【2026-07-09】[velero-io / velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
@@ -6159,6 +6164,8 @@
 
 ## C
 
+* 【2026-07-14】[theMackabu / ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
+* 【2026-07-14】[LibreDWG / libredwg](https://github.com/LibreDWG/libredwg) - Official mirror of libredwg. With CI hooks and nightly releases. PR's ok
 * 【2026-07-08】[antirez / ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 * 【2026-07-02】[ducalex / retro-go](https://github.com/ducalex/retro-go) - Retro emulation for the ODROID-GO and other ESP32 devices
 * 【2026-07-02】[polhenarejos / pico-fido](https://github.com/polhenarejos/pico-fido) - FIDO Passkey for Raspberry Pico and ESP32
@@ -6892,6 +6899,8 @@
 
 ## C++
 
+* 【2026-07-14】[sdatkinson / NeuralAmpModelerCore](https://github.com/sdatkinson/NeuralAmpModelerCore) - Core DSP library for NAM plugins
+* 【2026-07-14】[throneproj / Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
 * 【2026-07-09】[carbonengine / core](https://github.com/carbonengine/core) - Provides generic low-level functionality and cross-platform abstractions for system calls
 * 【2026-07-09】[Alex2772 / kuni](https://github.com/Alex2772/kuni) - character ai
 * 【2026-07-05】[xland / ScreenCapture](https://github.com/xland/ScreenCapture) - A feature-rich screen capture software with just a single executable file
@@ -9949,6 +9958,7 @@
 
 ## Unknown
 
+* 【2026-07-14】[NopeCHALLC / nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 * 【2026-07-12】[Furthir / awesome-useful-projects](https://github.com/Furthir/awesome-useful-projects) - Curated List of 500+ Open Source Projects for Everyday Use
 * 【2026-07-11】[nasa / NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
 * 【2026-07-09】[hicccc77 / WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
