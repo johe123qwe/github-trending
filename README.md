@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2026-07-16】[PrismML-Eng / Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
+* 【2026-07-16】[ibelick / ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
 * 【2026-07-14】[AIEraDev / Clypra](https://github.com/AIEraDev/Clypra) - A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities
 * 【2026-07-14】[HenryNdubuaku / maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) - Become a cracked AI/ML Research Engineer
 * 【2026-07-13】[OpenCut-app / OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -2683,6 +2685,7 @@
 
 ## Python
 
+* 【2026-07-16】[HKUDS / OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 * 【2026-07-15】[HKUDS / nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 * 【2026-07-15】[PrimeIntellect-ai / prime-rl](https://github.com/PrimeIntellect-ai/prime-rl) - Agentic RL Training at Scale
 * 【2026-07-15】[apache / ossie](https://github.com/apache/ossie) - Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data
@@ -4406,6 +4409,7 @@
 
 ## Javascript
 
+* 【2026-07-16】[mm7894215 / TokenTracker](https://github.com/mm7894215/TokenTracker) - Local-first AI token usage & cost tracker for 27 coding tools — with a desktop pet, 4 widgets, achievements, native macOS/Windows apps, and a one-command CLI. Never reads prompts.
 * 【2026-07-14】[rpamis / comet](https://github.com/rpamis/comet) - Comet: agent skill harness for turning ideas into evaluated workflows
 * 【2026-07-12】[venera-app / venera-configs](https://github.com/venera-app/venera-configs) - 
 * 【2026-07-10】[ilysenko / codex-desktop-linux](https://github.com/ilysenko/codex-desktop-linux) - Unofficial ChatGPT desktop app for Linux (formerly the Codex app), built locally from OpenAI’s official macOS app. Includes Chat, Work, and Codex. Packages for Debian/Ubuntu (.deb), Fedora/openSUSE (.rpm), Arch (pacman), Nix/NixOS, and AppImage, with Wayland and X11 support.
@@ -6168,6 +6172,8 @@
 
 ## C
 
+* 【2026-07-16】[V4bel / dirtyfrag](https://github.com/V4bel/dirtyfrag) - 
+* 【2026-07-16】[HermannBjorgvin / Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter) - ESP32 desk dashboard that shows Claude Code usage
 * 【2026-07-14】[theMackabu / ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 * 【2026-07-14】[LibreDWG / libredwg](https://github.com/LibreDWG/libredwg) - Official mirror of libredwg. With CI hooks and nightly releases. PR's ok
 * 【2026-07-08】[antirez / ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
