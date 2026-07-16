@@ -9963,6 +9963,7 @@
 
 ## Unknown
 
+* 【2026-07-16】[MicrosoftDocs / Agent-Skills](https://github.com/MicrosoftDocs/Agent-Skills) - Curated Agent Skills for Microsoft & Azure – giving AI coding assistants structured, real-time expertise from Microsoft Learn docs.
 * 【2026-07-14】[NopeCHALLC / nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 * 【2026-07-12】[Furthir / awesome-useful-projects](https://github.com/Furthir/awesome-useful-projects) - Curated List of 500+ Open Source Projects for Everyday Use
 * 【2026-07-11】[nasa / NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources) - Here you'll find a growing collection of 3D models, textures, and images from inside NASA.
