@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2026-07-18】[elder-plinius / G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
+* 【2026-07-18】[KnockOutEZ / wigolo](https://github.com/KnockOutEZ/wigolo) - The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.
 * 【2026-07-17】[anthropics / cwc-workshops](https://github.com/anthropics/cwc-workshops) - 
 * 【2026-07-16】[PrismML-Eng / Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) - Bonsai Demo
 * 【2026-07-16】[ibelick / ui-skills](https://github.com/ibelick/ui-skills) - Skills for Design Engineers
@@ -2090,6 +2092,7 @@
 
 ## Java
 
+* 【2026-07-18】[apache / struts](https://github.com/apache/struts) - Apache Struts is a free, open-source, MVC framework for creating elegant, modern Java web applications
 * 【2026-07-13】[Apicurio / apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas.
 * 【2026-07-05】[SGUDestiny / PenumbraPhantasm](https://github.com/SGUDestiny/PenumbraPhantasm) - 
 * 【2026-07-05】[mateaix / matecloud](https://github.com/mateaix/matecloud) - 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 4.0.7、 SpringCloud 2025、Spring Cloud Alibaba 2025、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
@@ -2686,6 +2689,7 @@
 
 ## Python
 
+* 【2026-07-18】[OpenSenseNova / SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1) - SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles
 * 【2026-07-17】[open-telemetry / semantic-conventions-genai](https://github.com/open-telemetry/semantic-conventions-genai) - 
 * 【2026-07-16】[HKUDS / OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
 * 【2026-07-15】[HKUDS / nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
@@ -4411,6 +4415,7 @@
 
 ## Javascript
 
+* 【2026-07-18】[InterfaceX-co-jp / genshijin](https://github.com/InterfaceX-co-jp/genshijin) - genshijin 原始人 🗿| Claude Code / Codex等AIエージェント 向け超圧縮コミュニケーションスキル。caveman の日本語版をベースに、日本語特有の冗長表現に最適化。
 * 【2026-07-16】[mm7894215 / TokenTracker](https://github.com/mm7894215/TokenTracker) - Local-first AI token usage & cost tracker for 27 coding tools — with a desktop pet, 4 widgets, achievements, native macOS/Windows apps, and a one-command CLI. Never reads prompts.
 * 【2026-07-14】[rpamis / comet](https://github.com/rpamis/comet) - Comet: agent skill harness for turning ideas into evaluated workflows
 * 【2026-07-12】[venera-app / venera-configs](https://github.com/venera-app/venera-configs) - 
@@ -5392,6 +5397,7 @@
 
 ## Go
 
+* 【2026-07-18】[github / gh-stack](https://github.com/github/gh-stack) - GitHub Stacked PRs
 * 【2026-07-17】[agent-substrate / substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 * 【2026-07-15】[mk6i / open-oscar-server](https://github.com/mk6i/open-oscar-server) - Self-hostable instant messaging server compatible with classic AIM and ICQ clients written in golang. (Independently developed, not affiliated with or endorsed by AOL)
 * 【2026-07-14】[microsoft / agent-framework-go](https://github.com/microsoft/agent-framework-go) - A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go.
@@ -9978,6 +9984,8 @@
 
 ## Unknown
 
+* 【2026-07-18】[ZeroPointRepo / awesome-hermes-skills](https://github.com/ZeroPointRepo/awesome-hermes-skills) - Curated, install-ready skills for Hermes Agent (v0.17.0). 72 built-in + 101 optional bundled skills + 85 community skills, plugins & tools for the self-improving AI agent from Nous Research. Cross-compatible with Claude Code, OpenClaw, Cursor, and Windsurf.
+* 【2026-07-18】[google-antigravity / antigravity-cli](https://github.com/google-antigravity/antigravity-cli) - Antigravity CLI brings the reasoning, execution, and orchestration capabilities of Antigravity agent harness directly into your terminal.
 * 【2026-07-16】[MicrosoftDocs / Agent-Skills](https://github.com/MicrosoftDocs/Agent-Skills) - Curated Agent Skills for Microsoft & Azure – giving AI coding assistants structured, real-time expertise from Microsoft Learn docs.
 * 【2026-07-14】[NopeCHALLC / nopecha-extension](https://github.com/NopeCHALLC/nopecha-extension) - Automated CAPTCHA solver for your browser. Works with Selenium, Puppeteer, Playwright, and more.
 * 【2026-07-12】[Furthir / awesome-useful-projects](https://github.com/Furthir/awesome-useful-projects) - Curated List of 500+ Open Source Projects for Everyday Use
