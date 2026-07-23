@@ -8369,6 +8369,7 @@
 
 ## Html
 
+* 【2026-07-23】[Jstudner / jcorp-nomad](https://github.com/Jstudner/jcorp-nomad) - An extremely compact offline media server for Movies, Shows, Books, and Music.
 * 【2026-07-22】[NomaDamas / slides-grab](https://github.com/NomaDamas/slides-grab) - Best harness + editor + linter for generating slides in Claude Code / Codex - Claude Design Open Source Alternative
 * 【2026-07-21】[mohitagw15856 / pm-claude-skills](https://github.com/mohitagw15856/pm-claude-skills) - In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'.
 * 【2026-07-20】[Artzainnn / ClaudeUsageBar](https://github.com/Artzainnn/ClaudeUsageBar) - Track your Claude.ai usage right from your Mac menu bar
