@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-07-26】[permissionlesstech / bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 * 【2026-07-25】[permissionlesstech / bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 * 【2026-07-23】[block / buzz](https://github.com/block/buzz) - A hive mind communication platform
 * 【2026-07-23】[Julian-adv / OpenMMO](https://github.com/Julian-adv/OpenMMO) - 
@@ -2710,6 +2711,7 @@
 
 ## Python
 
+* 【2026-07-26】[sirkirby / unifi-mcp](https://github.com/sirkirby/unifi-mcp) - MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive
 * 【2026-07-25】[DedSecInside / TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 * 【2026-07-21】[NVIDIA / cosmos-framework](https://github.com/NVIDIA/cosmos-framework) - Our inference and training framework to run on the Cosmos Models
 * 【2026-07-18】[OpenSenseNova / SenseNova-U1](https://github.com/OpenSenseNova/SenseNova-U1) - SenseNova-U series: Native Unified Paradigm with NEO-unify from the First Principles
@@ -5429,6 +5431,7 @@
 
 ## Go
 
+* 【2026-07-26】[ikemen-engine / Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
 * 【2026-07-25】[evolution-foundation / evolution-go](https://github.com/evolution-foundation/evolution-go) - Evolution API / Evolution Go is an open-source WhatsApp integration API
 * 【2026-07-22】[alibaba / open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.
 * 【2026-07-21】[agentscope-ai / AgentTeams](https://github.com/agentscope-ai/AgentTeams) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
@@ -6219,6 +6222,7 @@
 
 ## C
 
+* 【2026-07-26】[torvalds / GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits
 * 【2026-07-24】[mkj / dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 * 【2026-07-22】[erincatto / box3d](https://github.com/erincatto/box3d) - Box3D is a 3D physics engine for games
 * 【2026-07-21】[itsPLK / ps5-payload-manager](https://github.com/itsPLK/ps5-payload-manager) - A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.
