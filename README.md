@@ -2711,6 +2711,7 @@
 
 ## Python
 
+* 【2026-07-27】[jgravelle / jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp) - Cut AI token costs 95%+ on code exploration. The leading MCP server for precise, symbol-level GitHub code retrieval via tree-sitter AST. Works with Claude Code, Cursor & any MCP client. 313B+ tokens saved.
 * 【2026-07-26】[sirkirby / unifi-mcp](https://github.com/sirkirby/unifi-mcp) - MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive
 * 【2026-07-25】[DedSecInside / TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
 * 【2026-07-21】[NVIDIA / cosmos-framework](https://github.com/NVIDIA/cosmos-framework) - Our inference and training framework to run on the Cosmos Models
@@ -6222,6 +6223,7 @@
 
 ## C
 
+* 【2026-07-27】[RakuenSoftware / aimee](https://github.com/RakuenSoftware/aimee) - 
 * 【2026-07-26】[torvalds / GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits
 * 【2026-07-24】[mkj / dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 * 【2026-07-22】[erincatto / box3d](https://github.com/erincatto/box3d) - Box3D is a 3D physics engine for games
