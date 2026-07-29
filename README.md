@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-07-29】[hello245m / free-stockdb](https://github.com/hello245m/free-stockdb) - 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。
 * 【2026-07-28】[opengeos / GeoLibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
 * 【2026-07-27】[vudovn / ag-kit](https://github.com/vudovn/ag-kit) - 
 * 【2026-07-26】[permissionlesstech / bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
@@ -2110,6 +2111,7 @@
 
 ## Java
 
+* 【2026-07-29】[icysymmetra / tiktok-patches-for-morphe](https://github.com/icysymmetra/tiktok-patches-for-morphe) - This repository is a Morphe patch source for TikTok. It continues the work from earlier community TikTok patch sets, including ReVanced, with the patches adapted for Morphe and tested against newer TikTok builds. The current target version is TikTok 43.8.3
 * 【2026-07-25】[jeandle / jeandle-jdk](https://github.com/jeandle/jeandle-jdk) - Jeandle is a Just-in-Time compiler for Java. It is built on OpenJDK and leverages the LLVM compiler infrastructure to generate machine code, aiming to provide powerful compilation optimizations and deliver high-performance code.
 * 【2026-07-25】[objectionary / eo](https://github.com/objectionary/eo) - EOLANG, an Experimental Pure Object-Oriented Programming Language Based on 𝜑-Calculus
 * 【2026-07-23】[IAMLZY2018 / XianYuAssistant](https://github.com/IAMLZY2018/XianYuAssistant) - 闲鱼助手(Java版），支持快速发送消息、监听消息、虚拟商品自动发货、自动确认收货等功能；本项目使用 JDK 21、Spring Boot 3.5.7、Vue 3.5 构建，提供完整的 Web 管理界面，手机端UI，请勿商用，仅供学习交流
