@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-07-30】[agavra / tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 * 【2026-07-29】[grokability / snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 * 【2026-07-29】[different-ai / openwork](https://github.com/different-ai/openwork) - The open-source alternative to Claude Cowork (powered by opencode)
 * 【2026-07-29】[MoonshotAI / FlashKDA](https://github.com/MoonshotAI/FlashKDA) - FlashKDA: high-performance Kimi Delta Attention kernels
@@ -4454,6 +4455,7 @@
 
 ## Javascript
 
+* 【2026-07-30】[nyxxbit / discord-quest-completer](https://github.com/nyxxbit/discord-quest-completer) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module loader, auto-claim, adaptive speed. No installs, no tokens, no dependencies.
 * 【2026-07-29】[kunchenguid / lavish-axi](https://github.com/kunchenguid/lavish-axi) - HTML is the new markdown. Lavish is the new editor for your HTML artifacts.
 * 【2026-07-29】[vrgamegirl19 / comfyui-vrgamedevgirl](https://github.com/vrgamegirl19/comfyui-vrgamedevgirl) - Custom ComfyUI nodes for film grain, color matching, and video enhancement.
 * 【2026-07-28】[visualbruno / 3DGenStudio](https://github.com/visualbruno/3DGenStudio) - 
@@ -5449,6 +5451,8 @@
 
 ## Go
 
+* 【2026-07-30】[openshift / origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
+* 【2026-07-30】[nianzhibai / 91](https://github.com/nianzhibai/91) - nine one
 * 【2026-07-28】[alibaba / skill-up](https://github.com/alibaba/skill-up) - An evaluation and evolution tool for Agent Skills.
 * 【2026-07-27】[black-ant / Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 * 【2026-07-26】[ikemen-engine / Ikemen-GO](https://github.com/ikemen-engine/Ikemen-GO) - An open-source fighting game engine that supports MUGEN resources.
