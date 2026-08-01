@@ -5454,6 +5454,7 @@
 
 ## Go
 
+* 【2026-08-01】[NdoleStudio / httpsms](https://github.com/NdoleStudio/httpsms) - Send and receive SMS messages using your Android phone programmatically via a simple HTTP API
 * 【2026-07-31】[versenilvis / IRIS](https://github.com/versenilvis/IRIS) - A shell auto-completion tool for your terminal
 * 【2026-07-31】[adithyan-ak / AgentHound](https://github.com/adithyan-ak/AgentHound) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfiltration, poisoning, and attack-path analysis across MCP, A2A, gateways, and AI services. BloodHound for the agentic stack.
 * 【2026-07-30】[openshift / origin](https://github.com/openshift/origin) - Conformance test suite for OpenShift
