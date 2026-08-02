@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-08-02】[HarbourMasters / Lighthouse](https://github.com/HarbourMasters/Lighthouse) - 
 * 【2026-08-01】[abus-aikorea / voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.
 * 【2026-07-31】[zhaoxuya520 / reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 * 【2026-07-31】[usekaneo / kaneo](https://github.com/usekaneo/kaneo) - 🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.
@@ -2119,6 +2120,7 @@
 
 ## Java
 
+* 【2026-08-02】[ModinMobileSTS / Sts2MobileLauncher](https://github.com/ModinMobileSTS/Sts2MobileLauncher) - an unofficial sts2 mobile launcher that support mods,optimized mobile control
 * 【2026-08-01】[mubashardev / WaEnhancer](https://github.com/mubashardev/WaEnhancer) - WhatsApp tools for Android
 * 【2026-07-29】[Mininglamp-OSS / octo-android](https://github.com/Mininglamp-OSS/octo-android) - OCTO Android Client — Open-source enterprise IM
 * 【2026-07-29】[icysymmetra / tiktok-patches-for-morphe](https://github.com/icysymmetra/tiktok-patches-for-morphe) - This repository is a Morphe patch source for TikTok. It continues the work from earlier community TikTok patch sets, including ReVanced, with the patches adapted for Morphe and tested against newer TikTok builds. The current target version is TikTok 43.8.3
@@ -2725,6 +2727,7 @@
 
 ## Python
 
+* 【2026-08-02】[Emily2040 / seedance-2.0](https://github.com/Emily2040/seedance-2.0) - Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0
 * 【2026-08-01】[SimplifyJobs / Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
 * 【2026-07-28】[HKUDS / OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Skill Management Layer for AI Agents" -- https://open-space.cloud/
 * 【2026-07-28】[lightseekorg / tokenspeed](https://github.com/lightseekorg/tokenspeed) - TokenSpeed is a speed-of-light LLM inference engine.
@@ -4460,6 +4463,7 @@
 
 ## Javascript
 
+* 【2026-08-02】[LiberatedPixelCup / Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
 * 【2026-08-01】[open-gsd / gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
 * 【2026-07-31】[woosal1337 / blog](https://github.com/woosal1337/blog) - My blog website.
 * 【2026-07-30】[nyxxbit / discord-quest-completer](https://github.com/nyxxbit/discord-quest-completer) - Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module loader, auto-claim, adaptive speed. No installs, no tokens, no dependencies.
@@ -5458,6 +5462,7 @@
 
 ## Go
 
+* 【2026-08-02】[Solr159 / JavBoss](https://github.com/Solr159/JavBoss) - 开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。| Your local JAV/video manager.
 * 【2026-08-01】[NdoleStudio / httpsms](https://github.com/NdoleStudio/httpsms) - Send and receive SMS messages using your Android phone programmatically via a simple HTTP API
 * 【2026-07-31】[versenilvis / IRIS](https://github.com/versenilvis/IRIS) - A shell auto-completion tool for your terminal
 * 【2026-07-31】[adithyan-ak / AgentHound](https://github.com/adithyan-ak/AgentHound) - Offensive security framework for AI agent infrastructure - recon, credential looting, model exfiltration, poisoning, and attack-path analysis across MCP, A2A, gateways, and AI services. BloodHound for the agentic stack.
@@ -9173,6 +9178,8 @@
 
 ## Css
 
+* 【2026-08-02】[Fabito02 / ChromaLeon](https://github.com/Fabito02/ChromaLeon) - Change your GNOME Shell and GTK accent colors dynamically based on your wallpaper.
+* 【2026-08-02】[ZoranPandovski / awesome-testing-tools](https://github.com/ZoranPandovski/awesome-testing-tools) - 🚀 A curated list of awesome software testing tools, from unit and load to accessibility, Web3, and contract testing 🚀
 * 【2026-07-21】[thedevdojo / wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 * 【2026-07-15】[leandrocp / lumis](https://github.com/leandrocp/lumis) - Syntax Highlighter powered by Tree-sitter and Neovim themes.
 * 【2026-07-12】[madoiscool / ltsteamplugin](https://github.com/madoiscool/ltsteamplugin) - ermm, YUP!
@@ -10087,6 +10094,8 @@
 
 ## Unknown
 
+* 【2026-08-02】[ashuoAI / SHUO-Canvas](https://github.com/ashuoAI/SHUO-Canvas) - AI-CanvasPro
+* 【2026-08-02】[CommandCodeAI / command-code](https://github.com/CommandCodeAI/command-code) - Command Code AI
 * 【2026-07-29】[HQarroum / awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
 * 【2026-07-28】[emilkowalski / skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
 * 【2026-07-23】[straight-tamago / misaka26](https://github.com/straight-tamago/misaka26) - iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
