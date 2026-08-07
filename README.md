@@ -7,6 +7,10 @@
 
 ## All language
 
+* 【2026-08-07】[PrimeIntellect-ai / prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+* 【2026-08-07】[semantica-agi / semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
+* 【2026-08-07】[unclebob / swarm-forge](https://github.com/unclebob/swarm-forge) - A simple tool for coordinating several AI agents.
+* 【2026-08-07】[denoland / celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 * 【2026-08-05】[cloudflare / computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
 * 【2026-08-04】[uber / ADR](https://github.com/uber/ADR) - ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 * 【2026-08-03】[firecrawl / pdf-inspector](https://github.com/firecrawl/pdf-inspector) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.
@@ -4475,6 +4479,7 @@
 
 ## Javascript
 
+* 【2026-08-07】[WorldFlowAI / everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 * 【2026-08-06】[react / create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 * 【2026-08-05】[OWASP / threat-dragon](https://github.com/OWASP/threat-dragon) - An open source threat modeling tool from OWASP
 * 【2026-08-02】[LiberatedPixelCup / Universal-LPC-Spritesheet-Character-Generator](https://github.com/LiberatedPixelCup/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet
