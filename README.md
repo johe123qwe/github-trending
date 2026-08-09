@@ -2128,6 +2128,7 @@
 
 ## Java
 
+* 【2026-08-09】[termux / termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
 * 【2026-08-08】[zalexdev / strykerapp](https://github.com/zalexdev/strykerapp) - Magic tool for pentest from your android device!
 * 【2026-08-08】[booklore-app / booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 * 【2026-08-03】[Crystaelix / Create-Simurail](https://github.com/Crystaelix/Create-Simurail) - An experimental train mod using Create and Sable.
@@ -2739,6 +2740,7 @@
 
 ## Python
 
+* 【2026-08-09】[vladmandic / sdnext](https://github.com/vladmandic/sdnext) - SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing
 * 【2026-08-08】[google-deepmind / weathernext](https://github.com/google-deepmind/weathernext) - 
 * 【2026-08-08】[superlinked / sie](https://github.com/superlinked/sie) - Open-source inference server and production cluster for all the models your agent needs.
 * 【2026-08-08】[harveyai / harvey-labs](https://github.com/harveyai/harvey-labs) - A benchmark built to evaluate and improve agent capabilities for supporting legal work.
@@ -4486,6 +4488,7 @@
 
 ## Javascript
 
+* 【2026-08-09】[nonameShijian / noname](https://github.com/nonameShijian/noname) - 本Electron应用及功能由我制作，游戏内容来源于项目无名杀。无名杀项目地址：https://github.com/libnoname/noname
 * 【2026-08-08】[OpenSenseNova / SenseNova-Skills](https://github.com/OpenSenseNova/SenseNova-Skills) - Modular SenseNova skills for building AI-powered office assistants and productivity workflows
 * 【2026-08-07】[WorldFlowAI / everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) - Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development
 * 【2026-08-06】[react / create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
@@ -5489,6 +5492,8 @@
 
 ## Go
 
+* 【2026-08-09】[mubeng / mubeng](https://github.com/mubeng/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
+* 【2026-08-09】[OpenListTeam / OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 * 【2026-08-08】[seriousm4x / UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 * 【2026-08-08】[alexballas / go2tv](https://github.com/alexballas/go2tv) - Cast media files to Smart TVs and Chromecast devices.
 * 【2026-08-06】[nicholas-fedor / watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
@@ -7727,6 +7732,7 @@
 
 ## C#
 
+* 【2026-08-09】[StartupHakk / OpenMonoAgent.ai](https://github.com/StartupHakk/OpenMonoAgent.ai) - (BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.
 * 【2026-08-06】[hbashton / DS4Windows](https://github.com/hbashton/DS4Windows) - 
 * 【2026-08-03】[zhongkaifu / TensorSharp](https://github.com/zhongkaifu/TensorSharp) - A native .NET LLM inference engine for GGUF models. TensorSharp provides a console application, a web-based chatbot interface, and Ollama/OpenAI-compatible HTTP APIs for programmatic access. It supports Windows/MacOS/Linux with full GPU capability
 * 【2026-08-03】[OhKannaDuh / BOCCHI](https://github.com/OhKannaDuh/BOCCHI) - 
