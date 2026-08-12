@@ -7,6 +7,10 @@
 
 ## All language
 
+* 【2026-08-12】[cathrynlavery / diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+* 【2026-08-12】[macro-inc / macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+* 【2026-08-12】[NVIDIA-NeMo / Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 
+* 【2026-08-12】[embabel / embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 * 【2026-08-10】[paperclipai / paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 * 【2026-08-10】[danielmiessler / LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
 * 【2026-08-08】[litu54 / DevOps-Interview-Guide](https://github.com/litu54/DevOps-Interview-Guide) - DevOps Interview Guide
@@ -2744,6 +2748,9 @@
 
 ## Python
 
+* 【2026-08-12】[omnigent-ai / omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.
+* 【2026-08-12】[index-tts / index-tts](https://github.com/index-tts/index-tts) - An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System
+* 【2026-08-12】[paradigmxyz / centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids.
 * 【2026-08-11】[AWeirdDev / flights](https://github.com/AWeirdDev/flights) - Fast, robust Google Flights scraper (API) for Python. (Probably)
 * 【2026-08-11】[AgriciDaniel / claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.
 * 【2026-08-11】[CubicPill / china_southern_power_grid_stat](https://github.com/CubicPill/china_southern_power_grid_stat) - Home Assistant intergration to get statictics from China Southern Power Grid (CSG) 南方电网HA集成
@@ -4495,6 +4502,7 @@
 
 ## Javascript
 
+* 【2026-08-12】[DietrichGebert / ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 * 【2026-08-11】[chr0nzz / traefik-manager](https://github.com/chr0nzz/traefik-manager) - A clean, self-hosted web UI for managing your Traefik reverse proxy.
 * 【2026-08-11】[bmad-code-org / BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 * 【2026-08-11】[polius / FileSync](https://github.com/polius/FileSync) - Send files from one device to many in real-time.
@@ -5505,6 +5513,8 @@
 
 ## Go
 
+* 【2026-08-12】[Agent-Field / pr-af](https://github.com/Agent-Field/pr-af) - #1 open-source code reviewer on Code-Review-Bench
+* 【2026-08-12】[samber / cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 * 【2026-08-10】[kdlbs / kandev](https://github.com/kdlbs/kandev) - AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
 * 【2026-08-10】[kenn-io / msgvault](https://github.com/kenn-io/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by SQLite and DuckDB
 * 【2026-08-09】[mubeng / mubeng](https://github.com/mubeng/mubeng) - An incredibly fast proxy checker & IP rotator with ease.
@@ -7059,6 +7069,7 @@
 
 ## C++
 
+* 【2026-08-12】[ROCm / FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 * 【2026-08-11】[sal063 / AC6_recomp](https://github.com/sal063/AC6_recomp) - static Recomp of AC6 with Rexglue
 * 【2026-08-05】[SwagSoftware / KisakCOD](https://github.com/SwagSoftware/KisakCOD) - COD4 Open Source Reimplementation
 * 【2026-08-04】[orailnoor / cross-platform-llm-client](https://github.com/orailnoor/cross-platform-llm-client) - A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.
@@ -7749,6 +7760,7 @@
 
 ## C#
 
+* 【2026-08-12】[luolangaga / tubatools](https://github.com/luolangaga/tubatools) - 图吧工具箱 winUI3 版
 * 【2026-08-11】[dpadGuy / SalsaNOW](https://github.com/dpadGuy/SalsaNOW) - SalsaNOW, the tool that sets up your GeForce NOW session experiences into local ones !
 * 【2026-08-10】[shinyflvre / VRCNext](https://github.com/shinyflvre/VRCNext) - VRCN is a VRChat launcher for Windows that includes various useful tools within a clean interface. It allows you to manage friends, groups, and more in a single application without needing to visit VRChat.com.
 * 【2026-08-09】[StartupHakk / OpenMonoAgent.ai](https://github.com/StartupHakk/OpenMonoAgent.ai) - (BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.
@@ -9244,6 +9256,7 @@
 
 ## Css
 
+* 【2026-08-12】[CodeByZach / pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 * 【2026-08-10】[pors / reactionic](https://github.com/pors/reactionic) - React Ionic: We are looking for a new maintainer!
 * 【2026-08-03】[Jenqyang / Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) - A collection of autonomous agents 🤖️ powered by LLM.
 * 【2026-08-02】[Fabito02 / ChromaLeon](https://github.com/Fabito02/ChromaLeon) - Change your GNOME Shell and GTK accent colors dynamically based on your wallpaper.
