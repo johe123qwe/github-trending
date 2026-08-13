@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2026-08-13】[holaboss-ai / holaOS](https://github.com/holaboss-ai/holaOS) - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
+* 【2026-08-13】[lightningpixel / modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images using local AI — runs entirely on your GPU
 * 【2026-08-12】[cathrynlavery / diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 * 【2026-08-12】[macro-inc / macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 * 【2026-08-12】[NVIDIA-NeMo / Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - 
@@ -2134,6 +2136,8 @@
 
 ## Java
 
+* 【2026-08-13】[jdubois / boot-ui](https://github.com/jdubois/boot-ui) - The missing developer UI for Spring Boot and Quarkus!
+* 【2026-08-13】[aurickk / OpSec](https://github.com/aurickk/OpSec) - Minecraft mod for advanced client brand spoofing, tracking exploit protections, and other privacy focused features.
 * 【2026-08-11】[elder-plinius / V3SP3R](https://github.com/elder-plinius/V3SP3R) - AI Flipper control
 * 【2026-08-10】[fish2018 / webhtv](https://github.com/fish2018/webhtv) - WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。
 * 【2026-08-09】[termux / termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
@@ -5513,6 +5517,10 @@
 
 ## Go
 
+* 【2026-08-13】[compozy / compozy](https://github.com/compozy/compozy) - An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.
+* 【2026-08-13】[geekjourneyx / md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
+* 【2026-08-13】[astaxie / TokenHub](https://github.com/astaxie/TokenHub) - TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable.
+* 【2026-08-13】[Willxup / cpa-usage-keeper](https://github.com/Willxup/cpa-usage-keeper) - Standalone CliProxyAPI usage tracker with SQLite persistence and built-in dashboard.
 * 【2026-08-12】[Agent-Field / pr-af](https://github.com/Agent-Field/pr-af) - #1 open-source code reviewer on Code-Review-Bench
 * 【2026-08-12】[samber / cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 * 【2026-08-10】[kdlbs / kandev](https://github.com/kdlbs/kandev) - AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.
@@ -8514,6 +8522,7 @@
 
 ## Html
 
+* 【2026-08-13】[huytieu / COG-second-brain](https://github.com/huytieu/COG-second-brain) - Self-evolving second brain with 33 AI skills, 10 agents, and people CRM. Closed-loop harness: a V-model verification lifecycle where the worker never grades its own homework. Plus paired anti-slop design skills for marketing and product UI. Works with Claude Code, Cursor, Kiro, Gemini CLI, Codex.
 * 【2026-08-11】[Jakubantalik / transitions.dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps, skill for agents and Refine tool for agents
 * 【2026-08-08】[itshen / learn-ai](https://github.com/itshen/learn-ai) - AI 产品从入门到精通 —— 面向 AI 产品经理的完整培训课程，涵盖大模型底层原理到 AI 工程化落地
 * 【2026-08-06】[ahatem / IoskeleyMono](https://github.com/ahatem/IoskeleyMono) - Iosevka configuration to mimic the look and feel of Berkeley Mono as closely as possible.
@@ -10175,6 +10184,8 @@
 
 ## Unknown
 
+* 【2026-08-13】[shadcn / improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+* 【2026-08-13】[aliyun / alibabacloud-jindodata](https://github.com/aliyun/alibabacloud-jindodata) - alibabacloud-jindodata
 * 【2026-08-10】[NarratorAI-Studio / narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill) - AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用
 * 【2026-08-10】[Elaina69 / Yes-Steve-Model-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - YSM models I collected from various sources, free to use. Please join YSM discord server if you have any question:
 * 【2026-08-06】[ZYY817 / YuqiEngine](https://github.com/ZYY817/YuqiEngine) - 宇奇引擎 - 游戏性能优化工具
