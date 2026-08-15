@@ -5520,6 +5520,7 @@
 
 ## Go
 
+* 【2026-08-15】[futrx-com / remote.futrx](https://github.com/futrx-com/remote.futrx) - 
 * 【2026-08-14】[oseghalep / cloud-cost-optimization-hub](https://github.com/oseghalep/cloud-cost-optimization-hub) - Cloud Cost Optimization Hub is an open-source, self-hosted platform that provides unified cost visibility and actionable recommendations across AWS, GCP, and Azure. Features include multi-cloud cost aggregation, rightsizing recommendations, idle resource detection, cost anomaly alerts, and an intuitive dashboard – all designed to help teams reduce.
 * 【2026-08-13】[compozy / compozy](https://github.com/compozy/compozy) - An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.
 * 【2026-08-13】[geekjourneyx / md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理
