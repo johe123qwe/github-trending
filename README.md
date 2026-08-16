@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-08-16】[akitaonrails / ai-memory](https://github.com/akitaonrails/ai-memory) - Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
 * 【2026-08-15】[cordiverse / cordis](https://github.com/cordiverse/cordis) - Meta-Framework of Spatiotemporal Composability
 * 【2026-08-15】[MakazhanAlpamys / Soup](https://github.com/MakazhanAlpamys/Soup) - Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.
 * 【2026-08-13】[holaboss-ai / holaOS](https://github.com/holaboss-ai/holaOS) - Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.
@@ -2138,6 +2139,8 @@
 
 ## Java
 
+* 【2026-08-16】[OWASP / www-project-api-security-testing-framework](https://github.com/OWASP/www-project-api-security-testing-framework) - OWASP Foundation web repository
+* 【2026-08-16】[7723mod / NPatch](https://github.com/7723mod/NPatch) - NPatch是一个复刻自LSPatch，以LSPosed为基础的免root的Xposed框架
 * 【2026-08-15】[liulangjietou / customer_work](https://github.com/liulangjietou/customer_work) - 
 * 【2026-08-14】[zhukunpenglinyutong / jetbrains-cc-gui](https://github.com/zhukunpenglinyutong/jetbrains-cc-gui) - Jetbrains Claude Code and Codex GUI Plugin
 * 【2026-08-13】[jdubois / boot-ui](https://github.com/jdubois/boot-ui) - The missing developer UI for Spring Boot and Quarkus!
@@ -2756,6 +2759,7 @@
 
 ## Python
 
+* 【2026-08-16】[0xSero / ai-data-extraction](https://github.com/0xSero/ai-data-extraction) - extract all your personal data history from cursor, codex, claude-code, windsurf, and trae
 * 【2026-08-15】[sgl-project / sglang-omni](https://github.com/sgl-project/sglang-omni) - SGLang-Omni empowers high-performance serving for TTS, ASR, speech and omni models.
 * 【2026-08-15】[titanwings / colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶
 * 【2026-08-15】[whiteguo233 / OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) - 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
@@ -4513,6 +4517,8 @@
 
 ## Javascript
 
+* 【2026-08-16】[IRNova / Nova-Proxy](https://github.com/IRNova/Nova-Proxy) - یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده از هسته‌های Amnezia، Wireguard، Sing-box، Clash/Mihomo و Xray.
+* 【2026-08-16】[babalae / bettergi-scripts-list](https://github.com/babalae/bettergi-scripts-list) - BetterGI 的脚本仓库，内含BetterGI 的JS脚本、路径追踪、战斗策略、七圣召唤策略。
 * 【2026-08-14】[darkzOGx / youtube-automation-agent](https://github.com/darkzOGx/youtube-automation-agent) - 🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!
 * 【2026-08-14】[laoma2053 / awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 * 【2026-08-12】[DietrichGebert / ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -5526,6 +5532,8 @@
 
 ## Go
 
+* 【2026-08-16】[seakee / CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) - A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.
+* 【2026-08-16】[Gitlawb / zero](https://github.com/Gitlawb/zero) - The coding agent that answers to you, your model, your machine, your rules.
 * 【2026-08-15】[futrx-com / remote.futrx](https://github.com/futrx-com/remote.futrx) - 
 * 【2026-08-14】[oseghalep / cloud-cost-optimization-hub](https://github.com/oseghalep/cloud-cost-optimization-hub) - Cloud Cost Optimization Hub is an open-source, self-hosted platform that provides unified cost visibility and actionable recommendations across AWS, GCP, and Azure. Features include multi-cloud cost aggregation, rightsizing recommendations, idle resource detection, cost anomaly alerts, and an intuitive dashboard – all designed to help teams reduce.
 * 【2026-08-13】[compozy / compozy](https://github.com/compozy/compozy) - An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser.
@@ -7089,6 +7097,7 @@
 
 ## C++
 
+* 【2026-08-16】[fooyin / fooyin](https://github.com/fooyin/fooyin) - A customisable music player
 * 【2026-08-15】[afritz1 / OpenTESArena](https://github.com/afritz1/OpenTESArena) - Open-source re-implementation of The Elder Scrolls: Arena.
 * 【2026-08-15】[MeisApps / pcbu-desktop](https://github.com/MeisApps/pcbu-desktop) - Desktop app for PC Bio Unlock
 * 【2026-08-14】[safijari / openpuck](https://github.com/safijari/openpuck) - Opensource firmware for NRF52840 Pro Micro that copycats the Steam Controller 2 Puck and adds an Xbox and Switch mode
