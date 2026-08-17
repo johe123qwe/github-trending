@@ -10213,6 +10213,7 @@
 
 ## Unknown
 
+* 【2026-08-17】[angelos-p / llm-from-scratch](https://github.com/angelos-p/llm-from-scratch) - 
 * 【2026-08-15】[cdleon / awesome-terminals](https://github.com/cdleon/awesome-terminals) - Terminal Emulators
 * 【2026-08-14】[Paramchoudhary / ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills) - A collection of AI agent skills focused on resume optimization, job applications, and career development. Built for job seekers, career changers, and professionals who want Claude Code to help with resume writing, ATS optimization, interview prep, and strategic job search.
 * 【2026-08-13】[shadcn / improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
