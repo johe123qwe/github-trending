@@ -2771,6 +2771,8 @@
 
 ## Python
 
+* 【2026-08-23】[davepoon / buildwithclaude](https://github.com/davepoon/buildwithclaude) - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
+* 【2026-08-23】[shy3130 / tick-stock-panel](https://github.com/shy3130/tick-stock-panel) - TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目
 * 【2026-08-23】[shy3130 / tickflow-stock-panel](https://github.com/shy3130/tickflow-stock-panel) - TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目
 * 【2026-08-23】[browser-use / browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 * 【2026-08-22】[debpalash / VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
@@ -4539,6 +4541,7 @@
 
 ## Javascript
 
+* 【2026-08-23】[team-codebug / babua-dsa-patterns-course](https://github.com/team-codebug/babua-dsa-patterns-course) - 
 * 【2026-08-23】[dbgate / dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 * 【2026-08-22】[cloudflare / security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
 * 【2026-08-20】[chuspeeism / dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill) - An AI-agent skill that generates browser-editable presentations from multiple visual themes, exportable to HTML, PDF, and PPTX.
@@ -6381,6 +6384,7 @@
 
 ## C
 
+* 【2026-08-23】[RxNaison / Epson-Waste-Reset](https://github.com/RxNaison/Epson-Waste-Reset) - A free, native, and completely open-source utility to reset the "Waste Ink Pad" counter on Epson printers
 * 【2026-08-17】[NaGaa95 / sphaira](https://github.com/NaGaa95/sphaira) - A homebrew menu for the Nintendo Switch
 * 【2026-08-14】[superturtlee / gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe) - No TrickyStore on Canoe
 * 【2026-08-11】[memovai / mimiclaw](https://github.com/memovai/mimiclaw) - MimiClaw: Harness on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.
@@ -10259,6 +10263,8 @@
 
 ## Unknown
 
+* 【2026-08-23】[j4Uq / TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) - 
+* 【2026-08-23】[twostraws / SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 * 【2026-08-18】[QwenLM / Qwen3.8](https://github.com/QwenLM/Qwen3.8) - Qwen3.8 is the large language model series developed by Qwen team, Alibaba Group.
 * 【2026-08-17】[12britz / awesome-free-models](https://github.com/12britz/awesome-free-models) - A curated list of free AI models, APIs, and tools you can use without paying a cent.
 * 【2026-08-17】[hanlulong / awesome-ai-for-economists](https://github.com/hanlulong/awesome-ai-for-economists) - A curated list of AI tools, libraries, and resources for economics research, teaching, and policy analysis. Maintained by the OpenEcon team.
