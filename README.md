@@ -2774,6 +2774,7 @@
 
 ## Python
 
+* 【2026-08-26】[ai-dynamo / aiperf](https://github.com/ai-dynamo/aiperf) - AIPerf is a comprehensive benchmarking tool that measures the performance of generative AI models served by your preferred inference solution.
 * 【2026-08-23】[davepoon / buildwithclaude](https://github.com/davepoon/buildwithclaude) - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
 * 【2026-08-23】[shy3130 / tick-stock-panel](https://github.com/shy3130/tick-stock-panel) - TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目
 * 【2026-08-23】[shy3130 / tickflow-stock-panel](https://github.com/shy3130/tickflow-stock-panel) - TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目
@@ -4544,6 +4545,7 @@
 
 ## Javascript
 
+* 【2026-08-26】[Javis603 / token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 32+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.
 * 【2026-08-23】[team-codebug / babua-dsa-patterns-course](https://github.com/team-codebug/babua-dsa-patterns-course) - 
 * 【2026-08-23】[dbgate / dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 * 【2026-08-22】[cloudflare / security-audit-skill](https://github.com/cloudflare/security-audit-skill) - A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
@@ -10269,6 +10271,7 @@
 
 ## Unknown
 
+* 【2026-08-26】[negarprh / Canadian-Tech-Internships-2027](https://github.com/negarprh/Canadian-Tech-Internships-2027) - A curated, regularly updated list of Canadian tech internships for Summer, Fall, and Winter 2027. Includes computer science, software engineering, software development, data, and IT internships across major Canadian cities and remote roles, with verified opportunities for students studying in Canada.
 * 【2026-08-24】[Ramys / Iptv-Brasil-2026](https://github.com/Ramys/Iptv-Brasil-2026) - Canais , Filmes e Séries
 * 【2026-08-23】[j4Uq / TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) - 
 * 【2026-08-23】[twostraws / SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
