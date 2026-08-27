@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2026-08-27】[bilawalsidhu / gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+* 【2026-08-27】[JetBrains / go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go
 * 【2026-08-24】[tashfeenahmed / freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
 * 【2026-08-24】[vorssaint / vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
 * 【2026-08-22】[apache / maka](https://github.com/apache/maka) - Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.
@@ -2774,6 +2776,8 @@
 
 ## Python
 
+* 【2026-08-27】[htdt / godogen](https://github.com/htdt/godogen) - Autonomous game development for Godot, Bevy, and Babylon.js with Claude Code and Codex
+* 【2026-08-27】[yashmulgaonkar / FlightScnr_Pi](https://github.com/yashmulgaonkar/FlightScnr_Pi) - Desktop flight and marine radar: a real-time aircraft and marine vessel tracker powered by a Raspberry Pi and 4" round screen.
 * 【2026-08-26】[ai-dynamo / aiperf](https://github.com/ai-dynamo/aiperf) - AIPerf is a comprehensive benchmarking tool that measures the performance of generative AI models served by your preferred inference solution.
 * 【2026-08-23】[davepoon / buildwithclaude](https://github.com/davepoon/buildwithclaude) - A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw
 * 【2026-08-23】[shy3130 / tick-stock-panel](https://github.com/shy3130/tick-stock-panel) - TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目
@@ -8604,6 +8608,9 @@
 
 ## Html
 
+* 【2026-08-27】[Manavarya09 / design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.
+* 【2026-08-27】[fcaronte / KingInstaller](https://github.com/fcaronte/KingInstaller) - Porting of KingInstaller get from GitLab by annexhack
+* 【2026-08-27】[tianma-if / edgeever](https://github.com/tianma-if/edgeever) - Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』
 * 【2026-08-23】[khaosdoctor / dontquotetheai](https://github.com/khaosdoctor/dontquotetheai) - Don't paste the ai response at me, please
 * 【2026-08-20】[MengTo / Skills](https://github.com/MengTo/Skills) - Agent skills for designers and builders using Codex, Claude, Cursor, and other AI coding agents
 * 【2026-08-15】[Arrow-air / project-quiver](https://github.com/Arrow-air/project-quiver) - Project Quiver documentation, designs, and project artifacts.
