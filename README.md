@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2026-08-28】[tailscale / tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
+* 【2026-08-28】[swoole / typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries
 * 【2026-08-27】[bilawalsidhu / gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
 * 【2026-08-27】[JetBrains / go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go
 * 【2026-08-24】[tashfeenahmed / freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.
@@ -6393,6 +6395,7 @@
 
 ## C
 
+* 【2026-08-28】[sunblaze-ucb / exploitgym](https://github.com/sunblaze-ucb/exploitgym) - ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.
 * 【2026-08-25】[OleksandrChekhovskyi / hax](https://github.com/OleksandrChekhovskyi/hax) - A minimalist, terminal-native coding agent written in C.
 * 【2026-08-24】[tqbf / mdv](https://github.com/tqbf/mdv) - Markdown Viewer
 * 【2026-08-23】[RxNaison / Epson-Waste-Reset](https://github.com/RxNaison/Epson-Waste-Reset) - A free, native, and completely open-source utility to reset the "Waste Ink Pad" counter on Epson printers
@@ -7146,6 +7149,8 @@
 
 ## C++
 
+* 【2026-08-28】[MatixYo / ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar) - Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.
+* 【2026-08-28】[react / yoga](https://github.com/react/yoga) - Yoga is an embeddable layout engine targeting web standards.
 * 【2026-08-24】[edin45 / simple_photogrammetry_gui](https://github.com/edin45/simple_photogrammetry_gui) - 
 * 【2026-08-22】[OpenHD / OpenHD](https://github.com/OpenHD/OpenHD) - OpenHD
 * 【2026-08-22】[charlie12345 / ROCmFPX](https://github.com/charlie12345/ROCmFPX) - ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants
