@@ -2778,6 +2778,7 @@
 
 ## Python
 
+* 【2026-08-29】[rlaope / oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - The agent engineering intelligence harness, optimized tools, memory system, subagents and mixture of models packages ⚚
 * 【2026-08-27】[htdt / godogen](https://github.com/htdt/godogen) - Autonomous game development for Godot, Bevy, and Babylon.js with Claude Code and Codex
 * 【2026-08-27】[yashmulgaonkar / FlightScnr_Pi](https://github.com/yashmulgaonkar/FlightScnr_Pi) - Desktop flight and marine radar: a real-time aircraft and marine vessel tracker powered by a Raspberry Pi and 4" round screen.
 * 【2026-08-26】[ai-dynamo / aiperf](https://github.com/ai-dynamo/aiperf) - AIPerf is a comprehensive benchmarking tool that measures the performance of generative AI models served by your preferred inference solution.
