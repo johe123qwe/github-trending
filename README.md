@@ -7,6 +7,10 @@
 
 ## All language
 
+* 【2026-08-30】[Lakr233 / vphone-cli](https://github.com/Lakr233/vphone-cli) - 
+* 【2026-08-30】[pollen-robotics / microduck_rl](https://github.com/pollen-robotics/microduck_rl) - RL training environments for Microduck (mjlab)
+* 【2026-08-30】[handsomestWei / patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) - 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。
+* 【2026-08-30】[corsairdev / corsair](https://github.com/corsairdev/corsair) - Connect your users to their apps
 * 【2026-08-30】[THU-MAIC / OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 * 【2026-08-28】[tailscale / tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
 * 【2026-08-28】[swoole / typephp](https://github.com/swoole/typephp) - Compile PHP to Native Binaries
@@ -2779,6 +2783,9 @@
 
 ## Python
 
+* 【2026-08-30】[taoufik123-collab / claude-watch](https://github.com/taoufik123-collab/claude-watch) - Give Claude the ability to watch any video — scene-change frames + transcript + a structured report, with a 0-10s hook microscope and optional Obsidian auto-save.
+* 【2026-08-30】[shootthesound / Fizgig](https://github.com/shootthesound/Fizgig) - Krea 2, MiniMax & Klein 9B LoRA - LoKR Studio — train, profile, repair, and extract Krea 2, Flux 2 Klein 9B & MiniMax LoRAs & LoKRs
+* 【2026-08-30】[agent0ai / agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 * 【2026-08-30】[warpdotdev / common-skills](https://github.com/warpdotdev/common-skills) - 
 * 【2026-08-30】[alchaincyf / nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 * 【2026-08-29】[rlaope / oh-my-hermes](https://github.com/rlaope/oh-my-hermes) - The agent engineering intelligence harness, optimized tools, memory system, subagents and mixture of models packages ⚚
@@ -4555,6 +4562,7 @@
 
 ## Javascript
 
+* 【2026-08-30】[amElnagdy / delegate-skills](https://github.com/amElnagdy/delegate-skills) - Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer.
 * 【2026-08-26】[Javis603 / token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 32+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.
 * 【2026-08-23】[team-codebug / babua-dsa-patterns-course](https://github.com/team-codebug/babua-dsa-patterns-course) - 
 * 【2026-08-23】[dbgate / dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
@@ -10289,6 +10297,7 @@
 
 ## Unknown
 
+* 【2026-08-30】[liquidslr / system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
 * 【2026-08-26】[negarprh / Canadian-Tech-Internships-2027](https://github.com/negarprh/Canadian-Tech-Internships-2027) - A curated, regularly updated list of Canadian tech internships for Summer, Fall, and Winter 2027. Includes computer science, software engineering, software development, data, and IT internships across major Canadian cities and remote roles, with verified opportunities for students studying in Canada.
 * 【2026-08-24】[Ramys / Iptv-Brasil-2026](https://github.com/Ramys/Iptv-Brasil-2026) - Canais , Filmes e Séries
 * 【2026-08-23】[j4Uq / TVBoxOSC](https://github.com/j4Uq/TVBoxOSC) - 
