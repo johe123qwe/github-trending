@@ -7,6 +7,8 @@
 
 ## All language
 
+* 【2026-09-02】[pacifio / atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
+* 【2026-09-02】[vercel-labs / portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 * 【2026-09-01】[Gitlawb / openclaude](https://github.com/Gitlawb/openclaude) - runs anywhere. uses anything
 * 【2026-08-30】[Lakr233 / vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 * 【2026-08-30】[pollen-robotics / microduck_rl](https://github.com/pollen-robotics/microduck_rl) - RL training environments for Microduck (mjlab)
@@ -2784,6 +2786,7 @@
 
 ## Python
 
+* 【2026-09-02】[PDFMathTranslate / PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
 * 【2026-09-01】[mujocolab / mjlab](https://github.com/mujocolab/mjlab) - Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research
 * 【2026-09-01】[noonghunna / club-3090](https://github.com/noonghunna/club-3090) - Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1× and 2× cards.
 * 【2026-08-31】[securo-finance / securo](https://github.com/securo-finance/securo) - Open-source personal finance manager. Self-hosted, privacy-first.
@@ -7169,6 +7172,7 @@
 
 ## C++
 
+* 【2026-09-02】[xoxor4d / gta4-rtx](https://github.com/xoxor4d/gta4-rtx) - GTAIV RTX Remix Compatibility Mod
 * 【2026-09-01】[metasequoiaime / MetasequoiaImeTsf](https://github.com/metasequoiaime/MetasequoiaImeTsf) - 水杉输入法。内测：tg: https://t.me/msimegroup QQ Group: 829919142
 * 【2026-08-31】[zackb / tether](https://github.com/zackb/tether) - Linux + iPhone Continuity / iMessage / SMS
 * 【2026-08-31】[UZDoom / UZDoom](https://github.com/UZDoom/UZDoom) - UZDoom is a feature centric port for all Doom engine games, based on GZDoom, adding an advanced renderer and powerful scripting capabilities
@@ -9390,6 +9394,7 @@
 
 ## Css
 
+* 【2026-09-02】[CopticScriptorium / corpora](https://github.com/CopticScriptorium/corpora) - Public repository for Coptic SCRIPTORIUM Corpora Releases
 * 【2026-08-23】[fontsource / font-files](https://github.com/fontsource/font-files) - 2000+ open-source fonts bundled into neat packages.
 * 【2026-08-12】[CodeByZach / pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
 * 【2026-08-10】[pors / reactionic](https://github.com/pors/reactionic) - React Ionic: We are looking for a new maintainer!
