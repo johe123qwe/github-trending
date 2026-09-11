@@ -10369,6 +10369,7 @@
 
 ## Unknown
 
+* 【2026-09-11】[Yaozhil / mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) - mpv-Yaozhi 自制整合包 -重构mpv播放内核 - 自制 UI 优化、可视化配置脚本、弹幕、中文 stats
 * 【2026-09-10】[MoonTechLab / Selene-TV](https://github.com/MoonTechLab/Selene-TV) - 以 MoonTV v100 版本 / Helios 为后端的 Android TV 客户端，针对遥控器设备优化
 * 【2026-09-09】[mmccaff / PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 * 【2026-09-06】[Au1rxx / free-vpn-subscriptions](https://github.com/Au1rxx/free-vpn-subscriptions) - Free Clash, sing-box, and V2Ray subscription feed with live node status and setup guides
