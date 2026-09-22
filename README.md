@@ -5668,6 +5668,7 @@
 
 ## Go
 
+* 【2026-09-22】[elvisun / newsjack](https://github.com/elvisun/newsjack) - The open-source skills that turn your agent into a full PR team.
 * 【2026-09-21】[AminMGMT / BackPack](https://github.com/AminMGMT/BackPack) - High Performance reverse tunnel engine in Go, built for edge ⇄ origin server setups
 * 【2026-09-21】[zhoushoujianwork / easyeda-agent](https://github.com/zhoushoujianwork/easyeda-agent) - 嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.
 * 【2026-09-20】[vshulcz / deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.
