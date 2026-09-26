@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-09-26】[mobile-next / mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 * 【2026-09-25】[derv82 / wifit3](https://github.com/derv82/wifit3) - Wifite but USB-only & cross-platform.
 * 【2026-09-24】[FxEmbed / FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 * 【2026-09-24】[julyx10 / lap](https://github.com/julyx10/lap) - An offline-first photo manager for large local libraries
@@ -8023,6 +8024,7 @@
 
 ## C#
 
+* 【2026-09-26】[nefarius / DsHidMini](https://github.com/nefarius/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
 * 【2026-09-23】[RayrenSX / iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) - Local Windows iPhone/iPad mirroring over USB and AirPlay with D3D11 preview, multi-device sessions, OBS output, and a standalone driver manager.
 * 【2026-09-23】[tgeorgiadis / quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 * 【2026-09-23】[SafeExamBrowser / seb-win-refactoring](https://github.com/SafeExamBrowser/seb-win-refactoring) - Safe Exam Browser for Windows.
