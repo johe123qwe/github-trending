@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2026-09-27】[InfinityLoop1308 / PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
+* 【2026-09-27】[vercel-labs / scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
+* 【2026-09-27】[mvschwarz / openrig](https://github.com/mvschwarz/openrig) - Multi-agent harness that runs Claude Code and Codex together as one system
 * 【2026-09-26】[mobile-next / mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 * 【2026-09-25】[derv82 / wifit3](https://github.com/derv82/wifit3) - Wifite but USB-only & cross-platform.
 * 【2026-09-24】[FxEmbed / FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
@@ -2202,6 +2205,7 @@
 
 ## Java
 
+* 【2026-09-27】[AbdurazaaqMohammed / MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) - Dual pane Android file manager with focus on APKs
 * 【2026-09-18】[rstudio / rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
 * 【2026-09-14】[APIJSON / APIJSON](https://github.com/APIJSON/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀 providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
 * 【2026-09-06】[SlimeKnights / TinkersConstruct](https://github.com/SlimeKnights/TinkersConstruct) - Tinker a little, build a little, tinker a little more...
@@ -4639,6 +4643,8 @@
 
 ## Javascript
 
+* 【2026-09-27】[mlmvpn / mlmvpn_windows](https://github.com/mlmvpn/mlmvpn_windows) - MLMVPN - Ultimate Anti-Filter & IP Scanner
+* 【2026-09-27】[ulsklyc / yuvomi](https://github.com/ulsklyc/yuvomi) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
 * 【2026-09-24】[androoAGI / starnet](https://github.com/androoAGI/starnet) - A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
 * 【2026-09-23】[elidickinson / pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge) - Claude Code inference provider for Pi. Allows the use of Claude Code of Pro/Max subscriptions from pi.dev.
 * 【2026-09-22】[DuarteSantos8 / openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
@@ -5679,6 +5685,7 @@
 
 ## Go
 
+* 【2026-09-27】[YoanWai / agent-manager](https://github.com/YoanWai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.
 * 【2026-09-24】[Asymptote-Labs / agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - The cross-harness self-improving memory layer for AI agents.
 * 【2026-09-24】[getprobo / probo](https://github.com/getprobo/probo) - Open source solutions for SOC2, GDPR, and ISO27001
 * 【2026-09-23】[CarterPerez-dev / Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇
@@ -6526,6 +6533,7 @@
 
 ## C
 
+* 【2026-09-27】[matz / spinel](https://github.com/matz/spinel) - Ruby AOT compiler
 * 【2026-09-23】[StuckAtPrototype / AirCube](https://github.com/StuckAtPrototype/AirCube) - 
 * 【2026-09-22】[rizonesoft / Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
 * 【2026-09-22】[lyssadev / Spotilol](https://github.com/lyssadev/Spotilol) - A android app that wraps Spotify's web player with built-in adblocker
@@ -7299,6 +7307,9 @@
 
 ## C++
 
+* 【2026-09-27】[The412Banner / winlator-contents](https://github.com/The412Banner/winlator-contents) - Component catalog index for BannerHub / Winlator clients. Hosts contents.json (mirror of nightlies_components.json). Component binaries live on The412Banner/Nightlies releases.
+* 【2026-09-27】[cataclysmbn / Cataclysm-BN](https://github.com/cataclysmbn/Cataclysm-BN) - Cataclysm: Bright Nights: A fork/variant of Cataclysm:DDA by CleverRaven with a mod registry at https://mods.cataclysmbn.org/
+* 【2026-09-27】[gta-reversed / gta-reversed](https://github.com/gta-reversed/gta-reversed) - Reimplementation of GTA:SA 1.0 US
 * 【2026-09-24】[Themaister / pyrowave](https://github.com/Themaister/pyrowave) - 
 * 【2026-09-24】[Fable2Recomp / Fable2Recomp](https://github.com/Fable2Recomp/Fable2Recomp) - A Fable 2 Recomp
 * 【2026-09-23】[mod-playerbots / mod-playerbots](https://github.com/mod-playerbots/mod-playerbots) - AzerothCore Playerbots Module
@@ -8024,6 +8035,7 @@
 
 ## C#
 
+* 【2026-09-27】[Tianyu199509 / DeskBox](https://github.com/Tianyu199509/DeskBox) - A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.
 * 【2026-09-26】[nefarius / DsHidMini](https://github.com/nefarius/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
 * 【2026-09-23】[RayrenSX / iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) - Local Windows iPhone/iPad mirroring over USB and AirPlay with D3D11 preview, multi-device sessions, OBS output, and a standalone driver manager.
 * 【2026-09-23】[tgeorgiadis / quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
@@ -8795,6 +8807,7 @@
 
 ## Html
 
+* 【2026-09-27】[promptpirate-x / discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
 * 【2026-09-25】[rajhodedara / live-sport-plugin](https://github.com/rajhodedara/live-sport-plugin) - A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-time feeds and delivers seamless IPTV playback.
 * 【2026-09-22】[zouzhekang / YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
 * 【2026-09-17】[OWASP / www-project-agentic-skills-top-10](https://github.com/OWASP/www-project-agentic-skills-top-10) - OWASP Foundation web repository
