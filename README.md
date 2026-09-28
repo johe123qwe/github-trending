@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-09-28】[cs341-illinois / coursebook](https://github.com/cs341-illinois/coursebook) - Open Source Introductory Systems Programming Textbook for the University of Illinois
 * 【2026-09-27】[InfinityLoop1308 / PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 * 【2026-09-27】[vercel-labs / scriptc](https://github.com/vercel-labs/scriptc) - TypeScript-to-Native Compiler
 * 【2026-09-27】[mvschwarz / openrig](https://github.com/mvschwarz/openrig) - Multi-agent harness that runs Claude Code and Codex together as one system
@@ -2205,6 +2206,7 @@
 
 ## Java
 
+* 【2026-09-28】[AndroidCSOfficial / android-code-studio](https://github.com/AndroidCSOfficial/android-code-studio) - Android Code Studio is an IDE for Android to develop full featured Android apps.
 * 【2026-09-27】[AbdurazaaqMohammed / MP-Manager](https://github.com/AbdurazaaqMohammed/MP-Manager) - Dual pane Android file manager with focus on APKs
 * 【2026-09-18】[rstudio / rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
 * 【2026-09-14】[APIJSON / APIJSON](https://github.com/APIJSON/APIJSON) - 🏆 Real-Time no-code, powerful and secure ORM 🚀 providing APIs and Docs without coding by Backend, and Frontend(Client) can customize response JSONs 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构
@@ -2835,6 +2837,9 @@
 
 ## Python
 
+* 【2026-09-28】[ashhart / TensorFold](https://github.com/ashhart/TensorFold) - Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint
+* 【2026-09-28】[samugit83 / redamon](https://github.com/samugit83/redamon) - An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention.
+* 【2026-09-28】[Rizzo-AI-Academy / rizzo-pii](https://github.com/Rizzo-AI-Academy/rizzo-pii) - Local-first privacy guard: anonymize your documents before sharing with LLMs.
 * 【2026-09-25】[Alban1911 / Rose](https://github.com/Alban1911/Rose) - League, unlocked.
 * 【2026-09-24】[aayushch / laya](https://github.com/aayushch/laya) - Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook, Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK.
 * 【2026-09-21】[cv-cat / DouYin_Spider](https://github.com/cv-cat/DouYin_Spider) - 抖音逆向，抖音爬虫，抖音全部api、私信、直播间监听
@@ -5686,6 +5691,7 @@
 
 ## Go
 
+* 【2026-09-28】[londek / ipadecrypt](https://github.com/londek/ipadecrypt) - 🔓 ipadecrypt is an open-source tool for downloading, patching and decrypting .ipa's with minimal user intervention on palera1n and dopamine jailbreaks
 * 【2026-09-27】[YoanWai / agent-manager](https://github.com/YoanWai/agent-manager) - The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.
 * 【2026-09-24】[Asymptote-Labs / agent-beacon](https://github.com/Asymptote-Labs/agent-beacon) - The cross-harness self-improving memory layer for AI agents.
 * 【2026-09-24】[getprobo / probo](https://github.com/getprobo/probo) - Open source solutions for SOC2, GDPR, and ISO27001
@@ -7308,6 +7314,7 @@
 
 ## C++
 
+* 【2026-09-28】[ammaarreshi / Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
 * 【2026-09-27】[The412Banner / winlator-contents](https://github.com/The412Banner/winlator-contents) - Component catalog index for BannerHub / Winlator clients. Hosts contents.json (mirror of nightlies_components.json). Component binaries live on The412Banner/Nightlies releases.
 * 【2026-09-27】[cataclysmbn / Cataclysm-BN](https://github.com/cataclysmbn/Cataclysm-BN) - Cataclysm: Bright Nights: A fork/variant of Cataclysm:DDA by CleverRaven with a mod registry at https://mods.cataclysmbn.org/
 * 【2026-09-27】[gta-reversed / gta-reversed](https://github.com/gta-reversed/gta-reversed) - Reimplementation of GTA:SA 1.0 US
@@ -8808,6 +8815,7 @@
 
 ## Html
 
+* 【2026-09-28】[FinMind / FinMind](https://github.com/FinMind/FinMind) - Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https://finmind.github.io/
 * 【2026-09-27】[promptpirate-x / discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
 * 【2026-09-25】[rajhodedara / live-sport-plugin](https://github.com/rajhodedara/live-sport-plugin) - A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-time feeds and delivers seamless IPTV playback.
 * 【2026-09-22】[zouzhekang / YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
@@ -9570,6 +9578,7 @@
 
 ## Css
 
+* 【2026-09-28】[woowacourse / java-http](https://github.com/woowacourse/java-http) - 
 * 【2026-09-22】[NilverTI / Web-Flores](https://github.com/NilverTI/Web-Flores) - Codigo de flores amarillas para regalar / enviar a tu novia
 * 【2026-09-05】[AlirezaKJ / BetterSoundCloud](https://github.com/AlirezaKJ/BetterSoundCloud) - A PC client of SoundCloud with improvement made using electronjs
 * 【2026-09-03】[DeGrandis / canvas-dark-mode](https://github.com/DeGrandis/canvas-dark-mode) - Canvas Dark Mode
