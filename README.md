@@ -4643,6 +4643,7 @@
 
 ## Javascript
 
+* 【2026-09-28】[huilang-me / CF-Server-Monitor](https://github.com/huilang-me/CF-Server-Monitor) - 一个基于 Cloudflare Workers + D1 + Durable Objects 的免费多服务器监控探针系统，支持实时监控、离线告警，到期通知，历史数据查看、延迟追踪、地图展示等功能。兼容主流Linux系统，Alpine Linux，OpenWrt，macOS，群晖 DSM、飞牛 fnOS、Windows系统。
 * 【2026-09-27】[mlmvpn / mlmvpn_windows](https://github.com/mlmvpn/mlmvpn_windows) - MLMVPN - Ultimate Anti-Filter & IP Scanner
 * 【2026-09-27】[ulsklyc / yuvomi](https://github.com/ulsklyc/yuvomi) - Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.
 * 【2026-09-24】[androoAGI / starnet](https://github.com/androoAGI/starnet) - A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
