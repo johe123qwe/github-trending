@@ -4659,6 +4659,7 @@
 
 ## Javascript
 
+* 【2026-10-02】[michael-denyer / pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
 * 【2026-09-30】[WesselKroos / youtube-ambilight](https://github.com/WesselKroos/youtube-ambilight) - This browser extension adds ambient light to YouTube videos
 * 【2026-09-30】[mokshablr / gander](https://github.com/mokshablr/gander) - Take a gander at any file. Offline, zero-permission Android viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown and code.
 * 【2026-09-30】[xiufengsun / TokenTracker](https://github.com/xiufengsun/TokenTracker) - Local-first AI token usage & cost tracker for 31 coding tools incl. Claude Code, Codex, Cursor, Gemini & DeepSeek Harness—with native apps. Never reads prompts.
@@ -6556,6 +6557,7 @@
 
 ## C
 
+* 【2026-10-02】[martanne / vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 * 【2026-10-01】[FoloToy / ai-passport](https://github.com/FoloToy/ai-passport) - FOLOTOY AI Passport develop resources for Agent
 * 【2026-09-27】[matz / spinel](https://github.com/matz/spinel) - Ruby AOT compiler
 * 【2026-09-23】[StuckAtPrototype / AirCube](https://github.com/StuckAtPrototype/AirCube) - 
@@ -8834,6 +8836,7 @@
 
 ## Html
 
+* 【2026-10-02】[phishdestroy / destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist - 205k+ curated threats, 1M+ community, free API, multiple formats
 * 【2026-09-28】[FinMind / FinMind](https://github.com/FinMind/FinMind) - Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https://finmind.github.io/
 * 【2026-09-27】[promptpirate-x / discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
 * 【2026-09-25】[rajhodedara / live-sport-plugin](https://github.com/rajhodedara/live-sport-plugin) - A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-time feeds and delivers seamless IPTV playback.
@@ -9597,6 +9600,7 @@
 
 ## Css
 
+* 【2026-10-02】[noctalia-dev / community-templates](https://github.com/noctalia-dev/community-templates) - Community templates
 * 【2026-10-01】[bwhtech / commera](https://github.com/bwhtech/commera) - Open Source E-commerce Platform, powered by ERPNext
 * 【2026-09-28】[woowacourse / java-http](https://github.com/woowacourse/java-http) - 
 * 【2026-09-22】[NilverTI / Web-Flores](https://github.com/NilverTI/Web-Flores) - Codigo de flores amarillas para regalar / enviar a tu novia
@@ -10523,6 +10527,7 @@
 
 ## Unknown
 
+* 【2026-10-02】[LLMSecurity / awesome-agent-skills-security](https://github.com/LLMSecurity/awesome-agent-skills-security) - 🛡️ A curated list of resources on agent skills security: attacks, defenses, frameworks, and benchmarks for securing AI agent tool use and skill ecosystems
 * 【2026-10-01】[digitalinnovationone / dio-agent](https://github.com/digitalinnovationone/dio-agent) - Agente de IA criado pela DIO para apoiar seus estudos.
 * 【2026-09-30】[runelite / plugin-hub](https://github.com/runelite/plugin-hub) - External plugins for RuneLite
 * 【2026-09-22】[harsh-bothra / learn365](https://github.com/harsh-bothra/learn365) - This repository is about @harshbothra_'s 365 days of Learning Tweets & Mindmaps collection.
