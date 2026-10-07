@@ -4669,6 +4669,7 @@
 
 ## Javascript
 
+* 【2026-10-07】[eolix / photosuite](https://github.com/eolix/photosuite) - A desktop image editor, faithful to classic Adobe Photoshop, with native PSD/PSB compatibility
 * 【2026-10-06】[laoma528 / awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) - 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。
 * 【2026-10-06】[sebattfg / ZeroScript-Free](https://github.com/sebattfg/ZeroScript-Free) - ZeroScript Free: Turn ChatGPT, DeepSeek, Gemini, Kimi, GLM, Qwen, Arena or Meta AI into a Roblox Studio agent. Browser extension + local bridge. Read/edit scripts, run Luau, generate assets, all from chat. Robust agentic loop. No terminal needed.
 * 【2026-10-02】[michael-denyer / pstack-claude](https://github.com/michael-denyer/pstack-claude) - Claude Code, Codex, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.
