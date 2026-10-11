@@ -2854,6 +2854,7 @@
 
 ## Python
 
+* 【2026-10-11】[repowise-dev / repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.
 * 【2026-10-10】[BitterSecurity / Decepticon](https://github.com/BitterSecurity/Decepticon) - Autonomous Hacking Agent for Red Team
 * 【2026-10-09】[Tencent-Hunyuan / Hy-MT2](https://github.com/Tencent-Hunyuan/Hy-MT2) - 
 * 【2026-10-09】[headroomlabs-ai / headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -6587,6 +6588,8 @@
 
 ## C
 
+* 【2026-10-11】[tarwin / tinyjsapp](https://github.com/tarwin/tinyjsapp) - Build native apps in JS. Backend, frontend. ~5Mb.
+* 【2026-10-11】[sp00nznet / xboxrecomp](https://github.com/sp00nznet/xboxrecomp) - Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.
 * 【2026-10-02】[martanne / vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
 * 【2026-10-01】[FoloToy / ai-passport](https://github.com/FoloToy/ai-passport) - FOLOTOY AI Passport develop resources for Agent
 * 【2026-09-27】[matz / spinel](https://github.com/matz/spinel) - Ruby AOT compiler
@@ -8874,6 +8877,8 @@
 
 ## Html
 
+* 【2026-10-11】[SamidyFR / Game-Decompilations](https://github.com/SamidyFR/Game-Decompilations) - List of Game Decompilations i could gather from around the internet.
+* 【2026-10-11】[vpnfast / vpnfast.github.io](https://github.com/vpnfast/vpnfast.github.io) - 2026年科学上网最稳翻墙软件，几款中国好用的VPN推荐
 * 【2026-10-09】[EricTechPro / super-board](https://github.com/EricTechPro/super-board) - Autonomous GitHub Project build → QA → review loop for Claude Code. One-line install.
 * 【2026-10-03】[gn-math / html](https://github.com/gn-math/html) - used for statistics https://data.jsdelivr.com/v1/stats/packages/gh/gn-math/html@main/files?period=year
 * 【2026-10-02】[phishdestroy / destroylist](https://github.com/phishdestroy/destroylist) - Real-time phishing & scam domain blocklist - 205k+ curated threats, 1M+ community, free API, multiple formats
@@ -10567,6 +10572,7 @@
 
 ## Unknown
 
+* 【2026-10-11】[lobehub / awesome-rsi](https://github.com/lobehub/awesome-rsi) - A curated research map of Recursive Self-Improvement (RSI): models, agents, harnesses, embodied systems, automated AI R&D, benchmarks, and safety.
 * 【2026-10-04】[MobileGL-Dev / MobileGlues-release](https://github.com/MobileGL-Dev/MobileGlues-release) - MobileGlues, which stands for "(on) Mobile, GL uses ES", is a GL implementation running on top of host OpenGL ES 3.2, with running Minecraft Java Edition in mind.
 * 【2026-10-02】[LLMSecurity / awesome-agent-skills-security](https://github.com/LLMSecurity/awesome-agent-skills-security) - 🛡️ A curated list of resources on agent skills security: attacks, defenses, frameworks, and benchmarks for securing AI agent tool use and skill ecosystems
 * 【2026-10-01】[digitalinnovationone / dio-agent](https://github.com/digitalinnovationone/dio-agent) - Agente de IA criado pela DIO para apoiar seus estudos.
