@@ -7400,6 +7400,8 @@
 
 ## C++
 
+* 【2026-10-20】[0x23 / MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) - A sub-micrometer 3D motion control plattform.
+* 【2026-10-20】[iliasHDZ / Bismuth](https://github.com/iliasHDZ/Bismuth) - Optimization mod for Geometry Dash
 * 【2026-10-18】[mzzvxm / LARecomp](https://github.com/mzzvxm/LARecomp) - 
 * 【2026-10-16】[zeldaret / botw](https://github.com/zeldaret/botw) - Decompilation of The Legend of Zelda: Breath of the Wild (Switch 1.5.0)
 * 【2026-10-16】[LittleBitUA / DownpourRecomp](https://github.com/LittleBitUA/DownpourRecomp) - Silent Hill: Downpour — native Windows PC port via static recompilation of the Xbox 360 binary. v1.0 stable: 60 FPS unlocked, ROV warm-cache, standalone launcher, DualSense adaptive triggers, portable saves. Tested on USA + Europe X360 dumps.
