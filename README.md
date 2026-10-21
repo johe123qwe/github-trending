@@ -2219,6 +2219,7 @@
 
 ## Java
 
+* 【2026-10-21】[kksimp / Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs
 * 【2026-10-14】[bk138 / droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
 * 【2026-10-09】[Leclowndu93150 / Thaumaturge](https://github.com/Leclowndu93150/Thaumaturge) - 
 * 【2026-10-06】[lishuangqiang / AI-Meeting](https://github.com/lishuangqiang/AI-Meeting) - 基于 Spring Boot 3 + Java 17 + Spring AI + MySQL + MongoDB + Redis + SSE/WebSocket，实现 AI 对话、智能体会话、AI 模拟面试、实时语音转写、长文本语音合成等核心功能。架构清晰、文档完整，支持本地运行与 Docker 一键部署，非常适合作为 Spring Boot AI 应用开发、智能体后端设计与简历展示项目。
@@ -4691,6 +4692,8 @@
 
 ## Javascript
 
+* 【2026-10-21】[xmanrui / dsh-im](https://github.com/xmanrui/dsh-im) - 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
+* 【2026-10-21】[shaobeichen / dsh-pocket](https://github.com/shaobeichen/dsh-pocket) - 把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)
 * 【2026-10-19】[YuJunZhiXue / dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) - DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
 * 【2026-10-19】[flizzywine / dsh-tavern](https://github.com/flizzywine/dsh-tavern) - 基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。
 * 【2026-10-16】[superdesigndev / superdesign-skill](https://github.com/superdesigndev/superdesign-skill) - The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev
@@ -9694,6 +9697,7 @@
 
 ## Css
 
+* 【2026-10-21】[Napster2210 / ngx-spinner](https://github.com/Napster2210/ngx-spinner) - Highly customizable Angular loading spinner library with 50+ animations, multiple named spinners, an optional HTTP interceptor for automatic show/hide, MatDialog-safe fullscreen overlays via the Popover API, and one-command ng add setup. Supports Angular 4–22, standalone & NgModule apps.
 * 【2026-10-17】[jerrykuku / luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) - Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos. It also supports automatic and manual switching between light and dark modes.
 * 【2026-10-17】[prakhar1989 / docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - 🐬 A comprehensive tutorial on getting started with Docker!
 * 【2026-10-02】[noctalia-dev / community-templates](https://github.com/noctalia-dev/community-templates) - Community templates
