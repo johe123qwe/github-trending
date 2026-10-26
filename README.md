@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-10-26】[nightly-labs / openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
 * 【2026-10-25】[JetBrains / thinkrail](https://github.com/JetBrains/thinkrail) - Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 * 【2026-10-24】[pollen-robotics / microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
 * 【2026-10-24】[jbiaojerry / ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) - 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
@@ -2866,6 +2867,11 @@
 
 ## Python
 
+* 【2026-10-26】[eugeniughelbur / obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Grok Bot know what each other did. 48 commands: semantic search, self-rewriting notes, key-less research, scheduled agents.
+* 【2026-10-26】[higgsfield-ai / skills](https://github.com/higgsfield-ai/skills) - 
+* 【2026-10-26】[homeassistant-ai / ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
+* 【2026-10-26】[HarnessRouter / harnessrouter](https://github.com/HarnessRouter/harnessrouter) - HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, streaming, files, cancellation, and failure handling. Implements the Unified Harness Protocol (UHP), an open standard. Your keys, your infrastructure.
+* 【2026-10-26】[lgc-NB2Dev / nonebot-plugin-bawiki](https://github.com/lgc-NB2Dev/nonebot-plugin-bawiki) - A nonebot2 plugin for Blue Archive.
 * 【2026-10-24】[Anil-matcha / open-duet](https://github.com/Anil-matcha/open-duet) - Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act. Also an alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and ChatGPT agent.
 * 【2026-10-18】[NVlabs / ASPIRE](https://github.com/NVlabs/ASPIRE) - ASPIRE: Agentic /Skills Discovery for Robotics
 * 【2026-10-18】[mozilla-ai / otari](https://github.com/mozilla-ai/otari) - Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking.
@@ -6630,6 +6636,7 @@
 
 ## C
 
+* 【2026-10-26】[fifthBro / mh2p-cluster](https://github.com/fifthBro/mh2p-cluster) - Bridge Android Auto and CarPlay navigation from Porsche PCM5 / MH2P to instrument cluster displays.
 * 【2026-10-17】[shardulvs / xnotes-android](https://github.com/shardulvs/xnotes-android) - A handwriting notes and sketching app for Android with stylus support
 * 【2026-10-16】[timescale / pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) - High-performance vector search for PostgreSQL
 * 【2026-10-15】[KernelSU-Next / KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
@@ -8161,6 +8168,7 @@
 
 ## C#
 
+* 【2026-10-26】[patchzyy / Wiicompiled](https://github.com/patchzyy/Wiicompiled) - Wiicompiled
 * 【2026-10-25】[zqq-699 / BlockHelm-Launcher](https://github.com/zqq-699/BlockHelm-Launcher) - 简洁现代的 Minecraft Java 版启动器，支持实例、资源与账户管理。
 * 【2026-10-18】[ANYNC / TaskbarLyrics](https://github.com/ANYNC/TaskbarLyrics) - Windows 任务栏歌词工具
 * 【2026-10-16】[Dr-hydra / Better-Endfield](https://github.com/Dr-hydra/Better-Endfield) - Modular Windows/Android toolkit for Arknights: Endfield: BEM model mods and creator tools, native plug-ins, MMD playback, camera/UI controls, character voices, title-screen customization, and PC combat/gacha tools.
@@ -10645,6 +10653,7 @@
 
 ## Unknown
 
+* 【2026-10-26】[typesafe-ai / skills](https://github.com/typesafe-ai/skills) - Agent skills for building with TypeSafe's System One API
 * 【2026-10-25】[rustsec / advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
 * 【2026-10-22】[xdash / FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) - FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
 * 【2026-10-18】[piomin / claude-ai-spring-boot](https://github.com/piomin/claude-ai-spring-boot) - Claude Code template for Spring Boot and other staff (included in the tags)
