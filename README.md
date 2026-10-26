@@ -7413,6 +7413,7 @@
 
 ## C++
 
+* 【2026-10-26】[psiberx / cp2077-archive-xl](https://github.com/psiberx/cp2077-archive-xl) - Cyberpunk 2077 mod that allows you to expand game resources without conflicts.
 * 【2026-10-25】[socquique / TamaPoke](https://github.com/socquique/TamaPoke) - A Pokemon Gen-1 Tamagotchi for the Waveshare ESP32-S3-Touch-AMOLED-1.75 round display — open firmware + one-click web installer. Case remixed from yoyothechicken's Pokeball.
 * 【2026-10-24】[wopss / RED4ext](https://github.com/wopss/RED4ext) - A script extender for REDengine 4 (Cyberpunk 2077).
 * 【2026-10-23】[jamro / tiny-engineer](https://github.com/jamro/tiny-engineer) - A small desktop robot that brings an AI coding assistant to life, physically acting out when it reads files, thinks, writes code, and finishes work.
