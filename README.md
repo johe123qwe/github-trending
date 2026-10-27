@@ -2867,6 +2867,8 @@
 
 ## Python
 
+* 【2026-10-27】[HKUDS / AutoSwarm](https://github.com/HKUDS/AutoSwarm) - AutoSwarm: All Your Agents, Working as One (Codex · Claude Code · DeepSeek Harness · Muse · Grok · WorkBuddy· nanobot · and more)
+* 【2026-10-27】[NVIDIA / auto-ontology](https://github.com/NVIDIA/auto-ontology) - Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 * 【2026-10-26】[eugeniughelbur / obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) - Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Grok Bot know what each other did. 48 commands: semantic search, self-rewriting notes, key-less research, scheduled agents.
 * 【2026-10-26】[higgsfield-ai / skills](https://github.com/higgsfield-ai/skills) - 
 * 【2026-10-26】[homeassistant-ai / ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server
@@ -4706,6 +4708,8 @@
 
 ## Javascript
 
+* 【2026-10-27】[hanliang97 / MatrixMedia](https://github.com/hanliang97/MatrixMedia) - 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli
+* 【2026-10-27】[QCYTSN / dsh-dafeiyu](https://github.com/QCYTSN/dsh-dafeiyu) - Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.
 * 【2026-10-23】[DeanChensj / jiangshan-map](https://github.com/DeanChensj/jiangshan-map) - 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
 * 【2026-10-22】[NomaDamas / CozyClay](https://github.com/NomaDamas/CozyClay) - Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
 * 【2026-10-21】[xmanrui / dsh-im](https://github.com/xmanrui/dsh-im) - 通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).
@@ -10653,6 +10657,7 @@
 
 ## Unknown
 
+* 【2026-10-27】[helloianneo / ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 * 【2026-10-26】[typesafe-ai / skills](https://github.com/typesafe-ai/skills) - Agent skills for building with TypeSafe's System One API
 * 【2026-10-25】[rustsec / advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
 * 【2026-10-22】[xdash / FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) - FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）
