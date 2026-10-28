@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-10-28】[elayadesign / ai-design-skills](https://github.com/elayadesign/ai-design-skills) - 
 * 【2026-10-26】[nightly-labs / openbot](https://github.com/nightly-labs/openbot) - A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.
 * 【2026-10-25】[JetBrains / thinkrail](https://github.com/JetBrains/thinkrail) - Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need
 * 【2026-10-24】[pollen-robotics / microduck](https://github.com/pollen-robotics/microduck) - A Tiny biped duck robot 🦆
