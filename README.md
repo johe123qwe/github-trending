@@ -2871,6 +2871,8 @@
 
 ## Python
 
+* 【2026-10-30】[kirodotdev / KiroCrew](https://github.com/kirodotdev/KiroCrew) - A persistent workspace for development work that self-improves and continues beyond one session.
+* 【2026-10-30】[ethanplusai / harvey](https://github.com/ethanplusai/harvey) - Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.
 * 【2026-10-28】[shitagaki-lab / see-through](https://github.com/shitagaki-lab/see-through) - "Single-image Layer Decomposition for Anime Characters" (SIGGRAPH 2026 Conference Paper)
 * 【2026-10-27】[HKUDS / AutoSwarm](https://github.com/HKUDS/AutoSwarm) - AutoSwarm: All Your Agents, Working as One (Codex · Claude Code · DeepSeek Harness · Muse · Grok · WorkBuddy· nanobot · and more)
 * 【2026-10-27】[NVIDIA / auto-ontology](https://github.com/NVIDIA/auto-ontology) - Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
@@ -4713,6 +4715,8 @@
 
 ## Javascript
 
+* 【2026-10-30】[IamRamgarhia / Free-GST-Billing-Software](https://github.com/IamRamgarhia/Free-GST-Billing-Software) - Free GST Billing Software — Free, open-source GST invoice & billing software. Tax Invoice, Proforma, Credit Note, Bill of Supply. CGST/SGST/IGST. Multi-currency. 100% offline, no signup. PWA installable.
+* 【2026-10-30】[Orkas-AI / Orkas](https://github.com/Orkas-AI/Orkas) - Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
 * 【2026-10-27】[hanliang97 / MatrixMedia](https://github.com/hanliang97/MatrixMedia) - 视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli
 * 【2026-10-27】[QCYTSN / dsh-dafeiyu](https://github.com/QCYTSN/dsh-dafeiyu) - Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.
 * 【2026-10-23】[DeanChensj / jiangshan-map](https://github.com/DeanChensj/jiangshan-map) - 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
@@ -6645,6 +6649,7 @@
 
 ## C
 
+* 【2026-10-30】[meta / zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 * 【2026-10-26】[fifthBro / mh2p-cluster](https://github.com/fifthBro/mh2p-cluster) - Bridge Android Auto and CarPlay navigation from Porsche PCM5 / MH2P to instrument cluster displays.
 * 【2026-10-17】[shardulvs / xnotes-android](https://github.com/shardulvs/xnotes-android) - A handwriting notes and sketching app for Android with stylus support
 * 【2026-10-16】[timescale / pg_vectorsearch](https://github.com/timescale/pg_vectorsearch) - High-performance vector search for PostgreSQL
@@ -8963,6 +8968,7 @@
 
 ## Html
 
+* 【2026-10-30】[zeabur / zeabur](https://github.com/zeabur/zeabur) - A platform that helps you deploy services with one click.
 * 【2026-10-23】[Hisn00w / ASu-skills](https://github.com/Hisn00w/ASu-skills) - 🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。
 * 【2026-10-22】[MengTo / threeui](https://github.com/MengTo/threeui) - Open-source ThreeUI Community catalog with live interactive components and complete Community source.
 * 【2026-10-17】[55gms / 55GMS](https://github.com/55gms/55GMS) - Your gateway to unblocked games and websites using our fast web proxy!
