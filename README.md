@@ -2871,6 +2871,8 @@
 
 ## Python
 
+* 【2026-10-31】[0x0funky / agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) - Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
+* 【2026-10-31】[The-PR-Agent / pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 * 【2026-10-30】[kirodotdev / KiroCrew](https://github.com/kirodotdev/KiroCrew) - A persistent workspace for development work that self-improves and continues beyond one session.
 * 【2026-10-30】[ethanplusai / harvey](https://github.com/ethanplusai/harvey) - Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.
 * 【2026-10-28】[shitagaki-lab / see-through](https://github.com/shitagaki-lab/see-through) - "Single-image Layer Decomposition for Anime Characters" (SIGGRAPH 2026 Conference Paper)
@@ -5781,6 +5783,7 @@
 
 ## Go
 
+* 【2026-10-31】[betterleaks / betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 * 【2026-10-18】[heartleo / zlib](https://github.com/heartleo/zlib) - A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents.
 * 【2026-10-18】[alvinunreal / lazyskills](https://github.com/alvinunreal/lazyskills) - mission control for agent skills
 * 【2026-10-18】[Mag1cFall / AIStudio2API](https://github.com/Mag1cFall/AIStudio2API) - 将AI Studio Playground和Build反代成API | AI Studio to OpenAI, Anthropic & Gemini Compatible API
@@ -8185,6 +8188,8 @@
 
 ## C#
 
+* 【2026-10-31】[Unity-Technologies / unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) - Unity plugin for third-party agent platforms
+* 【2026-10-31】[riyasy / FlyPhotos](https://github.com/riyasy/FlyPhotos) - A blazing fast ultra-light photo viewer replacement for Windows. Works similar to Picasa Photo Viewer.
 * 【2026-10-26】[patchzyy / Wiicompiled](https://github.com/patchzyy/Wiicompiled) - Wiicompiled
 * 【2026-10-25】[zqq-699 / BlockHelm-Launcher](https://github.com/zqq-699/BlockHelm-Launcher) - 简洁现代的 Minecraft Java 版启动器，支持实例、资源与账户管理。
 * 【2026-10-18】[ANYNC / TaskbarLyrics](https://github.com/ANYNC/TaskbarLyrics) - Windows 任务栏歌词工具
