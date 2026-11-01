@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2026-11-01】[beenuar / AiSOC](https://github.com/beenuar/AiSOC) - Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
+* 【2026-11-01】[anomalyco / hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
+* 【2026-11-01】[FlashML-org / FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
 * 【2026-10-29】[milind-soni / OpenMausBot](https://github.com/milind-soni/OpenMausBot) - Open-source Grok Bot alternative with a virtual machine that bots can use
 * 【2026-10-29】[CopilotKit / OpenBot](https://github.com/CopilotKit/OpenBot) - Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.
 * 【2026-10-28】[xiaolai / the-craft-of-selfteaching](https://github.com/xiaolai/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
@@ -2230,6 +2233,7 @@
 
 ## Java
 
+* 【2026-11-01】[appdevforall / CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) - Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
 * 【2026-10-24】[floci-io / floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 * 【2026-10-21】[kksimp / Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs
 * 【2026-10-14】[bk138 / droidVNC-NG](https://github.com/bk138/droidVNC-NG) - Android VNC remote desktop server for local networks
@@ -2871,6 +2875,8 @@
 
 ## Python
 
+* 【2026-11-01】[scenario-labs / skills](https://github.com/scenario-labs/skills) - Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
+* 【2026-11-01】[andreavolpato / spektrafilm](https://github.com/andreavolpato/spektrafilm) - Spectral simulation of analog photography processes
 * 【2026-10-31】[0x0funky / agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge) - Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.
 * 【2026-10-31】[The-PR-Agent / pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 * 【2026-10-30】[kirodotdev / KiroCrew](https://github.com/kirodotdev/KiroCrew) - A persistent workspace for development work that self-improves and continues beyond one session.
@@ -7437,6 +7443,8 @@
 
 ## C++
 
+* 【2026-11-01】[florinp93 / hells-gate-recomp](https://github.com/florinp93/hells-gate-recomp) - Xbox 360 to PC port of Dante's Inferno using ReXGlue (static recompilation)
+* 【2026-11-01】[guillaumeblanc / ozz-animation](https://github.com/guillaumeblanc/ozz-animation) - Open source c++ skeletal animation library and toolset
 * 【2026-10-29】[hypery11 / flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd) - Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind spot alert, high beam strobe, CAN capture, steering mode + more. Works via OBD-II or X179 connector.
 * 【2026-10-29】[dji-sdk / Cloud-API-2](https://github.com/dji-sdk/Cloud-API-2) - DJI Cloud API 2 Official Repository — a free PaaS for DJI docks and drones.
 * 【2026-10-29】[meta / rocksdb](https://github.com/meta/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
@@ -8188,6 +8196,7 @@
 
 ## C#
 
+* 【2026-11-01】[Topkill / tianruoocr](https://github.com/Topkill/tianruoocr) - 天若OCR开源6.0版本，续更开源5.0版，全新版本，全新出发
 * 【2026-10-31】[Unity-Technologies / unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) - Unity plugin for third-party agent platforms
 * 【2026-10-31】[riyasy / FlyPhotos](https://github.com/riyasy/FlyPhotos) - A blazing fast ultra-light photo viewer replacement for Windows. Works similar to Picasa Photo Viewer.
 * 【2026-10-26】[patchzyy / Wiicompiled](https://github.com/patchzyy/Wiicompiled) - Wiicompiled
@@ -10678,6 +10687,7 @@
 
 ## Unknown
 
+* 【2026-11-01】[bowlarbear / yeti-2.0](https://github.com/bowlarbear/yeti-2.0) - How to Securely Store Bitcoin
 * 【2026-10-27】[helloianneo / ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 * 【2026-10-26】[typesafe-ai / skills](https://github.com/typesafe-ai/skills) - Agent skills for building with TypeSafe's System One API
 * 【2026-10-25】[rustsec / advisory-db](https://github.com/rustsec/advisory-db) - Security advisory database for Rust crates published through crates.io
