@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-11-02】[vercel-labs / agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
 * 【2026-11-01】[beenuar / AiSOC](https://github.com/beenuar/AiSOC) - Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.
 * 【2026-11-01】[anomalyco / hex](https://github.com/anomalyco/hex) - Local voice dictation for mac, windows and linux
 * 【2026-11-01】[FlashML-org / FreeToken](https://github.com/FlashML-org/FreeToken) - FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.
@@ -2233,6 +2234,7 @@
 
 ## Java
 
+* 【2026-11-02】[mlmvpn / mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) - Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
 * 【2026-11-01】[appdevforall / CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) - Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
 * 【2026-10-24】[floci-io / floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 * 【2026-10-21】[kksimp / Mac.apk](https://github.com/kksimp/Mac.apk) - Mac.apk: Run Android apps natively on Apple Silicon Macs
@@ -5789,6 +5791,8 @@
 
 ## Go
 
+* 【2026-11-02】[egoist / kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents
+* 【2026-11-02】[warmbly / warmbly](https://github.com/warmbly/warmbly) - The largest open-source B2B cold outreach and email warmup service.
 * 【2026-10-31】[betterleaks / betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 * 【2026-10-18】[heartleo / zlib](https://github.com/heartleo/zlib) - A command-line tool for Z-Library. Search, download, send to Kindle, and integrate with AI agents.
 * 【2026-10-18】[alvinunreal / lazyskills](https://github.com/alvinunreal/lazyskills) - mission control for agent skills
