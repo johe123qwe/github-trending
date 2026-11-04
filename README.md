@@ -6668,6 +6668,7 @@
 
 ## C
 
+* 【2026-11-04】[YizhengWw / HachimoDock](https://github.com/YizhengWw/HachimoDock) - A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.
 * 【2026-10-30】[meta / zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 * 【2026-10-26】[fifthBro / mh2p-cluster](https://github.com/fifthBro/mh2p-cluster) - Bridge Android Auto and CarPlay navigation from Porsche PCM5 / MH2P to instrument cluster displays.
 * 【2026-10-17】[shardulvs / xnotes-android](https://github.com/shardulvs/xnotes-android) - A handwriting notes and sketching app for Android with stylus support
