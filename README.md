@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2026-11-04】[FareedKhan-dev / kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
+* 【2026-11-04】[JiaFeiMiao-K-Cat / DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) - 
+* 【2026-11-04】[Thysrael / Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
 * 【2026-11-03】[spotify / portal-ai-plugins](https://github.com/spotify/portal-ai-plugins) - 
 * 【2026-11-03】[Usagi-org / ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) - 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。
 * 【2026-11-02】[vercel-labs / agent-desktop](https://github.com/vercel-labs/agent-desktop) - Computer use CLI for AI agents
@@ -2236,6 +2239,8 @@
 
 ## Java
 
+* 【2026-11-04】[cyberkaida / reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) - MCP server for reverse engineering tasks in Ghidra 👩‍💻
+* 【2026-11-04】[dotnetdreamer / open-android-dex](https://github.com/dotnetdreamer/open-android-dex) - Turn any android phone into Desktop class experience including full linux environment without root
 * 【2026-11-03】[floci-io / floci-az](https://github.com/floci-io/floci-az) - Light, fluffy, and always free - Local Azure Emulator
 * 【2026-11-02】[mlmvpn / mlmvpn_android](https://github.com/mlmvpn/mlmvpn_android) - Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی
 * 【2026-11-01】[appdevforall / CodeOnTheGo](https://github.com/appdevforall/CodeOnTheGo) - Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.
@@ -5797,6 +5802,7 @@
 
 ## Go
 
+* 【2026-11-04】[mcpjungle / MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage & connect to all your MCP servers
 * 【2026-11-02】[egoist / kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents
 * 【2026-11-02】[warmbly / warmbly](https://github.com/warmbly/warmbly) - The largest open-source B2B cold outreach and email warmup service.
 * 【2026-10-31】[betterleaks / betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
@@ -7454,6 +7460,7 @@
 
 ## C++
 
+* 【2026-11-04】[dariulone / cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) - 
 * 【2026-11-03】[aardappel / goose](https://github.com/aardappel/goose) - The Goose Programming Language
 * 【2026-11-03】[jimmgreen / pulse](https://github.com/jimmgreen/pulse) - 为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。 | QQ Group 1043250162
 * 【2026-11-01】[florinp93 / hells-gate-recomp](https://github.com/florinp93/hells-gate-recomp) - Xbox 360 to PC port of Dante's Inferno using ReXGlue (static recompilation)
