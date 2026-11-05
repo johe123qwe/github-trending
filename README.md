@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-11-05】[vercel-labs / agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 * 【2026-11-04】[FareedKhan-dev / kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) - A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.
 * 【2026-11-04】[JiaFeiMiao-K-Cat / DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) - 
 * 【2026-11-04】[Thysrael / Horizon](https://github.com/Thysrael/Horizon) - 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达
@@ -2239,6 +2240,7 @@
 
 ## Java
 
+* 【2026-11-05】[openremote / core](https://github.com/openremote/core) - 100% open-source IoT Platform - Integrate your devices, add intelligence, build custom apps
 * 【2026-11-04】[cyberkaida / reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) - MCP server for reverse engineering tasks in Ghidra 👩‍💻
 * 【2026-11-04】[dotnetdreamer / open-android-dex](https://github.com/dotnetdreamer/open-android-dex) - Turn any android phone into Desktop class experience including full linux environment without root
 * 【2026-11-03】[floci-io / floci-az](https://github.com/floci-io/floci-az) - Light, fluffy, and always free - Local Azure Emulator
@@ -2885,6 +2887,7 @@
 
 ## Python
 
+* 【2026-11-05】[sandbox-quantum / switch](https://github.com/sandbox-quantum/switch) - Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model.
 * 【2026-11-03】[Yuan1z0825 / nature-skills](https://github.com/Yuan1z0825/nature-skills) - 符合nature论文学术表达和科研绘图的Skill
 * 【2026-11-03】[AminBlg / SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
 * 【2026-11-01】[scenario-labs / skills](https://github.com/scenario-labs/skills) - Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.
@@ -4735,6 +4738,7 @@
 
 ## Javascript
 
+* 【2026-11-05】[HunYiSage / dsh-purge](https://github.com/HunYiSage/dsh-purge) - DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
 * 【2026-11-03】[csyangwen / dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) - 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。
 * 【2026-10-30】[IamRamgarhia / Free-GST-Billing-Software](https://github.com/IamRamgarhia/Free-GST-Billing-Software) - Free GST Billing Software — Free, open-source GST invoice & billing software. Tax Invoice, Proforma, Credit Note, Bill of Supply. CGST/SGST/IGST. Multi-currency. 100% offline, no signup. PWA installable.
 * 【2026-10-30】[Orkas-AI / Orkas](https://github.com/Orkas-AI/Orkas) - Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.
@@ -5802,6 +5806,8 @@
 
 ## Go
 
+* 【2026-11-05】[openchoreo / openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
+* 【2026-11-05】[dsx-ai-factory / nvke](https://github.com/dsx-ai-factory/nvke) - NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.
 * 【2026-11-04】[mcpjungle / MCPJungle](https://github.com/mcpjungle/MCPJungle) - One place to manage & connect to all your MCP servers
 * 【2026-11-02】[egoist / kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents
 * 【2026-11-02】[warmbly / warmbly](https://github.com/warmbly/warmbly) - The largest open-source B2B cold outreach and email warmup service.
@@ -7460,6 +7466,7 @@
 
 ## C++
 
+* 【2026-11-05】[ARMSX2 / ARMSX3](https://github.com/ARMSX2/ARMSX3) - Android port of RPCS3 for ARM64 devices. From one of the founders of ARMSX2: jpolo1224
 * 【2026-11-04】[dariulone / cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) - 
 * 【2026-11-03】[aardappel / goose](https://github.com/aardappel/goose) - The Goose Programming Language
 * 【2026-11-03】[jimmgreen / pulse](https://github.com/jimmgreen/pulse) - 为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。 | QQ Group 1043250162
