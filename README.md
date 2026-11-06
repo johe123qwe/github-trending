@@ -2887,6 +2887,7 @@
 
 ## Python
 
+* 【2026-11-06】[antoniaci / blackbird](https://github.com/antoniaci/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
 * 【2026-11-05】[sandbox-quantum / switch](https://github.com/sandbox-quantum/switch) - Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model.
 * 【2026-11-03】[Yuan1z0825 / nature-skills](https://github.com/Yuan1z0825/nature-skills) - 符合nature论文学术表达和科研绘图的Skill
 * 【2026-11-03】[AminBlg / SimpleEnglish](https://github.com/AminBlg/SimpleEnglish) - Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
@@ -4738,6 +4739,7 @@
 
 ## Javascript
 
+* 【2026-11-06】[HaD0Yun / CozyClay](https://github.com/HaD0Yun/CozyClay) - Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
 * 【2026-11-05】[HunYiSage / dsh-purge](https://github.com/HunYiSage/dsh-purge) - DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
 * 【2026-11-03】[csyangwen / dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) - 为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。
 * 【2026-10-30】[IamRamgarhia / Free-GST-Billing-Software](https://github.com/IamRamgarhia/Free-GST-Billing-Software) - Free GST Billing Software — Free, open-source GST invoice & billing software. Tax Invoice, Proforma, Credit Note, Bill of Supply. CGST/SGST/IGST. Multi-currency. 100% offline, no signup. PWA installable.
@@ -7466,6 +7468,7 @@
 
 ## C++
 
+* 【2026-11-06】[synfig / synfig](https://github.com/synfig/synfig) - This is the Official source code repository of Synfig Studio animation software
 * 【2026-11-05】[ARMSX2 / ARMSX3](https://github.com/ARMSX2/ARMSX3) - Android port of RPCS3 for ARM64 devices. From one of the founders of ARMSX2: jpolo1224
 * 【2026-11-04】[dariulone / cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) - 
 * 【2026-11-03】[aardappel / goose](https://github.com/aardappel/goose) - The Goose Programming Language
@@ -8223,6 +8226,7 @@
 
 ## C#
 
+* 【2026-11-06】[MoFeng2223 / BrimDeck](https://github.com/MoFeng2223/BrimDeck) - A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
 * 【2026-11-01】[Topkill / tianruoocr](https://github.com/Topkill/tianruoocr) - 天若OCR开源6.0版本，续更开源5.0版，全新版本，全新出发
 * 【2026-10-31】[Unity-Technologies / unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) - Unity plugin for third-party agent platforms
 * 【2026-10-31】[riyasy / FlyPhotos](https://github.com/riyasy/FlyPhotos) - A blazing fast ultra-light photo viewer replacement for Windows. Works similar to Picasa Photo Viewer.
@@ -9009,6 +9013,8 @@
 
 ## Html
 
+* 【2026-11-06】[plannotator / effective-html](https://github.com/plannotator/effective-html) - Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams.
+* 【2026-11-06】[naveedharri / baalda](https://github.com/naveedharri/baalda) - The team second brain. Plain Markdown files on your disk, edited together in real time, and read and written by your AI like a teammate.
 * 【2026-10-30】[zeabur / zeabur](https://github.com/zeabur/zeabur) - A platform that helps you deploy services with one click.
 * 【2026-10-23】[Hisn00w / ASu-skills](https://github.com/Hisn00w/ASu-skills) - 🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。
 * 【2026-10-22】[MengTo / threeui](https://github.com/MengTo/threeui) - Open-source ThreeUI Community catalog with live interactive components and complete Community source.
@@ -10714,6 +10720,7 @@
 
 ## Unknown
 
+* 【2026-11-06】[hudl / open-data](https://github.com/hudl/open-data) - Free football data from StatsBomb
 * 【2026-11-01】[bowlarbear / yeti-2.0](https://github.com/bowlarbear/yeti-2.0) - How to Securely Store Bitcoin
 * 【2026-10-27】[helloianneo / ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
 * 【2026-10-26】[typesafe-ai / skills](https://github.com/typesafe-ai/skills) - Agent skills for building with TypeSafe's System One API
