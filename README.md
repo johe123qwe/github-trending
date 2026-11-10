@@ -2891,6 +2891,7 @@
 
 ## Python
 
+* 【2026-11-10】[snap-stanford / memorilla](https://github.com/snap-stanford/memorilla) - 🦍 Memorilla: Latent Semantic Memory for LLMs
 * 【2026-11-09】[opensandbox-group / OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 * 【2026-11-08】[googlecolab / google-colab-cli](https://github.com/googlecolab/google-colab-cli) - A CLI for interacting with Google Colab runtimes
 * 【2026-11-06】[antoniaci / blackbird](https://github.com/antoniaci/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
