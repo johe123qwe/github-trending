@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2026-11-13】[backnotprop / plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
+* 【2026-11-13】[tradermonty / claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) - Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
+* 【2026-11-13】[Likely7 / Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) - Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
 * 【2026-11-12】[pookjw / HermesEnabler](https://github.com/pookjw/HermesEnabler) - Enable Hermès Watch Faces on any Apple Watch devices
 * 【2026-11-11】[GoogleChrome / modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
 * 【2026-11-11】[openai / codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
@@ -2895,6 +2898,9 @@
 
 ## Python
 
+* 【2026-11-13】[avenoxai / avenoxbeyin](https://github.com/avenoxai/avenoxbeyin) - Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md
+* 【2026-11-13】[realiti4 / claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions
+* 【2026-11-13】[kajisho5 / ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.
 * 【2026-11-12】[oaustegard / claude-skills](https://github.com/oaustegard/claude-skills) - My collection of Claude skills
 * 【2026-11-12】[NVIDIA / SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
 * 【2026-11-11】[googleads / google-ads-mcp](https://github.com/googleads/google-ads-mcp) - 
@@ -5824,6 +5830,7 @@
 
 ## Go
 
+* 【2026-11-13】[vernette / warpscout](https://github.com/vernette/warpscout) - 🛰️ Cloudflare WARP endpoint scanner - find working endpoints over wg/awg/masque and see the exit region and edge node they land on
 * 【2026-11-12】[databricks / cli](https://github.com/databricks/cli) - Databricks CLI
 * 【2026-11-11】[Tencent / LoopForge](https://github.com/Tencent/LoopForge) - Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
 * 【2026-11-11】[unstablebuild / rune](https://github.com/unstablebuild/rune) - a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and manual programming.
@@ -7490,6 +7497,8 @@
 
 ## C++
 
+* 【2026-11-13】[wszqkzqk / PvZ-Portable](https://github.com/wszqkzqk/PvZ-Portable) - A cross-platform reimplementation of Plants vs. Zombies by the community. Aiming to bring 100% authentic experience of GOTY edition.
+* 【2026-11-13】[eugeniosegala / MAKO](https://github.com/eugeniosegala/MAKO) - Next-generation, Vulkan-powered graphics layer for Linux gaming, bringing frame generation, scaling and more, to Steam Deck, Steam Machine and desktop Linux.
 * 【2026-11-11】[mg-chao / snow-shot](https://github.com/mg-chao/snow-shot) - Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。
 * 【2026-11-09】[JakeATX / llamAmpere](https://github.com/JakeATX/llamAmpere) - llama.cpp fork for significantly improved performance on Ampere generation Nvidia cards (especially RTX 3090 / 3090 Ti): example: 110+ tok/s over a 100K-token generation at temperature 1 for qwen3.8, supporting full 262K ctx. Supports low memory (12gb) configs for 200k+ ctx. 120+ TPS, 3300+ prefill for QFN 3.8.
 * 【2026-11-09】[skizzophrenic / SquachWatch-CYD](https://github.com/skizzophrenic/SquachWatch-CYD) - SquachWatch is a firmware for the Cheap Yellow Display that gamifies detecting things like Flock Cameras, Trackers, Meta Glasses and so much more!
@@ -9041,6 +9050,8 @@
 
 ## Html
 
+* 【2026-11-13】[eternity4719 / HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
+* 【2026-11-13】[nautilus-os / GUST](https://github.com/nautilus-os/GUST) - GUST is a powerful, modern web proxy designed by the Nautilus Labs dev team for especially restrictive environments. It's a fully static, single HTML file allows it to be downloaded, shared, and distributed with ease, and with no reliance on serviceworkers, GUST can be used without the need to host it on an admin-blockable website.
 * 【2026-11-11】[fanhao375 / microduck-replica](https://github.com/fanhao375/microduck-replica) - Microduck 复刻：飞特 HD-1910 整机已实机验证（站立、行走、前滚翻起身）。镜像、Studio 网页中控、CAD/BOM、装配教程、电路工程与训练平台 | Microduck robot replica with real hardware demos.
 * 【2026-11-09】[Weiss-UltimateSavior / Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) - 多引擎视觉小说（Galgame）模拟器，面向 Android 平台。内置 Kirikiri / ONScripter / Tyrano / Artemis / Siglus / FVP 六套引擎运行环境，并支持 Ren'Py、RPG Maker RGSS 外置 APK 引擎模块与 PSP / Nintendo Switch 外置模拟器跳转（PPSSPP / Eden），可识别和启动多类游戏，提供游戏库管理、封面获取、存档镜像、引擎参数调节等一体化体验。
 * 【2026-11-08】[sdli1995 / dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) - Here is a dlssg for RTX30 Series GPU
@@ -10751,6 +10762,8 @@
 
 ## Unknown
 
+* 【2026-11-13】[NapNeko / NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework
+* 【2026-11-13】[zenfyrdev / bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 * 【2026-11-09】[github / copilot-app-for-beginners](https://github.com/github/copilot-app-for-beginners) - Learn how to get started using the GitHub Copilot app!
 * 【2026-11-06】[hudl / open-data](https://github.com/hudl/open-data) - Free football data from StatsBomb
 * 【2026-11-01】[bowlarbear / yeti-2.0](https://github.com/bowlarbear/yeti-2.0) - How to Securely Store Bitcoin
