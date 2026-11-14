@@ -7,6 +7,9 @@
 
 ## All language
 
+* 【2026-11-14】[ag-ui-protocol / ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
+* 【2026-11-14】[martin-olivier / airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software
+* 【2026-11-14】[Stapxs / Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) - 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！
 * 【2026-11-13】[backnotprop / plannotator](https://github.com/backnotprop/plannotator) - The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.
 * 【2026-11-13】[tradermonty / claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) - Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.
 * 【2026-11-13】[Likely7 / Veyra-NRVideo](https://github.com/Likely7/Veyra-NRVideo) - Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.
@@ -2898,6 +2901,11 @@
 
 ## Python
 
+* 【2026-11-14】[andrewyng / openworker](https://github.com/andrewyng/openworker) - 
+* 【2026-11-14】[elementalsouls / Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+* 【2026-11-14】[pnnbao97 / VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS) - Vietnamese TTS with instant voice cloning • On-device • Real-time CPU inference • 48kHz audio quality • Chuyển văn bản thành giọng nói tiếng Việt • Text to speech tiếng Việt • TTS tiếng Việt
+* 【2026-11-14】[microsoft / PyRIT](https://github.com/microsoft/PyRIT) - Open-source AI red teaming toolkit from Microsoft. Test generative AI systems with automated scans, adaptive multi-turn attacks, and a web UI.
+* 【2026-11-14】[FujiwaraChoki / supoclip](https://github.com/FujiwaraChoki/supoclip) - An open-source OpusClip alternative
 * 【2026-11-13】[avenoxai / avenoxbeyin](https://github.com/avenoxai/avenoxbeyin) - Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md
 * 【2026-11-13】[realiti4 / claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions
 * 【2026-11-13】[kajisho5 / ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) - Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.
@@ -6711,6 +6719,7 @@
 
 ## C
 
+* 【2026-11-14】[Rhizomatica / mercury](https://github.com/Rhizomatica/mercury) - Mercury is a Digital Radio OFDM protocol for HF broadcast and peer-to-peer ARQ connections with compatible TCP interfaces
 * 【2026-11-04】[YizhengWw / HachimoDock](https://github.com/YizhengWw/HachimoDock) - A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.
 * 【2026-10-30】[meta / zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 * 【2026-10-26】[fifthBro / mh2p-cluster](https://github.com/fifthBro/mh2p-cluster) - Bridge Android Auto and CarPlay navigation from Porsche PCM5 / MH2P to instrument cluster displays.
@@ -7497,6 +7506,8 @@
 
 ## C++
 
+* 【2026-11-14】[kunkundi / crossdesk](https://github.com/kunkundi/crossdesk) - A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。
+* 【2026-11-14】[Helldez / BigMoeOnEdge](https://github.com/Helldez/BigMoeOnEdge) - Run MoE models bigger than your RAM. Frontier-size MoE on a phone, laptop, edge. Lossless, on stock llama.cpp. An adaptive streaming optimizer. Any hardware, any OS, any model, any quantization, behind a local OpenAI-compatible server.
 * 【2026-11-13】[wszqkzqk / PvZ-Portable](https://github.com/wszqkzqk/PvZ-Portable) - A cross-platform reimplementation of Plants vs. Zombies by the community. Aiming to bring 100% authentic experience of GOTY edition.
 * 【2026-11-13】[eugeniosegala / MAKO](https://github.com/eugeniosegala/MAKO) - Next-generation, Vulkan-powered graphics layer for Linux gaming, bringing frame generation, scaling and more, to Steam Deck, Steam Machine and desktop Linux.
 * 【2026-11-11】[mg-chao / snow-shot](https://github.com/mg-chao/snow-shot) - Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。
@@ -9050,6 +9061,8 @@
 
 ## Html
 
+* 【2026-11-14】[jephersonRD / PC-Free](https://github.com/jephersonRD/PC-Free) - ☁️ Free Windows 10 Cloud Desktop - Run Windows in your browser without installation | Self-hosted virtual PC
+* 【2026-11-14】[wdcpclover / ai4paper](https://github.com/wdcpclover/ai4paper) - PDF 全文翻译，保留排版双语对照 · 2.4 亿文献检索一键入库 · 文库知识库问答 · AI 精读论文、综述与思维导图 · 列表直显期刊分区 / 中科院 / JCR / 影响因子 · 免插件网页版 app.ai4paper.pro · 适配 Zotero 7–10
 * 【2026-11-13】[eternity4719 / HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 * 【2026-11-13】[nautilus-os / GUST](https://github.com/nautilus-os/GUST) - GUST is a powerful, modern web proxy designed by the Nautilus Labs dev team for especially restrictive environments. It's a fully static, single HTML file allows it to be downloaded, shared, and distributed with ease, and with no reliance on serviceworkers, GUST can be used without the need to host it on an admin-blockable website.
 * 【2026-11-11】[fanhao375 / microduck-replica](https://github.com/fanhao375/microduck-replica) - Microduck 复刻：飞特 HD-1910 整机已实机验证（站立、行走、前滚翻起身）。镜像、Studio 网页中控、CAD/BOM、装配教程、电路工程与训练平台 | Microduck robot replica with real hardware demos.
