@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-11-16】[google-research / paper-orchestra](https://github.com/google-research/paper-orchestra) - PaperOrchestra is a multi-agent framework for automated AI research paper writing.
 * 【2026-11-14】[ag-ui-protocol / ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 * 【2026-11-14】[martin-olivier / airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software
 * 【2026-11-14】[Stapxs / Stapxs-QQ-Lite-2.0](https://github.com/Stapxs/Stapxs-QQ-Lite-2.0) - 一个兼容 OneBot 协议的第三方 QQ 客户端。 Web、全平台实现！
@@ -2254,6 +2255,8 @@
 
 ## Java
 
+* 【2026-11-16】[LiteLDev / LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android) - LeviLauncher for Android
+* 【2026-11-16】[TelegramMessenger / Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android) - Telegram for Android source
 * 【2026-11-05】[openremote / core](https://github.com/openremote/core) - 100% open-source IoT Platform - Integrate your devices, add intelligence, build custom apps
 * 【2026-11-04】[cyberkaida / reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant) - MCP server for reverse engineering tasks in Ghidra 👩‍💻
 * 【2026-11-04】[dotnetdreamer / open-android-dex](https://github.com/dotnetdreamer/open-android-dex) - Turn any android phone into Desktop class experience including full linux environment without root
@@ -2901,6 +2904,7 @@
 
 ## Python
 
+* 【2026-11-16】[vstorm-co / agenticos](https://github.com/vstorm-co/agenticos) - Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI.
 * 【2026-11-15】[bojieli / ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
 * 【2026-11-14】[andrewyng / openworker](https://github.com/andrewyng/openworker) - 
 * 【2026-11-14】[elementalsouls / Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
@@ -4768,6 +4772,7 @@
 
 ## Javascript
 
+* 【2026-11-16】[jessepinkman9900 / claude-second-brain](https://github.com/jessepinkman9900/claude-second-brain) - Fastest way to scaffold your LLM powered personal knowledge base - Obsidian, Claude Code, qmd, Github
 * 【2026-11-07】[babygoton / WorkDaddy](https://github.com/babygoton/WorkDaddy) - WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。
 * 【2026-11-07】[cobusgreyling / grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - The engineering kit for Grok Bot templates. Spec, Bot Ready score, teams, skills, routines, and a catalog you can paste into Grok Bot today.
 * 【2026-11-06】[HaD0Yun / CozyClay](https://github.com/HaD0Yun/CozyClay) - Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
@@ -5839,6 +5844,7 @@
 
 ## Go
 
+* 【2026-11-16】[gnacho / netpulse](https://github.com/gnacho/netpulse) - PWA dashboard for monitoring OpenWrt/GL.iNet home networks: fleet status, per-router health, devices, WireGuard peers, AdGuard Home stats and alerts in real time (SSE). Go backend + React 19 frontend, SQLite, multi-user, i18n ES/EN.
 * 【2026-11-15】[HuskerMinion / techo5](https://github.com/HuskerMinion/techo5) - Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.
 * 【2026-11-13】[vernette / warpscout](https://github.com/vernette/warpscout) - 🛰️ Cloudflare WARP endpoint scanner - find working endpoints over wg/awg/masque and see the exit region and edge node they land on
 * 【2026-11-12】[databricks / cli](https://github.com/databricks/cli) - Databricks CLI
