@@ -2904,6 +2904,7 @@
 
 ## Python
 
+* 【2026-11-17】[3441293738 / creatorhub](https://github.com/3441293738/creatorhub) - 多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok
 * 【2026-11-16】[vstorm-co / agenticos](https://github.com/vstorm-co/agenticos) - Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI.
 * 【2026-11-15】[bojieli / ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
 * 【2026-11-14】[andrewyng / openworker](https://github.com/andrewyng/openworker) - 
@@ -4772,6 +4773,8 @@
 
 ## Javascript
 
+* 【2026-11-17】[Minglink / dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) - DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进
+* 【2026-11-17】[aliyun / ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook) - A practical guide to building enterprise AI agents across their full lifecycle.
 * 【2026-11-16】[jessepinkman9900 / claude-second-brain](https://github.com/jessepinkman9900/claude-second-brain) - Fastest way to scaffold your LLM powered personal knowledge base - Obsidian, Claude Code, qmd, Github
 * 【2026-11-07】[babygoton / WorkDaddy](https://github.com/babygoton/WorkDaddy) - WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。
 * 【2026-11-07】[cobusgreyling / grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - The engineering kit for Grok Bot templates. Spec, Bot Ready score, teams, skills, routines, and a catalog you can paste into Grok Bot today.
@@ -5844,6 +5847,7 @@
 
 ## Go
 
+* 【2026-11-17】[basketikun / chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件
 * 【2026-11-16】[gnacho / netpulse](https://github.com/gnacho/netpulse) - PWA dashboard for monitoring OpenWrt/GL.iNet home networks: fleet status, per-router health, devices, WireGuard peers, AdGuard Home stats and alerts in real time (SSE). Go backend + React 19 frontend, SQLite, multi-user, i18n ES/EN.
 * 【2026-11-15】[HuskerMinion / techo5](https://github.com/HuskerMinion/techo5) - Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.
 * 【2026-11-13】[vernette / warpscout](https://github.com/vernette/warpscout) - 🛰️ Cloudflare WARP endpoint scanner - find working endpoints over wg/awg/masque and see the exit region and edge node they land on
@@ -7514,6 +7518,7 @@
 
 ## C++
 
+* 【2026-11-17】[clice-io / clice](https://github.com/clice-io/clice) - A C/C++, Objective-C and CUDA language server built on Clang: crash-isolated worker processes, C++20 modules and compilation contexts out of the box, plus a CLI to index, query and refactor whole projects.
 * 【2026-11-15】[sonicnext-dev / MarathonRecomp](https://github.com/sonicnext-dev/MarathonRecomp) - An unofficial PC port of the Xbox 360 version of Sonic the Hedgehog (2006) created through the process of static recompilation
 * 【2026-11-15】[SunshineStream / Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
 * 【2026-11-14】[kunkundi / crossdesk](https://github.com/kunkundi/crossdesk) - A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。
@@ -10785,6 +10790,8 @@
 
 ## Unknown
 
+* 【2026-11-17】[nowork-studio / notfair-plugin](https://github.com/nowork-studio/notfair-plugin) - Open-source SEO, GEO, and marketing skills for AI agents.
+* 【2026-11-17】[LottieFiles / motion-design-skill](https://github.com/LottieFiles/motion-design-skill) - Universal motion design principles for AI agents — timing, easing, choreography, and Disney animation principles adapted for UI
 * 【2026-11-13】[NapNeko / NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework
 * 【2026-11-13】[zenfyrdev / bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 * 【2026-11-09】[github / copilot-app-for-beginners](https://github.com/github/copilot-app-for-beginners) - Learn how to get started using the GitHub Copilot app!
