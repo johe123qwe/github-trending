@@ -2255,6 +2255,8 @@
 
 ## Java
 
+* 【2026-11-18】[microsoft / copilot-sdk](https://github.com/microsoft/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+* 【2026-11-18】[Aizistral-Studios / No-Chat-Restrictions](https://github.com/Aizistral-Studios/No-Chat-Restrictions) - A Minecraft mod dedicated to removing restrictions around the use of multiplayer features, including in-game chat.
 * 【2026-11-16】[LiteLDev / LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android) - LeviLauncher for Android
 * 【2026-11-16】[TelegramMessenger / Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android) - Telegram for Android source
 * 【2026-11-05】[openremote / core](https://github.com/openremote/core) - 100% open-source IoT Platform - Integrate your devices, add intelligence, build custom apps
@@ -2904,6 +2906,8 @@
 
 ## Python
 
+* 【2026-11-18】[Dodaios / Dodaios](https://github.com/Dodaios/Dodaios) - One workspace for everything you do with AI: Claude Code, Codex and seven more coding agents side by side, one assistant that runs them, voice, and docs. Open source, on your computer, on your own plans and keys. Formerly Personal Jarvis.
+* 【2026-11-18】[ethanplusai / sellbird](https://github.com/ethanplusai/sellbird) - Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.
 * 【2026-11-17】[3441293738 / creatorhub](https://github.com/3441293738/creatorhub) - 多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok
 * 【2026-11-16】[vstorm-co / agenticos](https://github.com/vstorm-co/agenticos) - Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI.
 * 【2026-11-15】[bojieli / ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
@@ -4773,6 +4777,8 @@
 
 ## Javascript
 
+* 【2026-11-18】[qwdwqfwq / topconf-paper-figure-gallery](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) - 3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting
+* 【2026-11-18】[pugarte7 / spanish-top-tech-companies](https://github.com/pugarte7/spanish-top-tech-companies) - MCP con las mejores ofertas tech de España, para que tus agentes puedan aplicar por ti de forma automática.
 * 【2026-11-17】[Minglink / dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) - DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进
 * 【2026-11-17】[aliyun / ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook) - A practical guide to building enterprise AI agents across their full lifecycle.
 * 【2026-11-16】[jessepinkman9900 / claude-second-brain](https://github.com/jessepinkman9900/claude-second-brain) - Fastest way to scaffold your LLM powered personal knowledge base - Obsidian, Claude Code, qmd, Github
@@ -7518,6 +7524,7 @@
 
 ## C++
 
+* 【2026-11-18】[incoai / splash](https://github.com/incoai/splash) - A local inference engine for Apple silicon, built around the model.
 * 【2026-11-17】[clice-io / clice](https://github.com/clice-io/clice) - A C/C++, Objective-C and CUDA language server built on Clang: crash-isolated worker processes, C++20 modules and compilation contexts out of the box, plus a CLI to index, query and refactor whole projects.
 * 【2026-11-15】[sonicnext-dev / MarathonRecomp](https://github.com/sonicnext-dev/MarathonRecomp) - An unofficial PC port of the Xbox 360 version of Sonic the Hedgehog (2006) created through the process of static recompilation
 * 【2026-11-15】[SunshineStream / Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -10790,6 +10797,7 @@
 
 ## Unknown
 
+* 【2026-11-18】[jdnei / JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian) - 2026最新好用的机场推荐与节点分享
 * 【2026-11-17】[nowork-studio / notfair-plugin](https://github.com/nowork-studio/notfair-plugin) - Open-source SEO, GEO, and marketing skills for AI agents.
 * 【2026-11-17】[LottieFiles / motion-design-skill](https://github.com/LottieFiles/motion-design-skill) - Universal motion design principles for AI agents — timing, easing, choreography, and Disney animation principles adapted for UI
 * 【2026-11-13】[NapNeko / NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework
