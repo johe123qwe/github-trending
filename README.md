@@ -7,6 +7,7 @@
 
 ## All language
 
+* 【2026-11-19】[mjmirza / app-store-compliance](https://github.com/mjmirza/app-store-compliance) - Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
 * 【2026-11-16】[google-research / paper-orchestra](https://github.com/google-research/paper-orchestra) - PaperOrchestra is a multi-agent framework for automated AI research paper writing.
 * 【2026-11-14】[ag-ui-protocol / ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 * 【2026-11-14】[martin-olivier / airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software
@@ -2906,6 +2907,9 @@
 
 ## Python
 
+* 【2026-11-19】[awslabs / cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions
+* 【2026-11-19】[FlashML-org / FreeVideo](https://github.com/FlashML-org/FreeVideo) - Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.
+* 【2026-11-19】[phone-harness / phone-harness](https://github.com/phone-harness/phone-harness) - let your agent control your phone
 * 【2026-11-18】[Dodaios / Dodaios](https://github.com/Dodaios/Dodaios) - One workspace for everything you do with AI: Claude Code, Codex and seven more coding agents side by side, one assistant that runs them, voice, and docs. Open source, on your computer, on your own plans and keys. Formerly Personal Jarvis.
 * 【2026-11-18】[ethanplusai / sellbird](https://github.com/ethanplusai/sellbird) - Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.
 * 【2026-11-17】[3441293738 / creatorhub](https://github.com/3441293738/creatorhub) - 多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok
@@ -4777,6 +4781,7 @@
 
 ## Javascript
 
+* 【2026-11-19】[micromatch / picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, i…
 * 【2026-11-18】[qwdwqfwq / topconf-paper-figure-gallery](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) - 3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting
 * 【2026-11-18】[pugarte7 / spanish-top-tech-companies](https://github.com/pugarte7/spanish-top-tech-companies) - MCP con las mejores ofertas tech de España, para que tus agentes puedan aplicar por ti de forma automática.
 * 【2026-11-17】[Minglink / dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) - DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进
@@ -5853,6 +5858,7 @@
 
 ## Go
 
+* 【2026-11-19】[datazip-inc / olake-go](https://github.com/datazip-inc/olake-go) - OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion.
 * 【2026-11-17】[basketikun / chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件
 * 【2026-11-16】[gnacho / netpulse](https://github.com/gnacho/netpulse) - PWA dashboard for monitoring OpenWrt/GL.iNet home networks: fleet status, per-router health, devices, WireGuard peers, AdGuard Home stats and alerts in real time (SSE). Go backend + React 19 frontend, SQLite, multi-user, i18n ES/EN.
 * 【2026-11-15】[HuskerMinion / techo5](https://github.com/HuskerMinion/techo5) - Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.
@@ -6737,6 +6743,7 @@
 
 ## C
 
+* 【2026-11-19】[LiberNT / LiberNT](https://github.com/LiberNT/LiberNT) - A free Windows-compatible Operating System
 * 【2026-11-14】[Rhizomatica / mercury](https://github.com/Rhizomatica/mercury) - Mercury is a Digital Radio OFDM protocol for HF broadcast and peer-to-peer ARQ connections with compatible TCP interfaces
 * 【2026-11-04】[YizhengWw / HachimoDock](https://github.com/YizhengWw/HachimoDock) - A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.
 * 【2026-10-30】[meta / zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
@@ -7524,6 +7531,7 @@
 
 ## C++
 
+* 【2026-11-19】[intrinsic-ai / intrinsic-core](https://github.com/intrinsic-ai/intrinsic-core) - Intrinsic Core™ provides an open, local runtime, SDK, and hardware agnostic, real-time control framework for industrial robotics.
 * 【2026-11-18】[incoai / splash](https://github.com/incoai/splash) - A local inference engine for Apple silicon, built around the model.
 * 【2026-11-17】[clice-io / clice](https://github.com/clice-io/clice) - A C/C++, Objective-C and CUDA language server built on Clang: crash-isolated worker processes, C++20 modules and compilation contexts out of the box, plus a CLI to index, query and refactor whole projects.
 * 【2026-11-15】[sonicnext-dev / MarathonRecomp](https://github.com/sonicnext-dev/MarathonRecomp) - An unofficial PC port of the Xbox 360 version of Sonic the Hedgehog (2006) created through the process of static recompilation
@@ -8295,6 +8303,7 @@
 
 ## C#
 
+* 【2026-11-19】[dlsandy / Transub-Player](https://github.com/dlsandy/Transub-Player) - Open a video. Subtitles follow. Windows player with live dual-language subtitles.
 * 【2026-11-07】[ItsJokerZz / FPKGi](https://github.com/ItsJokerZz/FPKGi) - FPKGi is an open-source clone of the PKGi homebrew by Bucanero for PSP, Vita, and PS3. It retains the beloved functionality, UI, background image, and music while bringing the experience back to the latest console generations. It supports custom fake package (FPKG) content via .json files & more! It's ideal for game preservation and personal use.
 * 【2026-11-06】[MoFeng2223 / BrimDeck](https://github.com/MoFeng2223/BrimDeck) - A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
 * 【2026-11-01】[Topkill / tianruoocr](https://github.com/Topkill/tianruoocr) - 天若OCR开源6.0版本，续更开源5.0版，全新版本，全新出发
@@ -10797,6 +10806,7 @@
 
 ## Unknown
 
+* 【2026-11-19】[punkpeye / awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) - A collection of remote MCP servers.
 * 【2026-11-18】[jdnei / JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian) - 2026最新好用的机场推荐与节点分享
 * 【2026-11-17】[nowork-studio / notfair-plugin](https://github.com/nowork-studio/notfair-plugin) - Open-source SEO, GEO, and marketing skills for AI agents.
 * 【2026-11-17】[LottieFiles / motion-design-skill](https://github.com/LottieFiles/motion-design-skill) - Universal motion design principles for AI agents — timing, easing, choreography, and Disney animation principles adapted for UI
