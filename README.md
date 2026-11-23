@@ -2907,6 +2907,7 @@
 
 ## Python
 
+* 【2026-11-23】[samuelgursky / davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server integration for DaVinci Resolve Studio
 * 【2026-11-19】[awslabs / cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions
 * 【2026-11-19】[FlashML-org / FreeVideo](https://github.com/FlashML-org/FreeVideo) - Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.
 * 【2026-11-19】[phone-harness / phone-harness](https://github.com/phone-harness/phone-harness) - let your agent control your phone
