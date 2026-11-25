@@ -4782,6 +4782,7 @@
 
 ## Javascript
 
+* 【2026-11-25】[qqxpee / antigravity2-cn](https://github.com/qqxpee/antigravity2-cn) - 🚀 Antigravity 2.0 Chinese Localization Suite & Injector. 专为 2.0 新版 Electron 架构量身定制的零依赖中文汉化包。基于 ASAR 物理层动态包注入机制，完美汉化界面、系统菜单、任务栏托盘及设置面板，支持一键极速安装与无痕还原。
 * 【2026-11-19】[micromatch / picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, i…
 * 【2026-11-18】[qwdwqfwq / topconf-paper-figure-gallery](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) - 3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting
 * 【2026-11-18】[pugarte7 / spanish-top-tech-companies](https://github.com/pugarte7/spanish-top-tech-companies) - MCP con las mejores ofertas tech de España, para que tus agentes puedan aplicar por ti de forma automática.
