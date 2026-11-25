@@ -6745,6 +6745,7 @@
 
 ## C
 
+* 【2026-11-25】[CroqueMr / libreelec-CB1](https://github.com/CroqueMr/libreelec-CB1) - LibreELEC with High Quality Dolby Vision & HDR10+ support for Intel, AMD, Nvidia, and more
 * 【2026-11-19】[LiberNT / LiberNT](https://github.com/LiberNT/LiberNT) - A free Windows-compatible Operating System
 * 【2026-11-14】[Rhizomatica / mercury](https://github.com/Rhizomatica/mercury) - Mercury is a Digital Radio OFDM protocol for HF broadcast and peer-to-peer ARQ connections with compatible TCP interfaces
 * 【2026-11-04】[YizhengWw / HachimoDock](https://github.com/YizhengWw/HachimoDock) - A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.
@@ -9094,6 +9095,7 @@
 
 ## Html
 
+* 【2026-11-25】[paullarionov / claude-certified-architect](https://github.com/paullarionov/claude-certified-architect) - This repository contains study materials for the **Claude Certified Architect — Foundations** certification.
 * 【2026-11-14】[jephersonRD / PC-Free](https://github.com/jephersonRD/PC-Free) - ☁️ Free Windows 10 Cloud Desktop - Run Windows in your browser without installation | Self-hosted virtual PC
 * 【2026-11-14】[wdcpclover / ai4paper](https://github.com/wdcpclover/ai4paper) - PDF 全文翻译，保留排版双语对照 · 2.4 亿文献检索一键入库 · 文库知识库问答 · AI 精读论文、综述与思维导图 · 列表直显期刊分区 / 中科院 / JCR / 影响因子 · 免插件网页版 app.ai4paper.pro · 适配 Zotero 7–10
 * 【2026-11-13】[eternity4719 / HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
