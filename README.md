@@ -5860,6 +5860,7 @@
 
 ## Go
 
+* 【2026-11-26】[egoist / mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go
 * 【2026-11-19】[datazip-inc / olake-go](https://github.com/datazip-inc/olake-go) - OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion.
 * 【2026-11-17】[basketikun / chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件
 * 【2026-11-16】[gnacho / netpulse](https://github.com/gnacho/netpulse) - PWA dashboard for monitoring OpenWrt/GL.iNet home networks: fleet status, per-router health, devices, WireGuard peers, AdGuard Home stats and alerts in real time (SSE). Go backend + React 19 frontend, SQLite, multi-user, i18n ES/EN.
